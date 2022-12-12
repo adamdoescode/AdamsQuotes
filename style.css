@@ -5,6 +5,18 @@
     text-align: justify;
 }
 
+.preamble {
+    background-color: rgb(226, 132, 189);
+    border: solid rgb(226, 90, 135) 0.2em;
+    padding: 0.5em;
+    margin: 0.5em;
+}
+.p-title {
+    background-color: rgb(226, 132, 189);
+    border: solid rgb(226, 90, 135) 0.2em;
+    padding: 0.5em;
+    margin: 0.5em;
+}
 .quote .quote-text {
     background-color: rgb(226, 132, 189);
     border: solid rgb(226, 90, 135) 0.2em;

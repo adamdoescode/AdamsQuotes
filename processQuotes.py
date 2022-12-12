@@ -86,36 +86,33 @@ class ProcessQuotes:
             counter += 1
 
     def writeQuotes(self):
+        # get headerAndFooter scaffold
+        with open('Header.html', 'r') as headerAndFooterFile:
+            headerAndFooter = headerAndFooterFile.read()
+        #now we generate a string of the quotes with divs etc
+        quotesHtmlFormatted = ''
+        for quote in self.QuotesList:
+            quotesHtmlFormatted += f'<div class="quote" id="{quote.id}">\n'
+            if quote.note != '':
+                #iterate through each paragraph and pass as <p> tag
+                for note in quote.note.splitlines():
+                    quotesHtmlFormatted += f'  <p class="note">{note}</p>\n'
+            #do the same for the potentatially multiline quote
+            for quoteLine in quote.quote.splitlines():
+                quotesHtmlFormatted += f'  <p class="quote-text">{quote.quote}</p>\n'
+            #source
+            if quote.source != '':
+                quotesHtmlFormatted += f'  <p class="source"><span class="source-source">Source:</span> {quote.source}</p>\n'
+            #author
+            if quote.author != '':
+                quotesHtmlFormatted += f'  <p class="author"><span class="tag-author">Author:</span> {quote.author}</p>\n'
+            #link
+            if quote.link != '':
+                quotesHtmlFormatted += f'  <p class="link"><span class="tag-link">Link:</span> <a class="tag-link-href" href="{quote.link}">{quote.link}<a></p>\n'
+            quotesHtmlFormatted += '</div>\n'
+        headerAndFooter = headerAndFooter.replace('<!--quotes-->', quotesHtmlFormatted)
         with open('index.html', 'w') as quotesFile:
-            for quote in self.QuotesList:
-                quotesFile.write('''<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
-    <title>Adamdoescode Collected Quotes</title>
-</head>''')
-                quotesFile.write(f'<div class="quote" id="{quote.id}">\n')
-                if quote.note != '':
-                    #iterate through each paragraph and pass as <p> tag
-                    for note in quote.note.splitlines():
-                        quotesFile.write(f'  <p class="note">{note}</p>\n')
-                #do the same for the potentatially multiline quote
-                for quoteLine in quote.quote.splitlines():
-                    quotesFile.write(f'  <p class="quote-text">{quote.quote}</p>\n')
-                #source
-                if quote.source != '':
-                    quotesFile.write(f'  <p class="source"><span class="source-source">Source:</span> {quote.source}</p>\n')
-                #author
-                if quote.author != '':
-                    quotesFile.write(f'  <p class="author"><span class="tag-author">Author:</span> {quote.author}</p>\n')
-                #link
-                if quote.link != '':
-                    quotesFile.write(f'  <p class="link"><span class="tag-link">Link:</span> <a class="tag-link-href" href="{quote.link}">{quote.link}<a></p>\n')
-                quotesFile.write('</div>\n')
-                quotesFile.write('</body>\n</html>')
+            quotesFile.write(headerAndFooter)
 
 with open("sampleQuotesProcessed.md", "r") as quotesFile:
     quotes = quotesFile.read()
