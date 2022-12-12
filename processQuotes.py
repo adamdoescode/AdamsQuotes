@@ -21,9 +21,11 @@ class Quote:
     Does not include HTML features!
     '''
     def __init__(self):
-        self.quote: str = ''
+        self.quote: str = '' #always present
         self.source: str = ''
         self.note: str = ''
+        self.link: str = '' #sometimes present
+        self.author: str = '' #sometimes present
         '''
         Very simple random generator for now, 
         maybe replace with something more meaningful if that turns out to be useful
