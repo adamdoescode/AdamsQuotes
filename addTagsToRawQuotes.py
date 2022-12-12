@@ -8,8 +8,7 @@ I have a raw quotes file: sampleQuotesUnprocessed.md
 from typing import List,Dict
 #%%
 
-# with open("sampleQuotesUnprocessed.md", "r") as quotesFile:
-with open("testApple.md", "r") as quotesFile:
+with open("sampleQuotesUnprocessed.md", "r") as quotesFile:
     quotes = quotesFile.read()
 
 '''
@@ -32,12 +31,12 @@ knownAuthors: List[str] = [
     'Charles Darwin',
     'Alastair Reynolds',
     'Adam Rutherford',
-    'David Quammen'
-    'Sam Harris'
+    'David Quammen',
+    'Sam Harris',
 ]
 
 with open("sampleQuotesSemiProcessed.md", "w") as quotesFile:
-    for quote in quotes.split('*quote*')[1:]:
+    for quote in quotes.split('*quote*'):
         quote = quote.strip()
         lines = quote.splitlines()
         #remove empty rows
@@ -55,15 +54,18 @@ with open("sampleQuotesSemiProcessed.md", "w") as quotesFile:
             for author in knownAuthors:
                 if author.lower() in quote.lower():
                     authorText = author.title()
+            nextLineIsSource = False #set to true when we see 'excerpt from'
             for count,line in enumerate(lines):
                 line = line.strip()
                 if count == 0:
                     #assume quote main text
                     quoteText = line
-                elif "Excerpt from".lower() in line.lower():
+                if "Excerpt from".lower() in line.lower():
                     #iterate to get to source line
-                    count,line = next(enumerate(lines))
+                    nextLineIsSource = True
+                elif nextLineIsSource:
                     sourceText = line
+                    nextLineIsSource = False
                 if 'http' in line:
                     linkText = line
             if not quoteText == '':
@@ -72,14 +74,14 @@ with open("sampleQuotesSemiProcessed.md", "w") as quotesFile:
                 quotesFile.write(f'*author:*\t{authorText}\n',)
                 quotesFile.write(f'*link:*\t{linkText}\n',)
                 quotesFile.write(f'*note:*\t{noteText}\n\n',)
-                print(
-                    f'*quote:*\t{quoteText}\n',
-                    f'*source:*\t{sourceText}\n',
-                    f'*author:*\t{authorText}\n',
-                    f'*link:*\t{linkText}\n',
-                    f'*note:*\t{noteText}\n\n',
-                    sep=''
-                )
+                # print(
+                #     f'*quote:*\t{quoteText}\n',
+                #     f'*source:*\t{sourceText}\n',
+                #     f'*author:*\t{authorText}\n',
+                #     f'*link:*\t{linkText}\n',
+                #     f'*note:*\t{noteText}\n\n',
+                #     sep=''
+                # )
                     
         else:
             #it is not a quote from iOS
@@ -97,22 +99,23 @@ with open("sampleQuotesSemiProcessed.md", "w") as quotesFile:
                     noteText = line
                 elif 'http' in line:
                     linkText = line
-                #check for authors
                 for author in knownAuthors:
                     if author.lower() in line.lower():
                         authorText = author.title()
+                        sourceText.replace(authorText,'')
+                #check for authors
             if not quoteText == '':
                 quotesFile.write(f'*quote:*\t{quoteText}\n',)
                 quotesFile.write(f'*source:*\t{sourceText}\n',)
                 quotesFile.write(f'*author:*\t{authorText}\n',)
                 quotesFile.write(f'*link:*\t{linkText}\n',)
                 quotesFile.write(f'*note:*\t{noteText}\n\n',)
-                print(
-                    f'*quote:*\t{quoteText}\n',
-                    f'*source:*\t{sourceText}\n',
-                    f'*author:*\t{authorText}\n',
-                    f'*link:*\t{linkText}\n',
-                    f'*note:*\t{noteText}\n\n',
-                    sep=''
-                )
+                # print(
+                #     f'*quote:*\t{quoteText}\n',
+                #     f'*source:*\t{sourceText}\n',
+                #     f'*author:*\t{authorText}\n',
+                #     f'*link:*\t{linkText}\n',
+                #     f'*note:*\t{noteText}\n\n',
+                #     sep=''
+                # )
 # %%
