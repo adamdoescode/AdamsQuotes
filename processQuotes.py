@@ -43,14 +43,6 @@ class ProcessQuotes:
     '''
     def __init__(self, quotes: str):
         self.linesFromFile = quotes #raw quotes List with string items
-        #these will be used for div class names - i dont think this gets used?? TODO
-        self.tags = {
-            '*quote*': 'quote',
-            '*source:*': 'source',
-            '*note:*': 'note',
-            '*link:*': 'link',
-            '*author:*': 'author',
-        }
         #a list to hold our quotes in as a Quote class
         self.QuotesList: List[Quote] = []
 
@@ -113,8 +105,15 @@ class ProcessQuotes:
                 #do the same for the potentatially multiline quote
                 for quoteLine in quote.quote.splitlines():
                     quotesFile.write(f'  <p class="quote-text">{quote.quote}</p>\n')
+                #source
                 if quote.source != '':
                     quotesFile.write(f'  <p class="source"><span class="source-source">Source:</span> {quote.source}</p>\n')
+                #author
+                if quote.author != '':
+                    quotesFile.write(f'  <p class="author"><span class="tag-author">Author:</span> {quote.author}</p>\n')
+                #link
+                if quote.link != '':
+                    quotesFile.write(f'  <p class="link"><span class="tag-link">Link:</span> <a class="tag-link-href" href="{quote.link}">{quote.link}<a></p>\n')
                 quotesFile.write('</div>\n')
                 quotesFile.write('</body>\n</html>')
 

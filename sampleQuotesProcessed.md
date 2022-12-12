@@ -1,24 +1,24 @@
 *quote:*	I felt overwhelmed by stimuli from within: thoughts. Thoughts that raced around my head like Formula 1 cars, lap after lap. Usually something like this happens the day after a busy workday with lots of communication. I’m tired, I’d love to just go to sleep, but at the same time my head just keeps racing. There’s a schedule with a thousand things to be done and I’m way too hyper to go to sleep. But I’m tired. But I have things to do. But I’m tired.
 *source:*	But You Dont Look Autistic
-*author:*	
+*author:*	Bianca Toeps
 *link:*	
-*note:*	If autism is a sensory processing disorder, maybe adhd is just autism specifically for thoughts? This would fit my experience well!
+*note:*	If autism is a sensory processing disorder, maybe adhd is just autism specifically for thoughts?
 
 *quote:*	But why the obsessions? And why these specific subjects? Experts think predictability is a factor. Most autistic people’s hobbies can be categorised or are logical or predictable. Horses or birds belong to animal species and have certain characteristics. Computers do what you tell them to do. (And if they don’t, that’s usually because you – or the software developer – made a mistake. A computer can’t just go and decide to do something wrong because it doesn’t like you, no matter how many people say it can.) Stamps can go into an album, bicycle race results can be compared. And sorting, categorising and calculating simply makes most autistics very happy.
 *source:*	But You Dont Look Autistic
-*author:*	
+*author:*	Bianca Toeps
 *link:*	
 *note:*	
 
 *quote:*	That doesn’t just explain autistic people’s hypersensitivity, but also their apparent insensitivity and limitations in social communication. We close up in the overwhelming storm of stimuli, like a computer that freezes when you give it ten different tasks at the same time.
 *source:*	But You Dont Look Autistic
-*author:*	
+*author:*	Bianca Toeps
 *link:*	
 *note:*	
 
 *quote:*	A more inclusive, more comprehensive explanation can be found in the Intense World Theory, a theory that has been gaining more credence in the past few years. The founders of this theory, neuroscientists Henry and Kamila Markram, have an autistic son. Their findings resonate with what a lot of autistic people actually already know: the autistic brain is hyperactive. According to the Markrams, more connections are being made in the autistic brain and brain cells respond more emphatically to each other. There’s a stronger response to stimuli, thoughts run rampant quicker. In short: the world is extremely intense for autistics.
 *source:*	But You Dont Look Autistic
-*author:*	
+*author:*	Bianca Toeps
 *link:*	
 *note:*	
 

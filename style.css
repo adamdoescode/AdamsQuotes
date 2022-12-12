@@ -15,7 +15,7 @@
 .quote {
     background-color: rgb(221, 110, 147);
     border: solid rgb(202, 56, 105) 0.2em;
-    padding: 0.5em;
+    padding: 0.1em;
     margin: 0.5em;
 }
 
@@ -23,10 +23,9 @@
     background-color: bisque;
     border: solid rgb(225, 178, 120) 0.2em;
     font-style: italic;
-    padding: 1em;
-    margin: 1em;
+    padding: 0.1em;
+    margin: 0.5em;
 }
-
 .source-source {
     background-color: bisque;
     font-style: normal;
@@ -34,11 +33,45 @@
     padding: 0.1em;
     margin: 0.1em;
 }
+.author {
+    background-color: rgb(225, 247, 126);
+    border: solid rgb(199, 156, 104) 0.2em;
+    font-style: italic;
+    padding: 0.1em;
+    margin: 0.5em;
+}
 
+.tag-author {
+    background-color: rgb(225, 247, 126);
+    font-style: normal;
+    font-weight: 900;
+    padding: 0.1em;
+    margin: 0.1em;
+}
+.link {
+    background-color: rgb(126, 247, 176);
+    border: solid rgb(199, 156, 104) 0.2em;
+    font-style: italic;
+    padding: 0.1em;
+    margin: 0.5em;
+}
+.tag-link {
+    background-color: rgb(126, 247, 176);
+    font-style: normal;
+    font-weight: 900;
+    padding: 0.1em;
+    margin: 0.1em;
+}
+.tag-link-href {
+    background-color: rgb(126, 247, 176);
+    font-weight: 900;
+    padding: 0.1em;
+    margin: 0.1em;
+}
 .note {
     background-color: rgb(199, 103, 135);
     font-style: italic;
-    padding: 1em;
-    margin: 1em;
+    padding: 0.1em;
+    margin: 0.5em;
 }
 
