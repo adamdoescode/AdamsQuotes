@@ -59,9 +59,9 @@ class ProcessQuotes:
             for line in linesIterator:
                 line = line.strip()
                 if '*Source:*' in line:
-                    newQuote.source = line.replace('*Source:* ','')
+                    newQuote.source = line.replace('*Source:*','')
                 elif '*Note:*' in line:
-                    newQuote.note = line.replace('*Note:* ','')
+                    newQuote.note = line.replace('*Note:*','')
                 else:
                     newQuote.quote += line
             self.QuotesList.append(newQuote)
@@ -92,9 +92,11 @@ class ProcessQuotes:
     <title>Document</title>
 </head>''')
                 quotesFile.write(f'<div class="quote" id="{quote.id}">\n')
-                quotesFile.write(f'  <p class="note">{quote.note}</p>\n')
+                if quote.note != '':
+                    quotesFile.write(f'  <p class="note">{quote.note}</p>\n')
                 quotesFile.write(f'  <p class="quote-text">{quote.quote}</p>\n')
-                quotesFile.write(f'  <p class="source">{quote.source}</p>\n')
+                if quote.source != '':
+                    quotesFile.write(f'  <p class="source">{quote.source}</p>\n')
                 quotesFile.write('</div>\n')
                 quotesFile.write('</body>\n</html>')
 

@@ -1,25 +1,36 @@
 
 * {
     background-color: blueviolet;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: justify;
 }
 
 .quote .quote-text {
-    background-color: rgb(221, 110, 210);
+    background-color: rgb(226, 132, 189);
+    border: solid rgb(226, 90, 135) 0.2em;
+    padding: 1em;
+    margin: 1em;
 }
 
 .quote {
     background-color: rgb(221, 110, 147);
-    border: solid red 0.1em;
+    border: solid rgb(202, 56, 105) 0.2em;
     padding: 1em;
     margin: 1em;
 }
 
 .source {
     background-color: bisque;
+    border: solid rgb(225, 178, 120) 0.2em;
+    font-style: italic;
+    padding: 1em;
+    margin: 1em;
 }
 
 .note {
     background-color: rgb(199, 103, 135);
     font-style: italic;
+    padding: 1em;
+    margin: 1em;
 }
 

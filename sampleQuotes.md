@@ -1,7 +1,7 @@
 *Quote* I felt overwhelmed by stimuli from within: thoughts. Thoughts that raced around my head like Formula 1 cars, lap after lap. Usually something like this happens the day after a busy workday with lots of communication. I’m tired, I’d love to just go to sleep, but at the same time my head just keeps racing. There’s a schedule with a thousand things to be done and I’m way too hyper to go to sleep. But I’m tired. But I have things to do. But I’m tired.
 *Source:* But You Dont Look Autistic
 
-*Note:* If autism is a sensory processing disorder, maybe adhd is just autism specifically for thoughts? This would fit my experience well!
+*Note:* If autism is a sensory processing disorder, maybe adhd is just autism specifically for thoughts?
 
 
 *Quote* But why the obsessions? And why these specific subjects? Experts think predictability is a factor. Most autistic people’s hobbies can be categorised or are logical or predictable. Horses or birds belong to animal species and have certain characteristics. Computers do what you tell them to do. (And if they don’t, that’s usually because you – or the software developer – made a mistake. A computer can’t just go and decide to do something wrong because it doesn’t like you, no matter how many people say it can.) Stamps can go into an album, bicycle race results can be compared. And sorting, categorising and calculating simply makes most autistics very happy.
@@ -37,5 +37,5 @@
 
 
 
-*Quote* Mindful of the poet Horace’s advice that profound truths are often best disguised as jokes (“Ridentem dicere verum quid vetat?” or “What prevents a laughing man from telling the truth?”),
-*Sauce:* Neurotribes
+*Quote* Mindful of the poet Horace’s advice that profound truths are often best disguised as jokes (“Ridentem dicere verum quid vetat?” or “What prevents a laughing man from telling the truth?”)
+*Source:* Neurotribes
