@@ -8,15 +8,15 @@
 .quote .quote-text {
     background-color: rgb(226, 132, 189);
     border: solid rgb(226, 90, 135) 0.2em;
-    padding: 1em;
-    margin: 1em;
+    padding: 0.5em;
+    margin: 0.5em;
 }
 
 .quote {
     background-color: rgb(221, 110, 147);
     border: solid rgb(202, 56, 105) 0.2em;
-    padding: 1em;
-    margin: 1em;
+    padding: 0.5em;
+    margin: 0.5em;
 }
 
 .source {
@@ -25,6 +25,14 @@
     font-style: italic;
     padding: 1em;
     margin: 1em;
+}
+
+.source-source {
+    background-color: bisque;
+    font-style: normal;
+    font-weight: 900;
+    padding: 0.1em;
+    margin: 0.1em;
 }
 
 .note {

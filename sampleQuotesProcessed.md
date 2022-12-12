@@ -60,7 +60,7 @@
 
 *quote:*	I’m pretty sure I know what this syndrome is and how it’s related to the brochure’s seductive promise of total self-indulgence. What’s in play here, I think, is the subtle universal shame that accompanies self-indulgence, the need to explain to just about anybody why the self-indulgence isn’t in fact really self-indulgence. Like: I never go get a massage just to get a massage, I go because this old sports-related back injury’s killing me and more or less forcing me to get a massage; or like: I never just “want” a cigarette, I always “need” a cigarette.
 This is the occasion I first see the thirteen-year-old kid with the toupee. He’s slumped pre-adolescently   in his chair with his feet up on some kind of rattan hamper while what I’ll bet is his mom talks at him nonstop; he is staring   into whatever special distance people in areas of mass public stasis stare into.
-*source:*	A supposedly fun thing I’ll never do again David foster Wallace
+*source:*	A supposedly fun thing I’ll never do again
 *author:*	David Foster Wallace
 *link:*	
 *note:*	

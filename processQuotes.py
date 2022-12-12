@@ -103,16 +103,18 @@ class ProcessQuotes:
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
-    <title>Document</title>
+    <title>Adamdoescode Collected Quotes</title>
 </head>''')
                 quotesFile.write(f'<div class="quote" id="{quote.id}">\n')
                 if quote.note != '':
                     #iterate through each paragraph and pass as <p> tag
                     for note in quote.note.splitlines():
                         quotesFile.write(f'  <p class="note">{note}</p>\n')
-                quotesFile.write(f'  <p class="quote-text">{quote.quote}</p>\n')
+                #do the same for the potentatially multiline quote
+                for quoteLine in quote.quote.splitlines():
+                    quotesFile.write(f'  <p class="quote-text">{quote.quote}</p>\n')
                 if quote.source != '':
-                    quotesFile.write(f'  <p class="source">{quote.source}</p>\n')
+                    quotesFile.write(f'  <p class="source"><span class="source-source">Source:</span> {quote.source}</p>\n')
                 quotesFile.write('</div>\n')
                 quotesFile.write('</body>\n</html>')
 
