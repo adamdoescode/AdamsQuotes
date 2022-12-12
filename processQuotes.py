@@ -19,9 +19,6 @@ from typing import List, Dict
 
 #%%
 
-with open("sampleQuotesProcessed.md", "r") as quotesFile:
-    quotes = quotesFile.read()
-
 class Quote:
     '''
     A class to hold simple quote information
@@ -65,7 +62,7 @@ class ProcessQuotes:
             2. the source and note are within the same block of text
             (but on seperate lines somewhere)
         '''
-        for RawQuote in self.linesFromFile.split('*Quote*')[1:]:
+        for RawQuote in self.linesFromFile.split('*quote:*')[1:]:
             '''
             Order is always the same, so we can just split by tag:
             1. quote (possibly multiline)
@@ -76,11 +73,11 @@ class ProcessQuotes:
             '''
             # linesIterator = iter(RawQuote.splitlines())
             newQuote = Quote()
-            newQuote.quote = RawQuote.split('*Source:*')[0].strip()
-            newQuote.source = RawQuote.split('*Source:*')[1].split('*Author:*')[0].strip()
-            newQuote.author = RawQuote.split('*Author:*')[1].split('*Link:*')[0].strip()
-            newQuote.link = RawQuote.split('*Link:*')[1].split('*Note:*')[0].strip()
-            newQuote.note = RawQuote.split('*Note:*')[1].strip()
+            newQuote.quote = RawQuote.split('*source:*')[0].strip()
+            newQuote.source = RawQuote.split('*source:*')[1].split('*author:*')[0].strip()
+            newQuote.author = RawQuote.split('*author:*')[1].split('*link:*')[0].strip()
+            newQuote.link = RawQuote.split('*link:*')[1].split('*note:*')[0].strip()
+            newQuote.note = RawQuote.split('*note:*')[1].strip()
             self.QuotesList.append(newQuote)
         return self
 
@@ -110,16 +107,19 @@ class ProcessQuotes:
 </head>''')
                 quotesFile.write(f'<div class="quote" id="{quote.id}">\n')
                 if quote.note != '':
-                    quotesFile.write(f'  <p class="note">{quote.note}</p>\n')
+                    #iterate through each paragraph and pass as <p> tag
+                    for note in quote.note.splitlines():
+                        quotesFile.write(f'  <p class="note">{note}</p>\n')
                 quotesFile.write(f'  <p class="quote-text">{quote.quote}</p>\n')
                 if quote.source != '':
                     quotesFile.write(f'  <p class="source">{quote.source}</p>\n')
                 quotesFile.write('</div>\n')
                 quotesFile.write('</body>\n</html>')
 
+with open("sampleQuotesProcessed.md", "r") as quotesFile:
+    quotes = quotesFile.read()
+
 processedQuotes = ProcessQuotes(quotes).processQuotes()
 processedQuotes.printQuotes(2)
-#processedQuotes.writeQuotes()
-# %%
-processedQuotes.QuotesList
+processedQuotes.writeQuotes()
 # %%
