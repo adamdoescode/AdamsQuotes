@@ -1,0 +1,25 @@
+
+* {
+    background-color: blueviolet;
+}
+
+.quote .quote-text {
+    background-color: rgb(221, 110, 210);
+}
+
+.quote {
+    background-color: rgb(221, 110, 147);
+    border: solid red 0.1em;
+    padding: 1em;
+    margin: 1em;
+}
+
+.source {
+    background-color: bisque;
+}
+
+.note {
+    background-color: rgb(199, 103, 135);
+    font-style: italic;
+}
+
