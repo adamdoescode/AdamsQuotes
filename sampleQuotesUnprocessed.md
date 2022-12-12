@@ -49,10 +49,7 @@ There, he earned his final footnote in history by befriending a fellow POW who l
 Neurotribes steve silberman
 
 *quote*
-I’m pretty sure I know what this syndrome is and how it’s related to the brochure’s seductive promise of total self-indulgence.
-         What’s in play here, I think, is the subtle universal shame that accompanies self-indulgence, the need to explain to just
-         about anybody why the self-indulgence isn’t in fact really self-indulgence. Like: I never go get a massage just to get a massage,
-         I go because this old sports-related back injury’s killing me and more or less forcing me to get a massage; or like: I never just “want” a cigarette, I always “need” a cigarette.
+I’m pretty sure I know what this syndrome is and how it’s related to the brochure’s seductive promise of total self-indulgence. What’s in play here, I think, is the subtle universal shame that accompanies self-indulgence, the need to explain to just about anybody why the self-indulgence isn’t in fact really self-indulgence. Like: I never go get a massage just to get a massage, I go because this old sports-related back injury’s killing me and more or less forcing me to get a massage; or like: I never just “want” a cigarette, I always “need” a cigarette.
 
 
 *quote*
