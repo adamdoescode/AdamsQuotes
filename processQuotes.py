@@ -99,7 +99,7 @@ class ProcessQuotes:
                     quotesHtmlFormatted += f'  <p class="note">{note}</p>\n'
             #do the same for the potentatially multiline quote
             for quoteLine in quote.quote.splitlines():
-                quotesHtmlFormatted += f'  <p class="quote-text">{quote.quote}</p>\n'
+                quotesHtmlFormatted += f'  <p class="quote-text">{quoteLine}</p>\n'
             #source
             if quote.source != '':
                 quotesHtmlFormatted += f'  <p class="source"><span class="source-source">Source:</span> {quote.source}</p>\n'
