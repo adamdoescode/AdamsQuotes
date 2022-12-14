@@ -17,6 +17,7 @@ em.p-title {
 }
 .preamble {
     background-color: rgb(226, 132, 189);
+    border: solid rgb(58, 33, 48) 0.2em;
     padding: 0.5em;
     margin: 0.5em;
 }
@@ -25,6 +26,22 @@ em.p-title {
     padding: 0.1em;
     margin: 0.5em;
 }
+
+/* Styling for table of contents */
+
+.tableOfContents {
+    padding: 0.01em;
+    margin: 0.1em;
+    text-align: center;
+}
+.table-of-contents {
+    background-color: rgb(255, 101, 160);
+    border: solid rgb(226, 90, 135) 0.2em;
+    padding: 0.5em;
+    margin: 0.5em;
+}
+
+/* Styling for each quote */
 
 .quote-title {
     background-color: rgb(228, 77, 127);

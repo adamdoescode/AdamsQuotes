@@ -16,6 +16,7 @@ TODO Each quote will have a class of "quote" and a unique id.
 #random int
 from random import randint
 from typing import List, Dict
+import pandas as pd
 
 #%%
 
@@ -67,7 +68,34 @@ class ProcessQuotes:
         self.linesFromFile = quotes #raw quotes List with string items
         #a list to hold our quotes in as a Quote class
         self.QuotesList: List[Quote] = []
+        '''
+        For a table of contents we need a way to reference divs by title.
+        Here we create an empty dictionary of titles and ids from each Quote:
+        QuoteTitles = Dict[title:str, id:str] for each Quote
+        We use the method createQuoteTitles to fill this
+        We call this method in processQuotes
+        '''
         self.QuoteTitles: Dict[str, str] = {}
+
+    def createQuoteTitles(self, quote: Quote):
+        '''
+        A function to create a dictionary of titles and ids from each Quote
+        '''
+        self.QuoteTitles[quote.title] = quote.id
+        return self
+
+    def writeTableOfContents(self):
+        '''
+        Before we write the quotes to the html file we need to write the table of contents.
+        '''
+        #start the table of contents
+        tableOfContents = '<div class="table-of-contents">\n'
+        #itertate through the quotes in the QuoteTitles dict
+        for title, id in self.QuoteTitles.items():
+            #add a link to the table of contents
+            tableOfContents += f'  <p class="tableOfContents"><a href="#{id}">{title}</a></p>\n'
+        #make sure to include a closing div tag
+        return tableOfContents + '</div>\n'
 
     def processQuotes(self):
         '''
@@ -95,6 +123,8 @@ class ProcessQuotes:
             newQuote.note = RawQuote.split('*note:*')[1].strip()
             #generate a title for the quote
             newQuote.generateTitle()
+            #then we add the quote to the QuoteTitles dict for use in a table of contents
+            self.createQuoteTitles(newQuote)
             self.QuotesList.append(newQuote)
         return self
 
@@ -114,6 +144,7 @@ class ProcessQuotes:
         '''
         A function to write each quote to the html file string
         This function is called from the writeQuotes function
+        To generate a table of contents I need to include a class name unique to each header
         '''
         quoteInHTML = ''
         quoteInHTML += f'<div class="quote" id="{quote.id}">\n'
@@ -142,8 +173,10 @@ class ProcessQuotes:
         # get headerAndFooter scaffold
         with open('Header.html', 'r') as headerAndFooterFile:
             headerAndFooter = headerAndFooterFile.read()
-        #now we generate a string of the quotes with divs etc
         quotesHtmlFormatted = ''
+        #first write the table of contents
+        quotesHtmlFormatted += self.writeTableOfContents()
+        #now we generate a string of the quotes with divs etc
         for quote in self.QuotesList:
             quotesHtmlFormatted += self.writeQuoteAttributeToFile(quote)
         headerAndFooter = headerAndFooter.replace('<!--quotes-->', quotesHtmlFormatted)
@@ -156,4 +189,6 @@ with open("sampleQuotesProcessed.md", "r") as quotesFile:
 processedQuotes = ProcessQuotes(quotes).processQuotes()
 processedQuotes.printQuotes(2)
 processedQuotes.writeQuotes()
+# %%
+processedQuotes.QuoteTitles
 # %%
