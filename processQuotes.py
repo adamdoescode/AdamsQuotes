@@ -36,7 +36,7 @@ class Quote:
         maybe replace with something more meaningful if that turns out to be useful
         Maybe for alternating div colours.
         '''
-        self.id = randint(10000,99999)
+        self.idForQuote = randint(10000,99999)
         self.title: str = ''
     
     def generateTitle(self):
@@ -81,7 +81,7 @@ class ProcessQuotes:
         '''
         A function to create a dictionary of titles and ids from each Quote
         '''
-        self.QuoteTitles[quote.title] = quote.id
+        self.QuoteTitles[quote.title] = quote.idForQuote
         return self
 
     def writeTableOfContents(self):
@@ -91,13 +91,18 @@ class ProcessQuotes:
         '''
         #start the table of contents
         tableOfContents = '<div class="table-of-contents">\n'
-        tableOfContentsDictForPandas = {column:[] for column in ['title']}
+        tableOfContentsDictForPandas = {column:[] for column in ['title','source']}
         #itertate through the quotes in the QuoteTitles dict
-        for title, id in self.QuoteTitles.items():
+        for quote in self.QuotesList:
             #add the index, title, and blank columns to the table of contents dict
-            titleLink = f'  <p class="tableOfContents"><a class="tableOfContents" href="#{id}">{title}</a></p>'
+            titleLink = f'  <p class="tableOfContents"><a class="tableOfContents" href="#{quote.idForQuote}">{quote.title}</a></p>'
             tableOfContentsDictForPandas['title'].append(titleLink)
-        tableOfContents += pd.DataFrame(tableOfContentsDictForPandas).to_html(header=False, justify='left', border=0, render_links=True)
+            #truncate source length in title
+            if len(quote.source) > 30:
+                tableOfContentsDictForPandas['source'].append(quote.source[:30] + '...')
+            else:
+                tableOfContentsDictForPandas['source'].append(quote.source)
+        tableOfContents += pd.DataFrame(tableOfContentsDictForPandas).to_html(header=True, justify='left', border=0, render_links=True)
         #need to fix a unicode translation issue which I assume is a safety thing
         tableOfContents = tableOfContents.replace('&lt;','<').replace('&gt;','>')
         #make sure to include a closing div tag
@@ -142,7 +147,7 @@ class ProcessQuotes:
             print(f'quote: {quote.quote}')
             print(f'source: {quote.source}')
             print(f'note: {quote.note}')
-            print(f'id: {quote.id}')
+            print(f'id: {quote.idForQuote}')
             print()
             counter += 1
 
@@ -153,7 +158,7 @@ class ProcessQuotes:
         To generate a table of contents I need to include a class name unique to each header
         '''
         quoteInHTML = ''
-        quoteInHTML += f'<div class="quote" id="{quote.id}">\n'
+        quoteInHTML += f'<div class="quote" id="{quote.idForQuote}">\n'
         if quote.title != '':
             quoteInHTML += f'  <p class="quote-title">{quote.title}</p>\n'
         if quote.note != '':

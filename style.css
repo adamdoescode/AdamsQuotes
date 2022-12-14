@@ -38,7 +38,7 @@ em.p-title {
 .tableOfContents {
     padding: 0.01em;
     margin: 0.1em;
-    text-align: center;
+    text-align: left;
 }
 .table-of-contents {
     background-color: rgb(255, 101, 160);
