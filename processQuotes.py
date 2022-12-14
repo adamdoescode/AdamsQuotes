@@ -36,6 +36,28 @@ class Quote:
         Maybe for alternating div colours.
         '''
         self.id = randint(10000,99999)
+        self.title: str = ''
+    
+    def generateTitle(self):
+        '''
+        A function to generate a title for the quote.
+        Rules for making the title are:
+        1. if the quote is less than 8 words, use the whole quote.
+        2. if the quote is more than 8 words, use the first 8 words and add an ellipsis.
+        '''
+        #split the quote into a list of words
+        quoteWords = self.quote.split()
+        #if the quote is less than 8 words, use the whole quote
+        #deal with empty quotes too
+        if len(quoteWords) == 0:
+            self.title = ''
+        elif len(quoteWords) < 8:
+            self.title = self.quote
+        #if the quote is more than 8 words, use the first 8 words and add an ellipsis
+        elif len(quoteWords) > 8:
+            self.title = ' '.join(quoteWords[:8]) + '...'
+        return self
+        
 
 class ProcessQuotes:
     '''
@@ -70,6 +92,8 @@ class ProcessQuotes:
             newQuote.author = RawQuote.split('*author:*')[1].split('*link:*')[0].strip()
             newQuote.link = RawQuote.split('*link:*')[1].split('*note:*')[0].strip()
             newQuote.note = RawQuote.split('*note:*')[1].strip()
+            #generate a title for the quote
+            newQuote.generateTitle()
             self.QuotesList.append(newQuote)
         return self
 
@@ -92,6 +116,8 @@ class ProcessQuotes:
         '''
         quoteInHTML = ''
         quoteInHTML += f'<div class="quote" id="{quote.id}">\n'
+        if quote.title != '':
+            quoteInHTML += f'  <p class="quote-title">{quote.title}</p>\n'
         if quote.note != '':
             #iterate through each paragraph and pass as <p> tag
             for note in quote.note.splitlines():

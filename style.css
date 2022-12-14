@@ -4,13 +4,11 @@
     font-family: 'Courier New', Courier, monospace;
     text-align: justify;
 }
-
 h1 {
     text-align: center;
     color: bisque;
     font-size: 4em;
 }
-
 .preamble {
     background-color: rgb(226, 132, 189);
     padding: 0.5em;
@@ -21,6 +19,16 @@ h1 {
     padding: 0.1em;
     margin: 0.5em;
 }
+
+.quote-title {
+    background-color: rgb(228, 77, 127);
+    border: solid rgb(179, 28, 78) 0.2em;
+    padding: 0.1em;
+    margin: 0.5em;
+    font-size: 1.4em;
+    text-align: center;
+}
+
 .quote .quote-text {
     background-color: rgb(226, 132, 189);
     border: solid rgb(226, 90, 135) 0.2em;
