@@ -85,6 +85,32 @@ class ProcessQuotes:
             print()
             counter += 1
 
+    def writeQuoteAttributeToFile(self, quote: Quote):
+        '''
+        A function to write each quote to the html file string
+        This function is called from the writeQuotes function
+        '''
+        quoteInHTML = ''
+        quoteInHTML += f'<div class="quote" id="{quote.id}">\n'
+        if quote.note != '':
+            #iterate through each paragraph and pass as <p> tag
+            for note in quote.note.splitlines():
+                quoteInHTML += f'  <p class="note">{note}</p>\n'
+        #do the same for the potentatially multiline quote
+        for quoteLine in quote.quote.splitlines():
+            quoteInHTML += f'  <p class="quote-text">{quoteLine}</p>\n'
+        #source
+        if quote.source != '':
+            quoteInHTML += f'  <p class="source"><span class="source-source">Source:</span> {quote.source}</p>\n'
+        #author
+        if quote.author != '':
+            quoteInHTML += f'  <p class="author"><span class="tag-author">Author:</span> {quote.author}</p>\n'
+        #link
+        if quote.link != '':
+            quoteInHTML += f'  <p class="link"><span class="tag-link">Link:</span> <a class="tag-link-href" href="{quote.link}">{quote.link}<a></p>\n'
+        quoteInHTML += '</div>\n'
+        return quoteInHTML
+    
     def writeQuotes(self):
         # get headerAndFooter scaffold
         with open('Header.html', 'r') as headerAndFooterFile:
@@ -92,24 +118,7 @@ class ProcessQuotes:
         #now we generate a string of the quotes with divs etc
         quotesHtmlFormatted = ''
         for quote in self.QuotesList:
-            quotesHtmlFormatted += f'<div class="quote" id="{quote.id}">\n'
-            if quote.note != '':
-                #iterate through each paragraph and pass as <p> tag
-                for note in quote.note.splitlines():
-                    quotesHtmlFormatted += f'  <p class="note">{note}</p>\n'
-            #do the same for the potentatially multiline quote
-            for quoteLine in quote.quote.splitlines():
-                quotesHtmlFormatted += f'  <p class="quote-text">{quoteLine}</p>\n'
-            #source
-            if quote.source != '':
-                quotesHtmlFormatted += f'  <p class="source"><span class="source-source">Source:</span> {quote.source}</p>\n'
-            #author
-            if quote.author != '':
-                quotesHtmlFormatted += f'  <p class="author"><span class="tag-author">Author:</span> {quote.author}</p>\n'
-            #link
-            if quote.link != '':
-                quotesHtmlFormatted += f'  <p class="link"><span class="tag-link">Link:</span> <a class="tag-link-href" href="{quote.link}">{quote.link}<a></p>\n'
-            quotesHtmlFormatted += '</div>\n'
+            quotesHtmlFormatted += self.writeQuoteAttributeToFile(quote)
         headerAndFooter = headerAndFooter.replace('<!--quotes-->', quotesHtmlFormatted)
         with open('index.html', 'w') as quotesFile:
             quotesFile.write(headerAndFooter)
