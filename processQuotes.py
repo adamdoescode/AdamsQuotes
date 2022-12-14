@@ -67,6 +67,7 @@ class ProcessQuotes:
         self.linesFromFile = quotes #raw quotes List with string items
         #a list to hold our quotes in as a Quote class
         self.QuotesList: List[Quote] = []
+        self.QuoteTitles: Dict[str, str] = {}
 
     def processQuotes(self):
         '''

@@ -1,13 +1,19 @@
 
 * {
-    background-color: blueviolet;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Victor Mono', 'Courier New', Courier, monospace;
     text-align: justify;
+}
+body {
+    background-color: blueviolet;
 }
 h1 {
     text-align: center;
     color: bisque;
     font-size: 4em;
+}
+em.p-title {
+    padding: 0em;
+    margin: 0em;
 }
 .preamble {
     background-color: rgb(226, 132, 189);

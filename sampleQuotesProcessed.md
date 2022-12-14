@@ -206,13 +206,13 @@ As counterpoint:
 *link:*	
 *note:*	
 
-*quote:*	there was the utterly unlikely story of four male magpies from different clutches that I had hand-raised together and who stayed together for life, after 10 years accepting one female into their group who then produced two offspring per year every year that were then raised jointly by all four males while the territory was extremely well defended against many incursions and birds of prey.
+*quote:*	There was the utterly unlikely story of four male magpies from different clutches that I had hand-raised together and who stayed together for life, after 10 years accepting one female into their group who then produced two offspring per year every year that were then raised jointly by all four males while the territory was extremely well defended against many incursions and birds of prey.
 *source:*	Australian Magpie
 *author:*	
 *link:*	
 *note:*	
 
-*quote:*	a pair that was in the middle of raising two fledged youngsters, the male suddenly disappeared and the female was struggling on her own to provide food for the two fledged offspring. Very unexpectedly, the male that had disappeared flew in a week or so later with two females in tow and immediately began to assume authority over the territory and these two new females. The female parent was initially confined to a small area in the territory with her two fledged offspring but such a semi-truce only lasted for a few days. After continual harassment the female and her two offspring were forced to leave altogether, facing a very uncertain future, almost certainly condemning the fledglings to death.
+*quote:*	A pair that was in the middle of raising two fledged youngsters, the male suddenly disappeared and the female was struggling on her own to provide food for the two fledged offspring. Very unexpectedly, the male that had disappeared flew in a week or so later with two females in tow and immediately began to assume authority over the territory and these two new females. The female parent was initially confined to a small area in the territory with her two fledged offspring but such a semi-truce only lasted for a few days. After continual harassment the female and her two offspring were forced to leave altogether, facing a very uncertain future, almost certainly condemning the fledglings to death.
 *source:*	Australian Magpie
 *author:*	
 *link:*	
