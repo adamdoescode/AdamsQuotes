@@ -1,3 +1,11 @@
+
+*quote:*	Yeah Matt Damon saying "fortune favours the bold" certainly didn't favour SBF's victims.
+*source:*	reddit r/perth
+*author:*	Captain-Peacock
+*link:*	https://www.reddit.com/r/perth/comments/zlcc45/gamblers_anonymous_warns_of_really_really_sad/j053yug/
+*note:*	
+
+
 *quote:*	I felt overwhelmed by stimuli from within: thoughts. Thoughts that raced around my head like Formula 1 cars, lap after lap. Usually something like this happens the day after a busy workday with lots of communication. I’m tired, I’d love to just go to sleep, but at the same time my head just keeps racing. There’s a schedule with a thousand things to be done and I’m way too hyper to go to sleep. But I’m tired. But I have things to do. But I’m tired.
 *source:*	But You Dont Look Autistic
 *author:*	Bianca Toeps
