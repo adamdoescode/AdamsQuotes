@@ -87,13 +87,19 @@ class ProcessQuotes:
     def writeTableOfContents(self):
         '''
         Before we write the quotes to the html file we need to write the table of contents.
+        We can leverage pandas to print a table to html for this.
         '''
         #start the table of contents
         tableOfContents = '<div class="table-of-contents">\n'
+        tableOfContentsDictForPandas = {column:[] for column in ['title']}
         #itertate through the quotes in the QuoteTitles dict
         for title, id in self.QuoteTitles.items():
-            #add a link to the table of contents
-            tableOfContents += f'  <p class="tableOfContents"><a href="#{id}">{title}</a></p>\n'
+            #add the index, title, and blank columns to the table of contents dict
+            titleLink = f'  <p class="tableOfContents"><a class="tableOfContents" href="#{id}">{title}</a></p>'
+            tableOfContentsDictForPandas['title'].append(titleLink)
+        tableOfContents += pd.DataFrame(tableOfContentsDictForPandas).to_html(header=False, justify='left', border=0, render_links=True)
+        #need to fix a unicode translation issue which I assume is a safety thing
+        tableOfContents = tableOfContents.replace('&lt;','<').replace('&gt;','>')
         #make sure to include a closing div tag
         return tableOfContents + '</div>\n'
 

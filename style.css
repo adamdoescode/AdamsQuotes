@@ -29,6 +29,12 @@ em.p-title {
 
 /* Styling for table of contents */
 
+.dataframe {
+    border: solid red 0.1em;
+    width: 100%;
+    border-style: dotted;
+    border-color: red;
+}
 .tableOfContents {
     padding: 0.01em;
     margin: 0.1em;
