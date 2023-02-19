@@ -5,6 +5,8 @@
 }
 body {
     background-color: blueviolet;
+    display: flex;
+    flex-direction: column;
 }
 h1 {
     text-align: center;
@@ -26,8 +28,17 @@ em.p-title {
     padding: 0.1em;
     margin: 0.5em;
 }
-
 /* Styling for table of contents */
+.buttonDiv {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.hideTableOfContents {
+    align-items: center;
+    background-color: rgb(226, 132, 189);
+    border: solid black 1px;
+}
 
 .dataframe {
     border: solid red 0.1em;
