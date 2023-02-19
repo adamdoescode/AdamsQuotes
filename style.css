@@ -40,6 +40,17 @@ em.p-title {
     border: solid black 1px;
 }
 
+@media (max-width: 600px) {
+    .column1 {
+        display: none;
+    }
+}
+@media (min-width: 600px) {
+    .column1 {
+        display: inline;
+    }
+}
+
 .dataframe {
     border: solid red 0.1em;
     width: 100%;

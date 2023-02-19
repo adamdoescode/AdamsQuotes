@@ -85,6 +85,32 @@ class ProcessQuotes:
         self.QuoteTitles[quote.title] = quote.idForQuote
         return self
 
+    def addClassToTD(self, table: str):
+        '''
+        A function to add a class to the td elements in a table.
+        This is so we can hide the source column on mobile.
+        '''
+        #first we fix up the th elements
+        table = table.replace('<th>title</th>', '<th class="column0">title</th>')
+        table = table.replace('<th>source</th>', '<th class="column1">source</th>')
+        #split the table by line
+        lines = table.splitlines()
+        columnCounter = 0
+        # iterate through the lines
+        for index, line in enumerate(lines):
+            if '<tr>' in line:
+                columnCounter = 0
+            # look for td elements
+            if '<td>' in line:
+                #add class with column number
+                lines[index] = line.replace('<td>', f'<td class="column{columnCounter}">')
+                columnCounter += 1
+            #debug print
+            if columnCounter > 2:
+                print(f'columnCounter > 2, currently at {columnCounter}')
+        # rejoin the lines into a table
+        return '\n'.join(lines)
+
     def writeTableOfContents(self):
         '''
         Before we write the quotes to the html file we need to write the table of contents.
@@ -97,7 +123,7 @@ class ProcessQuotes:
         # itertate through the quotes in the QuoteTitles dict
         for quote in self.QuotesList:
             # add the index, title, and blank columns to the table of contents dict
-            titleLink = f'  <p class="tableOfContents"><a class="tableOfContents" href="#{quote.idForQuote}">{quote.title}</a></p>'
+            titleLink = f'  <a class="tableOfContents" href="#{quote.idForQuote}">{quote.title}</a>'
             tableOfContentsDictForPandas['title'].append(titleLink)
             # truncate source length in title
             if len(quote.source) > 30:
@@ -108,9 +134,11 @@ class ProcessQuotes:
         tableOfContents += pd.DataFrame(tableOfContentsDictForPandas).to_html(
             header=True, justify='left', border=0, render_links=True, index=False
         )
-        # need to fix a unicode translation issue which I assume is a safety thing
+        # need to fix a unicode translation issue
         tableOfContents = tableOfContents.replace(
             '&lt;', '<').replace('&gt;', '>')
+        # add classes to the table of contents
+        tableOfContents = self.addClassToTD(tableOfContents)
         # make sure to include a closing div tag
         return tableOfContents + '</div>\n'
 
