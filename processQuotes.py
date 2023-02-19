@@ -193,9 +193,11 @@ class ProcessQuotes:
         # get headerAndFooter scaffold
         with open('Header.html', 'r') as headerAndFooterFile:
             headerAndFooter = headerAndFooterFile.read()
+        #write table of contents by replacing <!-- table of contents -->
+        headerAndFooter = headerAndFooter.replace(
+            '<!-- table of contents -->', self.writeTableOfContents())
+        #write quotes by replacing <!--quotes-->
         quotesHtmlFormatted = ''
-        # first write the table of contents
-        quotesHtmlFormatted += self.writeTableOfContents()
         # now we generate a string of the quotes with divs etc
         for quote in self.QuotesList:
             quotesHtmlFormatted += self.writeQuoteAttributeToFile(quote)
