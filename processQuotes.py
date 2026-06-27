@@ -214,7 +214,10 @@ class ProcessQuotes:
         quoteInHTML += "</div>\n"
         return quoteInHTML
 
-    def writeQuotes(self):
+    def writeQuotes(self) -> None:
+        """
+        Writes quotes out to index.html
+        """
         # get headerAndFooter scaffold
         with open("Header.html", "r") as headerAndFooterFile:
             headerAndFooter = headerAndFooterFile.read()
@@ -233,6 +236,7 @@ class ProcessQuotes:
 
 
 if __name__ == "__main__":
+    # running this writes the results to index.html
     with open("sampleQuotesProcessed.md", "r") as quotesFile:
         quotes = quotesFile.read()
     processedQuotes = ProcessQuotes(quotes).processQuotes()
