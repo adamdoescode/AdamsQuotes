@@ -21,9 +21,30 @@ uv run python processQuotes.py \
 
 All dependencies are defined in `pyproject.toml` and are installed automatically by `uv sync`.
 
-## Processing quotes
+## How to process quotes
 
+Quotes initially come in unprocessed, e.g in sampleQuotesUnprocessed.md. We process these using `addTagsToRawQuotes.py` which outputs to `sampleQuotesSemiProcessed.md` by default and then these can be manually curated before "publishing" by running them as input to `processQuotes.py` which outputs to `index.html` by default.
 
+## Viewing index.html
+
+The user exposed part of the website is `index.html` which is styled by `style.css` and has some table of contents handling in `index.js`.
+
+## CLI reference for addTagsToRawQuotes.py
+
+```
+usage: addTagsToRawQuotes.py [-h] [-o OUTPUT] [input]
+
+Add tags to raw quotes to produce a semi-processed markdown file.
+
+positional arguments:
+  input                Path to the raw quotes markdown file (default:
+                       sampleQuotesUnprocessed.md).
+
+options:
+  -h, --help           show this help message and exit
+  -o, --output OUTPUT  Path for the output semi-processed markdown file
+                       (default: sampleQuotesSemiProcessed.md).
+```
 
 ## CLI reference for processQuotes.py
 
