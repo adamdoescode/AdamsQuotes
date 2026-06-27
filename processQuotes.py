@@ -14,7 +14,9 @@ TODO Each quote will have a class of "quote" and a unique id.
 
 # random int
 from random import randint
+from pathlib import Path
 from typing import List, Dict
+import argparse
 import pandas as pd
 
 
@@ -214,9 +216,12 @@ class ProcessQuotes:
         quoteInHTML += "</div>\n"
         return quoteInHTML
 
-    def writeQuotes(self) -> None:
+    def writeQuotes(self, output_path: str | Path = "index.html") -> None:
         """
-        Writes quotes out to index.html
+        Writes quotes out to the specified HTML file.
+
+        Args:
+            output_path: Path for the output HTML file (default: 'index.html').
         """
         # get headerAndFooter scaffold
         with open("Header.html", "r") as headerAndFooterFile:
@@ -231,13 +236,47 @@ class ProcessQuotes:
         for quote in self.QuotesList:
             quotesHtmlFormatted += self.writeQuoteAttributeToFile(quote)
         headerAndFooter = headerAndFooter.replace("<!--quotes-->", quotesHtmlFormatted)
-        with open("index.html", "w") as quotesFile:
+        with open(output_path, "w") as quotesFile:
             quotesFile.write(headerAndFooter)
 
 
-if __name__ == "__main__":
-    # running this writes the results to index.html
-    with open("sampleQuotesProcessed.md", "r") as quotesFile:
+def main(quotes_input: str | Path, output_html: str | Path = "index.html") -> None:
+    """
+    Process a markdown file of quotes and write the result to an HTML file.
+
+    Args:
+        quotes_input: Path to the input markdown file (must have .md suffix).
+        output_html: Path for the output HTML file (defaults to 'index.html').
+    """
+    quotes_path = Path(quotes_input)
+    output_path = Path(output_html)
+
+    with quotes_path.open("r") as quotesFile:
         quotes = quotesFile.read()
     processedQuotes = ProcessQuotes(quotes).processQuotes()
-    processedQuotes.writeQuotes()
+    processedQuotes.writeQuotes(output_path)
+
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser(
+        description="Process a markdown quotes file into an HTML file."
+    )
+    parser.add_argument(
+        "--quotes_input",
+        type=str,
+        default="sampleQuotesProcessed.md",
+        help="Path to the input markdown file (must have .md suffix).",
+    )
+    parser.add_argument(
+        "--output-html",
+        type=str,
+        default="index.html",
+        help="Path for the output HTML file (default: index.html).",
+    )
+    args = parser.parse_args()
+
+    input_path = Path(args.quotes_input)
+    if input_path.suffix != ".md":
+        parser.error(f"Input file must have a .md suffix, got '{input_path.suffix}'")
+
+    main(quotes_input=input_path, output_html=args.output_html)
