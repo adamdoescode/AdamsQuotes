@@ -21,7 +21,11 @@ uv run python processQuotes.py \
 
 All dependencies are defined in `pyproject.toml` and are installed automatically by `uv sync`.
 
-## CLI reference
+## Processing quotes
+
+
+
+## CLI reference for processQuotes.py
 
 ```
 usage: processQuotes.py [-h] [--quotes_input QUOTES_INPUT] [--output-html OUTPUT_HTML]
@@ -58,6 +62,8 @@ which can also span multiple lines.
 ```
 
 An example of a fully processed input file is `sampleQuotesProcessed.md`.
+
+
 
 ## Output
 
