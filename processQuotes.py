@@ -14,7 +14,9 @@ TODO Each quote will have a class of "quote" and a unique id.
 
 # random int
 from random import randint
+from pathlib import Path
 from typing import List, Dict
+import argparse
 import pandas as pd
 
 
@@ -51,7 +53,8 @@ class Quote:
         # deal with empty quotes too
         if len(quoteWords) == 0:
             self.title = ""
-        elif len(quoteWords) < 8:
+        # if the quote is 8 or fewer words, use the whole quote
+        elif len(quoteWords) <= 8:
             self.title = self.quote
         # if the quote is more than 8 words, use the first 8 words and add an ellipsis
         elif len(quoteWords) > 8:
@@ -214,30 +217,86 @@ class ProcessQuotes:
         quoteInHTML += "</div>\n"
         return quoteInHTML
 
-    def writeQuotes(self) -> None:
+    def generateHtml(self, header_template: str) -> str:
         """
-        Writes quotes out to index.html
+        Generates the full HTML page as a string by injecting the table of contents
+        and quotes into the header template.
+
+        Args:
+            header_template: The HTML header/footer scaffold string.
+
+        Returns:
+            The complete HTML page as a string.
+        """
+        result = header_template.replace(
+            "<!-- table of contents -->", self.writeTableOfContents()
+        )
+        quotes_html = ""
+        for quote in self.QuotesList:
+            quotes_html += self.writeQuoteAttributeToFile(quote)
+        result = result.replace("<!--quotes-->", quotes_html)
+        return result
+
+    def writeQuotes(self, output_path: str | Path = "index.html") -> None:
+        """
+        Writes quotes out to the specified HTML file.
+
+        Args:
+            output_path: Path for the output HTML file (default: 'index.html').
         """
         # get headerAndFooter scaffold
         with open("Header.html", "r") as headerAndFooterFile:
             headerAndFooter = headerAndFooterFile.read()
-        # write table of contents by replacing <!-- table of contents -->
-        headerAndFooter = headerAndFooter.replace(
-            "<!-- table of contents -->", self.writeTableOfContents()
-        )
-        # write quotes by replacing <!--quotes-->
-        quotesHtmlFormatted = ""
-        # now we generate a string of the quotes with divs etc
-        for quote in self.QuotesList:
-            quotesHtmlFormatted += self.writeQuoteAttributeToFile(quote)
-        headerAndFooter = headerAndFooter.replace("<!--quotes-->", quotesHtmlFormatted)
-        with open("index.html", "w") as quotesFile:
-            quotesFile.write(headerAndFooter)
+        html = self.generateHtml(header_template=headerAndFooter)
+        with open(output_path, "w") as quotesFile:
+            quotesFile.write(html)
+
+
+def main(quotes_input: str | Path, output_html: str | Path = "index.html") -> None:
+    """
+    Process a markdown file of quotes and write the result to an HTML file.
+
+    Args:
+        quotes_input: Path to the input markdown file (must have .md suffix).
+        output_html: Path for the output HTML file (defaults to 'index.html').
+    """
+    quotes_path = Path(quotes_input)
+    output_path = Path(output_html)
+
+    with quotes_path.open("r") as quotesFile:
+        quotes = quotesFile.read()
+    processedQuotes = ProcessQuotes(quotes).processQuotes()
+    processedQuotes.writeQuotes(output_path)
+
+
+def _build_parser() -> argparse.ArgumentParser:
+    """Build and return the CLI argument parser."""
+    parser = argparse.ArgumentParser(
+        description="Process a markdown quotes file into an HTML file."
+    )
+    parser.add_argument(
+        "--quotes_input",
+        type=str,
+        default="sampleQuotesProcessed.md",
+        help="Path to the input markdown file (must have .md suffix).",
+    )
+    parser.add_argument(
+        "--output-html",
+        type=str,
+        default="index.html",
+        help="Path for the output HTML file (default: index.html).",
+    )
+    return parser
+
+
+parser = _build_parser()
 
 
 if __name__ == "__main__":
-    # running this writes the results to index.html
-    with open("sampleQuotesProcessed.md", "r") as quotesFile:
-        quotes = quotesFile.read()
-    processedQuotes = ProcessQuotes(quotes).processQuotes()
-    processedQuotes.writeQuotes()
+    args = parser.parse_args()
+
+    input_path = Path(args.quotes_input)
+    if input_path.suffix != ".md":
+        parser.error(f"Input file must have a .md suffix, got '{input_path.suffix}'")
+
+    main(quotes_input=input_path, output_html=args.output_html)
