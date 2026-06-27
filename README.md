@@ -1,10 +1,105 @@
 # Adam's collection of random quotes from whatever I've been reading
 
-A simple project to pretty print my quotes collection to a HTML page.
+A simple project to pretty print my quotes collection to an HTML page.
 
-This is just practice for my python and html skills.
+## Quick start
 
-# How this works
+This project uses [uv](https://docs.astral.sh/uv/) for Python package and project management.
+
+```sh
+# Install dependencies (pandas)
+uv sync
+
+# Process the sample quotes into index.html
+uv run python processQuotes.py
+
+# Or specify custom input/output files
+uv run python processQuotes.py \
+    --quotes_input sampleQuotesProcessed.md \
+    --output-html my-quotes.html
+```
+
+All dependencies are defined in `pyproject.toml` and are installed automatically by `uv sync`.
+
+## How to process quotes
+
+Quotes initially come in unprocessed, e.g in sampleQuotesUnprocessed.md. We process these using `addTagsToRawQuotes.py` which outputs to `sampleQuotesSemiProcessed.md` by default and then these can be manually curated before "publishing" by running them as input to `processQuotes.py` which outputs to `index.html` by default.
+
+## Viewing index.html
+
+The user exposed part of the website is `index.html` which is styled by `style.css` and has some table of contents handling in `index.js`.
+
+## CLI reference for addTagsToRawQuotes.py
+
+```
+usage: addTagsToRawQuotes.py [-h] [-o OUTPUT] [input]
+
+Add tags to raw quotes to produce a semi-processed markdown file.
+
+positional arguments:
+  input                Path to the raw quotes markdown file (default:
+                       sampleQuotesUnprocessed.md).
+
+options:
+  -h, --help           show this help message and exit
+  -o, --output OUTPUT  Path for the output semi-processed markdown file
+                       (default: sampleQuotesSemiProcessed.md).
+```
+
+## CLI reference for processQuotes.py
+
+```
+usage: processQuotes.py [-h] [--quotes_input QUOTES_INPUT] [--output-html OUTPUT_HTML]
+
+Process a markdown quotes file into an HTML file.
+
+options:
+  -h, --help            show this help message and exit
+  --quotes_input QUOTES_INPUT
+                        Path to the input markdown file (must have .md suffix).
+                        (default: sampleQuotesProcessed.md)
+  --output-html OUTPUT_HTML
+                        Path for the output HTML file.
+                        (default: index.html)
+```
+
+## Input format
+
+The input markdown file must use the following tags to structure each quote:
+
+```
+*quote:*
+The content of the quote, which can span
+multiple lines if needed.
+*source:*
+The book, article, or other source where the quote came from
+*author:*
+The person who said or wrote the quote
+*link:*
+A URL for further reference (optional)
+*note:*
+A personal note or commentary about the quote,
+which can also span multiple lines.
+```
+
+An example of a fully processed input file is `sampleQuotesProcessed.md`.
+
+
+
+## Output
+
+The script generates a standalone HTML page with:
+- A **table of contents** listing every quote title linked to its section on the page.
+- Each quote rendered in its own `<div class="quote">` with unique `id`, plus classes for the quote text, source, author, link, and any notes.
+- The HTML scaffold is provided by `Header.html` — edit that file to customise the page header/footer and styling.
+
+## Workflow
+
+1. **Add tags** — `addTagsToRawQuotes.py` semi-automatically inserts `*quote:*`, `*source:*`, etc. into raw quote text.
+2. **Curate** — Manually fix any tagging errors in the output.
+3. **Process** — Run `processQuotes.py` to convert the curated markdown into a styled HTML page.
+
+# Original notes (December 2022)
 
 First, I took my quotes as raw text and did some minor formatting to add spaces etc.
 

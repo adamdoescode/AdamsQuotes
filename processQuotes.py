@@ -1,18 +1,19 @@
+"""Process tagged markdown quotes into a styled HTML page.
+
+This script is the second stage of a three-stage pipeline:
+  1. `addTagsToRawQuotes.py`  — semi-automatically inserts ``*quote:*``,
+     ``*source:*``, and other tags into raw quote text.
+  2. *Manual curation*       — fixing broken tags in the output from stage 1.
+  3. This script             — parses the curated markdown and generates a
+     complete HTML page with a table of contents, styled quote divs, and
+     unique element IDs.
+
+Typical usage::
+
+    uv run python processQuotes.py
+    uv run python processQuotes.py --quotes_input my_quotes.md --output-html out.html
 """
-A script to process quotes from a markdown text file into a html file.
 
-First a script is used to pre-process the markdown file to have tags for easier parsing.
-Then I manually curated the pre-processed markdown to fix up broken quotes.
-
-This script then processes that file into a readable format,
-generates a html file with divs for each quote. Includes classes and IDs for css styles.
-
-TODO Each quote will be contained within a div with a class of "quote".
-TODO div elements will be boxes (TODO flexbox) with a border and padding.
-TODO Each quote will have a class of "quote" and a unique id.
-"""
-
-# random int
 from random import randint
 from pathlib import Path
 from typing import List, Dict
@@ -21,9 +22,16 @@ import pandas as pd
 
 
 class Quote:
-    """
-    A class to hold simple quote information
-    Does not include HTML features!
+    """A single quote with its metadata, ready for HTML rendering.
+
+    Attributes:
+        quote: The quote text itself (always present).
+        source: The book, article, or person the quote is attributed to.
+        note: A personal note or commentary about the quote.
+        link: A URL for further reference (optional).
+        author: The person who said or wrote the quote (optional).
+        id_for_quote: A random 5-digit numeric ID used as the HTML anchor.
+        title: A shortened version of the quote, used in the table of contents.
     """
 
     def __init__(self):
@@ -32,20 +40,20 @@ class Quote:
         self.note: str = ""
         self.link: str = ""  # sometimes present
         self.author: str = ""  # sometimes present
-        """
-        Very simple random generator for now, 
-        maybe replace with something more meaningful if that turns out to be useful
-        Maybe for alternating div colours.
-        """
+        # Random 5-digit ID used as the HTML anchor for this quote.
         self.idForQuote = randint(10000, 99999)
         self.title: str = ""
 
-    def generateTitle(self):
-        """
-        A function to generate a title for the quote.
-        Rules for making the title are:
-        1. if the quote is less than 8 words, use the whole quote.
-        2. if the quote is more than 8 words, use the first 8 words and add an ellipsis.
+    def generateTitle(self) -> "Quote":
+        """Derive a short title from the quote text for the table of contents.
+
+        Rules:
+            - If the quote is empty, the title is empty.
+            - If the quote has 8 words or fewer, the title is the full quote.
+            - Otherwise the title is the first 8 words followed by an ellipsis.
+
+        Returns:
+            Self, with ``self.title`` populated.
         """
         # split the quote into a list of words
         quoteWords = self.quote.split()
@@ -63,34 +71,48 @@ class Quote:
 
 
 class ProcessQuotes:
-    """
-    Processes quotes from markdown file into html divs.
+    """Parse tagged markdown quotes and produce an HTML page of styled quotes.
+
+    The input is expected to be a markdown string with tags such as
+    ``*quote:*``, ``*source:*``, ``*author:*``, ``*link:*``, and ``*note:*``
+    delimiting each quote's fields.
+
+    Attributes:
+        lines_from_file: The raw markdown text.
+        quotes_list: List of parsed ``Quote`` objects.
+        quote_titles: Mapping from quote title to its numeric HTML anchor ID.
     """
 
     def __init__(self, quotes: str):
-        self.linesFromFile = quotes  # raw quotes List with string items
-        # a list to hold our quotes in as a Quote class
+        self.linesFromFile: str = quotes
         self.QuotesList: List[Quote] = []
-        """
-        For a table of contents we need a way to reference divs by title.
-        Here we create an empty dictionary of titles and ids from each Quote:
-        QuoteTitles = Dict[title:str, id:str] for each Quote
-        We use the method createQuoteTitles to fill this
-        We call this method in processQuotes
-        """
-        self.QuoteTitles: Dict[str, str] = {}
+        self.QuoteTitles: Dict[str, int] = {}
 
-    def createQuoteTitles(self, quote: Quote):
-        """
-        A function to create a dictionary of titles and ids from each Quote
+    def createQuoteTitles(self, quote: Quote) -> "ProcessQuotes":
+        """Register a quote's title and ID in the table-of-contents mapping.
+
+        Args:
+            quote: A ``Quote`` whose ``title`` and ``idForQuote`` are stored.
+
+        Returns:
+            Self, for method chaining.
         """
         self.QuoteTitles[quote.title] = quote.idForQuote
         return self
 
-    def addClassToTD(self, table: str):
-        """
-        A function to add a class to the td elements in a table.
-        This is so we can hide the source column on mobile.
+    def addClassToTD(self, table: str) -> str:
+        """Add numbered CSS classes to ``<td>`` elements in an HTML table.
+
+        This allows the *source* column to be hidden via CSS on narrow
+        viewports (responsive design).
+
+        Args:
+            table: An HTML table string.
+
+        Returns:
+            The same table with ``class="column0"``, ``class="column1"``, etc.
+            added to each ``<td>``, and matching ``class`` attributes on
+            ``<th>`` elements.
         """
         # first we fix up the th elements
         table = table.replace("<th>title</th>", '<th class="column0">title</th>')
@@ -115,10 +137,15 @@ class ProcessQuotes:
         # rejoin the lines into a table
         return "\n".join(lines)
 
-    def writeTableOfContents(self):
-        """
-        Before we write the quotes to the html file we need to write the table of contents.
-        We can leverage pandas to print a table to html for this.
+    def writeTableOfContents(self) -> str:
+        """Build an HTML table-of-contents linking to each quote's anchor.
+
+        Uses pandas to render a two-column table (*title* and *source*)
+        where each title is a hyperlink to the corresponding quote's
+        ``<div>`` on the same page.
+
+        Returns:
+            An HTML ``<div class="table-of-contents">`` block.
         """
         # start the table of contents
         tableOfContents = '<div class="table-of-contents">\n'
@@ -143,24 +170,28 @@ class ProcessQuotes:
         # make sure to include a closing div tag
         return tableOfContents + "</div>\n"
 
-    def processQuotes(self):
-        """
-        Coordinating function that cycles through quote lines
-        First we split by the quote tag so that:
-            1. the quote is the first line
-            2. the source and note are within the same block of text
-            (but on seperate lines somewhere)
-        """
-        for RawQuote in self.linesFromFile.split("*quote:*")[1:]:
-            """
-            Order is always the same, so we can just split by tag:
-            1. quote (possibly multiline)
+    def processQuotes(self) -> "ProcessQuotes":
+        """Parse the raw markdown into ``Quote`` objects.
+
+        Splits the input text on ``*quote:*`` tags and extracts each field
+        in order:
+
+            1. quote (possibly multi-line)
             2. source
             3. author
             4. link
-            5. note (possibly multiline)
-            """
-            # linesIterator = iter(RawQuote.splitlines())
+            5. note (possibly multi-line)
+
+        Returns:
+            Self with ``quotes_list`` and ``quote_titles`` populated.
+        """
+        for RawQuote in self.linesFromFile.split("*quote:*")[1:]:
+            # Order is always the same, so we can just split by tag:
+            # 1. quote (possibly multiline)
+            # 2. source
+            # 3. author
+            # 4. link
+            # 5. note (possibly multiline)
             newQuote = Quote()
             newQuote.quote = RawQuote.split("*source:*")[0].strip()
             newQuote.source = (
@@ -176,10 +207,15 @@ class ProcessQuotes:
             self.QuotesList.append(newQuote)
         return self
 
-    def printQuotes(self, numQuotes: int = None):
+    def printQuotes(self, numQuotes: int | None = None) -> None:
+        """Print a summary of parsed quotes to stdout (useful for debugging).
+
+        Args:
+            numQuotes: Maximum number of quotes to print, or ``None`` for all.
+        """
         counter = 0
         for quote in self.QuotesList:
-            if counter == numQuotes:
+            if numQuotes is not None and counter >= numQuotes:
                 break
             print(f"quote: {quote.quote}")
             print(f"source: {quote.source}")
@@ -188,11 +224,18 @@ class ProcessQuotes:
             print()
             counter += 1
 
-    def writeQuoteAttributeToFile(self, quote: Quote):
-        """
-        A function to write each quote to the html file string
-        This function is called from the writeQuotes function
-        To generate a table of contents I need to include a class name unique to each header
+    def writeQuoteAttributeToFile(self, quote: Quote) -> str:
+        """Render a single ``Quote`` as an HTML ``<div>`` block.
+
+        The output includes optional sections for title, note, quote text,
+        source, author, and link — each wrapped in a ``<p>`` with a
+        descriptive CSS class.
+
+        Args:
+            quote: The ``Quote`` object to render.
+
+        Returns:
+            An HTML string for one quote ``<div>``.
         """
         quoteInHTML = ""
         quoteInHTML += f'<div class="quote" id="{quote.idForQuote}">\n'
@@ -238,11 +281,13 @@ class ProcessQuotes:
         return result
 
     def writeQuotes(self, output_path: str | Path = "index.html") -> None:
-        """
-        Writes quotes out to the specified HTML file.
+        """Render all parsed quotes to an HTML file.
+
+        Loads the header/footer scaffold from ``Header.html``, generates the
+        full page via :meth:`generateHtml`, and writes the result to disk.
 
         Args:
-            output_path: Path for the output HTML file (default: 'index.html').
+            output_path: Destination path for the output HTML file.
         """
         # get headerAndFooter scaffold
         with open("Header.html", "r") as headerAndFooterFile:
