@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Virtual environment
+.venv/
+venv/
+
+# Testing
+.pytest_cache/
+
+# Editor
+.vscode/
+
+# OS
+.DS_Store
+
+# Dependencies
+uv.lock
