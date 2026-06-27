@@ -53,7 +53,8 @@ class Quote:
         # deal with empty quotes too
         if len(quoteWords) == 0:
             self.title = ""
-        elif len(quoteWords) < 8:
+        # if the quote is 8 or fewer words, use the whole quote
+        elif len(quoteWords) <= 8:
             self.title = self.quote
         # if the quote is more than 8 words, use the first 8 words and add an ellipsis
         elif len(quoteWords) > 8:
@@ -216,6 +217,26 @@ class ProcessQuotes:
         quoteInHTML += "</div>\n"
         return quoteInHTML
 
+    def generateHtml(self, header_template: str) -> str:
+        """
+        Generates the full HTML page as a string by injecting the table of contents
+        and quotes into the header template.
+
+        Args:
+            header_template: The HTML header/footer scaffold string.
+
+        Returns:
+            The complete HTML page as a string.
+        """
+        result = header_template.replace(
+            "<!-- table of contents -->", self.writeTableOfContents()
+        )
+        quotes_html = ""
+        for quote in self.QuotesList:
+            quotes_html += self.writeQuoteAttributeToFile(quote)
+        result = result.replace("<!--quotes-->", quotes_html)
+        return result
+
     def writeQuotes(self, output_path: str | Path = "index.html") -> None:
         """
         Writes quotes out to the specified HTML file.
@@ -226,18 +247,9 @@ class ProcessQuotes:
         # get headerAndFooter scaffold
         with open("Header.html", "r") as headerAndFooterFile:
             headerAndFooter = headerAndFooterFile.read()
-        # write table of contents by replacing <!-- table of contents -->
-        headerAndFooter = headerAndFooter.replace(
-            "<!-- table of contents -->", self.writeTableOfContents()
-        )
-        # write quotes by replacing <!--quotes-->
-        quotesHtmlFormatted = ""
-        # now we generate a string of the quotes with divs etc
-        for quote in self.QuotesList:
-            quotesHtmlFormatted += self.writeQuoteAttributeToFile(quote)
-        headerAndFooter = headerAndFooter.replace("<!--quotes-->", quotesHtmlFormatted)
+        html = self.generateHtml(header_template=headerAndFooter)
         with open(output_path, "w") as quotesFile:
-            quotesFile.write(headerAndFooter)
+            quotesFile.write(html)
 
 
 def main(quotes_input: str | Path, output_html: str | Path = "index.html") -> None:
@@ -257,7 +269,8 @@ def main(quotes_input: str | Path, output_html: str | Path = "index.html") -> No
     processedQuotes.writeQuotes(output_path)
 
 
-if __name__ == "__main__":
+def _build_parser() -> argparse.ArgumentParser:
+    """Build and return the CLI argument parser."""
     parser = argparse.ArgumentParser(
         description="Process a markdown quotes file into an HTML file."
     )
@@ -273,6 +286,13 @@ if __name__ == "__main__":
         default="index.html",
         help="Path for the output HTML file (default: index.html).",
     )
+    return parser
+
+
+parser = _build_parser()
+
+
+if __name__ == "__main__":
     args = parser.parse_args()
 
     input_path = Path(args.quotes_input)
