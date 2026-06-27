@@ -322,7 +322,7 @@ def _build_parser() -> argparse.ArgumentParser:
     parser.add_argument(
         "--quotes_input",
         type=str,
-        default="sampleQuotesProcessed.md",
+        default="markdown_quotes/sampleQuotesProcessed.md",
         help="Path to the input markdown file (must have .md suffix).",
     )
     parser.add_argument(

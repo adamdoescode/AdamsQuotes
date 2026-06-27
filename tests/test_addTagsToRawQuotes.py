@@ -17,7 +17,7 @@ from addTagsToRawQuotes import (
 )
 
 
-# ── Sample raw input (representative of sampleQuotesUnprocessed.md) ──────────
+# ── Sample raw input (representative of markdown_quotes/sampleQuotesUnprocessed.md) ──────────
 
 RAW_INPUT = """*quote*
 I felt overwhelmed by stimuli from within: thoughts.
@@ -228,12 +228,12 @@ class TestBuildParser:
     def test_default_input(self):
         parser = _build_parser()
         ns = parser.parse_args([])
-        assert ns.input == "sampleQuotesUnprocessed.md"
+        assert ns.input == "markdown_quotes/sampleQuotesUnprocessed.md"
 
     def test_default_output(self):
         parser = _build_parser()
         ns = parser.parse_args([])
-        assert ns.output == "sampleQuotesSemiProcessed.md"
+        assert ns.output == "markdown_quotes/sampleQuotesSemiProcessed.md"
 
     def test_custom_input(self):
         parser = _build_parser()
@@ -251,17 +251,21 @@ class TestBuildParser:
 
 
 class TestEndToEnd:
-    """Read the real sampleQuotesUnprocessed.md and compare with existing
-    sampleQuotesSemiProcessed.md to verify the pipeline is stable."""
+    """Read the real markdown_quotes/sampleQuotesUnprocessed.md and compare with existing
+    markdown_quotes/sampleQuotesSemiProcessed.md to verify the pipeline is stable."""
 
-    SAMPLE_UNPROCESSED = Path(__file__).parents[1] / "sampleQuotesUnprocessed.md"
-    SAMPLE_SEMI_PROCESSED = Path(__file__).parents[1] / "sampleQuotesSemiProcessed.md"
+    SAMPLE_UNPROCESSED = (
+        Path(__file__).parents[1] / "markdown_quotes" / "sampleQuotesUnprocessed.md"
+    )
+    SAMPLE_SEMI_PROCESSED = (
+        Path(__file__).parents[1] / "markdown_quotes" / "sampleQuotesSemiProcessed.md"
+    )
 
     def test_process_raw_file_matches_semi_processed_snapshot(self):
         if not self.SAMPLE_UNPROCESSED.exists():
-            pytest.skip("sampleQuotesUnprocessed.md not found")
+            pytest.skip("markdown_quotes/sampleQuotesUnprocessed.md not found")
         if not self.SAMPLE_SEMI_PROCESSED.exists():
-            pytest.skip("sampleQuotesSemiProcessed.md not found")
+            pytest.skip("markdown_quotes/sampleQuotesSemiProcessed.md not found")
 
         raw_text = self.SAMPLE_UNPROCESSED.read_text(encoding="utf-8")
         actual = process_raw_quotes(raw_text)

@@ -15,7 +15,7 @@ uv run python processQuotes.py
 
 # Or specify custom input/output files
 uv run python processQuotes.py \
-    --quotes_input sampleQuotesProcessed.md \
+    --quotes_input markdown_quotes/sampleQuotesProcessed.md \
     --output-html my-quotes.html
 ```
 
@@ -23,7 +23,7 @@ All dependencies are defined in `pyproject.toml` and are installed automatically
 
 ## How to process quotes
 
-Quotes initially come in unprocessed, e.g in sampleQuotesUnprocessed.md. We process these using `addTagsToRawQuotes.py` which outputs to `sampleQuotesSemiProcessed.md` by default and then these can be manually curated before "publishing" by running them as input to `processQuotes.py` which outputs to `index.html` by default.
+Quotes initially come in unprocessed, e.g in `markdown_quotes/sampleQuotesUnprocessed.md`. We process these using `addTagsToRawQuotes.py` which outputs to `markdown_quotes/sampleQuotesSemiProcessed.md` by default and then these can be manually curated before "publishing" by running them as input to `processQuotes.py` which outputs to `index.html` by default.
 
 ## Viewing index.html
 
@@ -38,12 +38,12 @@ Add tags to raw quotes to produce a semi-processed markdown file.
 
 positional arguments:
   input                Path to the raw quotes markdown file (default:
-                       sampleQuotesUnprocessed.md).
+                       markdown_quotes/sampleQuotesUnprocessed.md).
 
 options:
   -h, --help           show this help message and exit
   -o, --output OUTPUT  Path for the output semi-processed markdown file
-                       (default: sampleQuotesSemiProcessed.md).
+                       (default: markdown_quotes/sampleQuotesSemiProcessed.md).
 ```
 
 ## CLI reference for processQuotes.py
@@ -57,7 +57,7 @@ options:
   -h, --help            show this help message and exit
   --quotes_input QUOTES_INPUT
                         Path to the input markdown file (must have .md suffix).
-                        (default: sampleQuotesProcessed.md)
+                        (default: markdown_quotes/sampleQuotesProcessed.md)
   --output-html OUTPUT_HTML
                         Path for the output HTML file.
                         (default: index.html)
@@ -82,7 +82,7 @@ A personal note or commentary about the quote,
 which can also span multiple lines.
 ```
 
-An example of a fully processed input file is `sampleQuotesProcessed.md`.
+An example of a fully processed input file is `markdown_quotes/sampleQuotesProcessed.md`.
 
 
 
@@ -107,6 +107,6 @@ I then attempted to add some identifying tags (e.g "quote" and "source) to each 
 
 To do this I wrote the script `addTagsToRawQuotes.py` which takes the raw quotes text and adds the tags.
 
-In the spirit of efficiency over writing more code, I then manually curated the output so that it actually made sense. The result of this was `sampleQuotesProcessed.md` which is included in this repo.
+In the spirit of efficiency over writing more code, I then manually curated the output so that it actually made sense. The result of this was `markdown_quotes/sampleQuotesProcessed.md` which is included in this repo.
 
 I then fed this curated markdown text into the `processQuotes.py` file which generates a bunch of html divs with the quotes nicely formatted. It then injects this into the `Header.html` file which contains a simple header for the final page (`index.html`).

@@ -1,7 +1,7 @@
 """
 Add tags to raw quotes to produce a semi-processed markdown file.
 
-Takes a raw quotes file (sampleQuotesUnprocessed.md by default) and structures
+Takes a raw quotes file (markdown_quotes/sampleQuotesUnprocessed.md by default) and structures
 each quote block into tagged fields: *quote:*, *source:*, *author:*, *link:*, *note:*.
 
 The output is meant to be manually curated before feeding into processQuotes.py.
@@ -162,8 +162,8 @@ def process_raw_quotes(raw_quote_text: str) -> str:
 
 
 def quote_handler(
-    unprocessed_quotes: str | Path = "sampleQuotesUnprocessed.md",
-    output_file: str | Path = "sampleQuotesSemiProcessed.md",
+    unprocessed_quotes: str | Path = "markdown_quotes/sampleQuotesUnprocessed.md",
+    output_file: str | Path = "markdown_quotes/sampleQuotesSemiProcessed.md",
 ) -> None:
     """
     Read raw quotes from a file, process them, and write the tagged output.
@@ -191,15 +191,15 @@ def _build_parser() -> argparse.ArgumentParser:
         "input",
         nargs="?",
         type=str,
-        default="sampleQuotesUnprocessed.md",
-        help="Path to the raw quotes markdown file (default: sampleQuotesUnprocessed.md).",
+        default="markdown_quotes/sampleQuotesUnprocessed.md",
+        help="Path to the raw quotes markdown file (default: markdown_quotes/sampleQuotesUnprocessed.md).",
     )
     parser.add_argument(
         "-o",
         "--output",
         type=str,
-        default="sampleQuotesSemiProcessed.md",
-        help="Path for the output semi-processed markdown file (default: sampleQuotesSemiProcessed.md).",
+        default="markdown_quotes/sampleQuotesSemiProcessed.md",
+        help="Path for the output semi-processed markdown file (default: markdown_quotes/sampleQuotesSemiProcessed.md).",
     )
     return parser
 
