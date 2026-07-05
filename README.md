@@ -99,7 +99,15 @@ The script generates a standalone HTML page with:
 2. **Curate** — Manually fix any tagging errors in the output.
 3. **Process** — Run `processQuotes.py` to convert the curated markdown into a styled HTML page.
 
-# Original notes (December 2022)
+## Adding in quotes from a different source
+
+`markdown_quotes/new_quotes_unprocessed.md` includes quotes taken from an old [quotes.md](./Sync/menagerie/ideas/quotes.md) file buried in my "ideas" folder (i.e. old notes folder).
+
+Yesterday, I got Deepseek v4 flash to build `processNewQuotes.py` which does a reasonable job converting the contents of `new_quotes_unprocessed.md` to a usable format in `new_quotes_tagged.md`. The script now also:
+- [x] remaps spurious escape characters (e.g. `\'`, `\"`, `\--`, `\-`) back to their intended characters.
+- [x] unwraps hard-wrapped paragraphs so each paragraph appears on a single line, preserving blank-line breaks between paragraphs.
+
+## Original notes (December 2022)
 
 First, I took my quotes as raw text and did some minor formatting to add spaces etc.
 

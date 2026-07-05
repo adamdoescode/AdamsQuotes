@@ -370,6 +370,37 @@ def split_blocks(text: str) -> List[Dict[str, str]]:
     return blocks
 
 
+def _clean_text(text: str) -> str:
+    """Remove spurious backslash escapes and unwrap hard-wrapped paragraphs."""
+    escape_remap = {
+        r"\'": "'",
+        r'\"': '"',
+        r"\--": "--",
+        r"\-": "-",
+        r"\#": "#",
+        r"\. . .": "...",
+        r"\.\.\.": "...",
+    }
+    for old, new in escape_remap.items():
+        text = text.replace(old, new)
+    return text
+
+
+def _unwrap_paragraphs(text: str) -> str:
+    """Join hard-wrapped lines into single paragraphs, preserving blank-line breaks."""
+    paragraphs = text.split("\n\n")
+    unwrapped: List[str] = []
+    for paragraph in paragraphs:
+        lines = [line.strip() for line in paragraph.splitlines()]
+        # Preserve lines that are structural (e.g. list items, blockquotes) or already short
+        if any(line.startswith((">", "-", "*", "#")) for line in lines if line):
+            unwrapped.append(paragraph)
+        else:
+            joined = " ".join(line for line in lines if line)
+            unwrapped.append(joined)
+    return "\n\n".join(unwrapped)
+
+
 def _build_quote_output(
     quote_text: str,
     source: str = "",
@@ -377,6 +408,11 @@ def _build_quote_output(
     link: str = "",
     note: str = "",
 ) -> str:
+    quote_text = _unwrap_paragraphs(_clean_text(quote_text))
+    source = _clean_text(source)
+    author = _clean_text(author)
+    link = _clean_text(link)
+    note = _clean_text(note)
     return (
         f"*quote:*\t{quote_text}\n"
         f"*source:*\t{source}\n"
