@@ -170,9 +170,7 @@ The World needs a server-based four-player Scrabble game without all the adverti
 *note:*	
 
 *quote:*	Vladimir \[Lenin\] kept his sanity during incarceration by sticking to a strict routine. Soon he was having messages smuggled out of the house of detention on Shpalernaya Street, using milk as invisible ink kept in inkwells made of bread that could be hastily consumed if the wardens came too close (on one day alone he had to eat six ink pots).
-
-Conspirator: Lenin in Exile
-*source:*	
+*source:*	Conspirator: Lenin in Exile
 *author:*	
 *link:*	
 *note:*	
@@ -229,10 +227,8 @@ This is a good example. It gives two things that are actually related, and there
 *link:*	
 *note:*	
 
-*quote:*	Samson's music program was an example. But to hackers, the art of the program did not reside in the pleasing sounds emanating from the on-line speaker. The code of the program held a beauty of its own. (Samson, though, was particularly obscure in refusing to add comments to his source code explaining what he was doing at a given time. One well-distributed program Samson wrote went on for hundreds of assembly language instructions, with only one comment beside an instruction which contained the number 1750. The comment was RIPJSB, and people racked their brains about its meaning until someone figured out that 1750 was the year Bach died, and that Samson had written an abbreviation for Rest In Peace Johann Sebastian Bach.
-
-Hackers: heroes of the computer revolution
-*source:*	
+*quote:*	Samson's music program was an example. But to hackers, the art of the program did not reside in the pleasing sounds emanating from the on-line speaker. The code of the program held a beauty of its own. (Samson, though, was particularly obscure in refusing to add comments to his source code explaining what he was doing at a given time. One well-distributed program Samson wrote went on for hundreds of assembly language instructions, with only one comment beside an instruction which contained the number 1750. The comment was RIPJSB, and people racked their brains about its meaning until someone figured out that 1750 was the year Bach died, and that Samson had written an abbreviation for Rest
+*source:*	the year Bach died, and that Samson had written an abbreviation for Rest In Peace Johann Sebastian Bach. Hackers: heroes of the computer revolution
 *author:*	
 *link:*	
 *note:*	
@@ -272,17 +268,13 @@ motohagiography
 *note:*	
 
 *quote:*	Threats to shave female heads en masse, and the exemplary shavings undertaken in the Female Factories, a cross between a female shelter, workshop and prison, caused riots amongst the women, as in Parramatta in 1827, 1831 and 1833, in Hobart in 1827 and 1842, at Moreton Bay in 1836 and Launceston in 1841. Foster Fyans, the Moreton Bay commandant between 1835 and 1837, wrote: 'the loss of hair . . . was held in the greatest dread and abhorrence, often causing disorder and riot, cursing, tumbling and flinging before the constabulary could carry out the sentence, when any other punishment could be carried out without a murmur'.
-
-Australians vol 1
-*source:*	
+*source:*	Australians vol 1
 *author:*	
 *link:*	
 *note:*	
 
 *quote:*	One incident that occurred while Arrow was forecasting the weather illustrates both uncertainty and the human unwillingness to accept it. Some officers had been assigned the task of forecasting the weather a month ahead, but Arrow and his statisticians found that their long-range forecasts were no better than numbers pulled out of a hat. The forecasters agreed and asked their superiors to be relieved of this duty. The reply was: "The Commanding General is well aware that the forecasts are no good. However, he needs them for planning purposes."
-
-Against the Gods
-*source:*	
+*source:*	Against the Gods
 *author:*	
 *link:*	
 *note:*	
@@ -300,17 +292,13 @@ Against the Gods
 *note:*	
 
 *quote:*	On one of these, Mount Sarmiento, a distant mountain 6800 feet high, presented a very noble spectacle. I was frequently surprised in the scenery of Tierra del Fuego, at the little apparent elevation of mountains really lofty. I suspect it is owing to a cause which would not at first be imagined, namely, that the whole mass, from the summit to the water's edge, is generally in full view. I remember having seen a mountain, first from the Beagle Channel, where the whole sweep from the summit to the base was full in view, and then from Ponsonby Sound across several successive ridges; and it was curious to observe in the latter case, as each fresh ridge afforded fresh means of judging of the distance, how the mountain rose in height.
-
-Voyage of the Beagle
-*source:*	
+*source:*	Voyage of the Beagle
 *author:*	
 *link:*	
 *note:*	
 
 *quote:*	Today, statisticians refer to the practice that stirred Cournot's misgivings as "data mining." They say that if you torture the data long enough, the numbers will prove anything you want. Cournot felt that Quetelet was on dangerous ground in drawing such broad generalizations from a limited number of observations. A second set of observations drawn from a group of the same size could just as likely turn up a different pattern from the first.
-
-Against the Gods
-*source:*	
+*source:*	Against the Gods
 *author:*	
 *link:*	
 *note:*	
@@ -330,33 +318,25 @@ Furthermore, realizing that I shouldn't suffer for management decisions. If you'
 *note:*	
 
 *quote:*	Galton's curiosity was insatiable. When a traveling circus came through Cambridge while he was studying there, he walked straight into the lion's cage, only the fourth person to have done so in that circus's history. He kept himself from falling asleep during his favorite studying hours of 10 p.m. to 2 a.m. with his "Gumption-Reviver machine," a gadget he had invented that kept his head wet with cold water. Later in life, he invented a device for reading under water; he nearly drowned on one occasion when he submerged himself in his bath while enjoying a good book.
-
-Against the Gods
-*source:*	
+*source:*	Against the Gods
 *author:*	
 *link:*	
 *note:*	
 
 *quote:*	As it happens, 33 of the 840 monthly observations, or about 4% of the total, were more than two standard deviations away from the monthly average of +0.6%---that is, worse than −11% and greater than 12.2%. Although 33 superswings are fewer than we might expect in a perfectly random series of observations, 21 of them were on the downside; chance would put that number at 16 or 17. A market with a built-in long-term upward trend should have even fewer disasters than 16 or 17 over 816 months. At the extremes, the market is not a random walk. At the extremes, the market is more likely to destroy fortunes than to create them. The stock market is a risky place.
-
-Against the Gods
-*source:*	
+*source:*	Against the Gods
 *author:*	
 *link:*	
 *note:*	
 
 *quote:*	Archaeologists discovered ancient Egyptian papyri in the nineteenth century which list some of the materials used in medicine at the time and these have been documented by Campbell.2 These include the Kahun papyrus (ca. 1850 bc) found by Flinders Petrie at the workmen's village in the Fayoum, the Edwin Smith papyrus (ca. 1550 bc), the Ebers papyrus dating to Amenhotep I (1546--1526 bc) found in the Valley of the Kings, and the Chester Beatty papyrus found at Deir in Medina dating to Ramses III (1150 bc). The materia medica mentioned included plants, drugs from animals, minerals and dressings. Drugs used in ancient Egypt included linseed (Linum usitassimum), coriander (Coriandrum sativum), anise (Anethum graveolens), Styrax benzoin, Citrullus colocynthus, garlic (Allium sativum) and honey. All of these are included in the current 2014 British Pharmacopoeia and are in current use in conventional or alternative medicine in Britain.
-
-History of the BP
-*source:*	
+*source:*	History of the BP
 *author:*	
 *link:*	
 *note:*	
 
 *quote:*	A Scots artist, Thomas Watling had been amongst the more than four hundred convicts who sailed in the Pitt, and had escaped in Cape Town. He had been arrested by the Dutch after the Pitt's departure, put in gaol, and then taken aboard Royal Admiral by Captain Bond. Well-educated, and having worked for a time in Glasgow as a coach and chaise painter, he would become the most important artist of early New South Wales.
-
-Australians vol 1
-*source:*	
+*source:*	Australians vol 1
 *author:*	
 *link:*	
 *note:*	
@@ -368,33 +348,25 @@ Australians vol 1
 *note:*	
 
 *quote:*	Colby was diverted by food---the officers tried to eat him down. 'It was hoped that he would feed so voraciously as to render him incapable of executing his intention.' He was given a huge meal of 'a light horseman' (a New South Wales fish) and five pounds (2.3 kilos) of beef and bread. But then 'he set out on his journey with such lightness and gaiety as plainly showed him to be a stranger to the horrors of indigestion'.
-
-Australians vol 1
-*source:*	
+*source:*	Australians vol 1
 *author:*	
 *link:*	
 *note:*	
 
 *quote:*	Bennelong had a temperament which participated passionately in all these inter-clan squabbles, but the difference between himself and Pemulwuy ran deeper than mere scars. Pemulwuy stayed remote from the Europeans. He would never investigate the whites or try to work them out. He wished to exorcise them and restore the normal world. While Bennelong was conciliatory in however puzzling a way, Pemulwuy was a hard-liner. Both would suffer unutterably for the positions they took.
-
-Australians vol 1
-*source:*	
+*source:*	Australians vol 1
 *author:*	
 *link:*	
 *note:*	
 
 *quote:*	In London, the criminal classes availed themselves of many public houses in the City and Spitalfields that were centres for prostitution, the fencing of stolen goods and the division of plunder. 'Hell houses' or 'flash houses' were common names for such places. They were to be found in a number of notorious locations: Chick Lane, Field Lane, Black Boy Alley. Over their half-doors fleeing criminals were free to toss whatever they had plundered and were on the run with. A convict turned novelist would describe a criminal approaching a 'fence' in a house in St Mary Axe: 'There was a box in the wall, so contrived that upon placing any article you wished to dispose of within it and ringing a bell, the box disappeared. After a lapse of a few minutes it again turned, and in lieu of the article left was a sum of money . . . the thieves of London much approved of the principle, as they were never seen by anyone while disposing of their ill-gotten booty.'
-
-Australians vol 1
-*source:*	
+*source:*	Australians vol 1
 *author:*	
 *link:*	
 *note:*	
 
 *quote:*	Due to the vulgar urgings of domestic politics, Prime Minister Pitt and Lord Sydney were sending to the ends of the earth a reputable but not glittering fellow, in command of many vessels stocked not with naturalists and artists but with Britain's sinners.
-
-Australians vol 1
-*source:*	
+*source:*	Australians vol 1
 *author:*	
 *link:*	
 *note:*	
@@ -625,8 +597,8 @@ The key test for an acronym is to ask whether it helps or hurts communication. A
 *note:*	
 
 *quote:*	As so often in Pompeii, the tiniest traces preserved beneath our feet, often unnoticed by most of those who now wander through the town, can be pressed into service to reveal all kinds of intriguing and unexpected aspects of Roman life
-*source:*	
-*author:*	Pompeii
+*source:*	aspects of Roman life Pompeii
+*author:*	
 *link:*	
 *note:*	
 
@@ -885,8 +857,8 @@ This Visconti was widely believed to be mad and was certainly unbalanced. He had
 *link:*	http://www.paulgraham.com/vb.html
 *note:*	
 
-*quote:*	\>\> "This deck of punch cards worked all over the world except in Australia, and what was happening was customs inspectors, when they inspected things like light bulbs, would pull one out at random to check. They did the same thing with the punch cards, and put them back out of order." From:
-*source:*	
+*quote:*	\>\> "This deck of punch cards worked all over the world except in Australia, and what was happening was customs inspectors, when they inspected things like light bulbs, would pull one out at random to
+*source:*	check. They did the same thing with the punch cards, and put them back out of order." From
 *author:*	
 *link:*	https://reading.supply/post/432f6903-c7cd-4cb0-a894-c09155a8ca8b
 *note:*	
@@ -953,8 +925,8 @@ The point of oral tradition, however, was that it recorded what people needed to
 
 One reason it has been possible for this to happen is that the resulting product is inexpensive, or free for most players, since most of the burden of cost has been put upon the players who become addicted to the game.
 
-I am going to refer to these games as skinnerware. Skinnerware has a
-*source:*	large overlap with freemium games, but not all freemium games are skinnerware, and skinnerware exists that isn't freemium."
+I am going to refer to these games as skinnerware. Skinnerware has a large overlap with freemium games, but not all freemium games are skinnerware, and skinnerware exists that isn't freemium."
+*source:*	
 *author:*	
 *link:*	
 *note:*	
@@ -967,8 +939,8 @@ While working for free is not an option that is available to a lot of people, I 
 *link:*	
 *note:*	
 
-*quote:*	"Airbnb promises to let visitors "live like a local," but Quaglieri argues that its users generally have in mind a specific kind of local: someone who lives just as the visitors do back home. This consistent demographic of tourists, interchangeable with one another in their cosmopolitan tastes and habits of consumption, expects to find wherever it goes the café culture of Melbourne, the industrial lighting of Brooklyn, and the Internet speeds of Stockholm. "These people are not looking to live like a working-class family of migrants from
-*source:*	Bangladesh," he said. "They are not looking for *that* kind of local.""
+*quote:*	"Airbnb promises to let visitors "live like a local," but Quaglieri argues that its users generally have in mind a specific kind of local: someone who lives just as the visitors do back home. This consistent demographic of tourists, interchangeable with one another in their cosmopolitan tastes and habits of consumption, expects to find wherever it goes the café culture of Melbourne, the industrial lighting of Brooklyn, and the Internet speeds of Stockholm. "These people are not looking to live like a working-class family of migrants from Bangladesh," he said. "They are not looking for *that* kind of local.""
+*source:*	
 *author:*	
 *link:*	https://www.newyorker.com/magazine/2019/04/29/the-airbnb-invasion-of-barcelona
 *note:*	
@@ -1030,8 +1002,8 @@ More and more, I understand my mother's circumspection: Most of the time, what f
 *note:*	
 
 *quote:*	"Alternatively, the existence of the cliche might suggest that (some) climate change is always happening, just on a timescale that makes old people complain, and everybody else just be incredulous."
-*source:*	"Alternatively, the existence of the cliche might suggest that (some) climate change is always happening, just on a timescale that makes old people complain, and everybody else just be incredulous."
-*author:*	"Alternatively, the existence of the cliche might suggest that (some) climate change is always happening, just
+*source:*	
+*author:*	
 *link:*	
 *note:*	
 
@@ -1067,8 +1039,8 @@ More and more, I understand my mother's circumspection: Most of the time, what f
 *link:*	
 *note:*	
 
-*quote:*	"There are all kinds of silences and each of them means a different thing. There is the silence that comes with morning in a forest, and this is different from the silence of a sleeping city. There is silence after a rainstorm, and before a rainstorm, and these are not the same. There is the silence of emptiness, the silence of fear, the silence of doubt. There is a certain silence that can emanate from a lifeless object as from a chair lately used, or from a piano with old dust upon its keys, or from anything that has answered to the need of a man, for pleasure or for work. This kind of silence can speak. Its voice may be melancholy, but it is not always so; for the chair may have been left by a laughing child or the last notes of the piano may have been raucous and gay. Whatever the mood or the circumstance, the essence of its quality may linger in the silence that follows. It is a soundless echo." - Beryl Markham: West With the Night
-*source:*	
+*quote:*	"There are all kinds of silences and each of them means a different thing. There is the silence that comes with morning in a forest, and this is different from the silence of a sleeping city. There is silence after a rainstorm, and before a rainstorm, and these are not the same. There is the silence of emptiness, the silence of fear, the silence of doubt. There is a certain silence that can emanate from a lifeless object as from a chair lately used, or from a piano with old dust upon its keys, or from anything that has answered to the need of a man, for pleasure or for work. This kind of silence can speak. Its voice may be melancholy, but it is not always so; for the chair may have been left by a laughing child or the last notes of the piano may have been raucous and gay. Whatever the mood or the circumstance, the essence of its quality may linger in the silence that follows. It is a soundless
+*source:*	echo." - Beryl Markham: West With the Night
 *author:*	
 *link:*	
 *note:*	
@@ -1101,9 +1073,9 @@ For example, I'd like to be a good programmer. There are a few "big names" onlin
 *link:*	
 *note:*	
 
-*quote:*	"Since conferences usually accept less than 20 percent of paper sub-missions, if reviewers get a bad first impression when reading a paper, then they are likely to reject it. Dawson and I were not specialists in the empirical software measurement subfield, so we weren't able to "pitch" our paper submissions in a way that appealed to reviewers' expectations. Thus, we repeatedly got demoralized by negative reviews such as, "In the end, I find I just don't have much confidence in the results the authors present. There are two sources of doubt: I don't trust their interpretation of the measures, and they don't use very effective statistical techniques." In the cutthroat world of academic publishing, simply being passionate about a topic is nowhere near sufficient for success; one must be well-versed in the preferences of senior colleagues in a particular subfield who are serving as paper reviewers. In short, our data sets were not as good, our techniques were not as refined, and our results and presentation style were less impressive than what the veterans in this subfield expected." - The PhD Grind
+*quote:*	"Since conferences usually accept less than 20 percent of paper sub-missions, if reviewers get a bad first impression when reading a paper, then they are likely to reject it. Dawson and I were not specialists in the empirical software measurement subfield, so we weren't able to "pitch" our paper submissions in a way that appealed to reviewers' expectations. Thus, we repeatedly got demoralized by negative reviews such as, "In the end, I find I just don't have much confidence in the results the authors present. There are two sources of doubt: I don't trust their interpretation of the measures, and they don't use very effective statistical techniques." In the cutthroat world of academic publishing, simply being passionate about a topic is nowhere near sufficient for success; one must be well-versed in the preferences of senior colleagues in a particular subfield who are serving as paper reviewers. In short, our data sets were not as good, our techniques were not as refined, and our results and presentation style were less impressive than what the veterans in this subfield expected." - The PhD
 *source:*	
-*author:*	
+*author:*	Grind
 *link:*	
 *note:*	
 
@@ -1119,8 +1091,8 @@ If I check the NY Times just 4 times a day and read three articles each time, I'
 *link:*	
 *note:*	
 
-*quote:*	"The legacy of colonialism is baked into every facet of every culture on the planet" - Lindsay Ellis
-*source:*	
+*quote:*	"The legacy of colonialism is baked into every facet of every culture on
+*source:*	the planet" - Lindsay Ellis
 *author:*	
 *link:*	
 *note:*	
@@ -1155,9 +1127,9 @@ My prediction is that it will get worst before it gets any better at all." -- IL
 *link:*	
 *note:*	
 
-*quote:*	"Good scholarship is hard. It is easy to miss that someone tackled the same problem as you (or had the same idea as you) last year, or 5 years ago, or 50. People use different words to describe the same things, and publish in out-of-the-way places. Once you found the literature you must read it and actually understand it in order to see how it is similar to or differs from the idea you had. Because good scholarship is not just listing a number of previous works that are vaguely related to what you, but rather telling a believable, coherent and true story where all those previous works fits in, and your own work makes a logical conclusion. Therefore good scholarship takes a lot of searching and reading, a lot of time and effort. It's no wonder that lots of people don't want to
-*source:*	spend the time and effort, and would rather get on with the tinkering." Togelius, *The differences between tinkering and research
-*author:*	spend the time and effort, and would rather get
+*quote:*	"Good scholarship is hard. It is easy to miss that someone tackled the same problem as you (or had the same idea as you) last year, or 5 years ago, or 50. People use different words to describe the same things, and publish in out-of-the-way places. Once you found the literature you must read it and actually understand it in order to see how it is similar to or differs from the idea you had. Because good scholarship is not just listing a number of previous works that are vaguely related to what you, but rather telling a believable, coherent and true story where all those previous works fits in, and your own work makes a logical conclusion. Therefore good scholarship takes a lot of searching and reading, a lot of time and effort. It's no wonder that lots of people don't want to spend the time and effort, and would rather get on with the tinkering."
+*source:*	Togelius, *The differences between tinkering and research
+*author:*	
 *link:*	
 *note:*	
 
@@ -1227,16 +1199,14 @@ must sometimes be enough.* - Altered Carbon.
 *note:*	
 
 *quote:*	"We always overestimate the change that will occur in the next two years and underestimate the change that will occur in the next ten. Don't let yourself be lulled into inaction."
-
-- Bill Gates
-*source:*	
+*source:*	- Bill Gates
 *author:*	
 *link:*	
 *note:*	
 
-*quote:*	"I have always wished for my computer to be as easy to use as my telephone; my wish has come true because I can no longer figure out how to use my telephone." -- Aloha on Hackernews
-*source:*	
-*author:*	
+*quote:*	"I have always wished for my computer to be as easy to use as my telephone; my wish has come true because I can no longer figure out how
+*source:*	to use my telephone." -- Aloha on Hackernews
+*author:*	to use my telephone." -- Aloha
 *link:*	
 *note:*	
 
@@ -1282,8 +1252,8 @@ must sometimes be enough.* - Altered Carbon.
 *link:*	
 *note:*	
 
-*quote:*	"In any bureaucracy, the people devoted to the benefit of the bureaucracy itself always get in control and those dedicated to the goals the bureaucracy is supposed to accomplish have less and less influence, and sometimes are eliminated entirely." -- Pournelle's Iron Law of Beaucracy
-*source:*	
+*quote:*	"In any bureaucracy, the people devoted to the benefit of the bureaucracy itself always get in control and those dedicated to the goals the bureaucracy is supposed to accomplish have less and less
+*source:*	influence, and sometimes are eliminated entirely." -- Pournelle's Iron Law of Beaucracy
 *author:*	
 *link:*	
 *note:*	
@@ -1307,7 +1277,7 @@ must sometimes be enough.* - Altered Carbon.
 *note:*	
 
 *quote:*	"If a man could fuck a woman in a cardboard box, he wouldn't buy a house" - Dave Chappelle
-*source:*	
+*source:*	"If a man could fuck a woman in a cardboard box, he wouldn't buy a house" - Dave Chappelle
 *author:*	
 *link:*	
 *note:*	
@@ -1382,8 +1352,8 @@ You might think Musk could better direct his efforts and resources elsewhere, bu
 *link:*	https://news.ycombinator.com/item?id=12591617
 *note:*	
 
-*quote:*	"The only right career is owning a small farm with sufficient output to provide for one's family. Everything else is supplemental." -- user rch on Hackernews
-*source:*	
+*quote:*	"The only right career is owning a small farm with sufficient output to provide for one's family. Everything else is supplemental." -- user rch
+*source:*	on Hackernews
 *author:*	
 *link:*	
 *note:*	
@@ -1443,8 +1413,8 @@ cannot cope with contradiction and ambiguity."  - Neal Stephenson's
 *link:*	
 *note:*	
 
-*quote:*	"So here we are... commencement... life's great forward-looking ceremony. (And don't say, "What about weddings?" Weddings are one-sided and insufficiently effective. Weddings are bride-centric pageantry. Other than conceding to a list of unreasonable demands, the groom just stands there. No stately, hey-everybody-look-at-me procession. No being given away. No identity-changing pronouncement. And can you imagine a television show dedicated to watching guys try on tuxedos? Their fathers sitting there misty-eyed with joy and disbelief, their brothers lurking in the corner muttering with envy. Left to men, weddings would be, after limits-testing procrastination, spontaneous, almost inadvertent... during halftime... on the way to the refrigerator. And then there's the frequency of failure: statistics tell us half of you will get divorced. A winning percentage like that'll get you last place in the American League East. The Baltimore Orioles do better than weddings.)" Some high school English teacher in America.
-*source:*	
+*quote:*	"So here we are... commencement... life's great forward-looking ceremony. (And don't say, "What about weddings?" Weddings are one-sided and insufficiently effective. Weddings are bride-centric pageantry. Other than conceding to a list of unreasonable demands, the groom just stands there. No stately, hey-everybody-look-at-me procession. No being given away. No identity-changing pronouncement. And can you imagine a television show dedicated to watching guys try on tuxedos? Their fathers sitting there misty-eyed with joy and disbelief, their brothers lurking in the corner muttering with envy. Left to men, weddings would be, after limits-testing procrastination, spontaneous, almost inadvertent... during halftime... on the way to the refrigerator. And then there's the frequency of failure: statistics tell us half of you will get divorced. A winning percentage like that'll get you last place in the American
+*source:*	League East. The Baltimore Orioles do better than weddings.)" Some high school English teacher in America.
 *author:*	
 *link:*	http://theswellesleyreport.com/2012/06/wellesley-high-grads-told-youre-not-special/
 *note:*	
@@ -1469,9 +1439,9 @@ Since then, I've always reminded myself to be kind and considerate to strangers.
 *link:*	
 *note:*	
 
-*quote:*	"It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who knows great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat." -Theodore Roosevelt
+*quote:*	"It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who knows great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat." -Theodore
 *source:*	
-*author:*	
+*author:*	Roosevelt
 *link:*	
 *note:*	
 
@@ -1549,9 +1519,9 @@ Since then, I've always reminded myself to be kind and considerate to strangers.
 *link:*	
 *note:*	
 
-*quote:*	"All that is needed to answer Malthus is human excrement" - Gaston Leroux
+*quote:*	"All that is needed to answer Malthus is human excrement" - Gaston
 *source:*	
-*author:*	
+*author:*	Leroux
 *link:*	
 *note:*	
 
@@ -1574,9 +1544,7 @@ Since then, I've always reminded myself to be kind and considerate to strangers.
 Is looking better for today
 
 In every single way
-
-But not for you"
-*source:*	
+*source:*	But not for you"
 *author:*	
 *link:*	
 *note:*	
@@ -1593,28 +1561,28 @@ But not for you"
 *link:*	
 *note:*	
 
-*quote:*	"I guess I could be pretty pissed off about what happened to me, but it's hard to stay mad when there's so much beauty in the world" Lester Burnham (American Beauty)
-*source:*	
+*quote:*	"I guess I could be pretty pissed off about what happened to me, but it's hard to stay mad when there's so much beauty in the world"
+*source:*	Lester Burnham (American Beauty)
 *author:*	
 *link:*	
 *note:*	
 
-*quote:*	"For most of life, nothing wonderful happens. If you don't enjoy getting up and working and finishing your work and sitting down to a meal with family or friends, then the chances are you're not going to be very happy. If someone bases his \[or her\] happiness on major events like a great job, huge amounts of money, a flawlessly happy marriage or a trip to Paris, that person isn't going to be happy much of the time. If, on the other hand, happiness depends on a good breakfast, flowers in the yard, a drink or a nap, then we are more likely to live with quite a bit of happiness." - Andy Rooney
-*source:*	
-*author:*	
+*quote:*	"For most of life, nothing wonderful happens. If you don't enjoy getting up and working and finishing your work and sitting down to a meal with family or friends, then the chances are you're not going to be very happy. If someone bases his \[or her\] happiness on major events like a great job, huge amounts of money, a flawlessly happy marriage or a trip to Paris, that person isn't going to be happy much of the time.
+*source:*	If, on the other hand, happiness depends on a good breakfast, flowers in the yard, a drink or a nap, then we are more likely to live with quite a bit of happiness." - Andy Rooney
+*author:*	If,
 *link:*	
 *note:*	
 
-*quote:*	"This cosmic dance, bursting decadence and withheld permissions twists all our arms collectively, but if sweetness can win - and it can. Then I'll still be here tomorrow, to high five you yesterday, my friend. Peace."
-*source:*	
+*quote:*	"This cosmic dance, bursting decadence and withheld permissions twists all our arms collectively, but if sweetness can win - and it can. Then I'll still be here tomorrow, to high five you yesterday, my friend.
+*source:*	Peace."
 *author:*	
 *link:*	
 *note:*	
 
 *quote:*	"And you really haven't heard of other wizards asking these sorts of questions or doing this sort of scientific experimenting?" Harry asked again. It just seemed so obvious to him.
 
-"Then again, it'd taken more than two hundred years after the invention of the scientific method before any Muggle scientists had thought to systematically investigate which sentences a human four-year-old could or couldn't understand. The developmental psychology of linguistics could've been discovered in the eighteenth century, in principle, but no one had even thought to look until the twentieth. So you couldn't really blame the much smaller wizarding world for not investigating the Retrieval Charm." HP MOR
-*source:*	
+"Then again, it'd taken more than two hundred years after the invention of the scientific method before any Muggle scientists had thought to systematically investigate which sentences a human four-year-old could or couldn't understand. The developmental psychology of linguistics could've been discovered in the eighteenth century, in principle, but no one had even thought to look until the twentieth. So you couldn't really blame the much smaller wizarding
+*source:*	world for not investigating the Retrieval Charm." HP MOR
 *author:*	
 *link:*	
 *note:*	

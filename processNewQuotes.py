@@ -55,11 +55,58 @@ def _is_italic_marker(text: str) -> bool:
     return t.startswith("*") and t.endswith("*") and len(t) > 4
 
 
+def _is_title_like(text: str) -> bool:
+    """True if the text structurally looks like a book/article title."""
+    t = text.strip()
+    if not t or len(t) > 60:
+        return False
+    if _ends_with_sentence_punct(t):
+        return False
+
+    small_words = {
+        "the",
+        "a",
+        "an",
+        "of",
+        "and",
+        "or",
+        "but",
+        "in",
+        "on",
+        "at",
+        "to",
+        "for",
+        "with",
+        "by",
+        "from",
+        "vol",
+        "ca",
+        "bc",
+        "ce",
+    }
+    words = t.split()
+    if not words:
+        return False
+
+    meaningful = 0
+    has_capitalized = False
+    for w in words:
+        if w[0].isupper():
+            has_capitalized = True
+            meaningful += 1
+        elif w.lower() in small_words or w.isdigit():
+            meaningful += 1
+
+    return has_capitalized and meaningful / len(words) >= 0.5
+
+
 def _ends_with_sentence_punct(text: str) -> bool:
     """True if the text ends with sentence-ending punctuation (. ! ?)."""
     t = text.strip()
     if not t:
         return False
+    # Strip a trailing quote mark so "purposes." is detected as ending.
+    t = t.rstrip('"').rstrip("'")
     # URLs ending in slashes or brackets don't count
     if t.endswith((".", "!", "?")):
         # Common abbreviations that end with periods
@@ -100,6 +147,10 @@ def _looks_like_attribution(line: str) -> bool:
 
     # Italic-marked lines (*Book Title*) are attribution
     if _is_italic_marker(L):
+        return True
+
+    # Short title-like lines (e.g. "Voyage of the Beagle", "Australians vol 1")
+    if _is_title_like(L):
         return True
 
     # Lines starting with dash/emdash prefix
@@ -374,7 +425,7 @@ def _clean_text(text: str) -> str:
     """Remove spurious backslash escapes and unwrap hard-wrapped paragraphs."""
     escape_remap = {
         r"\'": "'",
-        r'\"': '"',
+        r"\"": '"',
         r"\--": "--",
         r"\-": "-",
         r"\#": "#",

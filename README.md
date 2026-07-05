@@ -106,6 +106,17 @@ The script generates a standalone HTML page with:
 Yesterday, I got Deepseek v4 flash to build `processNewQuotes.py` which does a reasonable job converting the contents of `new_quotes_unprocessed.md` to a usable format in `new_quotes_tagged.md`. The script now also:
 - [x] remaps spurious escape characters (e.g. `\'`, `\"`, `\--`, `\-`) back to their intended characters.
 - [x] unwraps hard-wrapped paragraphs so each paragraph appears on a single line, preserving blank-line breaks between paragraphs.
+- [x] detects short, title-like attribution lines (e.g. `Voyage of the Beagle`, `Against the Gods`, `Australians vol 1`) using structural heuristics rather than hardcoded names.
+- [x] treats sentence-ending punctuation inside closing quotation marks (e.g. `purposes.") as a sentence ending, so quote text isn't accidentally peeled into the attribution.
+
+### Claude...
+
+There's some further issues but I think they are bespoke enough that I should just shove the whole thing into free claude. I gave it this prompt:
+>This markdown file contains quotes that have been partially standardised into a simple plaintext format. However there are several inconsistencies such as the attribution (source) being clipped or one quote being split across two entries. Manually read through the entire file and then write a new file `new_quotes_claude_processed.md` with the identified errors corrected. Do not write a script to process these.
+
+We'll see if that works! If I hit the context limit we'll look into feeding the markdown to Deepseek in async chunks for parsing. Certainly a pile of short requests should be *fast* if expensive (probably on the order of a few cents total).
+
+Welp, yeah it crashed out on me. Let's right a little script to call deepseek via openrouter API.
 
 ## Original notes (December 2022)
 
