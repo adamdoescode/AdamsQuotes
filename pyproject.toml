@@ -1,7 +1,7 @@
 [project]
 name = "adamsquotes"
 version = "0.1.0"
-description = "Add your description here"
+description = "A pipeline for processing and rendering a personal quote collection to HTML"
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
@@ -9,7 +9,15 @@ dependencies = [
     "aiohttp>=3.9.0",
 ]
 
+[project.scripts]
+adamsquotes-tag = "adamsquotes.cli.tagger:main"
+adamsquotes-convert = "adamsquotes.cli.converter:main"
+adamsquotes-clean = "adamsquotes.cli.llm_cleaner:main"
+adamsquotes-render = "adamsquotes.cli.renderer:main"
+
 [tool.pytest.ini_options]
+testpaths = ["tests"]
+
 [dependency-groups]
 dev = [
     "pytest>=8.0",

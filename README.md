@@ -7,32 +7,50 @@ A simple project to pretty print my quotes collection to an HTML page.
 This project uses [uv](https://docs.astral.sh/uv/) for Python package and project management.
 
 ```sh
-# Install dependencies (pandas)
+# Install dependencies
 uv sync
 
 # Process the sample quotes into index.html
-uv run python processQuotes.py
+uv run adamsquotes-render
 
 # Or specify custom input/output files
-uv run python processQuotes.py \
+uv run adamsquotes-render \
     --quotes_input markdown_quotes/sampleQuotesProcessed.md \
     --output-html my-quotes.html
 ```
 
 All dependencies are defined in `pyproject.toml` and are installed automatically by `uv sync`.
 
+## Pipeline stages
+
+| Stage | CLI command | What it does |
+|---|---|---|
+| 1. Tag | `uv run adamsquotes-tag` | Raw quotes → semi-processed tagged markdown |
+| 1 (alt). Convert | `uv run adamsquotes-convert` | New-format raw quotes → tagged markdown |
+| 1.5. LLM Clean | `uv run adamsquotes-clean` | LLM cleanup of tagged markdown |
+| 2. Render | `uv run adamsquotes-render` | Tagged markdown → styled HTML page |
+
+You can also run each stage via its module directly:
+
+```sh
+uv run python -m adamsquotes.cli.tagger
+uv run python -m adamsquotes.cli.converter
+uv run python -m adamsquotes.cli.llm_cleaner
+uv run python -m adamsquotes.cli.renderer
+```
+
 ## How to process quotes
 
-Quotes initially come in unprocessed, e.g in `markdown_quotes/sampleQuotesUnprocessed.md`. We process these using `addTagsToRawQuotes.py` which outputs to `markdown_quotes/sampleQuotesSemiProcessed.md` by default and then these can be manually curated before "publishing" by running them as input to `processQuotes.py` which outputs to `index.html` by default.
+Quotes initially come in unprocessed, e.g in `markdown_quotes/sampleQuotesUnprocessed.md`. We process these using `uv run adamsquotes-tag` which outputs to `markdown_quotes/sampleQuotesSemiProcessed.md` by default and then these can be manually curated before "publishing" by running them as input to `uv run adamsquotes-render` which outputs to `index.html` by default.
 
 ## Viewing index.html
 
 The user exposed part of the website is `index.html` which is styled by `style.css` and has some table of contents handling in `index.js`.
 
-## CLI reference for addTagsToRawQuotes.py
+## CLI reference for adamsquotes-tag
 
 ```
-usage: addTagsToRawQuotes.py [-h] [-o OUTPUT] [input]
+usage: adamsquotes-tag [-h] [-o OUTPUT] [input]
 
 Add tags to raw quotes to produce a semi-processed markdown file.
 
@@ -46,10 +64,10 @@ options:
                        (default: markdown_quotes/sampleQuotesSemiProcessed.md).
 ```
 
-## CLI reference for processQuotes.py
+## CLI reference for adamsquotes-render
 
 ```
-usage: processQuotes.py [-h] [--quotes_input QUOTES_INPUT] [--output-html OUTPUT_HTML]
+usage: adamsquotes-render [-h] [--quotes_input QUOTES_INPUT] [--output-html OUTPUT_HTML]
 
 Process a markdown quotes file into an HTML file.
 
@@ -95,15 +113,15 @@ The script generates a standalone HTML page with:
 
 ## Workflow
 
-1. **Add tags** — `addTagsToRawQuotes.py` semi-automatically inserts `*quote:*`, `*source:*`, etc. into raw quote text.
+1. **Add tags** — `uv run adamsquotes-tag` inserts `*quote:*`, `*source:*`, etc. into raw quote text.
 2. **Curate** — Manually fix any tagging errors in the output.
-3. **Process** — Run `processQuotes.py` to convert the curated markdown into a styled HTML page.
+3. **Process** — Run `uv run adamsquotes-render` to convert the curated markdown into a styled HTML page.
 
 ## Adding in quotes from a different source
 
 `markdown_quotes/new_quotes_unprocessed.md` includes quotes taken from an old [quotes.md](./Sync/menagerie/ideas/quotes.md) file buried in my "ideas" folder (i.e. old notes folder).
 
-Yesterday, I got Deepseek v4 flash to build `processNewQuotes.py` which does a reasonable job converting the contents of `new_quotes_unprocessed.md` to a usable format in `new_quotes_tagged.md`. The script now also:
+The `adamsquotes-convert` command does a reasonable job converting the contents of `new_quotes_unprocessed.md` to a usable format in `new_quotes_tagged.md`. It also:
 - [x] remaps spurious escape characters (e.g. `\'`, `\"`, `\--`, `\-`) back to their intended characters.
 - [x] unwraps hard-wrapped paragraphs so each paragraph appears on a single line, preserving blank-line breaks between paragraphs.
 - [x] detects short, title-like attribution lines (e.g. `Voyage of the Beagle`, `Against the Gods`, `Australians vol 1`) using structural heuristics rather than hardcoded names.
@@ -116,16 +134,14 @@ There's some further issues but I think they are bespoke enough that I should ju
 
 We'll see if that works! If I hit the context limit we'll look into feeding the markdown to Deepseek in async chunks for parsing. Certainly a pile of short requests should be *fast* if expensive (probably on the order of a few cents total).
 
-Welp, yeah it crashed out on me. Let's right a little script to call deepseek via openrouter API.
+Welp, yeah it crashed out on me. That's when I built `adamsquotes-clean` (or equivalently `processTaggedQuotesWithLLM.py`) which calls deepseek via OpenRouter API to process the quotes in chunks.
 
-## Original notes (December 2022)
+## Original notes (December 2022, updated July 2026)
 
 First, I took my quotes as raw text and did some minor formatting to add spaces etc.
 
-I then attempted to add some identifying tags (e.g "quote" and "source) to each quote in a semi-automated fashion.
+I then attempted to add some identifying tags (e.g "quote" and "source) to each quote in a semi-automated fashion using the first tagger scripts.
 
-To do this I wrote the script `addTagsToRawQuotes.py` which takes the raw quotes text and adds the tags.
+After manual curation I used the renderer to generate a styled HTML page.
 
-In the spirit of efficiency over writing more code, I then manually curated the output so that it actually made sense. The result of this was `markdown_quotes/sampleQuotesProcessed.md` which is included in this repo.
-
-I then fed this curated markdown text into the `processQuotes.py` file which generates a bunch of html divs with the quotes nicely formatted. It then injects this into the `Header.html` file which contains a simple header for the final page (`index.html`).
+The project has since been refactored into the structured ``adamsquotes`` package with a clean CLI interface — see the pipeline stages above for the modern workflow.
