@@ -41,10 +41,10 @@ class Quote:
         self.link: str = ""  # sometimes present
         self.author: str = ""  # sometimes present
         # Random 5-digit ID used as the HTML anchor for this quote.
-        self.idForQuote = randint(10000, 99999)
+        self.id_for_quote = randint(10000, 99999)
         self.title: str = ""
 
-    def generateTitle(self) -> "Quote":
+    def generate_title(self) -> "Quote":
         """Derive a short title from the quote text for the table of contents.
 
         Rules:
@@ -56,17 +56,17 @@ class Quote:
             Self, with ``self.title`` populated.
         """
         # split the quote into a list of words
-        quoteWords = self.quote.split()
+        quote_words = self.quote.split()
         # if the quote is less than 8 words, use the whole quote
         # deal with empty quotes too
-        if len(quoteWords) == 0:
+        if len(quote_words) == 0:
             self.title = ""
         # if the quote is 8 or fewer words, use the whole quote
-        elif len(quoteWords) <= 8:
+        elif len(quote_words) <= 8:
             self.title = self.quote
         # if the quote is more than 8 words, use the first 8 words and add an ellipsis
-        elif len(quoteWords) > 8:
-            self.title = " ".join(quoteWords[:8]) + "..."
+        elif len(quote_words) > 8:
+            self.title = " ".join(quote_words[:8]) + "..."
         return self
 
 
@@ -78,29 +78,29 @@ class ProcessQuotes:
     delimiting each quote's fields.
 
     Attributes:
-        lines_from_file: The raw markdown text.
-        quotes_list: List of parsed ``Quote`` objects.
+        raw_text: The raw markdown text.
+        quotes: List of parsed ``Quote`` objects.
         quote_titles: Mapping from quote title to its numeric HTML anchor ID.
     """
 
     def __init__(self, quotes: str):
-        self.linesFromFile: str = quotes
-        self.QuotesList: List[Quote] = []
-        self.QuoteTitles: Dict[str, int] = {}
+        self.raw_text: str = quotes
+        self.quotes: List[Quote] = []
+        self.quote_titles: Dict[str, int] = {}
 
-    def createQuoteTitles(self, quote: Quote) -> "ProcessQuotes":
+    def _register_title(self, quote: Quote) -> "ProcessQuotes":
         """Register a quote's title and ID in the table-of-contents mapping.
 
         Args:
-            quote: A ``Quote`` whose ``title`` and ``idForQuote`` are stored.
+            quote: A ``Quote`` whose ``title`` and ``id_for_quote`` are stored.
 
         Returns:
             Self, for method chaining.
         """
-        self.QuoteTitles[quote.title] = quote.idForQuote
+        self.quote_titles[quote.title] = quote.id_for_quote
         return self
 
-    def addClassToTD(self, table: str) -> str:
+    def _add_column_classes(self, table: str) -> str:
         """Add numbered CSS classes to ``<td>`` elements in an HTML table.
 
         This allows the *source* column to be hidden via CSS on narrow
@@ -137,40 +137,36 @@ class ProcessQuotes:
         # rejoin the lines into a table
         return "\n".join(lines)
 
-    def writeTableOfContents(self) -> str:
+    def render_toc(self) -> str:
         """Build an HTML table-of-contents linking to each quote's anchor.
-
-        Uses pandas to render a two-column table (*title* and *source*)
-        where each title is a hyperlink to the corresponding quote's
-        ``<div>`` on the same page.
 
         Returns:
             An HTML ``<div class="table-of-contents">`` block.
         """
         # start the table of contents
-        tableOfContents = '<div class="table-of-contents">\n'
-        tableOfContentsDictForPandas = {column: [] for column in ["title", "source"]}
-        # itertate through the quotes in the QuoteTitles dict
-        for quote in self.QuotesList:
+        result = '<div class="table-of-contents">\n'
+        toc_dict = {column: [] for column in ["title", "source"]}
+        # iterate through the quotes
+        for quote in self.quotes:
             # add the index, title, and blank columns to the table of contents dict
-            titleLink = f'  <a class="tableOfContents" href="#{quote.idForQuote}">{quote.title}</a>'
-            tableOfContentsDictForPandas["title"].append(titleLink)
+            title_link = f'  <a class="tableOfContents" href="#{quote.id_for_quote}">{quote.title}</a>'
+            toc_dict["title"].append(title_link)
             # truncate source length in title
             if len(quote.source) > 30:
-                tableOfContentsDictForPandas["source"].append(quote.source[:30] + "...")
+                toc_dict["source"].append(quote.source[:30] + "...")
             else:
-                tableOfContentsDictForPandas["source"].append(quote.source)
-        tableOfContents += pd.DataFrame(tableOfContentsDictForPandas).to_html(
+                toc_dict["source"].append(quote.source)
+        result += pd.DataFrame(toc_dict).to_html(
             header=True, justify="left", border=0, render_links=True, index=False
         )
         # need to fix a unicode translation issue
-        tableOfContents = tableOfContents.replace("&lt;", "<").replace("&gt;", ">")
+        result = result.replace("&lt;", "<").replace("&gt;", ">")
         # add classes to the table of contents
-        tableOfContents = self.addClassToTD(tableOfContents)
+        result = self._add_column_classes(result)
         # make sure to include a closing div tag
-        return tableOfContents + "</div>\n"
+        return result + "</div>\n"
 
-    def processQuotes(self) -> "ProcessQuotes":
+    def parse_quotes(self) -> "ProcessQuotes":
         """Parse the raw markdown into ``Quote`` objects.
 
         Splits the input text on ``*quote:*`` tags and extracts each field
@@ -183,48 +179,42 @@ class ProcessQuotes:
             5. note (possibly multi-line)
 
         Returns:
-            Self with ``quotes_list`` and ``quote_titles`` populated.
+            Self with ``quotes`` and ``quote_titles`` populated.
         """
-        for RawQuote in self.linesFromFile.split("*quote:*")[1:]:
-            # Order is always the same, so we can just split by tag:
-            # 1. quote (possibly multiline)
-            # 2. source
-            # 3. author
-            # 4. link
-            # 5. note (possibly multiline)
-            newQuote = Quote()
-            newQuote.quote = RawQuote.split("*source:*")[0].strip()
-            newQuote.source = (
-                RawQuote.split("*source:*")[1].split("*author:*")[0].strip()
+        for raw_quote in self.raw_text.split("*quote:*")[1:]:
+            new_quote = Quote()
+            new_quote.quote = raw_quote.split("*source:*")[0].strip()
+            new_quote.source = (
+                raw_quote.split("*source:*")[1].split("*author:*")[0].strip()
             )
-            newQuote.author = RawQuote.split("*author:*")[1].split("*link:*")[0].strip()
-            newQuote.link = RawQuote.split("*link:*")[1].split("*note:*")[0].strip()
-            newQuote.note = RawQuote.split("*note:*")[1].strip()
+            new_quote.author = raw_quote.split("*author:*")[1].split("*link:*")[0].strip()
+            new_quote.link = raw_quote.split("*link:*")[1].split("*note:*")[0].strip()
+            new_quote.note = raw_quote.split("*note:*")[1].strip()
             # generate a title for the quote
-            newQuote.generateTitle()
-            # then we add the quote to the QuoteTitles dict for use in a table of contents
-            self.createQuoteTitles(newQuote)
-            self.QuotesList.append(newQuote)
+            new_quote.generate_title()
+            # then we add the quote to the quote_titles dict for use in a table of contents
+            self._register_title(new_quote)
+            self.quotes.append(new_quote)
         return self
 
-    def printQuotes(self, numQuotes: int | None = None) -> None:
+    def print_quotes(self, num_quotes: int | None = None) -> None:
         """Print a summary of parsed quotes to stdout (useful for debugging).
 
         Args:
-            numQuotes: Maximum number of quotes to print, or ``None`` for all.
+            num_quotes: Maximum number of quotes to print, or ``None`` for all.
         """
         counter = 0
-        for quote in self.QuotesList:
-            if numQuotes is not None and counter >= numQuotes:
+        for quote in self.quotes:
+            if num_quotes is not None and counter >= num_quotes:
                 break
             print(f"quote: {quote.quote}")
             print(f"source: {quote.source}")
             print(f"note: {quote.note}")
-            print(f"id: {quote.idForQuote}")
+            print(f"id: {quote.id_for_quote}")
             print()
             counter += 1
 
-    def writeQuoteAttributeToFile(self, quote: Quote) -> str:
+    def render_quote_html(self, quote: Quote) -> str:
         """Render a single ``Quote`` as an HTML ``<div>`` block.
 
         The output includes optional sections for title, note, quote text,
@@ -237,30 +227,25 @@ class ProcessQuotes:
         Returns:
             An HTML string for one quote ``<div>``.
         """
-        quoteInHTML = ""
-        quoteInHTML += f'<div class="quote" id="{quote.idForQuote}">\n'
+        html = ""
+        html += f'<div class="quote" id="{quote.id_for_quote}">\n'
         if quote.title != "":
-            quoteInHTML += f'  <p class="quote-title">{quote.title}</p>\n'
+            html += f'  <p class="quote-title">{quote.title}</p>\n'
         if quote.note != "":
-            # iterate through each paragraph and pass as <p> tag
             for note in quote.note.splitlines():
-                quoteInHTML += f'  <p class="note">{note}</p>\n'
-        # do the same for the potentatially multiline quote
-        for quoteLine in quote.quote.splitlines():
-            quoteInHTML += f'  <p class="quote-text">{quoteLine}</p>\n'
-        # source
+                html += f'  <p class="note">{note}</p>\n'
+        for quote_line in quote.quote.splitlines():
+            html += f'  <p class="quote-text">{quote_line}</p>\n'
         if quote.source != "":
-            quoteInHTML += f'  <p class="source"><span class="source-source">Source:</span> {quote.source}</p>\n'
-        # author
+            html += f'  <p class="source"><span class="source-source">Source:</span> {quote.source}</p>\n'
         if quote.author != "":
-            quoteInHTML += f'  <p class="author"><span class="tag-author">Author:</span> {quote.author}</p>\n'
-        # link
+            html += f'  <p class="author"><span class="tag-author">Author:</span> {quote.author}</p>\n'
         if quote.link != "":
-            quoteInHTML += f'  <p class="link"><span class="tag-link">Link:</span> <a class="tag-link-href" href="{quote.link}">{quote.link}<a></p>\n'
-        quoteInHTML += "</div>\n"
-        return quoteInHTML
+            html += f'  <p class="link"><span class="tag-link">Link:</span> <a class="tag-link-href" href="{quote.link}">{quote.link}<a></p>\n'
+        html += "</div>\n"
+        return html
 
-    def generateHtml(self, header_template: str) -> str:
+    def generate_html(self, header_template: str) -> str:
         """
         Generates the full HTML page as a string by injecting the table of contents
         and quotes into the header template.
@@ -272,29 +257,29 @@ class ProcessQuotes:
             The complete HTML page as a string.
         """
         result = header_template.replace(
-            "<!-- table of contents -->", self.writeTableOfContents()
+            "<!-- table of contents -->", self.render_toc()
         )
         quotes_html = ""
-        for quote in self.QuotesList:
-            quotes_html += self.writeQuoteAttributeToFile(quote)
+        for quote in self.quotes:
+            quotes_html += self.render_quote_html(quote)
         result = result.replace("<!--quotes-->", quotes_html)
         return result
 
-    def writeQuotes(self, output_path: str | Path = "index.html") -> None:
+    def write_html(self, output_path: str | Path = "index.html") -> None:
         """Render all parsed quotes to an HTML file.
 
         Loads the header/footer scaffold from ``Header.html``, generates the
-        full page via :meth:`generateHtml`, and writes the result to disk.
+        full page via :meth:`generate_html`, and writes the result to disk.
 
         Args:
             output_path: Destination path for the output HTML file.
         """
         # get headerAndFooter scaffold
-        with open("Header.html", "r") as headerAndFooterFile:
-            headerAndFooter = headerAndFooterFile.read()
-        html = self.generateHtml(header_template=headerAndFooter)
-        with open(output_path, "w") as quotesFile:
-            quotesFile.write(html)
+        with open("Header.html", "r") as header_file:
+            header_and_footer = header_file.read()
+        html = self.generate_html(header_template=header_and_footer)
+        with open(output_path, "w") as quotes_file:
+            quotes_file.write(html)
 
 
 def main(quotes_input: str | Path, output_html: str | Path = "index.html") -> None:
@@ -308,10 +293,10 @@ def main(quotes_input: str | Path, output_html: str | Path = "index.html") -> No
     quotes_path = Path(quotes_input)
     output_path = Path(output_html)
 
-    with quotes_path.open("r") as quotesFile:
-        quotes = quotesFile.read()
-    processedQuotes = ProcessQuotes(quotes).processQuotes()
-    processedQuotes.writeQuotes(output_path)
+    with quotes_path.open("r") as quotes_file:
+        quotes = quotes_file.read()
+    processed = ProcessQuotes(quotes).parse_quotes()
+    processed.write_html(output_path)
 
 
 def _build_parser() -> argparse.ArgumentParser:
