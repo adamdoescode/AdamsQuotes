@@ -15,7 +15,7 @@ Usage::
         --input markdown_quotes/new_quotes_tagged.md \
         --output markdown_quotes/new_quotes_llm_processed.md \
         --model deepseek/deepseek-v4-flash \
-        --chunk-lines 500
+        --chunk-quotes 10
 
 The API key is read from the ``OPENROUTER_API_KEY`` environment variable, or
 from a ``.env`` file in the repository root (``OPENROUTER_API_KEY=sk-or-...``).
@@ -25,18 +25,19 @@ The ``.env`` file is ignored by git so secrets are never committed.
 from __future__ import annotations
 
 import argparse
+import asyncio
 import os
 import sys
-import time
 from pathlib import Path
 from typing import List
 
-import requests
+import aiohttp
 from dotenv import load_dotenv
 
 
 DEFAULT_MODEL = "deepseek/deepseek-v4-flash"
-DEFAULT_CHUNK_LINES = 500
+DEFAULT_CHUNK_QUOTES = 10
+DEFAULT_CONCURRENCY = 5
 DEFAULT_INPUT = "markdown_quotes/new_quotes_tagged.md"
 DEFAULT_OUTPUT = "markdown_quotes/new_quotes_llm_processed.md"
 OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions"
@@ -96,10 +97,10 @@ def _build_parser() -> argparse.ArgumentParser:
         help=f"OpenRouter model identifier (default: {DEFAULT_MODEL}).",
     )
     parser.add_argument(
-        "--chunk-lines",
+        "--chunk-quotes",
         type=int,
-        default=DEFAULT_CHUNK_LINES,
-        help=f"Approximate number of input lines per LLM chunk (default: {DEFAULT_CHUNK_LINES}).",
+        default=DEFAULT_CHUNK_QUOTES,
+        help=f"Number of quotes to send per LLM request (default: {DEFAULT_CHUNK_QUOTES}).",
     )
     parser.add_argument(
         "--max-retries",
@@ -113,11 +114,17 @@ def _build_parser() -> argparse.ArgumentParser:
         default=1,
         help="Delay between API calls in seconds (default: 1).",
     )
+    parser.add_argument(
+        "--concurrency",
+        type=int,
+        default=DEFAULT_CONCURRENCY,
+        help=f"Maximum concurrent API requests (default: {DEFAULT_CONCURRENCY}).",
+    )
     return parser
 
 
-def _read_chunks(input_path: Path, chunk_lines: int) -> List[str]:
-    """Split the input file into chunks of roughly ``chunk_lines`` lines.
+def _read_chunks(input_path: Path, chunk_quotes: int) -> List[str]:
+    """Split the input file into chunks of ``chunk_quotes`` quotes each.
 
     Chunks are aligned to quote boundaries so that no quote is split across two
     chunks. A quote is assumed to start with a line beginning with ``*quote:*``.
@@ -136,36 +143,19 @@ def _read_chunks(input_path: Path, chunk_lines: int) -> List[str]:
     quote_indices.append(len(lines))
 
     chunks: List[str] = []
-    current_chunk_start = 0
-    current_chunk_line_count = 0
-
-    for i in range(len(quote_indices) - 1):
-        quote_start = quote_indices[i]
-        next_quote_start = quote_indices[i + 1]
-        quote_line_count = next_quote_start - quote_start
-
-        # Start a new chunk if adding this quote would exceed the limit and the
-        # current chunk already has content.
-        if (
-            current_chunk_line_count > 0
-            and current_chunk_line_count + quote_line_count > chunk_lines
-        ):
-            chunk_lines_subset = lines[current_chunk_start:quote_start]
-            chunks.append("\n".join(chunk_lines_subset).rstrip() + "\n")
-            current_chunk_start = quote_start
-            current_chunk_line_count = 0
-
-        current_chunk_line_count += quote_line_count
-
-    # Add the final chunk.
-    if current_chunk_start < len(lines):
-        chunk_lines_subset = lines[current_chunk_start:]
+    for i in range(0, len(quote_indices) - 1, chunk_quotes):
+        start_line = quote_indices[i]
+        # End right before the next quote after this chunk, or the end of file.
+        end_index = min(i + chunk_quotes, len(quote_indices) - 1)
+        end_line = quote_indices[end_index]
+        chunk_lines_subset = lines[start_line:end_line]
         chunks.append("\n".join(chunk_lines_subset).rstrip() + "\n")
 
     return chunks
 
 
-def _call_openrouter(
+async def _call_openrouter(
+    session: aiohttp.ClientSession,
     api_key: str,
     model: str,
     user_content: str,
@@ -187,26 +177,26 @@ def _call_openrouter(
     last_error: Exception | None = None
     for attempt in range(1, max_retries + 1):
         try:
-            response = requests.post(
+            async with session.post(
                 OPENROUTER_URL,
                 headers=headers,
                 json=payload,
-                timeout=120,
-            )
-            response.raise_for_status()
-            data = response.json()
-            choices = data.get("choices", [])
-            if not choices:
-                raise RuntimeError(f"OpenRouter returned no choices: {data}")
-            content = choices[0].get("message", {}).get("content", "")
-            if content is None:
-                raise RuntimeError("OpenRouter returned empty content")
-            return content
+                timeout=aiohttp.ClientTimeout(total=120),
+            ) as response:
+                response.raise_for_status()
+                data = await response.json()
+                choices = data.get("choices", [])
+                if not choices:
+                    raise RuntimeError(f"OpenRouter returned no choices: {data}")
+                content = choices[0].get("message", {}).get("content", "")
+                if content is None:
+                    raise RuntimeError("OpenRouter returned empty content")
+                return content
         except Exception as exc:  # noqa: BLE001
             last_error = exc
             if attempt < max_retries:
                 wait = 2 ** (attempt - 1)
-                time.sleep(wait)
+                await asyncio.sleep(wait)
 
     raise RuntimeError(
         f"OpenRouter request failed after {max_retries} attempts: {last_error}"
@@ -255,8 +245,10 @@ def main() -> None:
 
     if input_path.suffix != ".md":
         parser.error(f"Input file must have a .md suffix, got '{input_path.suffix}'")
-    if args.chunk_lines < 1:
-        parser.error("--chunk-lines must be at least 1")
+    if args.chunk_quotes < 1:
+        parser.error("--chunk-quotes must be at least 1")
+    if args.concurrency < 1:
+        parser.error("--concurrency must be at least 1")
 
     api_key = os.environ.get("OPENROUTER_API_KEY")
     if not api_key:
@@ -265,22 +257,34 @@ def main() -> None:
             "or add it to a .env file in the repository root."
         )
 
-    chunks = _read_chunks(input_path, args.chunk_lines)
+    chunks = _read_chunks(input_path, args.chunk_quotes)
     print(f"Split {input_path} into {len(chunks)} chunk(s)")
 
-    cleaned_parts: List[str] = []
-    for idx, chunk in enumerate(chunks, start=1):
-        print(f"Processing chunk {idx}/{len(chunks)}...")
-        cleaned = _call_openrouter(
-            api_key=api_key,
-            model=args.model,
-            user_content=chunk,
-            max_retries=args.max_retries,
-        )
-        cleaned = _strip_code_fences(cleaned)
-        cleaned_parts.append(cleaned)
-        if idx < len(chunks):
-            time.sleep(args.delay_seconds)
+    async def _process_chunks() -> List[str]:
+        cleaned_parts: List[str] = [""] * len(chunks)
+        semaphore = asyncio.Semaphore(args.concurrency)
+
+        async def _process_one(idx: int, chunk: str) -> None:
+            async with semaphore:
+                print(f"Processing chunk {idx}/{len(chunks)}...")
+                cleaned = await _call_openrouter(
+                    session=session,
+                    api_key=api_key,
+                    model=args.model,
+                    user_content=chunk,
+                    max_retries=args.max_retries,
+                )
+                cleaned_parts[idx - 1] = _strip_code_fences(cleaned)
+                if args.delay_seconds > 0:
+                    await asyncio.sleep(args.delay_seconds)
+
+        async with aiohttp.ClientSession() as session:
+            await asyncio.gather(
+                *(_process_one(idx, chunk) for idx, chunk in enumerate(chunks, start=1))
+            )
+        return cleaned_parts
+
+    cleaned_parts = asyncio.run(_process_chunks())
 
     stitched = "\n\n".join(part.strip() for part in cleaned_parts) + "\n"
     _validate_stitched_output(stitched)
