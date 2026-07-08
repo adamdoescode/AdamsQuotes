@@ -1,127 +1,28 @@
 """
-Process new_quotes_unprocessed.md format into tagged output for processQuotes.py.
+Pipeline stage 1 (alternate): new-format raw quotes → tagged markdown.
 
-The new-format markdown uses:
-  - Title line
-  - Dash separator line (mostly dashes/hyphens)
-  - Quote body (multi-paragraph, may be long)
-  - Attribution line(s) at the end (source, author, link)
-
-Output is meant for manual curation before feeding into processQuotes.py.
-
-Usage::
-
-    uv run python processNewQuotes.py
-    uv run python processNewQuotes.py path/to/input.md -o path/to/output.md
+Migrated from ``processNewQuotes.py``.  Uses ``format_tagged_quote`` from
+:mod:`adamsquotes.text_utils` for the output format, and all the structural
+heuristics from that module.
 """
 
 from __future__ import annotations
 
-import argparse
 import re
 from pathlib import Path
-from typing import Dict, List, Optional, Tuple
+from typing import Dict, List, Tuple
 
-
-# ── Helpers ─────────────────────────────────────────────────────────────────
-
-
-def _is_dash_line(line: str) -> bool:
-    """Return True if a line is mostly (80%+) dashes/hyphens."""
-    stripped = line.strip()
-    if len(stripped) < 3:
-        return False
-    dash_count = (
-        stripped.count("-") + stripped.count("\u2014") + stripped.count("\u2013")
-    )
-    return dash_count / max(len(stripped), 1) >= 0.8
-
-
-def _is_url(text: str) -> bool:
-    text = text.strip().strip("<>")
-    return bool(re.match(r"^https?://\S+$", text))
-
-
-def _contains_url(text: str) -> Optional[str]:
-    m = re.search(r"(https?://\S+)", text)
-    if m:
-        return m.group(1).rstrip(">")
-    return None
-
-
-def _is_italic_marker(text: str) -> bool:
-    """Lines wrapped in *asterisks* — common markdown for book titles."""
-    t = text.strip()
-    return t.startswith("*") and t.endswith("*") and len(t) > 4
-
-
-def _is_title_like(text: str) -> bool:
-    """True if the text structurally looks like a book/article title."""
-    t = text.strip()
-    if not t or len(t) > 60:
-        return False
-    if _ends_with_sentence_punct(t):
-        return False
-
-    small_words = {
-        "the",
-        "a",
-        "an",
-        "of",
-        "and",
-        "or",
-        "but",
-        "in",
-        "on",
-        "at",
-        "to",
-        "for",
-        "with",
-        "by",
-        "from",
-        "vol",
-        "ca",
-        "bc",
-        "ce",
-    }
-    words = t.split()
-    if not words:
-        return False
-
-    meaningful = 0
-    has_capitalized = False
-    for w in words:
-        if w[0].isupper():
-            has_capitalized = True
-            meaningful += 1
-        elif w.lower() in small_words or w.isdigit():
-            meaningful += 1
-
-    return has_capitalized and meaningful / len(words) >= 0.5
-
-
-def _ends_with_sentence_punct(text: str) -> bool:
-    """True if the text ends with sentence-ending punctuation (. ! ?)."""
-    t = text.strip()
-    if not t:
-        return False
-    # Strip a trailing quote mark so "purposes." is detected as ending.
-    t = t.rstrip('"').rstrip("'")
-    # URLs ending in slashes or brackets don't count
-    if t.endswith((".", "!", "?")):
-        # Common abbreviations that end with periods
-        abbrev_pattern = (
-            r"(?:vol|ed|pp?|ca|vs|et\s+al|dept|St|No|Dr|Mr|Ms|Mrs|fig|ch|sec)\.$"
-        )
-        if re.search(abbrev_pattern, t, re.IGNORECASE):
-            return False
-        # Numeric suffixes like "1929-1941." or "vol 1."
-        if re.search(r"(?:19|20)\d{2}\.-\d{4}\.?$", t):
-            return False
-        if re.search(r"\d+\.$", t):
-            return False
-        return True
-    return False
+from adamsquotes.text_utils import (
+    _clean_text,
+    _contains_url,
+    _is_dash_line,
+    _is_italic_marker,
+    _is_title_like,
+    _is_url,
+    _ends_with_sentence_punct,
+    _unwrap_paragraphs,
+    format_tagged_quote,
+)
 
 
 def _looks_like_attribution(line: str) -> bool:
@@ -133,61 +34,48 @@ def _looks_like_attribution(line: str) -> bool:
     if not L:
         return False
 
-    # URL-only lines are always attribution
     if _is_url(L):
         return True
 
-    # "From: http://..." style
     if L.lower().startswith("from:") and len(L) > 6:
         return True
 
-    # "Excerpt from" always attribution
     if "excerpt from" in L.lower():
         return True
 
-    # Italic-marked lines (*Book Title*) are attribution
     if _is_italic_marker(L):
         return True
 
-    # Short title-like lines (e.g. "Voyage of the Beagle", "Australians vol 1")
     if _is_title_like(L):
         return True
 
-    # Lines starting with dash/emdash prefix
     if re.match(r"^[-–—]\s*\w", L):
         return True
 
-    # "usr ixtl in https://" pattern
     if re.match(r"^usr\s+\w+\s+in\s+https?://", L):
         return True
 
-    # "-eeyore_ on reddit" pattern
     if L.startswith("-") and len(L) < 80:
         return True
 
-    # "username on website" pattern: short line (< 80), short first part
     if " on " in L.lower() and len(L) < 80:
         parts = L.lower().split(" on ", 1)
         if len(parts[0]) < 30 and parts[0].strip():
             return True
 
-    # Lines ending with a URL (no space after http)
     if re.search(r"https?://\S+$", L):
         return True
 
-    # Attribution lines are typically short and DON'T end with sentence punctuation
-    # But we need at least ONE additional structual signal to avoid eating quote text
     if len(L) <= 100 and not _ends_with_sentence_punct(L):
         signals = 0
         if "," in L:
             signals += 1
-        if re.search(r"\d{4}", L):  # year numbers
+        if re.search(r"\d{4}", L):
             signals += 1
-        if re.search(r"[A-Z][a-z]+(?:\s+[A-Z][a-z]+){2,}", L):  # 3+ capitalized words
+        if re.search(r"[A-Z][a-z]+(?:\s+[A-Z][a-z]+){2,}", L):
             signals += 1
         if L.startswith("*") or L.endswith("*"):
             signals += 1
-        # Single line of 2-3 capitalized words (name pattern, e.g. "Aldous Huxley")
         if re.match(r"^[A-Z][a-z]+(?:\s+[A-Z][a-z]+){1,2}$", L):
             signals += 1
         if signals >= 1:
@@ -201,11 +89,9 @@ def _parse_attribution_line(combined_text: str) -> Dict[str, str]:
     result: Dict[str, str] = {"source": "", "author": "", "link": ""}
     clean = combined_text.strip()
 
-    # Extract URLs first
     url = _contains_url(clean)
     if url:
         result["link"] = url
-        # Remove URL from the text to parse remaining
         clean = (
             clean
             .replace(url, "")
@@ -219,50 +105,38 @@ def _parse_attribution_line(combined_text: str) -> Dict[str, str]:
         if not clean:
             return result
 
-    # Strip structural markers
     clean = clean.strip("-–—*").strip()
 
-    # "X on Y" pattern → X is author, Y as source
     on_match = re.match(r"^(.+?)\s+on\s+(.+)$", clean)
     if on_match:
         result["author"] = on_match.group(1).strip()
         result["source"] = clean
         return result
 
-    # "usr X in Y" → X is author, Y is context
     usr_match = re.match(r"^usr\s+(\w+)\s+in\s+(.+)$", clean)
     if usr_match:
         result["author"] = usr_match.group(1)
         result["source"] = clean
         return result
 
-    # Single word/name with no comma → likely a bare author name (e.g. "Richard Feynman")
     if "," not in clean:
-        # Check if it looks like a person's name (2-3 capitalized words)
         name_pattern = r"^[A-Z][a-z]+(?:\s+[A-Z][a-z]+){1,2}$"
         if re.match(name_pattern, clean):
             result["author"] = clean
             return result
-        # Check for common online handles
         handle_pattern = r"^[a-zA-Z0-9_\-]+$"
         if re.match(handle_pattern, clean) and len(clean) > 2:
             result["author"] = clean
             return result
-        # Everything else short → source
         result["source"] = clean
         return result
 
-    # Comma-separated: try to split book vs author structurally
     parts = [p.strip() for p in clean.split(",", 1)]
     p0, p1 = parts[0], parts[1]
 
-    # Heuristics for which order: "Book, Author" vs "Author, Book"
-    # If first part starts with article → likely book
     if p0.startswith(("The ", "A ", "An ")):
         result["source"] = p0
         result["author"] = p1
-    # If first looks like a name (2-3 words, capitalized) and second looks like a name too
-    # Could be either. Check if second contains words typical of book titles
     elif p1.startswith((
         "The ",
         "A ",
@@ -278,15 +152,12 @@ def _parse_attribution_line(combined_text: str) -> Dict[str, str]:
         result["author"] = p0
         result["source"] = p1
     elif re.match(r"^[A-Z][a-z]+(?:\s+[A-Z][a-z]+){1,2}$", p0):
-        # p0 looks like a name → Author, Book
         result["author"] = p0
         result["source"] = p1
     elif re.match(r"^[A-Z][a-z]+(?:\s+[A-Z][a-z]+){1,2}$", p1):
-        # p1 looks like a name → Book, Author
         result["source"] = p0
         result["author"] = p1
     else:
-        # Can't tell — put everything in source
         result["source"] = clean
 
     return result
@@ -332,7 +203,6 @@ def _find_attribution(body_lines: List[str]) -> Tuple[List[str], List[str]]:
 
     attribution: List[str] = []
 
-    # Strip copyright protection notices
     if "this material may be protected by copyright" in lines[-1].strip().lower():
         lines.pop()
         while lines and not lines[-1].strip():
@@ -340,7 +210,6 @@ def _find_attribution(body_lines: List[str]) -> Tuple[List[str], List[str]]:
     if not lines:
         return [], attribution
 
-    # Detect "Excerpt from" blocks (scan from end)
     excerpt_idx = None
     for i in range(len(lines) - 1, -1, -1):
         if "excerpt from" in lines[i].strip().lower():
@@ -353,21 +222,18 @@ def _find_attribution(body_lines: List[str]) -> Tuple[List[str], List[str]]:
             quote_lines.pop()
         return quote_lines, attribution
 
-    # Peel trailing attribution lines using structural heuristics
-    # Allow up to 3 trailing lines to be attribution
     peeled: List[str] = []
     for i in range(len(lines) - 1, -1, -1):
         L = lines[i].strip()
         if not L:
             if peeled:
-                continue  # skip blank lines between attribution lines
+                continue
             continue
         if _looks_like_attribution(L):
             peeled.insert(0, L)
             if len(peeled) >= 3:
                 break
         elif peeled:
-            # We had started peeling but hit a non-attribution line — stop
             break
         else:
             break
@@ -403,7 +269,6 @@ def split_blocks(text: str) -> List[Dict[str, str]]:
             i += 1
             continue
 
-        # Title line is followed by a dash line
         if i + 1 < n and _is_dash_line(content[i + 1]):
             title = line
             i += 2
@@ -421,37 +286,6 @@ def split_blocks(text: str) -> List[Dict[str, str]]:
     return blocks
 
 
-def _clean_text(text: str) -> str:
-    """Remove spurious backslash escapes and unwrap hard-wrapped paragraphs."""
-    escape_remap = {
-        r"\'": "'",
-        r"\"": '"',
-        r"\--": "--",
-        r"\-": "-",
-        r"\#": "#",
-        r"\. . .": "...",
-        r"\.\.\.": "...",
-    }
-    for old, new in escape_remap.items():
-        text = text.replace(old, new)
-    return text
-
-
-def _unwrap_paragraphs(text: str) -> str:
-    """Join hard-wrapped lines into single paragraphs, preserving blank-line breaks."""
-    paragraphs = text.split("\n\n")
-    unwrapped: List[str] = []
-    for paragraph in paragraphs:
-        lines = [line.strip() for line in paragraph.splitlines()]
-        # Preserve lines that are structural (e.g. list items, blockquotes) or already short
-        if any(line.startswith((">", "-", "*", "#")) for line in lines if line):
-            unwrapped.append(paragraph)
-        else:
-            joined = " ".join(line for line in lines if line)
-            unwrapped.append(joined)
-    return "\n\n".join(unwrapped)
-
-
 def _build_quote_output(
     quote_text: str,
     source: str = "",
@@ -459,18 +293,8 @@ def _build_quote_output(
     link: str = "",
     note: str = "",
 ) -> str:
-    quote_text = _unwrap_paragraphs(_clean_text(quote_text))
-    source = _clean_text(source)
-    author = _clean_text(author)
-    link = _clean_text(link)
-    note = _clean_text(note)
-    return (
-        f"*quote:*\t{quote_text}\n"
-        f"*source:*\t{source}\n"
-        f"*author:*\t{author}\n"
-        f"*link:*\t{link}\n"
-        f"*note:*\t{note}\n"
-    )
+    """Format a single quote as tagged output, with cleaning and unwrapping."""
+    return format_tagged_quote(quote_text, source, author, link, note, clean=True)
 
 
 def process_file(input_path: Path, output_path: Path) -> None:
@@ -535,37 +359,3 @@ def process_file(input_path: Path, output_path: Path) -> None:
     )
     if errors:
         print(f"  {len(errors)} quote(s) with empty body")
-
-
-def _build_parser() -> argparse.ArgumentParser:
-    parser = argparse.ArgumentParser(
-        description="Process new_quotes_unprocessed.md format into tagged output.",
-    )
-    parser.add_argument(
-        "input",
-        nargs="?",
-        type=str,
-        default="markdown_quotes/new_quotes_unprocessed.md",
-        help="Path to the raw quotes markdown file.",
-    )
-    parser.add_argument(
-        "-o",
-        "--output",
-        type=str,
-        default="markdown_quotes/new_quotes_tagged.md",
-        help="Path for the output tagged markdown file.",
-    )
-    return parser
-
-
-def main() -> None:
-    parser = _build_parser()
-    args = parser.parse_args()
-    input_path = Path(args.input)
-    if input_path.suffix != ".md":
-        parser.error(f"Input file must have a .md suffix, got '{input_path.suffix}'")
-    process_file(input_path, Path(args.output))
-
-
-if __name__ == "__main__":
-    main()

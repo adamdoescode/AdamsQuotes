@@ -1,5 +1,5 @@
 """
-Tests for addTagsToRawQuotes.py — core logic and argparse interface,
+Tests for scripts/addTagsToRawQuotes.py — core logic and argparse interface,
 all without touching real files (except for an end-to-end snapshot test).
 """
 
@@ -7,7 +7,7 @@ from pathlib import Path
 
 import pytest
 
-from addTagsToRawQuotes import (
+from scripts.addTagsToRawQuotes import (
     process_raw_quotes,
     quote_handler,
     _write_quote,

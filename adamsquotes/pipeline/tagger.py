@@ -1,44 +1,23 @@
 """
-Add tags to raw quotes to produce a semi-processed markdown file.
+Pipeline stage 1: raw quotes → semi-processed tagged markdown.
 
-Takes a raw quotes file (markdown_quotes/sampleQuotesUnprocessed.md by default) and structures
-each quote block into tagged fields: *quote:*, *source:*, *author:*, *link:*, *note:*.
-
-The output is meant to be manually curated before feeding into processQuotes.py.
+Migrated from ``addTagsToRawQuotes.py``.  Uses ``format_tagged_quote`` from
+:mod:`adamsquotes.text_utils` for the output format.
 """
 
 from __future__ import annotations
 
-import argparse
 from pathlib import Path
 from typing import List
 
-# Known authors — handled case-insensitively, then titlecased in output
-KNOWN_AUTHORS: List[str] = [
-    "tim low",
-    "david foster wallace",
-    "steve silberman",
-    "jennifer doudna",
-    "mark twain",
-    "charles darwin",
-    "alastair reynolds",
-    "adam rutherford",
-    "david quammen",
-    "sam harris",
-]
+from adamsquotes.text_utils import (
+    _normalise_authors,
+    _detect_author,
+    format_tagged_quote,
+)
 
 
-def _normalise_authors() -> dict:
-    """Return a dict mapping lowercase author names to titlecase versions."""
-    return {a.lower(): a.title() for a in KNOWN_AUTHORS}
-
-
-def _detect_author(text: str, author_map: dict) -> str:
-    """Return the titlecased author name if found in text, else empty string."""
-    for lower_name, title_name in author_map.items():
-        if lower_name in text.lower():
-            return title_name
-    return ""
+# Note: KNOWN_AUTHORS is now in adamsquotes.types — used via _normalise_authors()
 
 
 def _write_quote(
@@ -49,15 +28,9 @@ def _write_quote(
     note_text: str,
 ) -> str:
     """Format a single quote into the tagged output string."""
-    lines = [
-        f"*quote:*\t{quote_text}",
-        f"*source:*\t{source_text}",
-        f"*author:*\t{author_text}",
-        f"*link:*\t{link_text}",
-        f"*note:*\t{note_text}",
-        "",  # blank line between quotes
-    ]
-    return "\n".join(lines)
+    return format_tagged_quote(
+        quote_text, source_text, author_text, link_text, note_text, clean=False
+    )
 
 
 def _process_ios_quote(lines: list[str], author_map: dict) -> dict:
@@ -115,15 +88,7 @@ def process_raw_quotes(raw_quote_text: str) -> str:
     Take raw markdown quote text and structure it with tags.
 
     Raw quotes are separated by '*quote*' (no colon).
-    Lines within each quote are assumed to be in order:
-        1. quote text
-        2. source
-        3. note
-
-    iOS-copied quotes (containing 'Excerpt from') are handled differently
-    to extract source from after that marker.
-
-    Links are identified by the presence of 'http' in a line.
+    Lines within each quote are assumed to be in order: quote text, source, note.
 
     Returns the tagged output as a string.
     """
@@ -136,7 +101,6 @@ def process_raw_quotes(raw_quote_text: str) -> str:
             continue
 
         lines = quote.splitlines()
-        # Remove empty lines
         lines = [line for line in lines if len(line.strip()) > 0]
         if not lines:
             continue
@@ -180,48 +144,3 @@ def quote_handler(
     output_path.write_text(tagged_output, encoding="utf-8")
 
     print(f"Processed: {input_path} -> {output_path}")
-
-
-def _build_parser() -> argparse.ArgumentParser:
-    """Build and return the CLI argument parser."""
-    parser = argparse.ArgumentParser(
-        description="Add tags to raw quotes to produce a semi-processed markdown file.",
-    )
-    parser.add_argument(
-        "input",
-        nargs="?",
-        type=str,
-        default="markdown_quotes/sampleQuotesUnprocessed.md",
-        help="Path to the raw quotes markdown file (default: markdown_quotes/sampleQuotesUnprocessed.md).",
-    )
-    parser.add_argument(
-        "-o",
-        "--output",
-        type=str,
-        default="markdown_quotes/sampleQuotesSemiProcessed.md",
-        help="Path for the output semi-processed markdown file (default: markdown_quotes/sampleQuotesSemiProcessed.md).",
-    )
-    return parser
-
-
-def argparse_entrypoint() -> None:
-    """
-    Argparse entrypoint function to be run when __name__ == '__main__'.
-
-    Parses CLI arguments and calls quote_handler to process the file.
-    """
-    parser = _build_parser()
-    args = parser.parse_args()
-
-    input_path = Path(args.input)
-    if input_path.suffix != ".md":
-        parser.error(f"Input file must have a .md suffix, got '{input_path.suffix}'")
-
-    quote_handler(
-        unprocessed_quotes=args.input,
-        output_file=args.output,
-    )
-
-
-if __name__ == "__main__":
-    argparse_entrypoint()

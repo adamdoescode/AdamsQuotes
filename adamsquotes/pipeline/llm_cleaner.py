@@ -1,25 +1,10 @@
 """
-Send chunks of a tagged quotes markdown file to an LLM for cleanup, then stitch
-responses back into a single markdown file.
+Pipeline stage 1.5: LLM cleanup of tagged markdown.
 
-The intended use is to fix residual formatting issues in files like
-``markdown_quotes/new_quotes_tagged.md`` that were produced by earlier,
-heuristic-based stages of the pipeline. The LLM is asked to return the same
-quotes, cleaned up and consistently formatted, without inventing new content.
+Migrated from ``processTaggedQuotesWithLLM.py``.
 
-Usage::
-
-    export OPENROUTER_API_KEY="sk-or-..."
-    uv run python processTaggedQuotesWithLLM.py
-    uv run python processTaggedQuotesWithLLM.py \
-        --input markdown_quotes/new_quotes_tagged.md \
-        --output markdown_quotes/new_quotes_llm_processed.md \
-        --model deepseek/deepseek-v4-flash \
-        --chunk-quotes 10
-
-The API key is read from the ``OPENROUTER_API_KEY`` environment variable, or
-from a ``.env`` file in the repository root (``OPENROUTER_API_KEY=sk-or-...``).
-The ``.env`` file is ignored by git so secrets are never committed.
+Sends chunks of a tagged quotes markdown file to an LLM via OpenRouter for
+cleanup, then stitches responses back into a single markdown file.
 """
 
 from __future__ import annotations
@@ -36,9 +21,6 @@ from dotenv import load_dotenv
 
 
 DEFAULT_MODEL = "deepseek/deepseek-v4-flash"
-DEFAULT_CHUNK_QUOTES = 10
-DEFAULT_CONCURRENCY = 5
-DEFAULT_INPUT = "markdown_quotes/new_quotes_tagged.md"
 DEFAULT_OUTPUT = "markdown_quotes/new_quotes_llm_processed.md"
 OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions"
 
@@ -81,71 +63,33 @@ def _build_parser() -> argparse.ArgumentParser:
     parser.add_argument(
         "--input",
         type=str,
-        default=DEFAULT_INPUT,
-        help=f"Path to the tagged markdown input file (default: {DEFAULT_INPUT}).",
+        default="markdown_quotes/new_quotes_tagged.md",
     )
-    parser.add_argument(
-        "--output",
-        type=str,
-        default=DEFAULT_OUTPUT,
-        help=f"Path for the cleaned markdown output file (default: {DEFAULT_OUTPUT}).",
-    )
-    parser.add_argument(
-        "--model",
-        type=str,
-        default=DEFAULT_MODEL,
-        help=f"OpenRouter model identifier (default: {DEFAULT_MODEL}).",
-    )
-    parser.add_argument(
-        "--chunk-quotes",
-        type=int,
-        default=DEFAULT_CHUNK_QUOTES,
-        help=f"Number of quotes to send per LLM request (default: {DEFAULT_CHUNK_QUOTES}).",
-    )
-    parser.add_argument(
-        "--max-retries",
-        type=int,
-        default=3,
-        help="Number of retries per failed API call (default: 3).",
-    )
-    parser.add_argument(
-        "--delay-seconds",
-        type=int,
-        default=1,
-        help="Delay between API calls in seconds (default: 1).",
-    )
-    parser.add_argument(
-        "--concurrency",
-        type=int,
-        default=DEFAULT_CONCURRENCY,
-        help=f"Maximum concurrent API requests (default: {DEFAULT_CONCURRENCY}).",
-    )
+    parser.add_argument("--output", type=str, default=DEFAULT_OUTPUT)
+    parser.add_argument("--model", type=str, default=DEFAULT_MODEL)
+    parser.add_argument("--chunk-quotes", type=int, default=10)
+    parser.add_argument("--max-retries", type=int, default=3)
+    parser.add_argument("--delay-seconds", type=int, default=1)
+    parser.add_argument("--concurrency", type=int, default=5)
     return parser
 
 
 def _read_chunks(input_path: Path, chunk_quotes: int) -> List[str]:
-    """Split the input file into chunks of ``chunk_quotes`` quotes each.
-
-    Chunks are aligned to quote boundaries so that no quote is split across two
-    chunks. A quote is assumed to start with a line beginning with ``*quote:*``.
-    """
+    """Split the input file into chunks of ``chunk_quotes`` quotes each."""
     text = input_path.read_text(encoding="utf-8")
     lines = text.splitlines()
 
-    # Find the starting line of each quote block.
     quote_indices = [
         i for i, line in enumerate(lines) if line.strip().startswith("*quote:*")
     ]
     if not quote_indices:
         raise ValueError(f"No *quote:* tags found in {input_path}")
 
-    # Append a sentinel representing the end of the file.
     quote_indices.append(len(lines))
 
     chunks: List[str] = []
     for i in range(0, len(quote_indices) - 1, chunk_quotes):
         start_line = quote_indices[i]
-        # End right before the next quote after this chunk, or the end of file.
         end_index = min(i + chunk_quotes, len(quote_indices) - 1)
         end_line = quote_indices[end_index]
         chunk_lines_subset = lines[start_line:end_line]
@@ -207,11 +151,9 @@ def _strip_code_fences(text: str) -> str:
     """Remove leading/trailing markdown code fences if the LLM added them."""
     stripped = text.strip()
     if stripped.startswith("```"):
-        # Drop the opening fence line.
         lines = stripped.splitlines()
         if lines[0].startswith("```"):
             lines = lines[1:]
-        # Drop the closing fence line if present.
         if lines and lines[-1].strip() == "```":
             lines = lines[:-1]
         elif lines and lines[-1].startswith("```"):
@@ -234,7 +176,7 @@ def _validate_stitched_output(output_text: str) -> None:
 
 
 def main() -> None:
-    # Load OPENROUTER_API_KEY from a local .env file if present.
+    """Run the LLM cleaner pipeline (parses CLI, processes chunks, writes output)."""
     load_dotenv()
 
     parser = _build_parser()
@@ -267,13 +209,14 @@ def main() -> None:
         async def _process_one(idx: int, chunk: str) -> None:
             async with semaphore:
                 print(f"Processing chunk {idx}/{len(chunks)}...")
-                cleaned = await _call_openrouter(
-                    session=session,
-                    api_key=api_key,
-                    model=args.model,
-                    user_content=chunk,
-                    max_retries=args.max_retries,
-                )
+                async with aiohttp.ClientSession() as session:
+                    cleaned = await _call_openrouter(
+                        session=session,
+                        api_key=api_key,
+                        model=args.model,
+                        user_content=chunk,
+                        max_retries=args.max_retries,
+                    )
                 cleaned_parts[idx - 1] = _strip_code_fences(cleaned)
                 if args.delay_seconds > 0:
                     await asyncio.sleep(args.delay_seconds)
