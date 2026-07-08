@@ -20,3 +20,6 @@ venv/
 
 # Dependencies
 uv.lock
+
+# Local environment secrets
+.env
