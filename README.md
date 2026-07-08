@@ -134,7 +134,7 @@ There's some further issues but I think they are bespoke enough that I should ju
 
 We'll see if that works! If I hit the context limit we'll look into feeding the markdown to Deepseek in async chunks for parsing. Certainly a pile of short requests should be *fast* if expensive (probably on the order of a few cents total).
 
-Welp, yeah it crashed out on me. That's when I built `adamsquotes-clean` (or equivalently `processTaggedQuotesWithLLM.py`) which calls deepseek via OpenRouter API to process the quotes in chunks.
+Welp, yeah it crashed out on me. That's when I built `adamsquotes-clean` (or equivalently `scripts/processTaggedQuotesWithLLM.py`) which calls deepseek via OpenRouter API to process the quotes in chunks.
 
 ## Original notes (December 2022, updated July 2026)
 

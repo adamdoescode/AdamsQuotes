@@ -1,5 +1,5 @@
 """
-Tests for processQuotes.py — core logic and argparse interface,
+Tests for scripts/processQuotes.py — core logic and argparse interface,
 all without touching real files (except tmp_path for main() integration).
 """
 
@@ -7,7 +7,7 @@ from pathlib import Path
 
 import pytest
 
-from processQuotes import Quote, ProcessQuotes, main
+from scripts.processQuotes import Quote, ProcessQuotes, main
 
 
 # ── Sample data ──────────────────────────────────────────────────────────────
@@ -288,21 +288,21 @@ class TestMainFunction:
 class TestCliArgparse:
     def test_argparse_accepts_md_file(self):
         """The argument parser accepts a --quotes_input with .md suffix."""
-        from processQuotes import parser as cli_parser
+        from scripts.processQuotes import parser as cli_parser
 
         args = cli_parser.parse_args(["--quotes_input", "test.md"])
         assert args.quotes_input == "test.md"
 
     def test_argparse_defaults(self):
         """Default values are set for both arguments."""
-        from processQuotes import parser as cli_parser
+        from scripts.processQuotes import parser as cli_parser
 
         args = cli_parser.parse_args([])
         assert args.quotes_input == "markdown_quotes/QuotesProcessed.md"
         assert args.output_html == "index.html"
 
     def test_argparse_custom_output(self):
-        from processQuotes import parser as cli_parser
+        from scripts.processQuotes import parser as cli_parser
 
         args = cli_parser.parse_args([
             "--quotes_input",
