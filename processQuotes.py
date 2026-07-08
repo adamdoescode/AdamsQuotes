@@ -117,7 +117,8 @@ def _build_parser() -> argparse.ArgumentParser:
 parser = _build_parser()
 
 
-if __name__ == "__main__":
+def _cli_main() -> None:
+    """Internal CLI entry point to avoid module-level side effects on import."""
     args = parser.parse_args()
 
     input_path = Path(args.quotes_input)
@@ -125,3 +126,7 @@ if __name__ == "__main__":
         parser.error(f"Input file must have a .md suffix, got '{input_path.suffix}'")
 
     main(quotes_input=input_path, output_html=args.output_html)
+
+
+if __name__ == "__main__":
+    _cli_main()
