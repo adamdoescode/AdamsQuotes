@@ -53,9 +53,7 @@ def _add_column_classes(table: str) -> str:
         if "<tr>" in line:
             column_counter = 0
         if "<td>" in line:
-            lines[index] = line.replace(
-                "<td>", f'<td class="column{column_counter}">'
-            )
+            lines[index] = line.replace("<td>", f'<td class="column{column_counter}">')
             column_counter += 1
         if column_counter > 2:
             print(f"columnCounter > 2, currently at {column_counter}")

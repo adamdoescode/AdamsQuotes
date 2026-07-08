@@ -25,10 +25,7 @@ def _build_parser() -> argparse.ArgumentParser:
         nargs="?",
         type=str,
         default=DEFAULT_RAW_INPUT,
-        help=(
-            f"Path to the raw quotes markdown file "
-            f"(default: {DEFAULT_RAW_INPUT})."
-        ),
+        help=(f"Path to the raw quotes markdown file (default: {DEFAULT_RAW_INPUT})."),
     )
     parser.add_argument(
         "-o",

@@ -93,7 +93,8 @@ def _parse_attribution_line(combined_text: str) -> Dict[str, str]:
     if url:
         result["link"] = url
         clean = (
-            clean.replace(url, "")
+            clean
+            .replace(url, "")
             .replace("<>", "")
             .strip()
             .strip(",")
@@ -137,8 +138,16 @@ def _parse_attribution_line(combined_text: str) -> Dict[str, str]:
         result["source"] = p0
         result["author"] = p1
     elif p1.startswith((
-        "The ", "A ", "An ", "Voyage", "Against", "Hackers",
-        "But You", "Lies", "History", "Rise",
+        "The ",
+        "A ",
+        "An ",
+        "Voyage",
+        "Against",
+        "Hackers",
+        "But You",
+        "Lies",
+        "History",
+        "Rise",
     )):
         result["author"] = p0
         result["source"] = p1
@@ -165,7 +174,10 @@ def _parse_excerpt_from(lines: List[str]) -> Dict[str, str]:
                     for k in range(j + 1, len(lines)):
                         if lines[k].strip():
                             ac = lines[k].strip().strip("*")
-                            if "copyright" not in ac.lower() and "protected" not in ac.lower():
+                            if (
+                                "copyright" not in ac.lower()
+                                and "protected" not in ac.lower()
+                            ):
                                 result["author"] = ac
                             break
                     break

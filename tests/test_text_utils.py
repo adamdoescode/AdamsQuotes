@@ -79,7 +79,7 @@ class TestCleanText:
         assert _clean_text(r"it\'s") == "it's"
 
     def test_removes_backslash_double_quote(self):
-        assert _clean_text(r'he said \"hello\"') == 'he said "hello"'
+        assert _clean_text(r"he said \"hello\"") == 'he said "hello"'
 
     def test_removes_backslash_dash(self):
         assert _clean_text(r"long\--dash") == "long--dash"

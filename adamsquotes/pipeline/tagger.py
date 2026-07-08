@@ -28,7 +28,9 @@ def _write_quote(
     note_text: str,
 ) -> str:
     """Format a single quote into the tagged output string."""
-    return format_tagged_quote(quote_text, source_text, author_text, link_text, note_text, clean=False)
+    return format_tagged_quote(
+        quote_text, source_text, author_text, link_text, note_text, clean=False
+    )
 
 
 def _process_ios_quote(lines: list[str], author_map: dict) -> dict:

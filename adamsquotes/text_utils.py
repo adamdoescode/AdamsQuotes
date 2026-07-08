@@ -111,9 +111,25 @@ def _is_title_like(text: str) -> bool:
         return False
 
     small_words = {
-        "the", "a", "an", "of", "and", "or", "but",
-        "in", "on", "at", "to", "for", "with", "by",
-        "from", "vol", "ca", "bc", "ce",
+        "the",
+        "a",
+        "an",
+        "of",
+        "and",
+        "or",
+        "but",
+        "in",
+        "on",
+        "at",
+        "to",
+        "for",
+        "with",
+        "by",
+        "from",
+        "vol",
+        "ca",
+        "bc",
+        "ce",
     }
     words = t.split()
     if not words:

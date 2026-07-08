@@ -298,7 +298,7 @@ class TestCliArgparse:
         from processQuotes import parser as cli_parser
 
         args = cli_parser.parse_args([])
-        assert args.quotes_input == "markdown_quotes/sampleQuotesProcessed.md"
+        assert args.quotes_input == "markdown_quotes/QuotesProcessed.md"
         assert args.output_html == "index.html"
 
     def test_argparse_custom_output(self):
