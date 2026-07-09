@@ -21,6 +21,7 @@ class Quote:
         note: A personal note or commentary about the quote.
         link: A URL for further reference (optional).
         author: The person who said or wrote the quote (optional).
+        tags: Semantic hashtags for searching and browsing.
         id_for_quote: A random 5-digit numeric ID used as the HTML anchor.
         title: A shortened version of the quote, used in the table of contents.
     """
@@ -30,6 +31,7 @@ class Quote:
     note: str = ""
     link: str = ""
     author: str = ""
+    tags: list[str] = field(default_factory=list)
     id_for_quote: int = field(default_factory=lambda: randint(10000, 99999))
     title: str = ""
 

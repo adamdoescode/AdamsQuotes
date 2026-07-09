@@ -16,6 +16,14 @@ from adamsquotes.pipeline.html_renderer import (
 )
 from tests.conftest import SAMPLE_MD, SAMPLE_HEADER
 
+SAMPLE_MD_WITH_TAGS = """*quote:*	Science is organized knowledge.
+*source:*	Example Source
+*author:*	Example Author
+*link:*	https://example.com
+*note:*	A note about the quote.
+*tags:*	#science #knowledge
+"""
+
 
 class TestParseQuotes:
     def test_parses_multiple_quotes(self):
@@ -50,6 +58,14 @@ class TestParseQuotes:
         quotes = parse_quotes(SAMPLE_MD)
         assert all(q.title != "" for q in quotes)
 
+    def test_parses_six_field_quotes_with_tags(self):
+        quotes = parse_quotes(SAMPLE_MD_WITH_TAGS)
+        assert quotes[0].tags == ["#science", "#knowledge"]
+
+    def test_legacy_five_field_quotes_have_empty_tags(self):
+        quotes = parse_quotes(SAMPLE_MD)
+        assert quotes[0].tags == []
+
 
 class TestRenderQuoteHtml:
     def test_basic_div_structure(self):
@@ -83,6 +99,12 @@ class TestRenderQuoteHtml:
         quotes = parse_quotes(SAMPLE_MD)
         html = render_quote_html(quotes[1])
         assert '<p class="note">' in html
+
+    def test_contains_tag_chips(self):
+        quote = parse_quotes(SAMPLE_MD_WITH_TAGS)[0]
+        html = render_quote_html(quote)
+        assert '<div class="quote-tags">' in html
+        assert '<span class="quote-tag">#science</span>' in html
 
 
 class TestRenderToc:
@@ -122,6 +144,14 @@ class TestGenerateHtml:
         quotes = parse_quotes(SAMPLE_MD)
         html = generate_html(quotes, SAMPLE_HEADER)
         assert html.startswith("<!DOCTYPE html>")
+
+    def test_real_header_includes_search_markup_and_script(self):
+        quotes = parse_quotes(SAMPLE_MD)
+        header = Path("Header.html").read_text(encoding="utf-8")
+        html = generate_html(quotes, header)
+        assert 'class="quoteSearchInput"' in html
+        assert "updateQuoteSearch" in html
+        assert 'document.querySelectorAll(".quote")' in html
 
 
 class TestWriteHtml:

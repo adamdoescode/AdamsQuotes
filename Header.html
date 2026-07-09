@@ -26,6 +26,20 @@
             </p>
         </div>
     </div>
+    <div class="quoteSearchDiv">
+        <form class="quoteSearchForm" role="search">
+            <label class="quoteSearchLabel" for="quoteSearchInput">Search quotes</label>
+            <input
+                class="quoteSearchInput"
+                id="quoteSearchInput"
+                type="search"
+                placeholder="Search quote text or #tags"
+                autocomplete="off"
+            >
+            <button class="quoteSearchClear" type="reset">Clear</button>
+            <p class="quoteSearchCount" aria-live="polite"></p>
+        </form>
+    </div>
     <div class="buttonDiv">
         <button class="hideTableOfContents">Hide Table of Contents</button>
     </div>
@@ -35,6 +49,47 @@
     <div class="quotesDiv">
         <!--quotes-->
     </div>
+    <script>
+        (function () {
+            function updateQuoteSearch() {
+                const input = document.querySelector(".quoteSearchInput");
+                const count = document.querySelector(".quoteSearchCount");
+                const quotes = Array.from(document.querySelectorAll(".quote"));
+                if (!input) {
+                    return;
+                }
+
+                const query = input.value.trim().toLowerCase();
+                let visibleCount = 0;
+                quotes.forEach((quote) => {
+                    const isMatch = !query || quote.textContent.toLowerCase().includes(query);
+                    quote.hidden = !isMatch;
+                    if (isMatch) {
+                        visibleCount += 1;
+                    }
+                });
+
+                if (count) {
+                    count.textContent = query
+                        ? `${visibleCount} matching quote${visibleCount === 1 ? "" : "s"}`
+                        : "";
+                }
+            }
+
+            document.addEventListener("DOMContentLoaded", () => {
+                const form = document.querySelector(".quoteSearchForm");
+                const input = document.querySelector(".quoteSearchInput");
+                if (!form || !input) {
+                    return;
+                }
+
+                input.addEventListener("input", updateQuoteSearch);
+                form.addEventListener("reset", () => {
+                    window.requestAnimationFrame(updateQuoteSearch);
+                });
+            });
+        }());
+    </script>
     <script src="index.js"></script>
 </body>
 </html>
