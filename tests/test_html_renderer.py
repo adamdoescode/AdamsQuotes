@@ -104,7 +104,10 @@ class TestRenderQuoteHtml:
         quote = parse_quotes(SAMPLE_MD_WITH_TAGS)[0]
         html = render_quote_html(quote)
         assert '<div class="quote-tags">' in html
-        assert '<span class="quote-tag">#science</span>' in html
+        assert (
+            '<a class="quote-tag" href="?tag=science"'
+            ' data-tag="#science">#science</a>'
+        ) in html
 
 
 class TestRenderToc:
@@ -151,6 +154,8 @@ class TestGenerateHtml:
         html = generate_html(quotes, header)
         assert 'class="quoteSearchInput"' in html
         assert "updateQuoteSearch" in html
+        assert "queryMatchesTag" in html
+        assert 'searchParams.set("tag"' in html
         assert 'document.querySelectorAll(".quote")' in html
 
 

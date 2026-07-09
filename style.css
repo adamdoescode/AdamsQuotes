@@ -182,8 +182,15 @@ em.p-title {
 .quote-tag {
     background-color: rgb(126, 210, 247);
     border: solid rgb(72, 137, 166) 0.2em;
+    color: inherit;
+    cursor: pointer;
     font-weight: 900;
     padding: 0.1em 0.4em;
+    text-decoration: none;
+}
+.quote-tag:focus,
+.quote-tag:hover {
+    text-decoration: underline;
 }
 .note {
     background-color: rgb(199, 103, 135);

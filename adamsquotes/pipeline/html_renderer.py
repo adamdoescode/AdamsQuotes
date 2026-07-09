@@ -9,6 +9,7 @@ from __future__ import annotations
 
 from pathlib import Path
 from typing import List
+from urllib.parse import quote as url_quote
 
 from adamsquotes.models import Quote
 
@@ -137,7 +138,11 @@ def render_quote_html(quote: Quote) -> str:
     if quote.tags:
         html += '  <div class="quote-tags">\n'
         for tag in quote.tags:
-            html += f'    <span class="quote-tag">{tag}</span>\n'
+            tag_query = tag.removeprefix("#")
+            html += (
+                f'    <a class="quote-tag" href="?tag={url_quote(tag_query)}"'
+                f' data-tag="{tag}">{tag}</a>\n'
+            )
         html += "  </div>\n"
     html += "</div>\n"
     return html
