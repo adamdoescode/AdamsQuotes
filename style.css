@@ -28,6 +28,36 @@ em.p-title {
     padding: 0.1em;
     margin: 0.5em;
 }
+.quoteSearchDiv {
+    display: flex;
+    justify-content: center;
+    margin: 0.5em;
+}
+.quoteSearchForm {
+    background-color: rgb(255, 101, 160);
+    border: solid rgb(226, 90, 135) 0.2em;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5em;
+    padding: 0.5em;
+}
+.quoteSearchLabel {
+    font-weight: 900;
+}
+.quoteSearchInput {
+    background-color: bisque;
+    border: solid black 1px;
+    min-width: min(24em, 100%);
+    padding: 0.2em;
+}
+.quoteSearchClear {
+    background-color: rgb(226, 132, 189);
+    border: solid black 1px;
+}
+.quoteSearchCount {
+    margin: 0;
+    width: 100%;
+}
 /* Styling for table of contents */
 .buttonDiv {
     display: flex;
@@ -143,10 +173,28 @@ em.p-title {
     padding: 0.1em;
     margin: 0.1em;
 }
+.quote-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4em;
+    margin: 0.5em;
+}
+.quote-tag {
+    background-color: rgb(126, 210, 247);
+    border: solid rgb(72, 137, 166) 0.2em;
+    color: inherit;
+    cursor: pointer;
+    font-weight: 900;
+    padding: 0.1em 0.4em;
+    text-decoration: none;
+}
+.quote-tag:focus,
+.quote-tag:hover {
+    text-decoration: underline;
+}
 .note {
     background-color: rgb(199, 103, 135);
     font-style: italic;
     padding: 0.1em;
     margin: 0.5em;
 }
-

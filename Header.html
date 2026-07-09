@@ -26,6 +26,20 @@
             </p>
         </div>
     </div>
+    <div class="quoteSearchDiv">
+        <form class="quoteSearchForm" role="search">
+            <label class="quoteSearchLabel" for="quoteSearchInput">Search quotes</label>
+            <input
+                class="quoteSearchInput"
+                id="quoteSearchInput"
+                type="search"
+                placeholder="Search quote text or #tags"
+                autocomplete="off"
+            >
+            <button class="quoteSearchClear" type="reset">Clear</button>
+            <p class="quoteSearchCount" aria-live="polite"></p>
+        </form>
+    </div>
     <div class="buttonDiv">
         <button class="hideTableOfContents">Hide Table of Contents</button>
     </div>
@@ -35,6 +49,100 @@
     <div class="quotesDiv">
         <!--quotes-->
     </div>
+    <script>
+        (function () {
+            function normalizeTag(value) {
+                const tag = value.trim().toLowerCase();
+                return tag.startsWith("#") ? tag : `#${tag}`;
+            }
+
+            function queryMatchesTag(query, quote) {
+                const tags = Array.from(quote.querySelectorAll(".quote-tag"));
+                return tags.some((tag) => tag.dataset.tag.toLowerCase() === query);
+            }
+
+            function updateUrlForQuery(query, pushUrl) {
+                const url = new URL(window.location.href);
+                if (query.startsWith("#")) {
+                    url.searchParams.set("tag", query.slice(1));
+                } else {
+                    url.searchParams.delete("tag");
+                }
+
+                const nextUrl = `${url.pathname}${url.search}${url.hash}`;
+                const updateHistory = pushUrl ? window.history.pushState : window.history.replaceState;
+                updateHistory.call(window.history, null, "", nextUrl);
+            }
+
+            function applyTagFromUrl(input) {
+                const tag = new URLSearchParams(window.location.search).get("tag");
+                input.value = tag ? normalizeTag(tag) : "";
+            }
+
+            function updateQuoteSearch(options = {}) {
+                const input = document.querySelector(".quoteSearchInput");
+                const count = document.querySelector(".quoteSearchCount");
+                const quotes = Array.from(document.querySelectorAll(".quote"));
+                if (!input) {
+                    return;
+                }
+
+                const query = input.value.trim().toLowerCase();
+                if (options.syncUrl) {
+                    updateUrlForQuery(query, options.pushUrl);
+                }
+
+                const isTagQuery = query.startsWith("#");
+                let visibleCount = 0;
+                quotes.forEach((quote) => {
+                    const isMatch = !query
+                        || (isTagQuery
+                            ? queryMatchesTag(query, quote)
+                            : quote.textContent.toLowerCase().includes(query));
+                    quote.hidden = !isMatch;
+                    if (isMatch) {
+                        visibleCount += 1;
+                    }
+                });
+
+                if (count) {
+                    count.textContent = query
+                        ? `${visibleCount} matching quote${visibleCount === 1 ? "" : "s"}`
+                        : "";
+                }
+            }
+
+            document.addEventListener("DOMContentLoaded", () => {
+                const form = document.querySelector(".quoteSearchForm");
+                const input = document.querySelector(".quoteSearchInput");
+                if (!form || !input) {
+                    return;
+                }
+
+                applyTagFromUrl(input);
+                updateQuoteSearch();
+
+                input.addEventListener("input", () => updateQuoteSearch({ syncUrl: true }));
+                form.addEventListener("reset", () => {
+                    window.requestAnimationFrame(() => updateQuoteSearch({ syncUrl: true }));
+                });
+                document.addEventListener("click", (event) => {
+                    const tag = event.target.closest(".quote-tag");
+                    if (!tag) {
+                        return;
+                    }
+
+                    event.preventDefault();
+                    input.value = normalizeTag(tag.dataset.tag || tag.textContent);
+                    updateQuoteSearch({ syncUrl: true, pushUrl: true });
+                });
+                window.addEventListener("popstate", () => {
+                    applyTagFromUrl(input);
+                    updateQuoteSearch();
+                });
+            });
+        }());
+    </script>
     <script src="index.js"></script>
 </body>
 </html>

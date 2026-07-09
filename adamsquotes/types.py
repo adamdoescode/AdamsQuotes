@@ -14,6 +14,7 @@ SOURCE_TAG: Final[str] = "*source:*"
 AUTHOR_TAG: Final[str] = "*author:*"
 LINK_TAG: Final[str] = "*link:*"
 NOTE_TAG: Final[str] = "*note:*"
+TAGS_TAG: Final[str] = "*tags:*"
 
 ALL_TAGS: Final[List[str]] = [
     QUOTE_TAG,
@@ -21,6 +22,7 @@ ALL_TAGS: Final[List[str]] = [
     AUTHOR_TAG,
     LINK_TAG,
     NOTE_TAG,
+    TAGS_TAG,
 ]
 
 # ── Known authors (case-insensitive, titlecased on output) ──────────────────

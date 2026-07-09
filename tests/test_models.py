@@ -49,6 +49,7 @@ class TestQuoteDataclass:
         assert q.note == ""
         assert q.link == ""
         assert q.author == ""
+        assert q.tags == []
         assert q.title == ""
 
     def test_id_is_five_digit_integer(self):

@@ -9,6 +9,7 @@ from __future__ import annotations
 
 from pathlib import Path
 from typing import List
+from urllib.parse import quote as url_quote
 
 from adamsquotes.models import Quote
 
@@ -23,6 +24,7 @@ def parse_quotes(text: str) -> List[Quote]:
         3. author
         4. link
         5. note (possibly multi-line)
+        6. tags (optional, space-separated hashtags)
 
     Args:
         text: The raw tagged markdown text.
@@ -33,11 +35,20 @@ def parse_quotes(text: str) -> List[Quote]:
     quotes: List[Quote] = []
     for raw_quote in text.split("*quote:*")[1:]:
         q = Quote()
-        q.quote = raw_quote.split("*source:*")[0].strip()
-        q.source = raw_quote.split("*source:*")[1].split("*author:*")[0].strip()
-        q.author = raw_quote.split("*author:*")[1].split("*link:*")[0].strip()
-        q.link = raw_quote.split("*link:*")[1].split("*note:*")[0].strip()
-        q.note = raw_quote.split("*note:*")[1].strip()
+        q.quote = raw_quote.split("*source:*", maxsplit=1)[0].strip()
+        after_source = raw_quote.split("*source:*", maxsplit=1)[1]
+        q.source = after_source.split("*author:*", maxsplit=1)[0].strip()
+        after_author = after_source.split("*author:*", maxsplit=1)[1]
+        q.author = after_author.split("*link:*", maxsplit=1)[0].strip()
+        after_link = after_author.split("*link:*", maxsplit=1)[1]
+        q.link = after_link.split("*note:*", maxsplit=1)[0].strip()
+        after_note = after_link.split("*note:*", maxsplit=1)[1]
+        if "*tags:*" in after_note:
+            note, tags = after_note.split("*tags:*", maxsplit=1)
+            q.note = note.strip()
+            q.tags = tags.strip().split()
+        else:
+            q.note = after_note.strip()
         q.generate_title()
         quotes.append(q)
     return quotes
@@ -124,6 +135,15 @@ def render_quote_html(quote: Quote) -> str:
             f'  <p class="link"><span class="tag-link">Link:</span>'
             f' <a class="tag-link-href" href="{quote.link}">{quote.link}<a></p>\n'
         )
+    if quote.tags:
+        html += '  <div class="quote-tags">\n'
+        for tag in quote.tags:
+            tag_query = tag.removeprefix("#")
+            html += (
+                f'    <a class="quote-tag" href="?tag={url_quote(tag_query)}"'
+                f' data-tag="{tag}">{tag}</a>\n'
+            )
+        html += "  </div>\n"
     html += "</div>\n"
     return html
 

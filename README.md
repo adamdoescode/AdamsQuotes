@@ -98,9 +98,21 @@ A URL for further reference (optional)
 *note:*
 A personal note or commentary about the quote,
 which can also span multiple lines.
+*tags:*
+Exactly two curated semantic hashtags, separated by a space.
 ```
 
 An example of a fully processed input file is `markdown_quotes/sampleQuotesProcessed.md`.
+
+Legacy files without `*tags:*` still render; those quotes simply have no tag chips.
+
+### Manual semantic tagging
+
+When asking ChatGPT to add semantic tags to a processed quote file, use these rules:
+- Read each quote and preserve all existing quote, source, author, link, and note text exactly.
+- Add one `*tags:*` field after each `*note:*` field.
+- Supply exactly two space-separated hashtags per quote.
+- Use semantic tags describing topics, themes, domains, or use cases, not generic labels like `#quote`.
 
 
 
@@ -108,7 +120,8 @@ An example of a fully processed input file is `markdown_quotes/sampleQuotesProce
 
 The script generates a standalone HTML page with:
 - A **table of contents** listing every quote title linked to its section on the page.
-- Each quote rendered in its own `<div class="quote">` with unique `id`, plus classes for the quote text, source, author, link, and any notes.
+- Each quote rendered in its own `<div class="quote">` with unique `id`, plus classes for the quote text, source, author, link, any notes, and semantic tag chips.
+- A static search box that filters quote cards by visible quote text, metadata, notes, or hashtags.
 - The HTML scaffold is provided by `Header.html` — edit that file to customise the page header/footer and styling.
 
 ## Workflow
