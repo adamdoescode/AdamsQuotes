@@ -1,5 +1,8 @@
 # Adam's collection of random quotes from whatever I've been reading
 
+[![Python 3.14+](https://img.shields.io/badge/python-3.14%2B-blue)](https://www.python.org/downloads/)
+[![GitHub Pages](https://github.com/adamdoescode/AdamsQuotes/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main)](https://github.com/adamdoescode/AdamsQuotes/actions/workflows/pages/pages-build-deployment)
+
 A simple project to pretty print my quotes collection to an HTML page.
 
 ## Quick start
