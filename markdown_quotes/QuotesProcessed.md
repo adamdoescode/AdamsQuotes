@@ -6425,3 +6425,2516 @@ To me, this points to a general willingness in the 538 model to just go "who kno
 *link:*	kindle://book?action=open&asin=B005TKD8ZK&location=1551
 *note:*	
 *tags:*	#sciencefiction #technology #WhatITalkAboutWhenITalkAboutRunningThebookthatmadeHarryStylesbelievehecouldrunamarathon #HarukiMurakamiandPhilipGabriel
+
+*quote:*	At least Mensah and Arada had overruled the ones who wanted to talk to me about it. Yes, talk to Murderbot about its feelings. The idea was so painful I dropped to 97 percent efficiency. I’d rather climb back into Hostile One’s mouth.
+*source:*	All Systems Red: The Murderbot Diaries
+*author:*	Martha Wells
+*link:*	kindle://book?action=open&asin=B01MYZ8X5C&location=312
+*note:*	
+*tags:*	#sciencefiction #technology #AllSystemsRedTheMurderbotDiaries #MarthaWells
+
+*quote:*	While my peers stayed up late and played video games, I built good sleep habits and went to bed early each night. In the messy world of a college dorm, I made a point to keep my room neat and tidy. These improvements were minor, but they gave me a sense of control over my life.
+*source:*	Atomic Habits: The life-changing million-copy #1 bestseller
+*author:*	James Clear
+*link:*	kindle://book?action=open&asin=B01N5AX61W&location=132
+*note:*	
+*tags:*	#sciencefiction #technology #AtomicHabitsThelifechangingmillioncopy1bestseller #JamesClear
+
+*quote:*	The backbone of this book is my four-step model of habits—cue, craving, response, and reward—and the four laws of behavior change that evolve out of these steps. Readers with a psychology background may recognize some of these terms from operant conditioning, which was first proposed as “stimulus, response, reward” by B. F. Skinner in the 1930s and has been popularized more recently as “cue, routine, reward” in The Power of Habit by Charles Duhigg.
+*source:*	Atomic Habits: The life-changing million-copy #1 bestseller
+*author:*	James Clear
+*link:*	kindle://book?action=open&asin=B01N5AX61W&location=188
+*note:*	
+*tags:*	#sciencefiction #technology #AtomicHabitsThelifechangingmillioncopy1bestseller #JamesClear
+
+*quote:*	Your outcomes are a lagging measure of your habits. Your net worth is a lagging measure of your financial habits. Your weight is a lagging measure of your eating habits. Your knowledge is a lagging measure of your learning habits. Your clutter is a lagging measure of your cleaning habits. You get what you repeat.
+*source:*	Atomic Habits: The life-changing million-copy #1 bestseller
+*author:*	James Clear
+*link:*	kindle://book?action=open&asin=B01N5AX61W&location=280
+*note:*	
+*tags:*	#sciencefiction #technology #AtomicHabitsThelifechangingmillioncopy1bestseller #JamesClear
+
+*quote:*	Achieving a goal only changes your life for the moment. That’s the counterintuitive thing about improvement. We think we need to change our results, but the results are not the problem. What we really need to change are the systems that cause those results.
+*source:*	Atomic Habits: The life-changing million-copy #1 bestseller
+*author:*	James Clear
+*link:*	kindle://book?action=open&asin=B01N5AX61W&location=390
+*note:*	
+*tags:*	#sciencefiction #technology #AtomicHabitsThelifechangingmillioncopy1bestseller #JamesClear
+
+*quote:*	On any given day, you may struggle with your habits because you’re too busy or too tired or too overwhelmed or hundreds of other reasons. Over the long run, however, the real reason you fail to stick with habits is that your self-image gets in the way. This is why you can’t get too attached to one version of your identity. Progress requires unlearning. Becoming the best version of yourself requires you to continuously edit your beliefs, and to upgrade and expand your identity.
+*source:*	Atomic Habits: The life-changing million-copy #1 bestseller
+*author:*	James Clear
+*link:*	kindle://book?action=open&asin=B01N5AX61W&location=526
+*note:*	
+*tags:*	#sciencefiction #technology #AtomicHabitsThelifechangingmillioncopy1bestseller #JamesClear
+
+*quote:*	Decide the type of person you want to be. Prove it to yourself with small wins.
+*source:*	Atomic Habits: The life-changing million-copy #1 bestseller
+*author:*	James Clear
+*link:*	kindle://book?action=open&asin=B01N5AX61W&location=575
+*note:*	
+*tags:*	#sciencefiction #technology #AtomicHabitsThelifechangingmillioncopy1bestseller #JamesClear
+
+*quote:*	What you crave is not the habit itself but the change in state it delivers. You do not crave smoking a cigarette, you crave the feeling of relief it provides. You are not motivated by brushing your teeth but rather by the feeling of a clean mouth. You do not want to turn on the television, you want to be entertained. Every craving is linked to a desire to change your internal state.
+*source:*	Atomic Habits: The life-changing million-copy #1 bestseller
+*author:*	James Clear
+*link:*	kindle://book?action=open&asin=B01N5AX61W&location=693
+*note:*	
+*tags:*	#sciencefiction #technology #AtomicHabitsThelifechangingmillioncopy1bestseller #JamesClear
+
+*quote:*	When they are in the wrong positions, it is nearly impossible. How to Create a Good Habit The 1st law (Cue) Make it obvious. The 2nd law (Craving) Make it attractive. The 3rd law (Response) Make it easy. The 4th law (Reward) Make it satisfying. We can invert these laws to learn how to break a bad habit. How to Break a Bad Habit Inversion of the 1st law (Cue) Make it invisible. Inversion of the 2nd law (Craving) Make it unattractive. Inversion of the 3rd law (Response) Make it difficult. Inversion of the 4th law (Reward) Make it unsatisfying.
+*source:*	Atomic Habits: The life-changing million-copy #1 bestseller
+*author:*	James Clear
+*link:*	kindle://book?action=open&asin=B01N5AX61W&location=748
+*note:*	
+*tags:*	#sciencefiction #technology #AtomicHabitsThelifechangingmillioncopy1bestseller #JamesClear
+
+*quote:*	Whenever you want to change your behavior, you can simply ask yourself: How can I make it obvious? How can I make it attractive? How can I make it easy? How can I make it satisfying?
+*source:*	Atomic Habits: The life-changing million-copy #1 bestseller
+*author:*	James Clear
+*link:*	kindle://book?action=open&asin=B01N5AX61W&location=763
+*note:*	
+*tags:*	#sciencefiction #technology #AtomicHabitsThelifechangingmillioncopy1bestseller #JamesClear
+
+*quote:*	Diderot Effect.
+*source:*	Atomic Habits: The life-changing million-copy #1 bestseller
+*author:*	James Clear
+*link:*	kindle://book?action=open&asin=B01N5AX61W&location=985
+*note:*	
+*tags:*	#sciencefiction #technology #AtomicHabitsThelifechangingmillioncopy1bestseller #JamesClear
+
+*quote:*	Many human behaviors follow this cycle. You often decide what to do next based on what you have just finished doing. Going to the bathroom leads to washing and drying your hands, which reminds you that you need to put the dirty towels in the laundry, so you add laundry detergent to the shopping list, and so on. No behavior happens in isolation. Each action becomes a cue that triggers the next behavior.
+*source:*	Atomic Habits: The life-changing million-copy #1 bestseller
+*author:*	James Clear
+*link:*	kindle://book?action=open&asin=B01N5AX61W&location=989
+*note:*	
+*tags:*	#sciencefiction #technology #AtomicHabitsThelifechangingmillioncopy1bestseller #JamesClear
+
+*quote:*	The habit stacking formula is: “After [CURRENT HABIT], I will [NEW HABIT].”
+*source:*	Atomic Habits: The life-changing million-copy #1 bestseller
+*author:*	James Clear
+*link:*	kindle://book?action=open&asin=B01N5AX61W&location=999
+*note:*	
+*tags:*	#sciencefiction #technology #AtomicHabitsThelifechangingmillioncopy1bestseller #JamesClear
+
+*quote:*	I live in New York City. My apartment is the size of a smartphone.
+*source:*	Atomic Habits: The life-changing million-copy #1 bestseller
+*author:*	James Clear
+*link:*	kindle://book?action=open&asin=B01N5AX61W&location=1213
+*note:*	
+*tags:*	#sciencefiction #technology #AtomicHabitsThelifechangingmillioncopy1bestseller #JamesClear
+
+*quote:*	It’s like the brain of each animal is preloaded with certain rules for behavior, and when it comes across an exaggerated version of that rule, it lights up like a Christmas tree. Scientists refer to these exaggerated cues as supernormal stimuli
+*source:*	Atomic Habits: The life-changing million-copy #1 bestseller
+*author:*	James Clear
+*link:*	kindle://book?action=open&asin=B01N5AX61W&location=1349
+*note:*	
+*tags:*	#sciencefiction #technology #AtomicHabitsThelifechangingmillioncopy1bestseller #JamesClear
+
+*quote:*	Humans are also prone to fall for exaggerated versions of reality. Junk food, for example, drives our reward systems into a frenzy. After spending hundreds of thousands of years hunting and foraging for food in the wild, the human brain has evolved to place a high value on salt, sugar, and fat.
+*source:*	Atomic Habits: The life-changing million-copy #1 bestseller
+*author:*	James Clear
+*link:*	kindle://book?action=open&asin=B01N5AX61W&location=1352
+*note:*	
+*tags:*	#sciencefiction #technology #AtomicHabitsThelifechangingmillioncopy1bestseller #JamesClear
+
+*quote:*	orosensation
+*source:*	Atomic Habits: The life-changing million-copy #1 bestseller
+*author:*	James Clear
+*link:*	kindle://book?action=open&asin=B01N5AX61W&location=1363
+*note:*	
+*tags:*	#sciencefiction #technology #AtomicHabitsThelifechangingmillioncopy1bestseller #JamesClear
+
+*quote:*	One of the most effective things you can do to build better habits is to join a culture where your desired behavior is the normal behavior. New habits seem achievable when you see others doing them every day. If you are surrounded by fit people, you’re more likely to consider working out to be a common habit. If you’re surrounded by jazz lovers, you’re more likely to believe it’s reasonable to play jazz every day. Your culture sets your expectation for what is “normal.” Surround yourself with people who have the habits you want to have yourself. You’ll rise together.
+*source:*	Atomic Habits: The life-changing million-copy #1 bestseller
+*author:*	James Clear
+*link:*	kindle://book?action=open&asin=B01N5AX61W&location=1561
+*note:*	
+*tags:*	#sciencefiction #technology #AtomicHabitsThelifechangingmillioncopy1bestseller #JamesClear
+
+*quote:*	Istiklal Caddesi.
+*source:*	Atomic Habits: The life-changing million-copy #1 bestseller
+*author:*	James Clear
+*link:*	kindle://book?action=open&asin=B01N5AX61W&location=1645
+*note:*	
+*tags:*	#sciencefiction #technology #AtomicHabitsThelifechangingmillioncopy1bestseller #JamesClear
+
+*quote:*	A craving is just a specific manifestation of a deeper underlying motive. Your brain did not evolve with a desire to smoke cigarettes or to check Instagram or to play video games. At a deep level, you simply want to reduce uncertainty and relieve anxiety, to win social acceptance and approval, or to achieve status.
+*source:*	Atomic Habits: The life-changing million-copy #1 bestseller
+*author:*	James Clear
+*link:*	kindle://book?action=open&asin=B01N5AX61W&location=1681
+*note:*	
+*tags:*	#sciencefiction #technology #AtomicHabitsThelifechangingmillioncopy1bestseller #JamesClear
+
+*quote:*	Finally, the black versus white backs of magpies, although the most dramatic and obvious of all differences (at least to the casual observer), may be a minor difference in terms of species designation (but not necessarily ‘minor’ for individual magpies).
+*source:*	Australian Magpie: Biology and Behaviour of an Unusual Songbird
+*author:*	Gisela Kaplan
+*link:*	kindle://book?action=open&asin=B07RBQP734&location=534
+*note:*	
+*tags:*	#sciencefiction #technology #AustralianMagpieBiologyandBehaviourofanUnusualSongbird #GiselaKaplan
+
+*quote:*	One of the obvious and self-evident descriptors of a bird is that it has feathers and can fly,
+*source:*	Australian Magpie: Biology and Behaviour of an Unusual Songbird
+*author:*	Gisela Kaplan
+*link:*	kindle://book?action=open&asin=B07RBQP734&location=629
+*note:*	
+*tags:*	#sciencefiction #technology #AustralianMagpieBiologyandBehaviourofanUnusualSongbird #GiselaKaplan
+
+*quote:*	integument.
+*source:*	Australian Magpie: Biology and Behaviour of an Unusual Songbird
+*author:*	Gisela Kaplan
+*link:*	kindle://book?action=open&asin=B07RBQP734&location=664
+*note:*	
+*tags:*	#sciencefiction #technology #AustralianMagpieBiologyandBehaviourofanUnusualSongbird #GiselaKaplan
+
+*quote:*	There are about 16 main designs of beak in birds, with a multitude of modifications and each form is congruent with the feeding niche that a species has evolved to occupy
+*source:*	Australian Magpie: Biology and Behaviour of an Unusual Songbird
+*author:*	Gisela Kaplan
+*link:*	kindle://book?action=open&asin=B07RBQP734&location=673
+*note:*	
+*tags:*	#sciencefiction #technology #AustralianMagpieBiologyandBehaviourofanUnusualSongbird #GiselaKaplan
+
+*quote:*	unlike the beaks of ravens and of currawongs, magpie bills are more slender and more pointed at the tip
+*source:*	Australian Magpie: Biology and Behaviour of an Unusual Songbird
+*author:*	Gisela Kaplan
+*link:*	kindle://book?action=open&asin=B07RBQP734&location=675
+*note:*	
+*tags:*	#sciencefiction #technology #AustralianMagpieBiologyandBehaviourofanUnusualSongbird #GiselaKaplan
+
+*quote:*	For a true ground feeder with extractive foraging habits the beak is ideally suited for piercing the ground, also capable of driving a wedge into relatively hard soil.
+*source:*	Australian Magpie: Biology and Behaviour of an Unusual Songbird
+*author:*	Gisela Kaplan
+*link:*	kindle://book?action=open&asin=B07RBQP734&location=676
+*note:*	
+*tags:*	#sciencefiction #technology #AustralianMagpieBiologyandBehaviourofanUnusualSongbird #GiselaKaplan
+
+*quote:*	the nestlings need to be fed to the throat rather than to the beak.
+*source:*	Australian Magpie: Biology and Behaviour of an Unusual Songbird
+*author:*	Gisela Kaplan
+*link:*	kindle://book?action=open&asin=B07RBQP734&location=679
+*note:*	
+*tags:*	#sciencefiction #technology #AustralianMagpieBiologyandBehaviourofanUnusualSongbird #GiselaKaplan
+
+*quote:*	As an ‘all purpose’ beak, it has of course more functions than this and reflects the fact that magpies use a variety of food types as shall be discussed in the next chapter.
+*source:*	Australian Magpie: Biology and Behaviour of an Unusual Songbird
+*author:*	Gisela Kaplan
+*link:*	kindle://book?action=open&asin=B07RBQP734&location=679
+*note:*	
+*tags:*	#sciencefiction #technology #AustralianMagpieBiologyandBehaviourofanUnusualSongbird #GiselaKaplan
+
+*quote:*	Melanin can also result in brown hues.
+*source:*	Australian Magpie: Biology and Behaviour of an Unusual Songbird
+*author:*	Gisela Kaplan
+*link:*	kindle://book?action=open&asin=B07RBQP734&location=693
+*note:*	
+*tags:*	#sciencefiction #technology #AustralianMagpieBiologyandBehaviourofanUnusualSongbird #GiselaKaplan
+
+*quote:*	In mammals, there are usually only seven cervical vertebrae, while in birds they range from 11 to as many as 24 (in swans, for instance).
+*source:*	Australian Magpie: Biology and Behaviour of an Unusual Songbird
+*author:*	Gisela Kaplan
+*link:*	kindle://book?action=open&asin=B07RBQP734&location=776
+*note:*	
+*tags:*	#sciencefiction #technology #AustralianMagpieBiologyandBehaviourofanUnusualSongbird #GiselaKaplan
+
+*quote:*	It appears that the magpie is the only cracticid species that has developed as a fully bipedal walker, in the manner of shorebirds and waders. By contrast, all other species in this family predominantly hop.
+*source:*	Australian Magpie: Biology and Behaviour of an Unusual Songbird
+*author:*	Gisela Kaplan
+*link:*	kindle://book?action=open&asin=B07RBQP734&location=800
+*note:*	
+*tags:*	#sciencefiction #technology #AustralianMagpieBiologyandBehaviourofanUnusualSongbird #GiselaKaplan
+
+*quote:*	The brain of the magpie is noteworthy for another reason. Magpies have large brains relative to body size and a large Wulst area, a trait apparently shared by most corvids but not as pronounced in other songbirds.
+*source:*	Australian Magpie: Biology and Behaviour of an Unusual Songbird
+*author:*	Gisela Kaplan
+*link:*	kindle://book?action=open&asin=B07RBQP734&location=881
+*note:*	
+*tags:*	#sciencefiction #technology #AustralianMagpieBiologyandBehaviourofanUnusualSongbird #GiselaKaplan
+
+*quote:*	The Australian sulphur-crested cockatoo and its close allies and the New Zealand kea, as well as some of the South American macaws, top the list of brain sizes relative to body sizes in birds in the world.
+*source:*	Australian Magpie: Biology and Behaviour of an Unusual Songbird
+*author:*	Gisela Kaplan
+*link:*	kindle://book?action=open&asin=B07RBQP734&location=918
+*note:*	
+*tags:*	#sciencefiction #technology #AustralianMagpieBiologyandBehaviourofanUnusualSongbird #GiselaKaplan
+
+*quote:*	Several studies have shown that a novel stimulus is more often viewed monocularly with the left eye rather than with the right eye.
+*source:*	Australian Magpie: Biology and Behaviour of an Unusual Songbird
+*author:*	Gisela Kaplan
+*link:*	kindle://book?action=open&asin=B07RBQP734&location=990
+*note:*	
+*tags:*	#sciencefiction #technology #AustralianMagpieBiologyandBehaviourofanUnusualSongbird #GiselaKaplan
+
+*quote:*	In an experiment with free-ranging magpies, we supplied the magpies with food by purposely throwing pieces of mincemeat in their direction and then scoring which eye they last used before taking and consuming it. Of 155 scores, 97% were left-eye dominant, meaning they involved left-eye viewing the moving target before food retrieval.
+*source:*	Australian Magpie: Biology and Behaviour of an Unusual Songbird
+*author:*	Gisela Kaplan
+*link:*	kindle://book?action=open&asin=B07RBQP734&location=1013
+*note:*	
+*tags:*	#sciencefiction #technology #AustralianMagpieBiologyandBehaviourofanUnusualSongbird #GiselaKaplan
+
+*quote:*	in many areas of Australia, magpies forage for scarab larvae, often known as Christmas beetles, a very destructive pest that causes damage to pastures during the larval stage, as well as to trees on emerging from the ground as flying beetles. Earlier research32 had shown that scarab larvae create no visual surface cues and that magpies are capable of detecting them by the sound they emit alone.
+*source:*	Australian Magpie: Biology and Behaviour of an Unusual Songbird
+*author:*	Gisela Kaplan
+*link:*	kindle://book?action=open&asin=B07RBQP734&location=1063
+*note:*	
+*tags:*	#sciencefiction #technology #AustralianMagpieBiologyandBehaviourofanUnusualSongbird #GiselaKaplan
+
+*quote:*	The larvae may pupate and emerge as beetles any time between November and March, i.e. larvae reach their full size at exactly the time when magpie offspring fledge (around September, sometimes earlier-depending on weather conditions) and make the greatest protein and food demands on the parent birds.
+*source:*	Australian Magpie: Biology and Behaviour of an Unusual Songbird
+*author:*	Gisela Kaplan
+*link:*	kindle://book?action=open&asin=B07RBQP734&location=1074
+*note:*	
+*tags:*	#sciencefiction #technology #AustralianMagpieBiologyandBehaviourofanUnusualSongbird #GiselaKaplan
+
+*quote:*	The researchers recorded the minute sounds of movements made by scarab larvae then, using very small speakers buried in the ground, they played back the recorded sounds. The magpies were able to detect the sounds, and locate and dig up the speakers!
+*source:*	Australian Magpie: Biology and Behaviour of an Unusual Songbird
+*author:*	Gisela Kaplan
+*link:*	kindle://book?action=open&asin=B07RBQP734&location=1245
+*note:*	
+*tags:*	#sciencefiction #technology #AustralianMagpieBiologyandBehaviourofanUnusualSongbird #GiselaKaplan
+
+*quote:*	Innovative feeding may also open up new food sources. For instance, currawongs and Torresian crows have been able to kill the poisonous cane toad and partly use as it as a novel food.
+*source:*	Australian Magpie: Biology and Behaviour of an Unusual Songbird
+*author:*	Gisela Kaplan
+*link:*	kindle://book?action=open&asin=B07RBQP734&location=1258
+*note:*	
+*tags:*	#sciencefiction #technology #AustralianMagpieBiologyandBehaviourofanUnusualSongbird #GiselaKaplan
+
+*quote:*	Red kite nest sites have been found to contain flags, handbags, magazine pages, tea towels, lottery tickets and socks
+*source:*	Australian Magpie: Biology and Behaviour of an Unusual Songbird
+*author:*	Gisela Kaplan
+*link:*	kindle://book?action=open&asin=B07RBQP734&location=1339
+*note:*	
+*tags:*	#sciencefiction #technology #AustralianMagpieBiologyandBehaviourofanUnusualSongbird #GiselaKaplan
+
+*quote:*	They may get a little area in someone else’s territory to rest and a daily pass within yet someone else’s territory to snatch a drink. I have seen such pairs in several geographical locations. The current ‘homeless’ pair has made one of the large palm pots on the balcony of our house their safe home base. They come and assess their pot every day, and the purpose of the visit is to check on their deposits and safeguard their cache. Indeed, since they have used this pot for storage for over a year now, it is probably best described as a larder.
+*source:*	Australian Magpie: Biology and Behaviour of an Unusual Songbird
+*author:*	Gisela Kaplan
+*link:*	kindle://book?action=open&asin=B07RBQP734&location=1379
+*note:*	
+*tags:*	#sciencefiction #technology #AustralianMagpieBiologyandBehaviourofanUnusualSongbird #GiselaKaplan
+
+*quote:*	Dunking may occur for very different reasons.39 The deferment of gratification (not eating the bread crumbs given but waiting for something better), is one reason why dunking has become an interesting behaviour in the literature. In a few species (such as ravens and herons) a morsel of bread is taken but not consumed and instead moved to a waterway and dropped close to shore where it eventually attracts small fish which are then procured by the bird.
+*source:*	Australian Magpie: Biology and Behaviour of an Unusual Songbird
+*author:*	Gisela Kaplan
+*link:*	kindle://book?action=open&asin=B07RBQP734&location=1399
+*note:*	
+*tags:*	#sciencefiction #technology #AustralianMagpieBiologyandBehaviourofanUnusualSongbird #GiselaKaplan
+
+*quote:*	Another feeding innovation by magpies has recently been discovered by Colin and Suzie Fairclough from Noggerup, south of Perth, Western Australia, that so far, I believe, has not been described in the literature. They noticed that magpies were searching in the bushes of native fuchsias, not at ground but at magpie eye level. The fuchsias produce beautiful long and tubular bells in bright red. They obviously also produce nectar because these flowers are regularly frequented by introduced honey bees. The bells are so long that the bee has to crawl completely inside the flower and only a little of its abdomen remains visible. In that position, they are quite vulnerable and incapable of responding to a predator by flight. The magpies have learned to wait until the bee is completely enveloped by the flower and then catch it by the abdomen, slowly move it to the ground where they wipe off the sting and then consume it
+*source:*	Australian Magpie: Biology and Behaviour of an Unusual Songbird
+*author:*	Gisela Kaplan
+*link:*	kindle://book?action=open&asin=B07RBQP734&location=1417
+*note:*	
+*tags:*	#sciencefiction #technology #AustralianMagpieBiologyandBehaviourofanUnusualSongbird #GiselaKaplan
+
+*quote:*	When speaking about foraging efficiency, there are at least four variables that are usually considered in research:42 (1) the time it takes to find and process food; (2) metabolic costs accrued for each foraging activity (foraging, processing, etc.); (3) the passage of time for one item to be processed and successfully dispatched and, (4) how nutritious the item might be and whether it warrants the energy expense. As a formula, the simplest form is:
+*source:*	Australian Magpie: Biology and Behaviour of an Unusual Songbird
+*author:*	Gisela Kaplan
+*link:*	kindle://book?action=open&asin=B07RBQP734&location=1462
+*note:*	
+*tags:*	#sciencefiction #technology #AustralianMagpieBiologyandBehaviourofanUnusualSongbird #GiselaKaplan
+
+*quote:*	The end result of a foraging activity should be, of course, that there is an energy gain overall for each prey item secured. However, if it takes a long time to complete one transaction, for little energy gain, the bird might still be deficient in its energy uptake even if the bird has foraged for hours.
+*source:*	Australian Magpie: Biology and Behaviour of an Unusual Songbird
+*author:*	Gisela Kaplan
+*link:*	kindle://book?action=open&asin=B07RBQP734&location=1466
+*note:*	
+*tags:*	#sciencefiction #technology #AustralianMagpieBiologyandBehaviourofanUnusualSongbird #GiselaKaplan
+
+*quote:*	It seems that magpies are extremely efficient foragers judging by the number of hours they spend roosting, preening, socialising, napping and playing. Indeed, outside the breeding season, we kept regular records of the birds’ time involvement in direct foraging acts and realised that magpies spend far fewer hours working to satisfy basic needs than their human counterparts!
+*source:*	Australian Magpie: Biology and Behaviour of an Unusual Songbird
+*author:*	Gisela Kaplan
+*link:*	kindle://book?action=open&asin=B07RBQP734&location=1468
+*note:*	
+*tags:*	#sciencefiction #technology #AustralianMagpieBiologyandBehaviourofanUnusualSongbird #GiselaKaplan
+
+*quote:*	Interestingly, they also often forage together. Even if the magpies look as though they are singly foraging, at least a second one will be nearby. Indeed, pairs often set out on the day together (Fig. 5.5). Magpies belong to the few ground-feeders that forage socially.
+*source:*	Australian Magpie: Biology and Behaviour of an Unusual Songbird
+*author:*	Gisela Kaplan
+*link:*	kindle://book?action=open&asin=B07RBQP734&location=1496
+*note:*	
+*tags:*	#sciencefiction #technology #AustralianMagpieBiologyandBehaviourofanUnusualSongbird #GiselaKaplan
+
+*quote:*	In some groups, at particular times of the year, magpie groups (at least half the group but often the entire group) start foraging together in a formation that is reminiscent of search and rescue missions in human emergency situations when, for instance, a child has gone missing in a park or wilderness and volunteers comb the area in close proximity to each other.
+*source:*	Australian Magpie: Biology and Behaviour of an Unusual Songbird
+*author:*	Gisela Kaplan
+*link:*	kindle://book?action=open&asin=B07RBQP734&location=1498
+*note:*	
+*tags:*	#sciencefiction #technology #AustralianMagpieBiologyandBehaviourofanUnusualSongbird #GiselaKaplan
+
+*quote:*	It is incorrect to believe that all magpies have territories. It is like human home ownership: while it may be desirable, only some achieve it and can retain it while many others miss out. The percentage of human home ownership is higher than that of magpie territory ownership but in both groups the percentage of the overall population claiming such a prized possession is declining and the properties are getting smaller.
+*source:*	Australian Magpie: Biology and Behaviour of an Unusual Songbird
+*author:*	Gisela Kaplan
+*link:*	kindle://book?action=open&asin=B07RBQP734&location=1664
+*note:*	
+*tags:*	#sciencefiction #technology #AustralianMagpieBiologyandBehaviourofanUnusualSongbird #GiselaKaplan
+
+*quote:*	Suffice it to say here that a description of territory is intertwined with group size and the group’s social composition which has almost as many variations as exist in human society. Magpies live as couples, some males have affairs, some couples ‘divorce’, others stay together for life and some form rather large groups with adults and juveniles from previous years and possibly including even some unrelated adults.
+*source:*	Australian Magpie: Biology and Behaviour of an Unusual Songbird
+*author:*	Gisela Kaplan
+*link:*	kindle://book?action=open&asin=B07RBQP734&location=1681
+*note:*	
+*tags:*	#sciencefiction #technology #AustralianMagpieBiologyandBehaviourofanUnusualSongbird #GiselaKaplan
+
+*quote:*	a pair that was in the middle of raising two fledged youngsters, the male suddenly disappeared and the female was struggling on her own to provide food for the two fledged offspring. Very unexpectedly, the male that had disappeared flew in a week or so later with two females in tow and immediately began to assume authority over the territory and these two new females. The female parent was initially confined to a small area in the territory with her two fledged offspring but such a semi-truce only lasted for a few days. After continual harassment the female and her two offspring were forced to leave altogether, facing a very uncertain future, almost certainly condemning the fledglings to death.
+*source:*	Australian Magpie: Biology and Behaviour of an Unusual Songbird
+*author:*	Gisela Kaplan
+*link:*	kindle://book?action=open&asin=B07RBQP734&location=1688
+*note:*	
+*tags:*	#sciencefiction #technology #AustralianMagpieBiologyandBehaviourofanUnusualSongbird #GiselaKaplan
+
+*quote:*	I have seen adult male magpies sneak away from their natal territory, on foot (even looking over their shoulders), at early morning hours to visit a female in the next territory, observations that have since been confirmed by detailed genetic studies.
+*source:*	Australian Magpie: Biology and Behaviour of an Unusual Songbird
+*author:*	Gisela Kaplan
+*link:*	kindle://book?action=open&asin=B07RBQP734&location=1693
+*note:*	
+*tags:*	#sciencefiction #technology #AustralianMagpieBiologyandBehaviourofanUnusualSongbird #GiselaKaplan
+
+*quote:*	there was the utterly unlikely story of four male magpies from different clutches that I had hand-raised together and who stayed together for life, after 10 years accepting one female into their group who then produced two offspring per year every year that were then raised jointly by all four males while the territory was extremely well defended against many incursions and birds of prey.
+*source:*	Australian Magpie: Biology and Behaviour of an Unusual Songbird
+*author:*	Gisela Kaplan
+*link:*	kindle://book?action=open&asin=B07RBQP734&location=1705
+*note:*	
+*tags:*	#sciencefiction #technology #AustralianMagpieBiologyandBehaviourofanUnusualSongbird #GiselaKaplan
+
+*quote:*	The other is a response to intruders and predators. Intruders may also be magpies that are not neighbours. It appears that white-backed magpies intruding into the territories held by hybrid or black-backed magpies are dealt with more severely than black-backed intruders,18 suggesting that plumage colour may play an additional role in territorial defence.
+*source:*	Australian Magpie: Biology and Behaviour of an Unusual Songbird
+*author:*	Gisela Kaplan
+*link:*	kindle://book?action=open&asin=B07RBQP734&location=1825
+*note:*	
+*tags:*	#sciencefiction #technology #AustralianMagpieBiologyandBehaviourofanUnusualSongbird #GiselaKaplan
+
+*quote:*	When a group is strong and has proved its mettle, it is usually sufficient, when having a neighbourly dispute, to voice a warning by a series of vocalisations referred to as carolling. One individual begins to emit the sounds and another one or two magpies join in chorus. The sound and structure of carolling is very distinct indeed (see Chapter 11). It has the sole function of proclaiming and confirming ownership of the territory and may also function as a reconfirmation of social bonds of the group.
+*source:*	Australian Magpie: Biology and Behaviour of an Unusual Songbird
+*author:*	Gisela Kaplan
+*link:*	kindle://book?action=open&asin=B07RBQP734&location=1830
+*note:*	
+*tags:*	#sciencefiction #technology #AustralianMagpieBiologyandBehaviourofanUnusualSongbird #GiselaKaplan
+
+*quote:*	The Kentucky Creek eventually consisted of just one waterhole, located in the central part of a territory belonging to one resident magpie family, which was known to have vigorously defended its territory over the previous five years. Two neighbouring groups now had no direct access to water. To my surprise, the magpies that had been so fiercely fighting for every inch of their territory over years suddenly stepped back and all the neighbouring groups were allowed to drink at the one remaining waterhole without the slightest conflict. It was a truce – the neighbours did not misuse the situation to gain more territory and the resident magpies made no single attempt to drive them away. All three residential magpie groups survived the drought years because of this ability to set aside normal rules applying at good times.
+*source:*	Australian Magpie: Biology and Behaviour of an Unusual Songbird
+*author:*	Gisela Kaplan
+*link:*	kindle://book?action=open&asin=B07RBQP734&location=1889
+*note:*	
+*tags:*	#sciencefiction #technology #AustralianMagpieBiologyandBehaviourofanUnusualSongbird #GiselaKaplan
+
+*quote:*	when I see princess parrots or budgerigars a water source is a maximum of 10 km away, for zebra finches it is 2 km.
+*source:*	Australian Magpie: Biology and Behaviour of an Unusual Songbird
+*author:*	Gisela Kaplan
+*link:*	kindle://book?action=open&asin=B07RBQP734&location=1906
+*note:*	
+*tags:*	#sciencefiction #technology #AustralianMagpieBiologyandBehaviourofanUnusualSongbird #GiselaKaplan
+
+*quote:*	In a test case, male magpies that were caponised (effectively the same as castrated) still retained their territory for years.
+*source:*	Australian Magpie: Biology and Behaviour of an Unusual Songbird
+*author:*	Gisela Kaplan
+*link:*	kindle://book?action=open&asin=B07RBQP734&location=2015
+*note:*	
+*tags:*	#sciencefiction #technology #AustralianMagpieBiologyandBehaviourofanUnusualSongbird #GiselaKaplan
+
+*quote:*	A sentinel choosing a vantage point. Note the stretched neck and erect posture, typical for vigilance behaviour.
+*source:*	Australian Magpie: Biology and Behaviour of an Unusual Songbird
+*author:*	Gisela Kaplan
+*link:*	kindle://book?action=open&asin=B07RBQP734&location=2024
+*note:*	
+*tags:*	#sciencefiction #technology #AustralianMagpieBiologyandBehaviourofanUnusualSongbird #GiselaKaplan
+
+*quote:*	We do not readily appreciate how precious breeding birds are until we learn from the statistics that most never breed.
+*source:*	Australian Magpie: Biology and Behaviour of an Unusual Songbird
+*author:*	Gisela Kaplan
+*link:*	kindle://book?action=open&asin=B07RBQP734&location=2062
+*note:*	
+*tags:*	#sciencefiction #technology #AustralianMagpieBiologyandBehaviourofanUnusualSongbird #GiselaKaplan
+
+*quote:*	It is often assumed that any bird reaching sexual maturity will seek a partner and mate, raise offspring and do so year after year until some mishap or the reduction in reproductive ability stops that individual from reproducing. This is a myth. Evidence is plentiful that in some species over three-quarters of the individuals will not reproduce at all across a life span.
+*source:*	Australian Magpie: Biology and Behaviour of an Unusual Songbird
+*author:*	Gisela Kaplan
+*link:*	kindle://book?action=open&asin=B07RBQP734&location=2066
+*note:*	
+*tags:*	#sciencefiction #technology #AustralianMagpieBiologyandBehaviourofanUnusualSongbird #GiselaKaplan
+
+*quote:*	We do not even know how magpie pairs typically meet.
+*source:*	Australian Magpie: Biology and Behaviour of an Unusual Songbird
+*author:*	Gisela Kaplan
+*link:*	kindle://book?action=open&asin=B07RBQP734&location=2089
+*note:*	
+*tags:*	#sciencefiction #technology #AustralianMagpieBiologyandBehaviourofanUnusualSongbird #GiselaKaplan
+
+*quote:*	What is clear, though, is that some magpie pairs may form long-lasting pair bonds and possibly even life-bonds and that some also appear to be monogamous, although evidence is mounting that high extra-pair mating rates occur regularly in magpies, in some places even at an astounding rate.
+*source:*	Australian Magpie: Biology and Behaviour of an Unusual Songbird
+*author:*	Gisela Kaplan
+*link:*	kindle://book?action=open&asin=B07RBQP734&location=2116
+*note:*	
+*tags:*	#sciencefiction #technology #AustralianMagpieBiologyandBehaviourofanUnusualSongbird #GiselaKaplan
+
+*quote:*	where magpies do not only engage in extra-pair matings but the female may actually lay her eggs in another female’s nest.19 This behaviour, more akin to that of a cuckoo female, raises many new questions.
+*source:*	Australian Magpie: Biology and Behaviour of an Unusual Songbird
+*author:*	Gisela Kaplan
+*link:*	kindle://book?action=open&asin=B07RBQP734&location=2139
+*note:*	
+*tags:*	#sciencefiction #technology #AustralianMagpieBiologyandBehaviourofanUnusualSongbird #GiselaKaplan
+
+*quote:*	At different sites that I inspected, the depth of some magpie nests led to additional occupancy by striated pardalotes, who dug a small tunnel into the lower part of the structure and lined it inside, thereby simultaneously achieving a safe and warm nest with roof. There was no attempt by the attending adult magpies to remove them and at no time during the breeding period did a magpie show any inclination to examine or intercept any of the pardalotes’ activities within the lower tip of their nest.
+*source:*	Australian Magpie: Biology and Behaviour of an Unusual Songbird
+*author:*	Gisela Kaplan
+*link:*	kindle://book?action=open&asin=B07RBQP734&location=2215
+*note:*	
+*tags:*	#sciencefiction #technology #AustralianMagpieBiologyandBehaviourofanUnusualSongbird #GiselaKaplan
+
+*quote:*	It is difficult to think of a context in which the magpie’s spectacular and conspicuous plumage could offer camouflage by day. It may be useful at night, however. The dappled light in trees hides a black bird well and perhaps particularly well if the shape is broken up by white patches that then may appear as pools of light.
+*source:*	Australian Magpie: Biology and Behaviour of an Unusual Songbird
+*author:*	Gisela Kaplan
+*link:*	kindle://book?action=open&asin=B07RBQP734&location=2288
+*note:*	
+*tags:*	#sciencefiction #technology #AustralianMagpieBiologyandBehaviourofanUnusualSongbird #GiselaKaplan
+
+*quote:*	Of late, however, the old incompatibility and compatibility hypotheses have given way to a slightly more open approach suggesting that some birds can actually like each other and are compatible for very individual reasons. As one recent study of zebra finch partnering behaviour found, coupling up pairs randomly (and without the birds’ consent and wish) had poor results.
+*source:*	Australian Magpie: Biology and Behaviour of an Unusual Songbird
+*author:*	Gisela Kaplan
+*link:*	kindle://book?action=open&asin=B07RBQP734&location=2323
+*note:*	
+*tags:*	#sciencefiction #technology #AustralianMagpieBiologyandBehaviourofanUnusualSongbird #GiselaKaplan
+
+*quote:*	Apart from extended attention to sun and water, as a rule of thumb, one of the most remarkable and sustained activities at times of leisure is singing.
+*source:*	Australian Magpie: Biology and Behaviour of an Unusual Songbird
+*author:*	Gisela Kaplan
+*link:*	kindle://book?action=open&asin=B07RBQP734&location=2952
+*note:*	
+*tags:*	#sciencefiction #technology #AustralianMagpieBiologyandBehaviourofanUnusualSongbird #GiselaKaplan
+
+*quote:*	Magpie songs not only have no obvious function, at least none has been found to date, but song is not even sex specific, i.e. not a prerogative of the male.
+*source:*	Australian Magpie: Biology and Behaviour of an Unusual Songbird
+*author:*	Gisela Kaplan
+*link:*	kindle://book?action=open&asin=B07RBQP734&location=2955
+*note:*	
+*tags:*	#sciencefiction #technology #AustralianMagpieBiologyandBehaviourofanUnusualSongbird #GiselaKaplan
+
+*quote:*	The longest continuous song I have ever recorded was 6 hours long, without interruption or break.
+*source:*	Australian Magpie: Biology and Behaviour of an Unusual Songbird
+*author:*	Gisela Kaplan
+*link:*	kindle://book?action=open&asin=B07RBQP734&location=2965
+*note:*	
+*tags:*	#sciencefiction #technology #AustralianMagpieBiologyandBehaviourofanUnusualSongbird #GiselaKaplan
+
+*quote:*	Suffice it to say here that the melodious song is for the singer, not for an audience or any obvious purpose. Of course, for any human eavesdroppers it is a free concert of the nicest kind.
+*source:*	Australian Magpie: Biology and Behaviour of an Unusual Songbird
+*author:*	Gisela Kaplan
+*link:*	kindle://book?action=open&asin=B07RBQP734&location=2997
+*note:*	
+*tags:*	#sciencefiction #technology #AustralianMagpieBiologyandBehaviourofanUnusualSongbird #GiselaKaplan
+
+*quote:*	One adult discovered our Hills Hoist washing line and was hanging from one of the clotheslines and I discovered that I could push the hoist around while the bird was hanging on. It became a game we played and, evidently, the bird enjoyed the free rides and regularly came back for more.
+*source:*	Australian Magpie: Biology and Behaviour of an Unusual Songbird
+*author:*	Gisela Kaplan
+*link:*	kindle://book?action=open&asin=B07RBQP734&location=3031
+*note:*	
+*tags:*	#sciencefiction #technology #AustralianMagpieBiologyandBehaviourofanUnusualSongbird #GiselaKaplan
+
+*quote:*	Magpies belong to only a very select number of avian species so far known that engage in extensive play behaviour in all three categories as juveniles and even into adulthood. Parrots and cockatoos have an extensive social and individual play repertoire but there are few other avian species, apart from some corvids, with these traits.
+*source:*	Australian Magpie: Biology and Behaviour of an Unusual Songbird
+*author:*	Gisela Kaplan
+*link:*	kindle://book?action=open&asin=B07RBQP734&location=3056
+*note:*	
+*tags:*	#sciencefiction #technology #AustralianMagpieBiologyandBehaviourofanUnusualSongbird #GiselaKaplan
+
+*quote:*	More unusually, magpies may engage in cross-species play. Hand-raised magpies may playfully engage with human adults. Playing games with shoelaces is a favourite sport and these get ‘attacked’ and pulled. Probably the most famous case is a YouTube video of a magpie playing with a Jack Russell and apparently doing so on a regular basis.
+*source:*	Australian Magpie: Biology and Behaviour of an Unusual Songbird
+*author:*	Gisela Kaplan
+*link:*	kindle://book?action=open&asin=B07RBQP734&location=3071
+*note:*	
+*tags:*	#sciencefiction #technology #AustralianMagpieBiologyandBehaviourofanUnusualSongbird #GiselaKaplan
+
+*quote:*	Intimidation encounters of this kind, and the range of responses available to the subordinate magpie, have also been described for magpies in New Zealand.
+*source:*	Australian Magpie: Biology and Behaviour of an Unusual Songbird
+*author:*	Gisela Kaplan
+*link:*	kindle://book?action=open&asin=B07RBQP734&location=3158
+*note:*	
+*tags:*	#sciencefiction #technology #AustralianMagpieBiologyandBehaviourofanUnusualSongbird #GiselaKaplan
+
+*quote:*	One man from the Canberra region rang to let me know rather excitedly that a group of magpies was ‘holding court’. He said that he had never seen anything like it and could not believe his eyes but the behaviour he was going to describe to me, he had observed once. He explained that a large group of magpies (between 10 and 20) gathered in a semicircle on the ground, all facing a single magpie at the middle of the diameter of the semicircle. The individual magpie, so he said, showed fear but did not attempt to fly away. Then magpies would start stepping forward individually one by one and peck the individual quite hard. One after the other did so and when everyone in the front row of the semicircle had had a peck at the singled-out individual they flew away, leaving the injured and defeated individual behind.
+*source:*	Australian Magpie: Biology and Behaviour of an Unusual Songbird
+*author:*	Gisela Kaplan
+*link:*	kindle://book?action=open&asin=B07RBQP734&location=3165
+*note:*	
+*tags:*	#sciencefiction #technology #AustralianMagpieBiologyandBehaviourofanUnusualSongbird #GiselaKaplan
+
+*quote:*	In the literature, this term is reserved for those events and species where proof exists that not only are birds other than the parents at the nest site of a new clutch but are actively helping in feeding them. In many magpie groups this is indeed the case and much has been written about the magpie brand of cooperative behaviour.27,28 Indeed, it was said before that, worldwide, less than 3% of songbirds are cooperative within this definition29 but, in Australia, that number jumps to 22% or 115 identified species.
+*source:*	Australian Magpie: Biology and Behaviour of an Unusual Songbird
+*author:*	Gisela Kaplan
+*link:*	kindle://book?action=open&asin=B07RBQP734&location=3209
+*note:*	
+*tags:*	#sciencefiction #technology #AustralianMagpieBiologyandBehaviourofanUnusualSongbird #GiselaKaplan
+
+*quote:*	‘Cooperative’ behaviour has been earmarked for reproduction but cooperative behaviour in magpies is actually at its strongest and most consistent in territorial defence.
+*source:*	Australian Magpie: Biology and Behaviour of an Unusual Songbird
+*author:*	Gisela Kaplan
+*link:*	kindle://book?action=open&asin=B07RBQP734&location=3241
+*note:*	
+*tags:*	#sciencefiction #technology #AustralianMagpieBiologyandBehaviourofanUnusualSongbird #GiselaKaplan
+
+*quote:*	Basically, the question is: how do they do it?
+*source:*	Australian Magpie: Biology and Behaviour of an Unusual Songbird
+*author:*	Gisela Kaplan
+*link:*	kindle://book?action=open&asin=B07RBQP734&location=3335
+*note:*	
+*tags:*	#sciencefiction #technology #AustralianMagpieBiologyandBehaviourofanUnusualSongbird #GiselaKaplan
+
+*quote:*	There has been little direct experimentation to test whether calls are learnt or not but some field observations might lead us to suggest that at least some calls are learnt – those that are used in communication.
+*source:*	Australian Magpie: Biology and Behaviour of an Unusual Songbird
+*author:*	Gisela Kaplan
+*link:*	kindle://book?action=open&asin=B07RBQP734&location=3499
+*note:*	
+*tags:*	#sciencefiction #technology #AustralianMagpieBiologyandBehaviourofanUnusualSongbird #GiselaKaplan
+
+*quote:*	In magpies, interaction with a parent or adult group may make vocal copying possible but all indications are that copying from parents is suppressed and song practice has to take place when parents are well away from the nest (Fig. 10.7). Thus, unlike many songbirds, magpie youngsters do not learn directly from their parents and, for whatever inherent reasons, nestlings will not vocalise and practise until parents are well outside the visual field.
+*source:*	Australian Magpie: Biology and Behaviour of an Unusual Songbird
+*author:*	Gisela Kaplan
+*link:*	kindle://book?action=open&asin=B07RBQP734&location=3541
+*note:*	
+*tags:*	#sciencefiction #technology #AustralianMagpieBiologyandBehaviourofanUnusualSongbird #GiselaKaplan
+
+*quote:*	Magpies do not string their mimicked sequence along a fixed sequence as lyrebirds do but intersperse their own song with snippets in any manner possible.
+*source:*	Australian Magpie: Biology and Behaviour of an Unusual Songbird
+*author:*	Gisela Kaplan
+*link:*	kindle://book?action=open&asin=B07RBQP734&location=3615
+*note:*	
+*tags:*	#sciencefiction #technology #AustralianMagpieBiologyandBehaviourofanUnusualSongbird #GiselaKaplan
+
+*quote:*	Lyrebirds sounded elegant, loud, melodious and utterly convincing to the human ear, including also to some local species such as kookaburras that actually often reply to passages of their song being mimicked.
+*source:*	Australian Magpie: Biology and Behaviour of an Unusual Songbird
+*author:*	Gisela Kaplan
+*link:*	kindle://book?action=open&asin=B07RBQP734&location=3625
+*note:*	
+*tags:*	#sciencefiction #technology #AustralianMagpieBiologyandBehaviourofanUnusualSongbird #GiselaKaplan
+
+*quote:*	a magpie had learned to use the name of a dog on a property in New South Wales. The owners also had a cat that had tried everything to get rid of the magpie. When the cat approached, the magpie did not fly away but called out the name of the dog; the dog came running and chased the cat away. Calling the dog was not mimicry any longer but a most effective way to use the dog’s name.
+*source:*	Australian Magpie: Biology and Behaviour of an Unusual Songbird
+*author:*	Gisela Kaplan
+*link:*	kindle://book?action=open&asin=B07RBQP734&location=3658
+*note:*	
+*tags:*	#sciencefiction #technology #AustralianMagpieBiologyandBehaviourofanUnusualSongbird #GiselaKaplan
+
+*quote:*	The category that was most contentious, is now well established. It is called intentional communication, i.e. expressing vocally an intention to inform others about something and something very specific. For both sender and recipient it means that the sender needs to have someone in mind and for the recipient to understand that the message may contain information of importance and may even require anticipatory thinking. Most often, this is studied in referential signals (discussed below).
+*source:*	Australian Magpie: Biology and Behaviour of an Unusual Songbird
+*author:*	Gisela Kaplan
+*link:*	kindle://book?action=open&asin=B07RBQP734&location=3795
+*note:*	
+*tags:*	#sciencefiction #technology #AustralianMagpieBiologyandBehaviourofanUnusualSongbird #GiselaKaplan
+
+*quote:*	In magpies, feathers are used for subtle signals during very close interactions. Signals, issued
+*source:*	Australian Magpie: Biology and Behaviour of an Unusual Songbird
+*author:*	Gisela Kaplan
+*link:*	kindle://book?action=open&asin=B07RBQP734&location=3834
+*note:*	
+*tags:*	#sciencefiction #technology #AustralianMagpieBiologyandBehaviourofanUnusualSongbird #GiselaKaplan
+
+*quote:*	Facial expression may also play a part in communication. The idea of a bird having a ‘face’ may seem odd – a face is something usually reserved for humans, or at least mammals, and is usually denied birds, with some exceptions.10 Facial expression is achieved by independent positioning of feathers below or above the beak, on the flanks of the head, on top of the head (the crown), at the nape of the neck and, in some species, the feathers above the eyes can also move independently from other feathers. Magpies do not have a crest (as do cockatoos) but they can ruffle their flank feathers to express rising anger and possible attack.
+*source:*	Australian Magpie: Biology and Behaviour of an Unusual Songbird
+*author:*	Gisela Kaplan
+*link:*	kindle://book?action=open&asin=B07RBQP734&location=3844
+*note:*	
+*tags:*	#sciencefiction #technology #AustralianMagpieBiologyandBehaviourofanUnusualSongbird #GiselaKaplan
+
+*quote:*	Most auditory signals, however, are vocal and (as most Australians are aware) the magpie is one of the most vocal species. Vocalisations occur all year round, are issued by any age group (post-fledging) and by both sexes. This is in stark distinction to most birds in the Northern Hemisphere where the woods may resound with the calls of songbirds in spring – especially when males sing their breeding songs – but they are nearly silent from late autumn and through the cold winters when birds either migrate or fall silent.
+*source:*	Australian Magpie: Biology and Behaviour of an Unusual Songbird
+*author:*	Gisela Kaplan
+*link:*	kindle://book?action=open&asin=B07RBQP734&location=3866
+*note:*	
+*tags:*	#sciencefiction #technology #AustralianMagpieBiologyandBehaviourofanUnusualSongbird #GiselaKaplan
+
+*quote:*	‘dear enemy’ hypothesis,
+*source:*	Australian Magpie: Biology and Behaviour of an Unusual Songbird
+*author:*	Gisela Kaplan
+*link:*	kindle://book?action=open&asin=B07RBQP734&location=3892
+*note:*	
+*tags:*	#sciencefiction #technology #AustralianMagpieBiologyandBehaviourofanUnusualSongbird #GiselaKaplan
+
+*quote:*	Duetting is a specific form of communication in which one bird initiates a call and another one answers. It usually refers to sequential calling rather than, as the term is used in human song, singing together – the latter is carolling.
+*source:*	Australian Magpie: Biology and Behaviour of an Unusual Songbird
+*author:*	Gisela Kaplan
+*link:*	kindle://book?action=open&asin=B07RBQP734&location=3921
+*note:*	
+*tags:*	#sciencefiction #technology #AustralianMagpieBiologyandBehaviourofanUnusualSongbird #GiselaKaplan
+
+*quote:*	A most unusual kind of duetting between
+*source:*	Australian Magpie: Biology and Behaviour of an Unusual Songbird
+*author:*	Gisela Kaplan
+*link:*	kindle://book?action=open&asin=B07RBQP734&location=3930
+*note:*	
+*tags:*	#sciencefiction #technology #AustralianMagpieBiologyandBehaviourofanUnusualSongbird #GiselaKaplan
+
+*quote:*	they estimated by extrapolation to the whole state that New South Wales alone would claim ~7000 victims of native animals daily. Magpies and kangaroos were at the top of the list of road kills of birds and of marsupials respectively.
+*source:*	Australian Magpie: Biology and Behaviour of an Unusual Songbird
+*author:*	Gisela Kaplan
+*link:*	kindle://book?action=open&asin=B07RBQP734&location=4181
+*note:*	
+*tags:*	#sciencefiction #technology #AustralianMagpieBiologyandBehaviourofanUnusualSongbird #GiselaKaplan
+
+*quote:*	Apart from an oversupply in venomous creatures, Australia is truly blessed in that we can freely hike in the bush without a disgruntled bear, moose, leopard, lion or tiger going into attack mode.
+*source:*	Australian Magpie: Biology and Behaviour of an Unusual Songbird
+*author:*	Gisela Kaplan
+*link:*	kindle://book?action=open&asin=B07RBQP734&location=4229
+*note:*	
+*tags:*	#sciencefiction #technology #AustralianMagpieBiologyandBehaviourofanUnusualSongbird #GiselaKaplan
+
+*quote:*	Dealing with magpie mobbings
+*source:*	Australian Magpie: Biology and Behaviour of an Unusual Songbird
+*author:*	Gisela Kaplan
+*link:*	kindle://book?action=open&asin=B07RBQP734&location=4351
+*note:*	
+*tags:*	#sciencefiction #technology #AustralianMagpieBiologyandBehaviourofanUnusualSongbird #GiselaKaplan
+
+*quote:*	The main task of male magpies during the breeding season is to help feed the offspring and to defend the territory or, more specifically, the area around the nest site. The female also feeds but she has usually no time to take part in defending the nest site and, not surprisingly, research has found that 97% of all magpies swooping humans are male.
+*source:*	Australian Magpie: Biology and Behaviour of an Unusual Songbird
+*author:*	Gisela Kaplan
+*link:*	kindle://book?action=open&asin=B07RBQP734&location=4356
+*note:*	
+*tags:*	#sciencefiction #technology #AustralianMagpieBiologyandBehaviourofanUnusualSongbird #GiselaKaplan
+
+*quote:*	humans. I mean, what other animal needs professional help in deciding what it should eat?
+*source:*	In Defence of Food: The Myth of Nutrition and the Pleasures of Eating
+*author:*	Michael Pollan
+*link:*	kindle://book?action=open&asin=B002RI99LY&location=101
+*note:*	
+*tags:*	#sciencefiction #technology #InDefenceofFoodTheMythofNutritionandthePleasuresofEating #MichaelPollan
+
+*quote:*	Today in America the culture of food is changing more than once a generation, which is historically unprecedented—and dizzying.
+*source:*	In Defence of Food: The Myth of Nutrition and the Pleasures of Eating
+*author:*	Michael Pollan
+*link:*	kindle://book?action=open&asin=B002RI99LY&location=122
+*note:*	
+*tags:*	#sciencefiction #technology #InDefenceofFoodTheMythofNutritionandthePleasuresofEating #MichaelPollan
+
+*quote:*	nutrition science that, depending on your point of view, is steadily advancing the frontiers of our knowledge about diet and health or is just changing its mind a lot because it is a flawed science that knows much less than it cares to admit.
+*source:*	In Defence of Food: The Myth of Nutrition and the Pleasures of Eating
+*author:*	Michael Pollan
+*link:*	kindle://book?action=open&asin=B002RI99LY&location=125
+*note:*	
+*tags:*	#sciencefiction #technology #InDefenceofFoodTheMythofNutritionandthePleasuresofEating #MichaelPollan
+
+*quote:*	it’s important to understand how we arrived at our present state of nutritional confusion and anxiety. That is the subject of the first portion of this book, “The Age of Nutritionism.”
+*source:*	In Defence of Food: The Myth of Nutrition and the Pleasures of Eating
+*author:*	Michael Pollan
+*link:*	kindle://book?action=open&asin=B002RI99LY&location=144
+*note:*	
+*tags:*	#sciencefiction #technology #InDefenceofFoodTheMythofNutritionandthePleasuresofEating #MichaelPollan
+
+*quote:*	humans deciding what to eat without professional guidance—something they have been doing with notable success since coming down out of the trees—is seriously unprofitable if you’re a food company, a definite career loser if you’re a nutritionist, and just plain boring if you’re a newspaper editor or reporter.
+*source:*	In Defence of Food: The Myth of Nutrition and the Pleasures of Eating
+*author:*	Michael Pollan
+*link:*	kindle://book?action=open&asin=B002RI99LY&location=148
+*note:*	
+*tags:*	#sciencefiction #technology #InDefenceofFoodTheMythofNutritionandthePleasuresofEating #MichaelPollan
+
+*quote:*	Together, and with some crucial help from the government, they have constructed an ideology of nutritionism that, among other things, has convinced us of three pernicious myths: that what matters most is not the food but the “nutrient”; that because nutrients are invisible and incomprehensible to everyone but scientists, we need expert help in deciding what to eat; and that the purpose of eating is to promote a narrow concept of physical health.
+*source:*	In Defence of Food: The Myth of Nutrition and the Pleasures of Eating
+*author:*	Michael Pollan
+*link:*	kindle://book?action=open&asin=B002RI99LY&location=166
+*note:*	
+*tags:*	#sciencefiction #technology #InDefenceofFoodTheMythofNutritionandthePleasuresofEating #MichaelPollan
+
+*quote:*	orthorexics:
+*source:*	In Defence of Food: The Myth of Nutrition and the Pleasures of Eating
+*author:*	Michael Pollan
+*link:*	kindle://book?action=open&asin=B002RI99LY&location=178
+*note:*	
+*tags:*	#sciencefiction #technology #InDefenceofFoodTheMythofNutritionandthePleasuresofEating #MichaelPollan
+
+*quote:*	What’s more, the traditional diets that the new Western foods displaced were strikingly diverse: Various populations thrived on diets that were what we’d call high fat, low fat, or high carb; all meat or all plant; indeed, there have been traditional diets based on just about any kind of whole food you can imagine. What this suggests is that the human animal is well adapted to a great many different diets. The Western diet, however, is not one of them.
+*source:*	In Defence of Food: The Myth of Nutrition and the Pleasures of Eating
+*author:*	Michael Pollan
+*link:*	kindle://book?action=open&asin=B002RI99LY&location=203
+*note:*	
+*tags:*	#sciencefiction #technology #InDefenceofFoodTheMythofNutritionandthePleasuresofEating #MichaelPollan
+
+*quote:*	Nutritionism is, in a sense, the official ideology of the Western diet and so cannot be expected to raise radical or searching questions about it.
+*source:*	In Defence of Food: The Myth of Nutrition and the Pleasures of Eating
+*author:*	Michael Pollan
+*link:*	kindle://book?action=open&asin=B002RI99LY&location=209
+*note:*	
+*tags:*	#sciencefiction #technology #InDefenceofFoodTheMythofNutritionandthePleasuresofEating #MichaelPollan
+
+*quote:*	Epidemiologists had also observed that in America during the war years, when meat and dairy products were strictly rationed, the rate of heart disease had temporarily plummeted, only to leap upward once the war was over.
+*source:*	In Defence of Food: The Myth of Nutrition and the Pleasures of Eating
+*author:*	Michael Pollan
+*link:*	kindle://book?action=open&asin=B002RI99LY&location=302
+*note:*	
+*tags:*	#sciencefiction #technology #InDefenceofFoodTheMythofNutritionandthePleasuresofEating #MichaelPollan
+
+*quote:*	First, notice that the stark message to “eat less” of a particular food—in this case meat—had been deep-sixed; don’t look for it ever again in any official U.S. government dietary pronouncement. Say what you will about this or that food, you are not allowed officially to tell people to eat less of it or the industry in question will have you for lunch.
+*source:*	In Defence of Food: The Myth of Nutrition and the Pleasures of Eating
+*author:*	Michael Pollan
+*link:*	kindle://book?action=open&asin=B002RI99LY&location=315
+*note:*	
+*tags:*	#sciencefiction #technology #InDefenceofFoodTheMythofNutritionandthePleasuresofEating #MichaelPollan
+
+*quote:*	Notice how in the revised guidelines, distinctions between entities as different as beef and chicken and fish have collapsed. These three venerable foods, each representing not just a different species but an entirely different taxonomic class, are now lumped together as mere delivery systems for a single nutrient. Notice too how the new language exonerates the foods themselves. Now the culprit is an obscure, invisible, tasteless—and politically unconnected—substance that may or may not lurk in them called saturated fat.
+*source:*	In Defence of Food: The Myth of Nutrition and the Pleasures of Eating
+*author:*	Michael Pollan
+*link:*	kindle://book?action=open&asin=B002RI99LY&location=319
+*note:*	
+*tags:*	#sciencefiction #technology #InDefenceofFoodTheMythofNutritionandthePleasuresofEating #MichaelPollan
+
+*quote:*	“Sorry Marge” looked at margarine as the ultimate nutritionist product, able to shift its identity (no cholesterol! one year, no trans fats! the next) depending on the prevailing winds of dietary opinion.
+*source:*	In Defence of Food: The Myth of Nutrition and the Pleasures of Eating
+*author:*	Michael Pollan
+*link:*	kindle://book?action=open&asin=B002RI99LY&location=354
+*note:*	
+*tags:*	#sciencefiction #technology #InDefenceofFoodTheMythofNutritionandthePleasuresofEating #MichaelPollan
+
+*quote:*	But expert help to do what exactly? This brings us to another unexamined assumption of nutritionism: that the whole point of eating is to maintain and promote bodily health.
+*source:*	In Defence of Food: The Myth of Nutrition and the Pleasures of Eating
+*author:*	Michael Pollan
+*link:*	kindle://book?action=open&asin=B002RI99LY&location=371
+*note:*	
+*tags:*	#sciencefiction #technology #InDefenceofFoodTheMythofNutritionandthePleasuresofEating #MichaelPollan
+
+*quote:*	To a considerable extent we still have a food system organized around the promotion of protein as the master nutrient. It has given us, among other things, vast amounts of cheap meat and milk, which have in turn given us much, much bigger people. Whether they are healthier too is another question.
+*source:*	In Defence of Food: The Myth of Nutrition and the Pleasures of Eating
+*author:*	Michael Pollan
+*link:*	kindle://book?action=open&asin=B002RI99LY&location=385
+*note:*	
+*tags:*	#sciencefiction #technology #InDefenceofFoodTheMythofNutritionandthePleasuresofEating #MichaelPollan
+
+*quote:*	A backlash against protein arose in America at the turn of the last century as diet gurus like John Harvey Kellogg and Horace Fletcher (about whom more later) railed against the deleterious effects of protein on digestion (it supposedly led to the proliferation of toxic bacteria in the gut) and promoted the cleaner, more wholesome carbohydrate in its place. The legacy of that revaluation is the breakfast cereal, the strategic objective of which was to dethrone animal protein at the morning meal.
+*source:*	In Defence of Food: The Myth of Nutrition and the Pleasures of Eating
+*author:*	Michael Pollan
+*link:*	kindle://book?action=open&asin=B002RI99LY&location=388
+*note:*	
+*tags:*	#sciencefiction #technology #InDefenceofFoodTheMythofNutritionandthePleasuresofEating #MichaelPollan
+
+*quote:*	With widespread lipophobia taking hold of the human population, countless cattle lost their marbling and lean pork was repositioned as “the new white meat”—tasteless and tough as running shoes, perhaps, but now even a pork chop could compete with chicken as a way for eaters to “reduce saturated fat intake.”
+*source:*	In Defence of Food: The Myth of Nutrition and the Pleasures of Eating
+*author:*	Michael Pollan
+*link:*	kindle://book?action=open&asin=B002RI99LY&location=476
+*note:*	
+*tags:*	#sciencefiction #technology #InDefenceofFoodTheMythofNutritionandthePleasuresofEating #MichaelPollan
+
+*quote:*	Yet as a general rule it’s a whole lot easier to slap a health claim on a box of sugary cereal than on a raw potato or a carrot, with the perverse result that the most healthful foods in the supermarket sit there quietly in the produce section, silent as stroke victims, while a few aisles over in Cereal the Cocoa Puffs and Lucky Charms are screaming their newfound “whole-grain goodness” to the rafters.
+*source:*	In Defence of Food: The Myth of Nutrition and the Pleasures of Eating
+*author:*	Michael Pollan
+*link:*	kindle://book?action=open&asin=B002RI99LY&location=500
+*note:*	
+*tags:*	#sciencefiction #technology #InDefenceofFoodTheMythofNutritionandthePleasuresofEating #MichaelPollan
+
+*quote:*	lipid hypothesis—the idea that dietary fat is responsible for chronic disease.
+*source:*	In Defence of Food: The Myth of Nutrition and the Pleasures of Eating
+*author:*	Michael Pollan
+*link:*	kindle://book?action=open&asin=B002RI99LY&location=508
+*note:*	
+*tags:*	#sciencefiction #technology #InDefenceofFoodTheMythofNutritionandthePleasuresofEating #MichaelPollan
+
+*quote:*	Only two studies have ever found “a significant positive association between saturated fat intake and risk of CHD [coronary heart disease]”; many more have failed to find an association. Only one study has ever found “a significant inverse association between polyunsaturated fat intake and CHD.” Let me translate: The amount of saturated fat in the diet probably may have little if any bearing on the risk of heart disease, and evidence that increasing polyunsaturated fats in the diet will reduce risk is slim to nil.
+*source:*	In Defence of Food: The Myth of Nutrition and the Pleasures of Eating
+*author:*	Michael Pollan
+*link:*	kindle://book?action=open&asin=B002RI99LY&location=540
+*note:*	
+*tags:*	#sciencefiction #technology #InDefenceofFoodTheMythofNutritionandthePleasuresofEating #MichaelPollan
+
+*quote:*	“a weak and nonsignificant positive association between dietary cholesterol and risk of CHD.”
+*source:*	In Defence of Food: The Myth of Nutrition and the Pleasures of Eating
+*author:*	Michael Pollan
+*link:*	kindle://book?action=open&asin=B002RI99LY&location=544
+*note:*	
+*tags:*	#sciencefiction #technology #InDefenceofFoodTheMythofNutritionandthePleasuresofEating #MichaelPollan
+
+*quote:*	Oddly, Americans got really fat on their new low-fat diet—indeed, many date the current epidemic of obesity and diabetes to the late 1970s, when Americans began bingeing on carbohydrates, ostensibly as a way to avoid the evils of fat.
+*source:*	In Defence of Food: The Myth of Nutrition and the Pleasures of Eating
+*author:*	Michael Pollan
+*link:*	kindle://book?action=open&asin=B002RI99LY&location=626
+*note:*	
+*tags:*	#sciencefiction #technology #InDefenceofFoodTheMythofNutritionandthePleasuresofEating #MichaelPollan
+
+*quote:*	We did reduce our consumption of saturated fats, replacing them, as directed, with polyunsaturated fats and trans fats. Meat consumption actually held steady, though we did, again as instructed, shift from red meat to white to reduce our saturated fat intake. Basically what we did was heap a bunch more carbs onto our plate, obscuring but by no means replacing the expanding chunk of (now skinless white) animal protein still sitting there in the middle.
+*source:*	In Defence of Food: The Myth of Nutrition and the Pleasures of Eating
+*author:*	Michael Pollan
+*link:*	kindle://book?action=open&asin=B002RI99LY&location=631
+*note:*	
+*tags:*	#sciencefiction #technology #InDefenceofFoodTheMythofNutritionandthePleasuresofEating #MichaelPollan
+
+*quote:*	was easy for the take-home message of the 1977 and 1982 dietary guidelines to be simplified as follows: Eat more low-fat foods.
+*source:*	In Defence of Food: The Myth of Nutrition and the Pleasures of Eating
+*author:*	Michael Pollan
+*link:*	kindle://book?action=open&asin=B002RI99LY&location=636
+*note:*	
+*tags:*	#sciencefiction #technology #InDefenceofFoodTheMythofNutritionandthePleasuresofEating #MichaelPollan
+
+*quote:*	Nutritionism might be the best thing ever to happen to the food industry, which historically has labored under the limits to growth imposed by a population of eaters that isn’t expanding nearly as fast as the food makers need it to if they are to satisfy the expectations of Wall Street.
+*source:*	In Defence of Food: The Myth of Nutrition and the Pleasures of Eating
+*author:*	Michael Pollan
+*link:*	kindle://book?action=open&asin=B002RI99LY&location=647
+*note:*	
+*tags:*	#sciencefiction #technology #InDefenceofFoodTheMythofNutritionandthePleasuresofEating #MichaelPollan
+
+*quote:*	Nutritionism solves the problem of the fixed stomach, as it used to be called in the business: the fact that compared to other consumer products, demand for food has in the past been fairly inelastic. People could eat only so much, and because tradition and habit ruled their choices, they tended to eat the same old things.
+*source:*	In Defence of Food: The Myth of Nutrition and the Pleasures of Eating
+*author:*	Michael Pollan
+*link:*	kindle://book?action=open&asin=B002RI99LY&location=648
+*note:*	
+*tags:*	#sciencefiction #technology #InDefenceofFoodTheMythofNutritionandthePleasuresofEating #MichaelPollan
+
+*quote:*	the FDA has just signed off on a new health claim for Frito-Lay chips on the grounds that eating chips fried in polyunsaturated fats can help you reduce your consumption of saturated fats, thereby conferring blessings on your cardiovascular system.
+*source:*	In Defence of Food: The Myth of Nutrition and the Pleasures of Eating
+*author:*	Michael Pollan
+*link:*	kindle://book?action=open&asin=B002RI99LY&location=653
+*note:*	
+*tags:*	#sciencefiction #technology #InDefenceofFoodTheMythofNutritionandthePleasuresofEating #MichaelPollan
+
+*quote:*	In this, nutritionism is a little like the institution of the American front lawn, an unobjectionable, if bland, way to pave over our differences and Americanize the landscape.
+*source:*	In Defence of Food: The Myth of Nutrition and the Pleasures of Eating
+*author:*	Michael Pollan
+*link:*	kindle://book?action=open&asin=B002RI99LY&location=711
+*note:*	
+*tags:*	#sciencefiction #technology #InDefenceofFoodTheMythofNutritionandthePleasuresofEating #MichaelPollan
+
+*quote:*	So if you’re a nutrition scientist you do the only thing you can do, given the tools at your disposal: Break the thing down into its component parts and study those one by one, even if that means ignoring subtle interactions and contexts and the fact that the whole may well be more than, or maybe just different from, the sum of its parts. This is what we mean by reductionist science.
+*source:*	In Defence of Food: The Myth of Nutrition and the Pleasures of Eating
+*author:*	Michael Pollan
+*link:*	kindle://book?action=open&asin=B002RI99LY&location=756
+*note:*	
+*tags:*	#sciencefiction #technology #InDefenceofFoodTheMythofNutritionandthePleasuresofEating #MichaelPollan
+
+*quote:*	It would be great to know how this all works, but in the meantime we can enjoy thyme in the knowledge that it probably doesn’t do any harm (since people have been eating it forever) and that it might actually do some good (since people have been eating it forever), and even if it does nothing at all, we like the way it tastes.
+*source:*	In Defence of Food: The Myth of Nutrition and the Pleasures of Eating
+*author:*	Michael Pollan
+*link:*	kindle://book?action=open&asin=B002RI99LY&location=790
+*note:*	
+*tags:*	#sciencefiction #technology #InDefenceofFoodTheMythofNutritionandthePleasuresofEating #MichaelPollan
+
+*quote:*	(This is sometimes called parking-lot science, after the legendary fellow who loses his keys in a parking lot and goes looking for them under the streetlight—not because that’s where he lost them but because that’s where it’s easiest to see.)
+*source:*	In Defence of Food: The Myth of Nutrition and the Pleasures of Eating
+*author:*	Michael Pollan
+*link:*	kindle://book?action=open&asin=B002RI99LY&location=796
+*note:*	
+*tags:*	#sciencefiction #technology #InDefenceofFoodTheMythofNutritionandthePleasuresofEating #MichaelPollan
+
+*quote:*	We eat foods in combinations and in orders that can affect how they’re metabolized.
+*source:*	In Defence of Food: The Myth of Nutrition and the Pleasures of Eating
+*author:*	Michael Pollan
+*link:*	kindle://book?action=open&asin=B002RI99LY&location=806
+*note:*	
+*tags:*	#sciencefiction #technology #InDefenceofFoodTheMythofNutritionandthePleasuresofEating #MichaelPollan
+
+*quote:*	The carbohydrates in a bagel will be absorbed more slowly if the bagel is spread with peanut butter; the fiber, fat, and protein in the peanut butter cushion the insulin response, thereby blunting the impact of the carbohydrates.
+*source:*	In Defence of Food: The Myth of Nutrition and the Pleasures of Eating
+*author:*	Michael Pollan
+*link:*	kindle://book?action=open&asin=B002RI99LY&location=806
+*note:*	
+*tags:*	#sciencefiction #technology #InDefenceofFoodTheMythofNutritionandthePleasuresofEating #MichaelPollan
+
+*quote:*	Drink coffee with your steak, and your body won’t be able to fully absorb the iron in the meat. The olive oil with which I eat tomatoes makes the lycopene they contain more available to my body. Some of those compounds in the sprig of thyme may affect my digestion of the dish I add it to, helping to break down one compound or stimulate production of an enzyme needed to detoxify another. We have barely begun to understand the relationships among foods in a cuisine.
+*source:*	In Defence of Food: The Myth of Nutrition and the Pleasures of Eating
+*author:*	Michael Pollan
+*link:*	kindle://book?action=open&asin=B002RI99LY&location=808
+*note:*	
+*tags:*	#sciencefiction #technology #InDefenceofFoodTheMythofNutritionandthePleasuresofEating #MichaelPollan
+
+*quote:*	The epidemiologist John Powles has suggested this predilection is little more than a Puritan bias: Bad things happen to people who eat bad things.
+*source:*	In Defence of Food: The Myth of Nutrition and the Pleasures of Eating
+*author:*	Michael Pollan
+*link:*	kindle://book?action=open&asin=B002RI99LY&location=817
+*note:*	
+*tags:*	#sciencefiction #technology #InDefenceofFoodTheMythofNutritionandthePleasuresofEating #MichaelPollan
+
+*quote:*	It’s worth keeping in mind that a far more powerful predictor of heart disease than either diet or exercise is social class.
+*source:*	In Defence of Food: The Myth of Nutrition and the Pleasures of Eating
+*author:*	Michael Pollan
+*link:*	kindle://book?action=open&asin=B002RI99LY&location=864
+*note:*	
+*tags:*	#sciencefiction #technology #InDefenceofFoodTheMythofNutritionandthePleasuresofEating #MichaelPollan
+
+*quote:*	In one experiment, he showed the words “chocolate cake” to a group of Americans and recorded their word associations. “Guilt” was the top response. If that strikes you as unexceptional, consider the response of the French eaters to the same prompt: “celebration.” (Oh, yeah.) I think of Rozin as a kind of psychoanalyst of nutritionism.
+*source:*	In Defence of Food: The Myth of Nutrition and the Pleasures of Eating
+*author:*	Michael Pollan
+*link:*	kindle://book?action=open&asin=B002RI99LY&location=962
+*note:*	
+*tags:*	#sciencefiction #technology #InDefenceofFoodTheMythofNutritionandthePleasuresofEating #MichaelPollan
+
+*quote:*	all this might be tolerable if eating by the light of nutritionism made us, if not happier, then at least healthier. That it has failed to do. Thirty years of nutritional advice have left us fatter, sicker, and more poorly nourished. Which is why we find ourselves in the predicament we do: in need of a whole new way to think about eating.
+*source:*	In Defence of Food: The Myth of Nutrition and the Pleasures of Eating
+*author:*	Michael Pollan
+*link:*	kindle://book?action=open&asin=B002RI99LY&location=984
+*note:*	
+*tags:*	#sciencefiction #technology #InDefenceofFoodTheMythofNutritionandthePleasuresofEating #MichaelPollan
+
+*quote:*	Since leaving the bush some years before, all ten had developed type 2 diabetes; they also showed signs of insulin resistance (when the body’s cells lose their sensitivity to insulin) and elevated levels of triglycerides in the blood—a risk factor for heart disease. “Metabolic syndrome,” or “syndrome X,” is the medical term for the complex of health problems these Aborigines had developed:
+*source:*	In Defence of Food: The Myth of Nutrition and the Pleasures of Eating
+*author:*	Michael Pollan
+*link:*	kindle://book?action=open&asin=B002RI99LY&location=996
+*note:*	
+*tags:*	#sciencefiction #technology #InDefenceofFoodTheMythofNutritionandthePleasuresofEating #MichaelPollan
+
+*quote:*	But during the decades before World War II, when the industrialization of so many aspects of our lives was still fairly fresh, the price of “progress,” especially to our health, seemed more obvious to many people and therefore more open to question.
+*source:*	In Defence of Food: The Myth of Nutrition and the Pleasures of Eating
+*author:*	Michael Pollan
+*link:*	kindle://book?action=open&asin=B002RI99LY&location=1088
+*note:*	
+*tags:*	#sciencefiction #technology #InDefenceofFoodTheMythofNutritionandthePleasuresofEating #MichaelPollan
+
+*quote:*	“activator X,” a term of his own invention that is probably vitamin K2. Almost everywhere he went, he noted the high value people placed on seafood, which even mountain-dwelling groups would go to great lengths to procure, trading with coastal tribes for dried fish eggs and such.
+*source:*	In Defence of Food: The Myth of Nutrition and the Pleasures of Eating
+*author:*	Michael Pollan
+*link:*	kindle://book?action=open&asin=B002RI99LY&location=1142
+*note:*	
+*tags:*	#sciencefiction #technology #InDefenceofFoodTheMythofNutritionandthePleasuresofEating #MichaelPollan
+
+*quote:*	Foods that lie to our senses are one of the most challenging features of the Western diet.
+*source:*	In Defence of Food: The Myth of Nutrition and the Pleasures of Eating
+*author:*	Michael Pollan
+*link:*	kindle://book?action=open&asin=B002RI99LY&location=1213
+*note:*	
+*tags:*	#sciencefiction #technology #InDefenceofFoodTheMythofNutritionandthePleasuresofEating #MichaelPollan
+
+*quote:*	Refined flour is the first fast food.
+*source:*	In Defence of Food: The Myth of Nutrition and the Pleasures of Eating
+*author:*	Michael Pollan
+*link:*	kindle://book?action=open&asin=B002RI99LY&location=1251
+*note:*	
+*tags:*	#sciencefiction #technology #InDefenceofFoodTheMythofNutritionandthePleasuresofEating #MichaelPollan
+
+*quote:*	In the 1930s, with the discovery of vitamins, scientists figured out what had happened, and millers began fortifying refined grain with B vitamins. This took care of the most obvious deficiency diseases. More recently, scientists recognized that many of us also had a deficiency of folic acid in our diet, and in 1996 public health authorities ordered millers to start adding folic acid to flour as well. But it would take longer still for science to realize that this “Wonder Bread” strategy of supplementation, as one nutritionist has called it, might not solve all the problems caused by the refining of grain.
+*source:*	In Defence of Food: The Myth of Nutrition and the Pleasures of Eating
+*author:*	Michael Pollan
+*link:*	kindle://book?action=open&asin=B002RI99LY&location=1270
+*note:*	
+*tags:*	#sciencefiction #technology #InDefenceofFoodTheMythofNutritionandthePleasuresofEating #MichaelPollan
+
+*quote:*	The big money has always been in processing foods, not selling them whole, and the industry’s investment in the reductionist approach to food is probably safe. The fact is, there is something in us that loves a refined carbohydrate, and that something is the human brain. The human brain craves carbohydrates reduced to their energy essence, which is to say pure glucose. Once industry figured out how to transform the seeds of grasses into the chemical equivalent of sugar, there was probably no turning back.
+*source:*	In Defence of Food: The Myth of Nutrition and the Pleasures of Eating
+*author:*	Michael Pollan
+*link:*	kindle://book?action=open&asin=B002RI99LY&location=1294
+*note:*	
+*tags:*	#sciencefiction #technology #InDefenceofFoodTheMythofNutritionandthePleasuresofEating #MichaelPollan
+
+*quote:*	With the general availability of cheap pure sugar, the human metabolism now had to contend not only with a constant flood of glucose, but also with more fructose than it had ever before encountered, because sugar—sucrose—is half fructose.∗ (Per capita fructose consumption has increased 25 percent in the past thirty years.) In the natural world, fructose is a rare and precious thing, typically encountered seasonally in ripe fruit, when it comes packaged in a whole food full of fiber (which slows its absorption) and valuable micronutrients. It’s no wonder we’ve been hardwired by natural selection to prize sweet foods: Sugar as it is ordinarily found in nature—in fruits and some vegetables—gives us a slow-release form of energy accompanied by minerals and all sorts of crucial micronutrients we can get nowhere else. (Even in honey, the purest form of sugar found in nature, you find some valuable micronutrients.)
+*source:*	In Defence of Food: The Myth of Nutrition and the Pleasures of Eating
+*author:*	Michael Pollan
+*link:*	kindle://book?action=open&asin=B002RI99LY&location=1301
+*note:*	
+*tags:*	#sciencefiction #technology #InDefenceofFoodTheMythofNutritionandthePleasuresofEating #MichaelPollan
+
+*quote:*	As one nutrition expert put it to me, “We’re in the middle of a national experiment in the mainlining of glucose.” And don’t forget the flood of fructose, which may represent an even greater evolutionary novelty, and therefore challenge to the human metabolism, than all that glucose.
+*source:*	In Defence of Food: The Myth of Nutrition and the Pleasures of Eating
+*author:*	Michael Pollan
+*link:*	kindle://book?action=open&asin=B002RI99LY&location=1317
+*note:*	
+*tags:*	#sciencefiction #technology #InDefenceofFoodTheMythofNutritionandthePleasuresofEating #MichaelPollan
+
+*quote:*	It is probably no accident that rates of type 2 diabetes are lower among ethnic Europeans, who have had longer than other groups to accustom their metabolisms to fast-release refined carbohydrates: Their food environment changed first.
+*source:*	In Defence of Food: The Myth of Nutrition and the Pleasures of Eating
+*author:*	Michael Pollan
+*link:*	kindle://book?action=open&asin=B002RI99LY&location=1319
+*note:*	
+*tags:*	#sciencefiction #technology #InDefenceofFoodTheMythofNutritionandthePleasuresofEating #MichaelPollan
+
+*quote:*	You may not think you eat a lot of corn and soybeans, but you do: 75 percent of the vegetable oils in your diet come from soy (representing 20 percent of your daily calories) and more than half of the sweeteners you consume come from corn (representing around 10 percent of daily calories).
+*source:*	In Defence of Food: The Myth of Nutrition and the Pleasures of Eating
+*author:*	Michael Pollan
+*link:*	kindle://book?action=open&asin=B002RI99LY&location=1357
+*note:*	
+*tags:*	#sciencefiction #technology #InDefenceofFoodTheMythofNutritionandthePleasuresofEating #MichaelPollan
+
+*quote:*	Why corn and soy? Because these two plants are among nature’s most efficient transformers of sunlight and chemical fertilizer into carbohydrate energy (in the case of corn) and fat and protein (in the case of soy)—if you want to extract the maximum amount of macronutrients from the American farm belt, corn and soy are the crops to plant.
+*source:*	In Defence of Food: The Myth of Nutrition and the Pleasures of Eating
+*author:*	Michael Pollan
+*link:*	kindle://book?action=open&asin=B002RI99LY&location=1359
+*note:*	
+*tags:*	#sciencefiction #technology #InDefenceofFoodTheMythofNutritionandthePleasuresofEating #MichaelPollan
+
+*quote:*	You don’t need to spend much time in an American supermarket to figure out that this is a food system organized around the objective of selling large quantities of calories as cheaply as possible.
+*source:*	In Defence of Food: The Myth of Nutrition and the Pleasures of Eating
+*author:*	Michael Pollan
+*link:*	kindle://book?action=open&asin=B002RI99LY&location=1413
+*note:*	
+*tags:*	#sciencefiction #technology #InDefenceofFoodTheMythofNutritionandthePleasuresofEating #MichaelPollan
+
+*quote:*	A diet based on quantity rather than quality has ushered a new creature onto the world stage: the human being who manages to be both overfed and undernourished, two characteristics seldom found in the same body in the long natural history of our species.
+*source:*	In Defence of Food: The Myth of Nutrition and the Pleasures of Eating
+*author:*	Michael Pollan
+*link:*	kindle://book?action=open&asin=B002RI99LY&location=1423
+*note:*	
+*tags:*	#sciencefiction #technology #InDefenceofFoodTheMythofNutritionandthePleasuresofEating #MichaelPollan
+
+*quote:*	The sheer novelty and glamour of the Western diet, with its seventeen thousand new food products every year and the marketing power—thirty-two billion dollars a year—used to sell us those products, has overwhelmed the force of tradition and left us where we now find ourselves: relying on science and journalism and government and marketing to help us decide what to eat.
+*source:*	In Defence of Food: The Myth of Nutrition and the Pleasures of Eating
+*author:*	Michael Pollan
+*link:*	kindle://book?action=open&asin=B002RI99LY&location=1549
+*note:*	
+*tags:*	#sciencefiction #technology #InDefenceofFoodTheMythofNutritionandthePleasuresofEating #MichaelPollan
+
+*quote:*	Scientists can argue all they want about the biological mechanisms behind this phenomenon, but whichever it is, the solution to the problem would appear to remain very much the same: Stop eating a Western diet.
+*source:*	In Defence of Food: The Myth of Nutrition and the Pleasures of Eating
+*author:*	Michael Pollan
+*link:*	kindle://book?action=open&asin=B002RI99LY&location=1614
+*note:*	
+*tags:*	#sciencefiction #technology #InDefenceofFoodTheMythofNutritionandthePleasuresofEating #MichaelPollan
+
+*quote:*	This sounds like a sensible rule of thumb until you realize that industrial processes have by now invaded many whole foods too. Is a steak from a feedlot steer that consumed a diet of corn, various industrial waste products, antibiotics, and hormones still a “whole food”? I’m not so sure. The steer has itself been raised on a Western diet, and that diet has rendered its meat substantially different—in the type and amount of fat in it as well as its vitamin content—from the beef our ancestors ate. The steer’s industrial upbringing has also rendered its meat so cheap that we’re likely to eat more of it more often than our ancestors ever would have. This suggests yet another sense in which this beef has become an industrial food: It is designed to be eaten industrially too—as fast food.
+*source:*	In Defence of Food: The Myth of Nutrition and the Pleasures of Eating
+*author:*	Michael Pollan
+*link:*	kindle://book?action=open&asin=B002RI99LY&location=1645
+*note:*	
+*tags:*	#sciencefiction #technology #InDefenceofFoodTheMythofNutritionandthePleasuresofEating #MichaelPollan
+
+*quote:*	Americans spend less than 10 percent of their income on food; they also spend less than a half hour a day preparing meals and little more than an hour enjoying them.
+*source:*	In Defence of Food: The Myth of Nutrition and the Pleasures of Eating
+*author:*	Michael Pollan
+*link:*	kindle://book?action=open&asin=B002RI99LY&location=1669
+*note:*	
+*tags:*	#sciencefiction #technology #InDefenceofFoodTheMythofNutritionandthePleasuresofEating #MichaelPollan
+
+*quote:*	For most people for most of history, gathering and preparing food has been an occupation at the very heart of daily life.
+*source:*	In Defence of Food: The Myth of Nutrition and the Pleasures of Eating
+*author:*	Michael Pollan
+*link:*	kindle://book?action=open&asin=B002RI99LY&location=1671
+*note:*	
+*tags:*	#sciencefiction #technology #InDefenceofFoodTheMythofNutritionandthePleasuresofEating #MichaelPollan
+
+*quote:*	There are many reasons to avoid eating such complicated food products beyond the various chemical additives and corn and soy derivatives they contain. One of the problems with the products of food science is that, as Joan Gussow has pointed out, they lie to your body; their artificial colors and flavors and synthetic sweeteners and novel fats confound the senses we rely on to assess new foods and prepare our bodies to deal with them. Foods that lie leave us with little choice but to eat by the numbers, consulting labels rather than our senses.
+*source:*	In Defence of Food: The Myth of Nutrition and the Pleasures of Eating
+*author:*	Michael Pollan
+*link:*	kindle://book?action=open&asin=B002RI99LY&location=1715
+*note:*	
+*tags:*	#sciencefiction #technology #InDefenceofFoodTheMythofNutritionandthePleasuresofEating #MichaelPollan
+
+*quote:*	Because all plants contain antioxidants, all these studies are guaranteed to find something on which to base a health oriented marketing campaign.
+*source:*	In Defence of Food: The Myth of Nutrition and the Pleasures of Eating
+*author:*	Michael Pollan
+*link:*	kindle://book?action=open&asin=B002RI99LY&location=1776
+*note:*	
+*tags:*	#sciencefiction #technology #InDefenceofFoodTheMythofNutritionandthePleasuresofEating #MichaelPollan
+
+*quote:*	The American Heart Association currently bestows (for a fee) its heart-healthy seal of approval on Lucky Charms, Cocoa Puffs, and Trix cereals, Yoo-hoo lite chocolate drink, and Healthy Choice’s Premium Caramel Swirl Ice Cream Sandwich—
+*source:*	In Defence of Food: The Myth of Nutrition and the Pleasures of Eating
+*author:*	Michael Pollan
+*link:*	kindle://book?action=open&asin=B002RI99LY&location=1803
+*note:*	
+*tags:*	#sciencefiction #technology #InDefenceofFoodTheMythofNutritionandthePleasuresofEating #MichaelPollan
+
+*quote:*	when you cook at home you seldom find yourself reaching for the ethoxylated diglycerides or high-fructose corn syrup.
+*source:*	In Defence of Food: The Myth of Nutrition and the Pleasures of Eating
+*author:*	Michael Pollan
+*link:*	kindle://book?action=open&asin=B002RI99LY&location=1830
+*note:*	
+*tags:*	#sciencefiction #technology #InDefenceofFoodTheMythofNutritionandthePleasuresofEating #MichaelPollan
+
+*quote:*	more than many other cultural practices, eating is deeply rooted in nature—in human biology on one side and in the natural world on the other. The specific combinations of foods in a cuisine and the ways they are prepared constitute a deep reservoir of accumulated wisdom about diet and health and place. Many traditional culinary practices are the products of a kind of biocultural evolution, the ingenuity of which modern science occasionally figures out long after the fact.
+*source:*	In Defence of Food: The Myth of Nutrition and the Pleasures of Eating
+*author:*	Michael Pollan
+*link:*	kindle://book?action=open&asin=B002RI99LY&location=2007
+*note:*	
+*tags:*	#sciencefiction #technology #InDefenceofFoodTheMythofNutritionandthePleasuresofEating #MichaelPollan
+
+*quote:*	The ancient Asian practice of fermenting soybeans and eating soy in the form of curds called tofu makes a healthy diet from a plant that eaten almost any other way would make people ill. The soybean itself is a notably inauspicious staple food; it contains a whole assortment of “antinutrients”—compounds that actually block the body’s absorption of vitamins and minerals, interfere with the hormonal system, and prevent the body from breaking down the proteins in the soy itself. It took the food cultures of Asia to figure out how to turn this unpromising plant into a highly nutritious food. By boiling crushed soybeans in water to form a kind of milk and then precipitating the liquid by adding gypsum (calcium sulfate), cooks were able to form the soy into curds of highly digestible protein: tofu.
+*source:*	In Defence of Food: The Myth of Nutrition and the Pleasures of Eating
+*author:*	Michael Pollan
+*link:*	kindle://book?action=open&asin=B002RI99LY&location=2015
+*note:*	
+*tags:*	#sciencefiction #technology #InDefenceofFoodTheMythofNutritionandthePleasuresofEating #MichaelPollan
+
+*quote:*	The French are better at this than we are, as Brian Wansink discovered when he asked a group of French people how they knew when to stop eating. “When I feel full,” they replied. (What a novel idea! The Americans said things like “When my plate is clean” or “When I run out.”) Perhaps it is their long, leisurely meals that give the French the opportunity to realize when they’re full.
+*source:*	In Defence of Food: The Myth of Nutrition and the Pleasures of Eating
+*author:*	Michael Pollan
+*link:*	kindle://book?action=open&asin=B002RI99LY&location=2223
+*note:*	
+*tags:*	#sciencefiction #technology #InDefenceofFoodTheMythofNutritionandthePleasuresofEating #MichaelPollan
+
+*quote:*	use glasses that are more vertical than horizontal (people tend to pour more into squat glasses);
+*source:*	In Defence of Food: The Myth of Nutrition and the Pleasures of Eating
+*author:*	Michael Pollan
+*link:*	kindle://book?action=open&asin=B002RI99LY&location=2232
+*note:*	
+*tags:*	#sciencefiction #technology #InDefenceofFoodTheMythofNutritionandthePleasuresofEating #MichaelPollan
+
+*quote:*	Slow Food, the Italian-born movement dedicated to the principle that “a firm defense of quiet material pleasure is the only way to oppose the universal folly of Fast Life.”
+*source:*	In Defence of Food: The Myth of Nutrition and the Pleasures of Eating
+*author:*	Michael Pollan
+*link:*	kindle://book?action=open&asin=B002RI99LY&location=2235
+*note:*	
+*tags:*	#sciencefiction #technology #InDefenceofFoodTheMythofNutritionandthePleasuresofEating #MichaelPollan
+
+*quote:*	“artificial grill flavor”
+*source:*	In Defence of Food: The Myth of Nutrition and the Pleasures of Eating
+*author:*	Michael Pollan
+*link:*	kindle://book?action=open&asin=B002RI99LY&location=2254
+*note:*	
+*tags:*	#sciencefiction #technology #InDefenceofFoodTheMythofNutritionandthePleasuresofEating #MichaelPollan
+
+*quote:*	tending a garden reminds us of our ancient evolutionary bargain with these ingenious domestic species—how cleverly they insinuate themselves into our lives, repaying the care and space we give them with the gift of good food. Each has its own way of announcing—through a change of color, shape, smell, texture, or taste—that the moment when it has the very most to offer us, when it is at its sweetest and most nourishing, has arrived: Pick me!
+*source:*	In Defence of Food: The Myth of Nutrition and the Pleasures of Eating
+*author:*	Michael Pollan
+*link:*	kindle://book?action=open&asin=B002RI99LY&location=2287
+*note:*	
+*tags:*	#sciencefiction #technology #InDefenceofFoodTheMythofNutritionandthePleasuresofEating #MichaelPollan
+
+*quote:*	A city-state with its own constitution, a border, laws, cops, everything.
+*source:*	Snow Crash
+*author:*	Neal Stephenson
+*link:*	kindle://book?action=open&asin=B002RI9KAE&location=545
+*note:*	
+*tags:*	#sciencefiction #technology #SnowCrash #NealStephenson
+
+*quote:*	The Deliverator says nothing. Because he knows that all of this is going onto videotape. The tape is being pipelined, as it happens, to CosaNostra Pizza University, where it will be analyzed in a pizza management science laboratory. It will be shown to Pizza University students, perhaps to the very students who will replace this man when he gets fired, as a textbook example of how to screw up your life.
+*source:*	Snow Crash
+*author:*	Neal Stephenson
+*link:*	kindle://book?action=open&asin=B002RI9KAE&location=610
+*note:*	
+*tags:*	#sciencefiction #technology #SnowCrash #NealStephenson
+
+*quote:*	As the sun sets, its red light is supplanted by the light of many neon logos emanating from the franchise ghetto that constitutes this U-Stor-It’s natural habitat. This light, known as loglo, fills in the shadowy corners of the unit with seedy, oversaturated colors.
+*source:*	Snow Crash
+*author:*	Neal Stephenson
+*link:*	kindle://book?action=open&asin=B002RI9KAE&location=767
+*note:*	
+*tags:*	#sciencefiction #technology #SnowCrash #NealStephenson
+
+*quote:*	The earphones have some built-in noise cancellation features. This sort of thing works best on steady noise. When jumbo jets make their takeoff runs on the runway across the street, the sound is reduced to a low doodling hum. But when Vitaly Chernobyl thrashes out an experimental guitar solo, it still hurts Hiro’s ears.
+*source:*	Snow Crash
+*author:*	Neal Stephenson
+*link:*	kindle://book?action=open&asin=B002RI9KAE&location=772
+*note:*	
+*tags:*	#sciencefiction #technology #SnowCrash #NealStephenson
+
+*quote:*	by way of the Army—back in the days before it got split up into a number of competing organizations such as General Jim’s Defense System and Admiral Bob’s National Security.
+*source:*	Snow Crash
+*author:*	Neal Stephenson
+*link:*	kindle://book?action=open&asin=B002RI9KAE&location=778
+*note:*	
+*tags:*	#sciencefiction #technology #SnowCrash #NealStephenson
+
+*quote:*	Since then, he’s been putting a lot more emphasis on his auxiliary emergency backup job: freelance stringer for the CIC, the Central Intelligence Corporation of Langley, Virginia.
+*source:*	Snow Crash
+*author:*	Neal Stephenson
+*link:*	kindle://book?action=open&asin=B002RI9KAE&location=791
+*note:*	
+*tags:*	#sciencefiction #technology #SnowCrash #NealStephenson
+
+*quote:*	The business is a simple one. Hiro gets information. It may be gossip, videotape, audiotape, a fragment of a computer disk, a xerox of a document. It can even be a joke based on the latest highly publicized disaster.
+*source:*	Snow Crash
+*author:*	Neal Stephenson
+*link:*	kindle://book?action=open&asin=B002RI9KAE&location=792
+*note:*	
+*tags:*	#sciencefiction #technology #SnowCrash #NealStephenson
+
+*quote:*	Millions of other CIC stringers are uploading millions of other fragments at the same time. CIC’s clients, mostly large corporations and Sovereigns, rifle through the Library looking for useful information, and if they find a use for something that Hiro put into it, Hiro gets paid. A year ago, he uploaded an entire first-draft film script that he stole from an agent’s wastebasket in Burbank. Half a dozen studios wanted to see it. He ate and vacationed off of that one for six months.
+*source:*	Snow Crash
+*author:*	Neal Stephenson
+*link:*	kindle://book?action=open&asin=B002RI9KAE&location=800
+*note:*	
+*tags:*	#sciencefiction #technology #SnowCrash #NealStephenson
+
+*quote:*	The number 65,536 is an awkward figure to everyone except a hacker, who recognizes it more readily than his own mother’s date of birth: It happens to be a power of 2—216 power to be exact—and even the exponent 16 is equal to 24, and 4 is equal to 22. Along with 256; 32,768; and 2,147,483,648; 65,536 is one of the foundation stones of the hacker universe, in which 2 is the only really important number because that’s how many digits a computer can recognize.
+*source:*	Snow Crash
+*author:*	Neal Stephenson
+*link:*	kindle://book?action=open&asin=B002RI9KAE&location=835
+*note:*	
+*tags:*	#sciencefiction #technology #SnowCrash #NealStephenson
+
+*quote:*	Hiro’s avatar just looks like Hiro, with the difference that no matter what Hiro is wearing in Reality, his avatar always wears a black leather kimono. Most hacker types don’t go in for garish avatars, because they know that it takes a lot more sophistication to render a realistic human face than a talking penis.
+*source:*	Snow Crash
+*author:*	Neal Stephenson
+*link:*	kindle://book?action=open&asin=B002RI9KAE&location=1023
+*note:*	
+*tags:*	#sciencefiction #technology #SnowCrash #NealStephenson
+
+*quote:*	When Hiro learned how to do this, way back fifteen years ago, a hacker could sit down and write an entire piece of software by himself. Now, that’s no longer possible. Software comes out of factories, and hackers are, to a greater or lesser extent, assembly-line workers. Worse yet, they may become managers who never get to write any code themselves.
+*source:*	Snow Crash
+*author:*	Neal Stephenson
+*link:*	kindle://book?action=open&asin=B002RI9KAE&location=1067
+*note:*	
+*tags:*	#sciencefiction #technology #SnowCrash #NealStephenson
+
+*quote:*	handles it in a typically Hong Kong way, with robots.
+*source:*	Snow Crash
+*author:*	Neal Stephenson
+*link:*	kindle://book?action=open&asin=B002RI9KAE&location=1162
+*note:*	
+*tags:*	#sciencefiction #technology #SnowCrash #NealStephenson
+
+*quote:*	WorldBeat Security,
+*source:*	Snow Crash
+*author:*	Neal Stephenson
+*link:*	kindle://book?action=open&asin=B002RI9KAE&location=1163
+*note:*	
+*tags:*	#sciencefiction #technology #SnowCrash #NealStephenson
+
+*quote:*	The MetaCops are taking it easy, cruising down the middle lane, not above issuing a speeding ticket here and there as long as they’re in their jurisdiction. Motorists around them drive slowly and sanely, appalled by the thought of having to pull over and listen to half an hour of disclaimers, advisements, and tangled justifications from the likes of these.
+*source:*	Snow Crash
+*author:*	Neal Stephenson
+*link:*	kindle://book?action=open&asin=B002RI9KAE&location=1222
+*note:*	
+*tags:*	#sciencefiction #technology #SnowCrash #NealStephenson
+
+*quote:*	cuts across the Hacker Quadrant, headed for Da5id’s table. He recognizes many of the people in here, but as usual, he’s surprised and disturbed by the number he doesn’t recognize—all those sharp, perceptive twenty-one-year-old faces. Software development, like professional sports, has a way of making thirty-year-old men feel decrepit.
+*source:*	Snow Crash
+*author:*	Neal Stephenson
+*link:*	kindle://book?action=open&asin=B002RI9KAE&location=1337
+*note:*	
+*tags:*	#sciencefiction #technology #SnowCrash #NealStephenson
+
+*quote:*	condensing fact from the vapor of nuance.
+*source:*	Snow Crash
+*author:*	Neal Stephenson
+*link:*	kindle://book?action=open&asin=B002RI9KAE&location=1463
+*note:*	
+*tags:*	#sciencefiction #technology #SnowCrash #NealStephenson
+
+*quote:*	when I have a programmer working under me who is working with that information, he is wielding enormous power. Information is going into his brain. And it’s staying there. It travels with him when he goes home at night. It gets all tangled up into his dreams, for Christ’s sake. He talks to his wife about it. And, goddamn it, he doesn’t have any right to that information. If I was running a car factory, I wouldn’t let workers drive the cars home or borrow tools. But that’s what I do at five o’clock each day, all over the world, when my hackers go home from work.
+*source:*	Snow Crash
+*author:*	Neal Stephenson
+*link:*	kindle://book?action=open&asin=B002RI9KAE&location=2284
+*note:*	
+*tags:*	#sciencefiction #technology #SnowCrash #NealStephenson
+
+*quote:*	It’s like putting on crampons and trying to walk through a room full of puppies.
+*source:*	Snow Crash
+*author:*	Neal Stephenson
+*link:*	kindle://book?action=open&asin=B002RI9KAE&location=2361
+*note:*	
+*tags:*	#sciencefiction #technology #SnowCrash #NealStephenson
+
+*quote:*	Recognizing his van is easy enough. It is enormous. It is eight feet high and wider than it is high, which would have made it a wide load in the old days when they had laws.
+*source:*	Snow Crash
+*author:*	Neal Stephenson
+*link:*	kindle://book?action=open&asin=B002RI9KAE&location=4055
+*note:*	
+*tags:*	#sciencefiction #technology #SnowCrash #NealStephenson
+
+*quote:*	deuteronomic school—
+*source:*	Snow Crash
+*author:*	Neal Stephenson
+*link:*	kindle://book?action=open&asin=B002RI9KAE&location=4118
+*note:*	
+*tags:*	#sciencefiction #technology #SnowCrash #NealStephenson
+
+*quote:*	WARNING. The National Parks Service has declared this area to be a National Sacrifice Zone. The Sacrifice Zone Program was developed to manage parcels of land whose clean-up cost exceeds their total future economic value.
+*source:*	Snow Crash
+*author:*	Neal Stephenson
+*link:*	kindle://book?action=open&asin=B002RI9KAE&location=4225
+*note:*	
+*tags:*	#sciencefiction #technology #SnowCrash #NealStephenson
+
+*quote:*	I’m unable to ask Mike about his intentions or anything else associated with his record year, because after Australia he moved on to South America where he was killed in Peru by Shining Path guerrillas. You may have thought I was jesting when I likened twitching to an extreme sport, but twitchers seem to place themselves in life-threatening situations in the pursuit of birds with alarming regularity. The area where Mike and his birding companion, Tim Andrews, were killed was in territory so dangerous even the CIA were reluctant to send in operatives. But despite warnings from the locals, the lure of potential new ticks for their world lists proved far greater than common sense. Most people would say it is not worth risking your life to see a bird. Plenty of twitchers would disagree.
+*source:*	The Big Twitch: One man, one continent, a race against time - a true story about birdwatching
+*author:*	Sean Dooley
+*link:*	kindle://book?action=open&asin=B003U2SKNO&location=478
+*note:*	
+*tags:*	#sciencefiction #technology #TheBigTwitchOnemanonecontinentaraceagainsttimeatruestoryaboutbirdwatching #SeanDooley
+
+*quote:*	1 Only actual birds that are wild and free flying can be counted. 2 All birds must be seen within a calendar year. 3 All birds must be seen within Australian Territory. 4 A species can only be counted in accordance with the official Australian Bird Checklist. 5 All species have to be seen well enough to establish their identity.
+*source:*	The Big Twitch: One man, one continent, a race against time - a true story about birdwatching
+*author:*	Sean Dooley
+*link:*	kindle://book?action=open&asin=B003U2SKNO&location=608
+*note:*	
+*tags:*	#sciencefiction #technology #TheBigTwitchOnemanonecontinentaraceagainsttimeatruestoryaboutbirdwatching #SeanDooley
+
+*quote:*	I know one very reputable birder who for years had Masked Owl on his list because one night he found a freshly road-killed specimen. He swears that as he picked it up the owl blinked – proof, he said, that the bird was still alive for that split second and therefore countable.
+*source:*	The Big Twitch: One man, one continent, a race against time - a true story about birdwatching
+*author:*	Sean Dooley
+*link:*	kindle://book?action=open&asin=B003U2SKNO&location=627
+*note:*	
+*tags:*	#sciencefiction #technology #TheBigTwitchOnemanonecontinentaraceagainsttimeatruestoryaboutbirdwatching #SeanDooley
+
+*quote:*	When it comes down to it, just hearing a bird is not the same experience as when you see it, particularly when you see it well. To see some birds I would have to travel hundreds, even thousands of kilometres and expend a great deal of time and energy. A fleeting glimpse or hearing a snatch of a call is not exactly what I was after. I wanted the total experience of seeing a bird and that meant being able to recognise what the hell it was I was looking at. If I am walking through a gorge in the Kakadu National Park and a large, dark pigeon flies off, there will be little doubt the bird is anything but a Chestnut-quilled Rock-Pigeon. But if all I see is a brown blur, well it’s hardly a valid experience of the essence of the bird, of what makes it a unique creature. I won’t be satisfied putting it on my list until, at the very least, I have seen the diagnostic feature of the chestnut wing patch that makes it a Chestnut-quilled Rock-Pigeon. This will help me stand up to anyone who doubts I saw a Chestnut-quilled Rock-Pigeon but, more importantly, it means that I will be happy within myself that I truly experienced the bird. And ultimately, for me, that’s what counts.
+*source:*	The Big Twitch: One man, one continent, a race against time - a true story about birdwatching
+*author:*	Sean Dooley
+*link:*	kindle://book?action=open&asin=B003U2SKNO&location=693
+*note:*	
+*tags:*	#sciencefiction #technology #TheBigTwitchOnemanonecontinentaraceagainsttimeatruestoryaboutbirdwatching #SeanDooley
+
+*quote:*	I have actually heard comments such as, ‘Bruce is a nice bloke but he couldn’t tell a Phylloscopus warbler from his elbow,’ in such a tone that brings into question Bruce’s legitimacy as a fellow human being.
+*source:*	The Big Twitch: One man, one continent, a race against time - a true story about birdwatching
+*author:*	Sean Dooley
+*link:*	kindle://book?action=open&asin=B003U2SKNO&location=760
+*note:*	
+*tags:*	#sciencefiction #technology #TheBigTwitchOnemanonecontinentaraceagainsttimeatruestoryaboutbirdwatching #SeanDooley
+
+*quote:*	Thanks to the cultural shift that occurred in the Australian consciousness from the 1960s onwards, when we stopped trying to turn our homes into little patches of England and began planting indigenous species, many native nectar-feeders have returned to the suburbs – the White-plumed Honeyeater, Noisy Miner and the Red and Little Wattlebirds. But they are all aggressive little buggers and none more so than the magnificent Rainbow Lorikeet, a stunning burst of colour that now wheels about most Australian cities in raucous flocks. I have seen a British twitcher fresh off the plane weep at the beauty and abundance of these birds. They are now back in such numbers that even in the inner city they are giving the Common Mynas a run for their money.
+*source:*	The Big Twitch: One man, one continent, a race against time - a true story about birdwatching
+*author:*	Sean Dooley
+*link:*	kindle://book?action=open&asin=B003U2SKNO&location=861
+*note:*	
+*tags:*	#sciencefiction #technology #TheBigTwitchOnemanonecontinentaraceagainsttimeatruestoryaboutbirdwatching #SeanDooley
+
+*quote:*	In this country we tend to ignore landscape as a factor in developing our character. You will hear people banging on about how the boundless frontier forged the American sense of optimism, how the Mediterranean sun fuels the passions of those who live under its blazing influence, yet in Australia it’s as though we are ashamed of our landscape. Rather than embrace it we have for the most part of our short history denied the reality of the landscape like a shameful family secret, expending an awful amount of energy in European makeovers or simply willfully ignoring its existence altogether.
+*source:*	The Big Twitch: One man, one continent, a race against time - a true story about birdwatching
+*author:*	Sean Dooley
+*link:*	kindle://book?action=open&asin=B003U2SKNO&location=932
+*note:*	
+*tags:*	#sciencefiction #technology #TheBigTwitchOnemanonecontinentaraceagainsttimeatruestoryaboutbirdwatching #SeanDooley
+
+*quote:*	To me the Hume is a four-lane song-line with a burger stop every couple of hours, that sings of geological history, ice ages, Aborigines, explorers, bushrangers, politicians, disasters, courage and, especially, birds.
+*source:*	The Big Twitch: One man, one continent, a race against time - a true story about birdwatching
+*author:*	Sean Dooley
+*link:*	kindle://book?action=open&asin=B003U2SKNO&location=1078
+*note:*	
+*tags:*	#sciencefiction #technology #TheBigTwitchOnemanonecontinentaraceagainsttimeatruestoryaboutbirdwatching #SeanDooley
+
+*quote:*	In 1996 the then Victorian State Government declared the former Chiltern State Park a national park. Its official title was to be The Box-Ironbark National Park, a name intended to placate the small but growing surge of voices demanding this habitat be saved. ‘Protect the Box-Ironbark? Of course we have. Look at that dot on the map. “The Box-Ironbark National Park”. There, problem solved – it’s protected.
+*source:*	The Big Twitch: One man, one continent, a race against time - a true story about birdwatching
+*author:*	Sean Dooley
+*link:*	kindle://book?action=open&asin=B003U2SKNO&location=1097
+*note:*	
+*tags:*	#sciencefiction #technology #TheBigTwitchOnemanonecontinentaraceagainsttimeatruestoryaboutbirdwatching #SeanDooley
+
+*quote:*	This is a process called extinction debt, where the birds are essentially a kind of zombie, still existing in this world, but effectively the walking (or flying) dead.
+*source:*	The Big Twitch: One man, one continent, a race against time - a true story about birdwatching
+*author:*	Sean Dooley
+*link:*	kindle://book?action=open&asin=B003U2SKNO&location=1173
+*note:*	
+*tags:*	#sciencefiction #technology #TheBigTwitchOnemanonecontinentaraceagainsttimeatruestoryaboutbirdwatching #SeanDooley
+
+*quote:*	I’ve always wondered what birders who work at BA do when a mega rarity turns up. For the rest of us we can just claim a sickie and head off to try and twitch the vagrant, but the BA worker is in a unique dilemma. If they skive off work then everyone else in the office will know damn well that they aren’t sick at all. And as many of the staff at Birds Australia are keen twitchers themselves, if something as crippling as an Emperor Penguin were to turn up, I imagine that the entire office would be deserted.
+*source:*	The Big Twitch: One man, one continent, a race against time - a true story about birdwatching
+*author:*	Sean Dooley
+*link:*	kindle://book?action=open&asin=B003U2SKNO&location=1252
+*note:*	
+*tags:*	#sciencefiction #technology #TheBigTwitchOnemanonecontinentaraceagainsttimeatruestoryaboutbirdwatching #SeanDooley
+
+*quote:*	I’d been assured that the easiest method of getting onto the parakeets was to hang out at the Botanic Gardens next to the cage containing the captive birds. Apparently wild birds would come in and have a bit of a chat with their captive mates.
+*source:*	The Big Twitch: One man, one continent, a race against time - a true story about birdwatching
+*author:*	Sean Dooley
+*link:*	kindle://book?action=open&asin=B003U2SKNO&location=1608
+*note:*	
+*tags:*	#sciencefiction #technology #TheBigTwitchOnemanonecontinentaraceagainsttimeatruestoryaboutbirdwatching #SeanDooley
+
+*quote:*	Of the 705 birds on my wish list, the Red-necked Phalarope is one I was least confident of seeing. Not sighted in Australia until 1962, since then one or two seem to turn up somewhere every year, but not always. They are almost annual on Rottnest Island near Perth and are virtually guaranteed at the Port Headland Saltworks
+*source:*	The Big Twitch: One man, one continent, a race against time - a true story about birdwatching
+*author:*	Sean Dooley
+*link:*	kindle://book?action=open&asin=B003U2SKNO&location=1654
+*note:*	
+*tags:*	#sciencefiction #technology #TheBigTwitchOnemanonecontinentaraceagainsttimeatruestoryaboutbirdwatching #SeanDooley
+
+*quote:*	Brisbane is the capital of Queensland and Australia’s third largest city. That’s about as much as most other Australians know of Brisbane. When they visit southeast Queensland they usually head to the holiday resorts of the Gold and Sunshine Coasts, immediately to the south and north, ignoring the city itself. Over the last decade much has been done to shake off Brisbane’s image as a sleepy country town with a bit of a seedy underbelly. In general it’s failed. Not at building a vibrant cultural and business hub, but in convincing the rest of the country that Brisbane is a place that matters.
+*source:*	The Big Twitch: One man, one continent, a race against time - a true story about birdwatching
+*author:*	Sean Dooley
+*link:*	kindle://book?action=open&asin=B003U2SKNO&location=1671
+*note:*	
+*tags:*	#sciencefiction #technology #TheBigTwitchOnemanonecontinentaraceagainsttimeatruestoryaboutbirdwatching #SeanDooley
+
+*quote:*	If Christmas Island were to be invaded tomorrow I suspect that the only Australians who would bother trying to defend it would be the twitching community, who within minutes would be organising a strike force of angry nerds to protect their sacred soil.
+*source:*	The Big Twitch: One man, one continent, a race against time - a true story about birdwatching
+*author:*	Sean Dooley
+*link:*	kindle://book?action=open&asin=B003U2SKNO&location=1870
+*note:*	
+*tags:*	#sciencefiction #technology #TheBigTwitchOnemanonecontinentaraceagainsttimeatruestoryaboutbirdwatching #SeanDooley
+
+*quote:*	This parochialism reached its ridiculous zenith when on one pelagic I commented to someone about the size of the shark liver being used as berley. Without a hint of irony, this person turned to me and boasted, ‘Yeah, I bet you don’t get shark liver that big down your way.’ I couldn’t believe it, he was actually using the ‘my shark liver’s bigger than your shark liver’ line.
+*source:*	The Big Twitch: One man, one continent, a race against time - a true story about birdwatching
+*author:*	Sean Dooley
+*link:*	kindle://book?action=open&asin=B003U2SKNO&location=2305
+*note:*	
+*tags:*	#sciencefiction #technology #TheBigTwitchOnemanonecontinentaraceagainsttimeatruestoryaboutbirdwatching #SeanDooley
+
+*quote:*	In the Sydney region, the more remote sandstone outcrops still harbour examples of Aboriginal art, recording the lives and spirituality of the original inhabitants of this land. Today a new generation of settlers is adding to the cultural record, reaching out across the ages in an act of spiritual solidarity and understanding. Where Rock Warblers would once have foraged amongst galleries resplendent with images of kangaroos and goannas these days at Bomaderry they feed amongst rocks emblazoned with: ‘Mandy is a slut!’ ‘Bong on Australia’ and ‘F*** You’.
+*source:*	The Big Twitch: One man, one continent, a race against time - a true story about birdwatching
+*author:*	Sean Dooley
+*link:*	kindle://book?action=open&asin=B003U2SKNO&location=2355
+*note:*	
+*tags:*	#sciencefiction #technology #TheBigTwitchOnemanonecontinentaraceagainsttimeatruestoryaboutbirdwatching #SeanDooley
+
+*quote:*	Because foxes never gained a foothold on the island, Tasmania is a sensational place for native mammals. Several species that have become extinct on the mainland survive here in good numbers and while looking for the owl I almost had to kick Eastern Barred Bandicoots, Southern Brown Bandicoots and Southern Bettongs, a very cute type of wallaby, out of the way.
+*source:*	The Big Twitch: One man, one continent, a race against time - a true story about birdwatching
+*author:*	Sean Dooley
+*link:*	kindle://book?action=open&asin=B003U2SKNO&location=2397
+*note:*	
+*tags:*	#sciencefiction #technology #TheBigTwitchOnemanonecontinentaraceagainsttimeatruestoryaboutbirdwatching #SeanDooley
+
+*quote:*	Not that I’d been particularly malicious but I did relay that they were nicknamed Sparks and Wildfires by locals because just before I arrived yet another of their prescriptive burns got out of control and set fire to half the park and neighbouring properties.
+*source:*	The Big Twitch: One man, one continent, a race against time - a true story about birdwatching
+*author:*	Sean Dooley
+*link:*	kindle://book?action=open&asin=B003U2SKNO&location=2885
+*note:*	
+*tags:*	#sciencefiction #technology #TheBigTwitchOnemanonecontinentaraceagainsttimeatruestoryaboutbirdwatching #SeanDooley
+
+*quote:*	Santa Teresa
+*source:*	The Big Twitch: One man, one continent, a race against time - a true story about birdwatching
+*author:*	Sean Dooley
+*link:*	kindle://book?action=open&asin=B003U2SKNO&location=2931
+*note:*	
+*tags:*	#sciencefiction #technology #TheBigTwitchOnemanonecontinentaraceagainsttimeatruestoryaboutbirdwatching #SeanDooley
+
+*quote:*	Aglebuckina Waterhole,
+*source:*	The Big Twitch: One man, one continent, a race against time - a true story about birdwatching
+*author:*	Sean Dooley
+*link:*	kindle://book?action=open&asin=B003U2SKNO&location=2962
+*note:*	
+*tags:*	#sciencefiction #technology #TheBigTwitchOnemanonecontinentaraceagainsttimeatruestoryaboutbirdwatching #SeanDooley
+
+*quote:*	Collared Imperial-Pigeons,
+*source:*	The Big Twitch: One man, one continent, a race against time - a true story about birdwatching
+*author:*	Sean Dooley
+*link:*	kindle://book?action=open&asin=B003U2SKNO&location=3313
+*note:*	
+*tags:*	#sciencefiction #technology #TheBigTwitchOnemanonecontinentaraceagainsttimeatruestoryaboutbirdwatching #SeanDooley
+
+*quote:*	To rub it in, a few minutes later he pointed to a female Varied Triller in the bush in front of us. Ross and Jan Mullholland saw it immediately but I couldn’t. Eventually the whole party was onto it and I still couldn’t see it and this bush was only ten metres away. Either they were all in on an elaborate joke or I have a blind spot when it comes to trillers. I looked stupid either way.
+*source:*	The Big Twitch: One man, one continent, a race against time - a true story about birdwatching
+*author:*	Sean Dooley
+*link:*	kindle://book?action=open&asin=B003U2SKNO&location=3361
+*note:*	
+*tags:*	#sciencefiction #technology #TheBigTwitchOnemanonecontinentaraceagainsttimeatruestoryaboutbirdwatching #SeanDooley
+
+*quote:*	I remember as a child, before I could read, staring at traffic signs and knowing that once I learnt to read I would never not be able to look at that sign without knowing what it said. (I was a far more profound child than I am an adult.) Birding had become like that for me. It is a language that, once learnt, I have been unable to unlearn. Everywhere I go I am automatically birding in my head whether I am conscious of it or not. Everywhere I go I am tallying up a bird list for that location.
+*source:*	The Big Twitch: One man, one continent, a race against time - a true story about birdwatching
+*author:*	Sean Dooley
+*link:*	kindle://book?action=open&asin=B003U2SKNO&location=3852
+*note:*	
+*tags:*	#sciencefiction #technology #TheBigTwitchOnemanonecontinentaraceagainsttimeatruestoryaboutbirdwatching #SeanDooley
+
+*quote:*	Gunlom is a waterfall made famous by the first Crocodile Dundee movie. It is also known as Waterfall Creek but I prefer an earlier European name, UDP Falls. UDP stands for Uranium Development Project and it’s a lovely reminder of the past (and current) history of the area.
+*source:*	The Big Twitch: One man, one continent, a race against time - a true story about birdwatching
+*author:*	Sean Dooley
+*link:*	kindle://book?action=open&asin=B003U2SKNO&location=4573
+*note:*	
+*tags:*	#sciencefiction #technology #TheBigTwitchOnemanonecontinentaraceagainsttimeatruestoryaboutbirdwatching #SeanDooley
+
+*quote:*	There are a million ways to occupy your time on this planet. They’re all pretty much absurd if you analyse them too closely. I chose twitching, one of the more outwardly absurd of them all I suppose but really no more ridiculous than anything else, yet that year of absurdity has had a profound effect on my life since.
+*source:*	The Big Twitch: One man, one continent, a race against time - a true story about birdwatching
+*author:*	Sean Dooley
+*link:*	kindle://book?action=open&asin=B003U2SKNO&location=4898
+*note:*	
+*tags:*	#sciencefiction #technology #TheBigTwitchOnemanonecontinentaraceagainsttimeatruestoryaboutbirdwatching #SeanDooley
+
+*quote:*	If one percent of the humans alive controlled everyone’s work, and took far more than their share of the benefits of that work, while also blocking the project of equality and sustainability however they could, that project would become more difficult. This would go without saying, except that it needs saying. To be clear, concluding in brief: there is enough for all. So there should be no more people living in poverty. And there should be no more billionaires. Enough should be a human right, a floor below which no one can fall; also a ceiling above which no one can rise. Enough is a good as a feast—or better.
+*source:*	The Ministry for the Future
+*author:*	Kim Stanley Robinson
+*link:*	kindle://book?action=open&asin=B08C5DWVRK&location=926
+*note:*	
+*tags:*	#sciencefiction #technology #TheMinistryfortheFuture #KimStanleyRobinson
+
+*quote:*	hope to do some good, no matter how fucked up you are.
+*source:*	The Ministry for the Future
+*author:*	Kim Stanley Robinson
+*link:*	kindle://book?action=open&asin=B08C5DWVRK&location=998
+*note:*	
+*tags:*	#sciencefiction #technology #TheMinistryfortheFuture #KimStanleyRobinson
+
+*quote:*	“Well, it has before. Pretty often in fact. It’s a common form of organization. Most unorthodox operations take place without their political heads knowing they exist. Certainly never the details, even if they’re aware in a general sense that such things exist. As I thought you might be.”
+*source:*	The Ministry for the Future
+*author:*	Kim Stanley Robinson
+*link:*	kindle://book?action=open&asin=B08C5DWVRK&location=1721
+*note:*	
+*tags:*	#sciencefiction #technology #TheMinistryfortheFuture #KimStanleyRobinson
+
+*quote:*	Their idea is to shape the discount rate like a bell curve, with the present always at the top of the bell. So from that position, the discount rate is nearly nothing for the next seven generations, then it shifts higher at a steepening rate.
+*source:*	The Ministry for the Future
+*author:*	Kim Stanley Robinson
+*link:*	kindle://book?action=open&asin=B08C5DWVRK&location=2022
+*note:*	
+*tags:*	#sciencefiction #technology #TheMinistryfortheFuture #KimStanleyRobinson
+
+*quote:*	These efforts were awkward at best.
+*source:*	The Ministry for the Future
+*author:*	Kim Stanley Robinson
+*link:*	kindle://book?action=open&asin=B08C5DWVRK&location=2190
+*note:*	
+*tags:*	#sciencefiction #technology #TheMinistryfortheFuture #KimStanleyRobinson
+
+*quote:*	The Austrian and Chicago schools had run with that opinion, and thus neoliberalism: the market rules because it’s the best calculator. But now, with computers as strong as they’ve gotten, the Red Plenty argument has gotten stronger and stronger, asserting that people now have so much computing power that central planning could work better than the market.
+*source:*	The Ministry for the Future
+*author:*	Kim Stanley Robinson
+*link:*	kindle://book?action=open&asin=B08C5DWVRK&location=2504
+*note:*	
+*tags:*	#sciencefiction #technology #TheMinistryfortheFuture #KimStanleyRobinson
+
+*quote:*	Extinctions and ocean warming can’t be fixed no matter how much money future people have, so economics as practiced misses a fundamental aspect of reality.
+*source:*	The Ministry for the Future
+*author:*	Kim Stanley Robinson
+*link:*	kindle://book?action=open&asin=B08C5DWVRK&location=2531
+*note:*	
+*tags:*	#sciencefiction #technology #TheMinistryfortheFuture #KimStanleyRobinson
+
+*quote:*	The “structural adjustment programs” enforced by the World Bank on the developing countries caught in the debt crises at the end of the twentieth century set the conditions for what became the world order in the twenty-first century. These SAPs were instruments of the postwar American economic empire, which was unlike the older empires in that it did not insist on ownership of its economic colonies; it only owned their debts and their profits, no more than that. The best empire yet, in terms of efficiency,
+*source:*	The Ministry for the Future
+*author:*	Kim Stanley Robinson
+*link:*	kindle://book?action=open&asin=B08C5DWVRK&location=3108
+*note:*	
+*tags:*	#sciencefiction #technology #TheMinistryfortheFuture #KimStanleyRobinson
+
+*quote:*	nat cat group. Natural catastrophes:
+*source:*	The Ministry for the Future
+*author:*	Kim Stanley Robinson
+*link:*	kindle://book?action=open&asin=B08C5DWVRK&location=3651
+*note:*	
+*tags:*	#sciencefiction #technology #TheMinistryfortheFuture #KimStanleyRobinson
+
+*quote:*	The Swiss presidents shivered collectively, shaking her off. They looked around the table at each other. Not happy. Not angry. Not panicked. Not dismissive. They were thinking.
+*source:*	The Ministry for the Future
+*author:*	Kim Stanley Robinson
+*link:*	kindle://book?action=open&asin=B08C5DWVRK&location=4737
+*note:*	
+*tags:*	#sciencefiction #technology #TheMinistryfortheFuture #KimStanleyRobinson
+
+*quote:*	Those poor animal murderers never had a chance. Actually quite a few of them stood their ground and shot a bunch of animals. Mostly deer, it turned out, as we had sent them out as scouts, poor guys. The first wave. Deer are the sad sacks of American wildlife, so beautiful, so defenseless, so numerous, so dim. Their chief predator is cars.
+*source:*	The Ministry for the Future
+*author:*	Kim Stanley Robinson
+*link:*	kindle://book?action=open&asin=B08C5DWVRK&location=5343
+*note:*	
+*tags:*	#sciencefiction #technology #TheMinistryfortheFuture #KimStanleyRobinson
+
+*quote:*	What was the trauma, what was the stress, what was the disorder? No one knew. In the jungle of each mind a wandering went on ceaselessly, finding a clearing here, a pool there, all in the murky light of one’s sputtering thoughts, half awake, half asleep.
+*source:*	The Ministry for the Future
+*author:*	Kim Stanley Robinson
+*link:*	kindle://book?action=open&asin=B08C5DWVRK&location=5770
+*note:*	
+*tags:*	#sciencefiction #technology #TheMinistryfortheFuture #KimStanleyRobinson
+
+*quote:*	Hi, I am here to tell you about Argentina’s Shamballa Permaculture Project. We are representatives of Armenia’s ARK Armenia, happy to be here. Down in Australia we’ve connected up our Aboriginal Wetland Burning, Shoalwater Culture, Gawula, Greening Australia, How Aboriginals Made Australia, Kachana Land Restoration, One Acre Small Permaculture Project, Permaculture Research Institute, Purple Pear Farm, Rehydrating the Landscape, Regenerate Australia, and the Yarra Yarra Biodiversity Corridor. We’re a busy crowd!
+*source:*	The Ministry for the Future
+*author:*	Kim Stanley Robinson
+*link:*	kindle://book?action=open&asin=B08C5DWVRK&location=6140
+*note:*	
+*tags:*	#sciencefiction #technology #TheMinistryfortheFuture #KimStanleyRobinson
+
+*quote:*	We are all here together to share what we are doing, to see each other, and to tell you our stories. We are already out there working hard, everywhere around this Earth. Healing the Earth is our sacred work, our duty to the seven generations. There are many more projects like ours already in existence, look us up on your YourLock account and see, maybe support us, maybe join us. You will find us out there already, now, and then you must also realize we are only about one percent of all the projects out there doing good things. And more still are waiting to be born. Come in, talk to us. Listen to our stories. See where you can help. Build your own project. You will love it as we do. There is no other world.
+*source:*	The Ministry for the Future
+*author:*	Kim Stanley Robinson
+*link:*	kindle://book?action=open&asin=B08C5DWVRK&location=6192
+*note:*	
+*tags:*	#sciencefiction #technology #TheMinistryfortheFuture #KimStanleyRobinson
+
+*quote:*	The deal had come down from some UN agency called the Ministry for the Future, by way of the Feds and the Montana state government.
+*source:*	The Ministry for the Future
+*author:*	Kim Stanley Robinson
+*link:*	kindle://book?action=open&asin=B08C5DWVRK&location=6327
+*note:*	
+*tags:*	#sciencefiction #technology #TheMinistryfortheFuture #KimStanleyRobinson
+
+*quote:*	Making concrete was bad in carbon terms, so the price on new concrete was astronomical now, taxed to the point where anything else was cheaper, almost. Recycled concrete from decommissioned roads and old foundations of deconstructed buildings was a way to get rich, or at least do very well.
+*source:*	The Ministry for the Future
+*author:*	Kim Stanley Robinson
+*link:*	kindle://book?action=open&asin=B08C5DWVRK&location=6364
+*note:*	
+*tags:*	#sciencefiction #technology #TheMinistryfortheFuture #KimStanleyRobinson
+
+*quote:*	The clinic took the usual stupid amount of time, and in the end it was just the start.
+*source:*	The Ministry for the Future
+*author:*	Kim Stanley Robinson
+*link:*	kindle://book?action=open&asin=B08C5DWVRK&location=6431
+*note:*	
+*tags:*	#sciencefiction #technology #TheMinistryfortheFuture #KimStanleyRobinson
+
+*quote:*	It was so hard to imagine that a mind could be gone. All those thoughts that you never tell anyone, all those dreams, all that entire pocket universe: gone.
+*source:*	The Ministry for the Future
+*author:*	Kim Stanley Robinson
+*link:*	kindle://book?action=open&asin=B08C5DWVRK&location=7222
+*note:*	
+*tags:*	#sciencefiction #technology #TheMinistryfortheFuture #KimStanleyRobinson
+
+*quote:*	Wild animals’ lives and deaths are being noted by people. They mean something, they are part of a meaning. Not since the Paleolithic have animals meant so much to humans, been regarded so closely and fondly by we their cousins. The land that supports these animals also supports our farms and cities as well, in a big network of networks.
+*source:*	The Ministry for the Future
+*author:*	Kim Stanley Robinson
+*link:*	kindle://book?action=open&asin=B08C5DWVRK&location=7260
+*note:*	
+*tags:*	#sciencefiction #technology #TheMinistryfortheFuture #KimStanleyRobinson
+
+*quote:*	AI-assisted design was continuously working up better ships, as with everything, and solutions were sometimes as counterintuitive as could be (kites? masts curving forward?), but of course human intuition was so often wrong. Foxing their own cognitive errors might be one of the greatest accomplishments of contemporary science, if they could really do it. As with everything, if they could get through this tight spot, they might sail right off into something grand.
+*source:*	The Ministry for the Future
+*author:*	Kim Stanley Robinson
+*link:*	kindle://book?action=open&asin=B08C5DWVRK&location=7339
+*note:*	
+*tags:*	#sciencefiction #technology #TheMinistryfortheFuture #KimStanleyRobinson
+
+*quote:*	Meeting in San Francisco over, retired in full, Mary considered how best to get home to Zurich.
+*source:*	The Ministry for the Future
+*author:*	Kim Stanley Robinson
+*link:*	kindle://book?action=open&asin=B08C5DWVRK&location=7444
+*note:*	
+*tags:*	#sciencefiction #technology #TheMinistryfortheFuture #KimStanleyRobinson
+
+*quote:*	Mount Tamalpais
+*source:*	The Ministry for the Future
+*author:*	Kim Stanley Robinson
+*link:*	kindle://book?action=open&asin=B08C5DWVRK&location=7449
+*note:*	
+*tags:*	#sciencefiction #technology #TheMinistryfortheFuture #KimStanleyRobinson
+
+*quote:*	The great shock of their arrival was to see that the ocean, clear of ice to the northern horizon, was yellow. Naturally this looked awful, like some vast toxic spill; in fact it was geoengineering,
+*source:*	The Ministry for the Future
+*author:*	Kim Stanley Robinson
+*link:*	kindle://book?action=open&asin=B08C5DWVRK&location=7520
+*note:*	
+*tags:*	#sciencefiction #technology #TheMinistryfortheFuture #KimStanleyRobinson
+
+*quote:*	the solar heating of the Arctic Ocean when there was no ice covering it might be enough all by itself to tip the world irrevocably into jungle planet.
+*source:*	The Ministry for the Future
+*author:*	Kim Stanley Robinson
+*link:*	kindle://book?action=open&asin=B08C5DWVRK&location=7522
+*note:*	
+*tags:*	#sciencefiction #technology #TheMinistryfortheFuture #KimStanleyRobinson
+
+*quote:*	The energy and heat savings in terms of albedo were huge—the albedo went from 0.06 for open water (where 1 was total reflection and 0 total absorption) to 0.47 for yellow water.
+*source:*	The Ministry for the Future
+*author:*	Kim Stanley Robinson
+*link:*	kindle://book?action=open&asin=B08C5DWVRK&location=7527
+*note:*	
+*tags:*	#sciencefiction #technology #TheMinistryfortheFuture #KimStanleyRobinson
+
+*quote:*	‘An evolutionary arms race between KRAB zinc-finger genes ZNF91/93 and SVA/L1 retrotransposons’.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=419
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	Everyone sat forward as the data made the case that these old, dead viruses found throughout the human genome aren’t dead at all. They have functioning genes, ready to make more viruses. Every cell in the human body is a potential virus factory, but something keeps these viral genes quiet. It turned out that they’re suppressed by other genes in the cell. The paper was saying that one part of our genome is constantly at war with another part. The implications of this were immediately obvious to everyone in a lab familiar with the nature of arms races.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=424
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	we’ve also moved into a new, parallel ecosystem, one with its own arms races that are powered not by the flow of energy, but by the flow of money. This is the new system of industrial food production.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=470
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	The competition for that money, which drives increasing complexity and innovation, occurs between an entire ecosystem of constantly evolving corporations, from giant transnational groups to thousands of smaller national companies. And their bait for extracting the money is called ultra-processed food, or UPF. These foods have been put through an evolutionary selection process over many decades, whereby the products that are purchased and eaten in the greatest quantities are the ones that survive best in the market. To achieve this, they have evolved to subvert the systems in the body that regulate weight and many other functions.fn2
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=472
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	UPF has a long, formal scientific definition, but it can be boiled down to this: if it’s wrapped in plastic and has at least one ingredient that you wouldn’t usually find in a standard home kitchen, it’s UPF.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=480
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	But ultra-processing also includes other, more indirect processes – deceptive marketing, bogus court cases, secret lobbying, fraudulent research – all of which are vital for corporations to extract that money.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=486
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	commerciogenic disease – that is, a disease caused by the marketing and consumption of addictive substances.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=531
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	This is not a weight-loss book because first, no one has yet devised a method that helps people safely and sustainably lose weight, and second, I don’t accept that you should lose weight. I don’t have a ‘correct’ body and I don’t have an opinion about what one would look like. I don’t have an opinion on the food you should eat; that’s up to you. I make choices that are not ‘healthy’ the whole time, whether it’s dangerous sports or eating junk. But I feel strongly that to make choices we all need accurate information about the possible risks of our food, and that we should be less exposed to aggressive, often misleading marketing.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=542
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	But I do have one suggestion about how you read this book. If you feel like you might want to quit UPF – don’t. Eat along. Let me explain. You’re a participant in an experiment you didn’t volunteer for. New substances are being tested on all of us all the time to see which of them are best at extracting money. Can a synthetic emulsifier be used instead of an egg? Can a seed oil replace a dairy fat? Can a bit of ethyl methylphenylglycidate be chucked in instead of a strawberry? By buying UPF, we’re continuously driving its evolution. We take the risk in this experiment while the benefits are handed to the owners of the companies producing UPF and the results are largely concealed from us – apart from the effects on our health. My proposal is that, for the duration of reading this book, you continue the experiment of eating UPF, but that you do it for you, not for the corporations that make it. I can tell you about UPF, but the stuff itself will be your greatest teacher. Only by eating it will you understand its true nature. I know this because I did the experiment myself.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=550
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	I was reminded of Allen Carr’s best-selling book, The Easy Way to Stop Smoking. The book is unusual in the self-help genre in that it has actually been studied and the intervention it recommends is pretty good. The idea is that you keep smoking while you read about how bad smoking is. Eventually, the cigarettes begin to seem disgusting.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=566
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	Paul’s speech is peppered with little phrases like this – quotes, aphorisms – that seem to be shortcuts to deeper thoughts. It’s as if his brain works faster than his mouth can speak, so he has to reduce everything to the minimum number of words (although there’s still a lot of words). Asking Paul questions feels like uncorking a bottle under pressure. When I asked if we could have a chat, he sent me a five-page briefing.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=606
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	Paul showed me a label with extravagant claims about prebiotics, probiotics and omega 3, and explained that the yoghurt is nothing more than a vehicle to make claims about these other ingredients: ‘You lure the consumer in on the basis that some defect in their diet is going to be fixed by swallowing a yoghurt full of additives.’
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=612
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	One of Paul’s first jobs at Unilever was in an ice-cream development lab. He described the scale of the ambition there. The aim was to make blocks of foam that were stable at room temperature which could be distributed worldwide and then frozen onsite. If this could be achieved, the savings would be immense. In fact, many ice creams aren’t far off this goal now, as I had discovered in the park. ‘The only remaining problem,’ Paul told me, ‘is the bugs – bugs love ice cream. So, it does all still need to be frozen.’
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=645
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	The secret to those ultra-processed ice creams, like all UPF, is that they are constructed from the cheapest possible versions of those three essential molecules: fats, proteins and carbs.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=665
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	Waxy potatoes like Jersey Royals have sturdy granules of starch, meaning they stay firm when you boil them, and can hold their structure in a potato salad. Floury potatoes like russets, on the other hand, contain sugar-molecule chains that aren’t stuck together so well. That’s why, though they roast brilliantly, they have a mealy quality that makes them disintegrate in a potato salad, turning it into a mayonnaise mash. Then you have potatoes like Maris Pipers, whose starch hits a sweet spot between the other two, meaning they can be used for pretty much anything – it’s the UK’s most popular potato for a reason.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=682
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	Chemists realised in the nineteenth century that by chemically modifying starch they could create the exact properties they required. Modified starches, which you will start to notice in so many UPF ingredients lists, can replace fats and dairy, hold water during freezing and bulk out any sauce.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=688
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	Take palm oil, for example. When freshly pressed, it’s an almost luminous crimson, highly aromatic, spicy and flavourful, and full of antioxidants like palm tocotrienol.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=786
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	Having solved the problems of cottonseed oil, P&G began a large campaign marketing de-toxified oil as Crisco, an acronym for crystallised cottonseed
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=793
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	And then we come to Group 4, ‘ultra-processed foods’. It’s long, perhaps the longest definition I’d ever read of a scientific category: ‘Formulations of ingredients, mostly of exclusive industrial use, made by a series of industrial processes, many requiring sophisticated equipment and technology.’
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=856
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	This is a pattern I would encounter throughout my diet. Ingredient lists, from pizza to chew bars, started to look the same.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=862
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	products that subvert the body’s evolved mechanisms that signal when to stop eating might survive better in the marketplace.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=873
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	The cereal is rich, complex and intensely chocolatey, far more so than I remembered. The texture of the first mouthful is extraordinary, some of the ‘pops’ becoming chewy almost instantly while others remain crisp, crackling on the tongue. But three spoons in, the joy was gone: what remained was a brown sludge, consumed only to relieve a craving. Lyra and I were drawn to our next mouthfuls just like smokers to the next drag. The experience of the first pull couldn’t be replicated, yet something about the cereal made us keep trying.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=930
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	Nutrient Profile Model (or NPM 2004/5), which was developed as a tool to regulate food advertisements targeted at children.fn7
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=965
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	First, you award a score for the bad stuff: calories, saturated fat, sugars and sodium. These are called ‘A’ points. Second, you add up the points for the good stuff: fruit, vegetables, nuts, fibre and protein. These are called ‘C’ points. (By the way, you may need to pay for access to something like the NielsenIQ Brandbank nutritional database to gather all this information.) After you’ve calculated the A and C points, there are other rules to be factored in, like: ‘If a food or drink scores 11 or more A points then it cannot score points for protein unless it also scores 5 points for fruit, vegetables and nuts.’ Clear so far? Well, then you subtract the C points from the A points to calculate a score out of thirty. Any food that scores more than four is classified as HFSS. But, even if you do all that, it isn’t clear whether children should eat these HFSS foods, or in what amounts. The designation determines only whether a food can be marketed to children at particular times and in particular ways.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=969
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	Sometimes the observational data feel very science-y: measurements of the movement of celestial objects, or numbers read out from a fancy machine like a linear collider. But other times a dog walker finds a dead goose in a park and it’s the first data point in a bird flu pandemic.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=1130
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	In the real world, part of the processing is that packaging and the adverts, which are nearly universally for UPF. You almost never see an ad for beef or mushrooms or milk, and there are no health claims on their packaging. But you do see cartoon characters and vitamin-enriched claims printed all over UPF.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=1254
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	Increasing intake of UPF by 10 per cent was associated with a 25 per cent increase in the risk of dementia and a 14 per cent increase in the risk of Alzheimer’s disease.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=1338
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	International Maize and Wheat Improvement Center
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=1395
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	It was while researching all of this that I started to understand these corporations as organisms in an ecosystem powered by money. Railing against the companies that are the direct descendants of the regime feels futile: shame and outrage are clearly inadequate to limit the survival of companies that are complicit in atrocities. And the ecosystem idea seemed to explain why: their behaviour changes only when the flow of energy, the money, is diverted. Shame may interrupt the flow of money, but if it doesn’t it will serve no practical function to limit corporate behaviour.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=1534
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	economists use the same set of equations to describe corporate survival in economic arms races as ecologists use to explain the survival or extinction of species in biological arms races.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=1539
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	I feel like there is another more slippery idea about the effect of making food from coal, or indeed through any industrial synthetic process. It destroys the meaning of food beyond the ability to sustain life (however temporarily in the case of coal butter and the U-boat sailors). Food must become a technical substance, without cultural or historical meaning – nutritionism at its most extreme.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=1542
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	I contain just under 5g of iron – a small nail’s worth to turn my blood red and my snot green
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=1666
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	Because it’s a mistake, as Eddie pointed out, to think that cows and other herbivores just eat grass and not much else. Instead, by copying their mothers and trialling small quantities of different plants, herbivores build up an extraordinarily diverse
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=1684
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	Valerate is found in the medicinal plant valerian and used as a food additive to produce meat flavour.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=1713
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	humans were the only cucinivores
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=1732
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	The second age continues all around us. You can shop at a supermarket and continue being a second-age organism, by buying meat, fruit and vegetables – although of course it will be expensive and time consuming. Most of the humans in the UK and the US have entered what I call ‘the third age of eating’, in which most of our calories come from food products containing novel, synthetic molecules, never found in nature.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=1740
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	In industrialised countries like the UK, each of us ingests 8kg of food additives per year.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=1769
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	For the whole of the second age of eating, children of all mammals had eaten more or less what adults ate. There might have been some extra mashing and softening, and perhaps a little less spice, but there was no ‘baby food’ – just milk, then food.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=1789
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	Once they were at the table, they devoted themselves steadily to eating for fifteen or twenty minutes, then ate intermittently, ‘playing a little with the food, trying to use the spoon and offering bits to the nurse’. The night after I read this, I was at the table feeding Sasha and noticed that, just like Davis’s kids, she often offers me a chunk of food, even as I feed her.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=1845
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	All the infants succeeded in managing their own diets, and all met their nutritional requirements as if they’d been reading all the latest textbooks.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=1852
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	By contrast, even hunter-gatherer human populations have body fat percentages of around 21 per cent in women and 14 per cent in men.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=1903
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	Several members of the Ptolemaic dynasty, which ruled Egypt from 305 to 30 BC, were purported to be obese to such an extent that their breathing was disrupted at night. Alexandrians gave Ptolemy VIII the nickname ‘Physcon’, meaning ‘large bubble’.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=1911
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	But this idea – that weight is regulated externally by the supply of food – would make weight an exception among physiological parameters. Consider, for example, the amount of water in your body. It may feel like it’s under your conscious control and indeed you can choose to have or delay a drink, but over the course of your life the amount of water in your body, and thus the concentration of the hundreds of thousands of dissolved chemicals that make you up, is precisely controlled internally, even as you drink, sweat and pee. The conscious control of fluid balance is temporary at best and largely an illusion. And the case of breathing is more obvious still if you try to stop doing it. Food intake is under little more conscious control than breathing or drinking, and this is why it is nearly as hard to limit food intake as it is to limit water or oxygen intake. What, when and how we eat is determined by complex systems that operate far below our conscious level.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=1929
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	We now know that one of the signals that told the rats to stop eating is a hormone called leptin, which is produced in the fat tissue and detected by the hypothalamus in the brain.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=1959
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	The model emphasises that powerful signals inside and outside the body influence food intake and energy balance far, far below the level of consciousness, involving slippery related ideas like salience, wanting, motivation and reward. We smear a conscious layer over all this, but eating is far less of a choice than it appears.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=2018
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	Gary Taubes is probably why you’re aware of the idea that carbs are the problem.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=2033
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	That doesn’t, however, mean that sugar is healthy. It simply means that our diets are so terrible that buying your own sugar to make your own sweet food at home is healthier than buying pre-made industrial UPF with sugar added at source.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=2185
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	tooth decay is the most common reason that children in the UK have a general anaesthetic.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=2208
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	In England, more than 10 per cent of three-year-olds, and a quarter of five-year-olds, have tooth decay. Almost 90 per cent of hospital tooth extractions among children younger than five are due to preventable tooth decay, and tooth extraction is the most common hospital procedure in children aged six to ten.19 The most common operation we do in children – ahead of fixing bones broken on trampolines, hernia repairs and appendix removals – is for rotten teeth.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=2210
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	Nowhere on any can of fizzy drink anywhere in the world is there a warning about the risks of oral disease and the risk of early death. I can’t see any argument why Nestlé, Coca-Cola, Pepsi or any of the others selling sugar-sweetened beverages (or anything with a high proportion of added sugar) should not be forced to put a warning on the packet about tooth decay.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=2221
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	There are several explanations for this under-reporting, and they’re all very well evidenced. First, studies show that people living with obesity misreport on questionnaires, and then, if they lose weight, they stop misreporting and admit to their previous inaccurate responses.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=2317
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	Fifth, the portion sizes of our foods are bigger, and their energy higher, than the reference databases say they are. The British Heart Foundation found that, in the twenty years between 1993 and 2013, individual shepherd’s pie ready meals have doubled in size, while a portion of crisps from a family pack has increased by 50 per cent.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=2329
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	Snowdon’s ‘Fat lie’ article misunderstood the data: calorie consumption isn’t in decline – it has been increasing for a long time.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=2341
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	I’d always imagined that I burn around 2,000 calories just loafing around breathing and maintaining basic cellular functions, and that any physical activity, whether it’s jogging or mining, gets added to the total number of calories I burn in a day. But it turns out that, if we are active, our bodies compensate by using less energy on other things, so that our overall energy expenditure stays the same. This is especially true when we look at longer timeframes of several days or weeks. In the case of the Hadza, when they rest, they really rest. And it’s true for athletes and everyone else who is active too. We can be very active for a period of time, but we claw back that energy debt later. It’s this reduction of energy usage in other ways inside the body that may explain why exercise is associated with improved physical health, even if it doesn’t lead to weight loss.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=2370
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	Since we’re not spending that energy on walking, we spend it elsewhere, on things like being stressed.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=2385
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	The sugar industry has an interest in promoting the narrative that inactivity, rather than food, is the problem.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=2404
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	In 2015, Coca-Cola published a ‘transparency’ list of experts and projects it funded, but it proved to be less than transparent. For every author Coke disclosed, there were another four whom they didn’t.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=2427
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	If, like me, you’re surprised by the idea that doing more won’t allow you to eat more calories, it may be because the opposite idea, that you can burn off excess calories, has been promoted by companies like Coke all the way from the scientific papers through to policy initiatives like Exercise is Medicine. It took me some time to accept that, despite having a medical degree, part of the way that I have understood my body and its energy requirements has come from the Coca-Cola Company.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=2468
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	While almost everyone living with obesity will have genetic risks, some people who live at a so-called ‘healthy weight’fn3 also have genes for obesity, which could suggest that they are exerting willpower over their genes. However, that is not the case. The difference between people with the same genes and differing weights is the environment they live in, not their willpower. Again, I know this from personal experience.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=2491
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	Anyway, food swamps of the type Xand found himself in are similar to food deserts. Fresh food may be available, but it is submerged in a swamp of fast-food outlets selling UPF.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=2508
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	The teenagers showed me their bus tickets, which are also vouchers for McDonald’s.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=2520
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	The only products advertised to young people like the ones I met in Leicester are UPF. This is for a simple reason: UPF is proprietary, so its manufacturers can generate a lot of money. People will pay a lot for a KitKat relative to its cost of production. No one else can really make KitKats, because Nestlé owns the recipe and the trademark and everything that creates the KitKat’s unique barcode that keeps bringing us back.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=2542
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	Stress, from any source, but especially the chronic stress of poverty, has dramatic impacts on those hormones that regulate appetite, increasing the drive to eat. The exact mechanisms aren’t clear, but when you’re stressed you secrete more of the hormone cortisol; this seems to drive increased intake of calorie-dense UPF through effects on many of those hormones involved in the energy-intake regulation system. Cortisol may also lead to fat accumulation around organs, known as visceral fat, which is associated with worse health outcomes.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=2571
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	They have shown that body-fat percentage is highly heritable – up to 90 per cent.12 But, depending on the group you study, heritability can also be as low as 30 per cent.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=2588
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	She and her colleagues found that, in families with secure incomes and high levels of food security, the heritability of their body weight was around the 40 per cent mark. But in households with the lowest incomes and the highest levels of food insecurity, it jumped to over 80 per cent.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=2592
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	She was right that such weight loss takes incredible willpower (increasing amounts with each effort), but could Rachel have even more willpower still?
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=2610
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	the marshmallow test may well be simply a test for poverty.fn6
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=2671
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	I would come off a phone call to an expert in France or Brazil and then sit down to a banquet of UPF. I’d often eat during the call. It was like reading about lung cancer while smoking a cigarette,
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=2707
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	Grenade Carb Killa Chocolate Chip Salted Caramel Bar
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=2734
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	As I ate these snack bars made from cow tendons,
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=2740
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	This may seem like a small point, but it isn’t. The foods around the margin of UPF are used by the UPF industry to rubbish the whole concept. First, a harmless-seeming common food is found that contains a single additive that means it technically meets the definition of UPF. Then the argument is made that this means the UPF definition must be rubbish, or that those who think the NOVA system is useful want to treat Special K or baked beans like cigarettes or heroin.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=2783
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	So, as a solution, some scientists have proposed that food addiction is ‘behavioural’.13 This is one of the two broad categories of addiction. There’s substance addiction – defined as a ‘neuropsychiatric disorder characterized by a recurring desire to take a drug despite harmful consequences’ – which covers tobacco, alcohol, cocaine and so on. And then there’s behavioural or non-substance addiction, which covers things like eating, pathological gambling, internet addiction and mobile phone addiction.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=2876
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	But when it comes to loss of control of eating and binges, UPF products are almost always the substances used.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=2906
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	An addictive behaviour is my problem, hard to regulate or protect against. An addictive substance being marketed with a monkey to my three-year-old is a regulatory failure.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=2938
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	UPF is pre-chewed
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=2953
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	Anthony Fardet
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=2954
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	The fibre that gives an apple crunch and solidity makes up just 2.5 per cent of the apple’s weight. The other 97.5 per cent is juice. The way the fibre is arranged around the cells and the fluid – that’s the matrix.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=2962
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	Sourdough bread should have just water, salt, wild yeast and flour as the ingredients, but even products claiming to be sourdough in supermarkets are often in fact ‘sourfaux’, with up to fifteen ingredients, including palm oil and commercial yeast.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=2996
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	Hovis Multigrain Seed Sensations.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=3000
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	However, you won’t get jaw fatigue with UPF bread, and the fact that it takes so little chewing may explain many of our contemporary dental problems. In the UK and the USA, around a third of twelve-year-olds have an overbite – a jaw that’s too small for their face – which is why so many children today need orthodontic work. I had my right lower wisdom tooth removed for the same reason. Looking through the UPF papers, I realised this is a common problem of modern life. Evidence from skulls shows that pre-industrial farmers who were eating increasing levels of carbohydrate have plenty of cavities and dental abscesses, but fewer than 5 per cent have impacted wisdom teeth, compared with 70 per cent of modern populations.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=3009
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	The speed at which you eat is partly to do with what you eat: foods that take longer to process in the mouth make you feel fuller.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=3057
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	Cigarette manufacturers tried very hard over the years to process their cigarettes to make them less dangerous. They added little ventilation holes, so smokers got less smoke, but then smokers simply sucked harder.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=3096
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	‘It’s called “reverspective”,’ Barry explained. ‘We don’t know why it works.’ Barry then told me about convergent gaze, subtended visual angles, parallax and the tension between the brain’s information about depth perception and what happens to be near or far. The painting is a good representation of his expertise – how little our conscious experience of the world has to do with physical objective reality. Barry himself is constantly creating illusions: he gossips without gossiping, jokes while he’s serious, makes you understand things you can’t understand. And he used to help companies make UPF. He was an expert ultra-processor, advising food companies on how best to exploit the relationships between our senses (which aren’t all as distinct as we once thought) and how we use them to enjoy the food we eat.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=3114
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	Vanilla, technically a molecule you smell, when added to ice cream will make it seem sweeter, even without adding more sugar.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=3122
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	‘If you go into the freezer for an ice cream bar, as you rip open the packet, it won’t smell of anything, because it’s too cold. So, lots of companies add a caramel scent in the ribbing of the wrapper we tear open.’
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=3137
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	The words ‘taste’ and ‘flavour’ are used interchangeably to describe the unified perceptual experience of a food. But in scientific terms, flavour is both taste and smell, and flavour molecules are detected by receptors in the nose as well as by taste receptors in the mouth and throat. So, scientifically speaking, two boiled sweets with the same amount of sugar but different ‘flavours’ may taste identical (sweet), but smell distinct.fn2
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=3146
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	Smell instead acts like a barcode, which, without effort, we link to our previous experience of eating a food. It’s a very precise way of labelling something so we can seek it out, or avoid it, next time.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=3182
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	Food should vary – fruit and whole foods change every day, and crops taste different according to the season and weather. There are good batches, bad batches, odd textures and flavours and differences. Not so with UPF. Adding flavourings (tastes and smells) in precise amounts allows for complete consistency.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=3208
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	The Dorito Effect,
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=3211
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	‘Suddenly, several of the normally docile cows surrounded him, tore a bag of mineral from his arms, chewed open the bag, and greedily consumed every bit of the mineral, the bag, and even some mud and muck where the mineral had spilled out.’
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=3251
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	Taste is important for omnivorous animals, whereas more specialist eaters have lost tastes. Cats have lost their sweet taste receptor; pandas have lost a savoury receptor. Sea lions seem to have very little taste at all – much of their prey is swallowed whole – but they can still smell. Whales and dolphins meanwhile seem to have lost the sense of smell entirely. Animals get rid of things that are not evolutionarily helpful to them anymore.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=3348
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	Let’s use Coca-Cola as an example, because it’s the most popular cola, although any cola would do. When it was invented, the aim was to make a drink to perk people up, and the original formula contained extract of coca leaves – probably a small amount of cocaine, although it’s hard to be surefn4 – and caffeine.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=3363
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	Modern Coca-Cola still has caffeine bitterness, enhanced by an extreme sourness that comes from added phosphoric acid. Together, they allow a huge amount of sugar to be smuggled past the tongue.fn5
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=3373
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	Good cooks can enhance flavours and tastes by combining them, but I think UPF is the nutritional equivalent of speedballing. In the world of illegal drugs, speedballs are typically a mixture of a sedative, like heroin, with a stimulant, like crack cocaine. One puts you to sleep (opioid overdoses cause death by stopping breathing) while the other wakes you up (crack overdoses cause death by driving the blood pressure so high that patients have strokes). By mixing the two, users can take more of both. People also do this more benignly (but still frequently with deadly consequences) with caffeine and alcohol: an espresso martini or a vodka and Red Bull are entry-level speedballs – the stimulant caffeine offsetting the sedative effects of the alcohol. This wonderland approach to drug use is a theme of UPF tastes.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=3378
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	Her papers are not the easiest to read – ‘starting to eat’ is phrased as ‘initiation of consummatory acts’ – and the conclusions in the lab are hard to draw out to the real world.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=3448
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	Then there are all those gums. Xanthan gum is one that we constantly consume. It’s an exopolysaccharide: a sugary slime secreted by the bacteria Xanthomonas campestris, which forms black rot on vegetables. The gum is used as a thickener, but it has a remarkable property: when shaken or squirted, it becomes temporarily thinner, so will pour easily. Once at rest again, it thickens and clings. It’s used in toothpaste, in drinks for people who have difficulty swallowing and to thicken drilling mud in the oil industry, since it keeps solids suspended in mud (and salad dressing) so that they can be pumped out of an oil well more easily.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=3702
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	I worry that these arguments are unlikely to bring about real change, because the response from industry is to do yet more processing. They do this already: if emulsifiers damage the microbiome, let’s add some probiotics. If the food’s too soft, add more gum. If it’s too dense in energy, add artificial sweeteners. Their solution to ultra-processing is hyper-processing, also known as reformulation.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=4428
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	This requirement to satisfy the consumer was underlined by everyone within the industry. While the public health perspective is that industry are forcing products on people, within the industry it feels much more like they are catering to demand.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=4556
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	‘commerciogenic malnutrition’ – malnutrition caused by companies.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=4694
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	The marketing budget of the formula industry is almost incomprehensibly large at around $3–5 billion dollars per year – comparable to the entire annual operating budget of the World Health Organization.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=4716
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	One of the most concerning statistics is that the market isn’t just increasing because more children are being formula-fed. This increase in sales is because each child is drinking more. In 2008, a child drank on average 5.5kg per year, but now they are drinking almost 8kg, an increase of more than 40 per cent.18 This is due either to marketing or to new ingredients which make formula hyperpalatable.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=4729
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	Bob Boyle is a paediatric allergy consultant at Imperial College London. He studies allergies in children and has a side-line in investigating claims made on packets. According to the UK Food Standards Agency,23 The Japanese Society of Allergology,24 the Australasian Guideline,25 and The American Academy of Paediatrics,26 there is no evidence that specialist formulas prevent allergy, and yet Danone Nutricia used one of Boyle’s studies to claim that their prebiotic supplemented formula was ‘clinically proven’ to reduce eczema by over 50 per cent in babies with a family history of allergy, despite the fact his study found the opposite.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=4741
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	Yale Food Addiction Scale
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=4922
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	be sceptical of opinions from chocolate company scientists.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=5013
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	we have never proved causation when it comes to cigarettes and cancer.fn4
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=5051
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	Limit sugary drinks, fatty, sweet, salty and ultra-processed foods. Avoid giving ultra-processed products to under-threes. Avoid giving commercial baby foods and ready meals to under-threes. I especially love this quote from the French guidance: ‘Pour varier les goûts et les textures, le fait maison a tout bon … Plus de goûts, plus de textures, plus de miam!’, which translates roughly as ‘To vary tastes and textures, home-made food includes everything good … More tastes, more textures, more yum!’
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=5148
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	There is no need to buy food made especially for children and babies.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=5153
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	No company wants to go toe-to-toe with government lawyers over the research showing the stuff they want to put in your food makes rats swell up and die.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=5175
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	Manufacturing of factory-processed ice cream accelerated in the USA from the 1850s as a use for waste milk that would otherwise be thrown away. People, after all, can only drink so much fresh milk, and it goes off quite quickly. Turning waste milk into ice cream not only extends the shelf life, it also shows how processing adds value. As we will repeatedly see, repurposing waste is a crucial part of UPF, and is another reason, alongside cheapness, why the advent of UPF has in part been seen as a positive development rather than a problem.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=8159
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	Modified starches became nearly universal in the early UPF of the 1950s, but they were also useful in mining and oil drilling, in which starches are used to adjust the viscosity of drilling muds so they aren’t too thick or too thin to be pumped or screwed to the surface.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=8163
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	‘The bizarre and racist history of the BMI’
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=8237
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	You can now say sagely to people, ‘Life is nothing but an electron looking for a place to rest,’ a quote from the Hungarian Nobel prize winner Albert Szent-Györgyi.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=8285
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	Atkins was a controversial figure, not least because he seems to have had at least one heart attack and when he died after a fall he weighed 117kg (more than 18 stone) according to the Wall Street Journal and a leaked medical examiner’s report.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=8351
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	The critiques have, however, sometimes kept him awake at night. I’m always curious about why people are up at 4am, because I’m often awake at this hour, fretting. ‘In the small hours I try to say to myself, “Don’t take any of this too seriously,”’ Taubes told me. ‘I like to joke that some Jews evolved to be awake at 4am worrying. Many in Europe who survived the twentieth century, after all, would have been the ones who were awake, ready to leave in the middle of the night, when the knock came on the door
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=8354
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	There’s also a long history in commercial honey manufacturing of feeding bees high-fructose corn syrup if the hives are in a place without enough wild nectar.15 This raises the question of whether much – or even most – commercial honey is in fact UPF made by bees.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=8365
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	The Institute for Fiscal Studies used these data to do some modelling and produced a simple example. If an average-sized man in a sedentary job works a forty-hour week, he’ll burn about 30kg fat per year. If he worked in a strenuous job, he’d burn almost 70kg of fat. To compensate for the sedentary job, this man would have to jog an extra 10.6 hours a week, not far off the time commitment to exercise of Olympic marathon runners.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=8409
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	Maryland Minis Chocolate Chip Cookies
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=8466
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	Wanting and liking were first separated in an experiment using rats, conducted by Roy Wise and Kent Berridge. Rats share much of our brain circuitry, especially for things like motivation. Wise and Berridge first suppressed dopamine in the rats with a drug and then destroyed the dopamine pathway with a neurotoxin. They were expecting the rats to experience less pleasure from sugar (Berridge was an expert in detecting pleasure in rats). Instead, they found that, although the rats wouldn’t move to eat and were no longer motivated, when sugar was placed on their tongues they seemed to like it just as much as before.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=8469
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	Gü Hot Pud Chocolate Melting Middle
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=8475
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	Baby food is mainly puréed fruit and for the same reason has very high levels of sugar and is expensive and unnecessary.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=8505
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	Vanilla is sweet smelling in the West, where it tends to be mixed with sugar, but it smells salty to southeast Asians, in whose cuisine vanilla is often mixed with salt and fish.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=8555
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	Birds have lost their sweet taste, but because hummingbirds drink nectar they have repurposed their umami receptors. Barry Smith thinks about this a lot: ‘As a philosopher of the senses, I of course want to know if nectar tastes sweet or savoury to a hummingbird.’ Hummingbirds hate aspartame but like sugar water. No one knows why toucans like fruit. Not even Barry.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=8589
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	By the way, the phosphoric acid in your food is not extracted from fruit or vegetables. It’s made by burning phosphorus-containing rocks in an arc furnace with coal. It’s also used in semiconductor processing and to modify road asphalt. Colas were originally called phosphate sodas. They’re early UPF. The phosphoric acid doesn’t just rot teeth and disguise the sugar. It also may leach minerals out of bones.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=8596
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
+
+*quote:*	My own lawyer suggested that I should probably avoid having a view on whether a specific product is addictive, but in the case of Pringles the marketing team seem comfortable with the implication: ‘Once you pop you can’t stop.’ It’s a legal grey area, but nonetheless, in May 2009, an article in the Guardian got away with describing Pringles as ‘crack in a cardboard tube’.
+*source:*	Ultra-Processed People: The Definitive #1 Bestseller You Need to Understand Ultra-Processed Food
+*author:*	Chris Van Tulleken
+*link:*	kindle://book?action=open&asin=B0B1TRPQCT&location=8626
+*note:*	
+*tags:*	#sciencefiction #technology #UltraProcessedPeopleTheDefinitive1BestsellerYouNeedtoUnderstandUltraProcessedFood #ChrisVanTulleken
