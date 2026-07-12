@@ -30,6 +30,7 @@ All dependencies are defined in `pyproject.toml` and are installed automatically
 |---|---|---|
 | 1. Tag | `uv run adamsquotes-tag` | Raw quotes → semi-processed tagged markdown |
 | 1 (alt). Convert | `uv run adamsquotes-convert` | New-format raw quotes → tagged markdown |
+| 1 (alt). Kindle import | `uv run adamsquotes-kindle <export.json>` | Kindle JSON → tagged per-book and aggregate markdown |
 | 1.5. LLM Clean | `uv run adamsquotes-clean` | LLM cleanup of tagged markdown |
 | 2. Render | `uv run adamsquotes-render` | Tagged markdown → styled HTML page |
 
@@ -40,7 +41,28 @@ uv run python -m adamsquotes.cli.tagger
 uv run python -m adamsquotes.cli.converter
 uv run python -m adamsquotes.cli.llm_cleaner
 uv run python -m adamsquotes.cli.renderer
+uv run python -m adamsquotes.cli.kindle data/kindle/Kindle.Highlights_Accelerando_1783512733914.json
 ```
+
+## Importing Kindle highlights
+
+Import the supplied Accelerando export with:
+
+```sh
+uv run adamsquotes-kindle data/kindle/Kindle.Highlights_Accelerando_1783512733914.json
+```
+
+By default this writes `markdown_quotes/Accelerando.md` and adds the records to
+`markdown_quotes/QuotesProcessed.md`. Use `-o/--output` to choose the per-book
+file and `--processed-output` to choose the aggregate file. Inputs must end in
+`.json`, and both outputs must end in `.md`.
+
+The importer maps highlight `text` to `*quote:*`, the export title and authors
+to `*source:*` and `*author:*`, `location.url` to `*link:*`, and `note` to
+`*note:*` (with null notes left empty). Every imported highlight receives
+`#sciencefiction #technology`. Note-only entries are skipped. Rerunning an
+import replaces aggregate records with the exact same source and author, so it
+does not create duplicates or disturb other books.
 
 ## How to process quotes
 
