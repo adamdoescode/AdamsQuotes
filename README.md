@@ -52,17 +52,25 @@ Import the supplied Accelerando export with:
 uv run adamsquotes-kindle data/kindle/Kindle.Highlights_Accelerando_1783512733914.json
 ```
 
+Set the tags applied to every imported highlight with `--tags`:
+
+```sh
+uv run adamsquotes-kindle data/kindle/Kindle.Highlights_Accelerando_1783512733914.json \
+    --tags '#sciencefiction' '#technology' '#novel'
+```
+
 By default this writes `markdown_quotes/Accelerando.md` and adds the records to
 `markdown_quotes/QuotesProcessed.md`. Use `-o/--output` to choose the per-book
-file and `--processed-output` to choose the aggregate file. Inputs must end in
-`.json`, and both outputs must end in `.md`.
+file, `--processed-output` to choose the aggregate file, and `--tags TAG
+[TAG ...]` to replace the default tag list. Inputs must end in `.json`, and
+both outputs must end in `.md`.
 
 The importer maps highlight `text` to `*quote:*`, the export title and authors
 to `*source:*` and `*author:*`, `location.url` to `*link:*`, and `note` to
 `*note:*` (with null notes left empty). Every imported highlight receives
-`#sciencefiction #technology`. Note-only entries are skipped. Rerunning an
-import replaces aggregate records with the exact same source and author, so it
-does not create duplicates or disturb other books.
+`#sciencefiction #technology` by default. Note-only entries are skipped.
+Rerunning an import replaces aggregate records with the exact same source and
+author, so it does not create duplicates or disturb other books.
 
 ## How to process quotes
 

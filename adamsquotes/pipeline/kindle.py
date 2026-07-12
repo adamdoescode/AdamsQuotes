@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+from collections.abc import Sequence
 from dataclasses import dataclass
 import json
 from pathlib import Path
@@ -9,7 +10,7 @@ import re
 from typing import Any
 
 
-KINDLE_TAGS = "#sciencefiction #technology"
+KINDLE_TAGS = ("#sciencefiction", "#technology")
 
 
 class KindleImportError(ValueError):
@@ -25,7 +26,7 @@ class KindleHighlight:
     author: str
     link: str
     note: str
-    tags: str = KINDLE_TAGS
+    tags: str = " ".join(KINDLE_TAGS)
 
 
 @dataclass(frozen=True)
@@ -54,7 +55,9 @@ def _required_string(data: dict[str, Any], field: str, context: str) -> str:
     return value
 
 
-def parse_kindle_data(data: Any) -> KindleBook:
+def parse_kindle_data(
+    data: Any, tags: Sequence[str] = KINDLE_TAGS
+) -> KindleBook:
     """Validate Kindle export data and return normalized highlight records."""
     if not isinstance(data, dict):
         raise KindleImportError("Kindle export must be a JSON object")
@@ -65,6 +68,7 @@ def parse_kindle_data(data: Any) -> KindleBook:
     if not isinstance(raw_highlights, list):
         raise KindleImportError("Top-level field 'highlights' must be a list")
 
+    highlight_tags = " ".join(tags)
     highlights: list[KindleHighlight] = []
     skipped = 0
     for index, raw in enumerate(raw_highlights):
@@ -87,19 +91,21 @@ def parse_kindle_data(data: Any) -> KindleBook:
         if note is not None and not isinstance(note, str):
             raise KindleImportError(f"{context} field 'note' must be a string or null")
         highlights.append(
-            KindleHighlight(text, title, authors, link, note or "")
+            KindleHighlight(text, title, authors, link, note or "", highlight_tags)
         )
 
     return KindleBook(title, authors, tuple(highlights), skipped)
 
 
-def parse_kindle_json(text: str) -> KindleBook:
+def parse_kindle_json(
+    text: str, tags: Sequence[str] = KINDLE_TAGS
+) -> KindleBook:
     """Decode and validate a Kindle JSON document."""
     try:
         data = json.loads(text)
     except json.JSONDecodeError as exc:
         raise KindleImportError(f"Invalid JSON: {exc.msg}") from exc
-    return parse_kindle_data(data)
+    return parse_kindle_data(data, tags)
 
 
 def serialize_highlights(highlights: tuple[KindleHighlight, ...]) -> str:
@@ -166,13 +172,14 @@ def process_kindle_file(
     input_path: str | Path,
     output_path: str | Path,
     processed_output: str | Path,
+    tags: Sequence[str] = KINDLE_TAGS,
 ) -> ImportResult:
     """Validate an export, then write its standalone and aggregate Markdown."""
     input_path = Path(input_path)
     output_path = Path(output_path)
     processed_output = Path(processed_output)
 
-    book = parse_kindle_json(input_path.read_text(encoding="utf-8"))
+    book = parse_kindle_json(input_path.read_text(encoding="utf-8"), tags)
     markdown = serialize_highlights(book.highlights)
     existing = (
         processed_output.read_text(encoding="utf-8")

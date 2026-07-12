@@ -7,6 +7,7 @@ from pathlib import Path
 
 import pytest
 
+from adamsquotes.cli.kindle import _build_parser
 from adamsquotes.pipeline.kindle import (
     KindleImportError,
     parse_kindle_data,
@@ -58,6 +59,22 @@ def test_parse_and_serialize_preserves_order_and_fields() -> None:
     )
 
 
+def test_custom_tags_are_applied_to_every_highlight() -> None:
+    book = parse_kindle_data(kindle_data(), ["#fiction", "#space-opera"])
+
+    assert {highlight.tags for highlight in book.highlights} == {
+        "#fiction #space-opera"
+    }
+
+
+def test_cli_accepts_tag_list() -> None:
+    args = _build_parser().parse_args(
+        ["input.json", "--tags", "#fiction", "#space-opera"]
+    )
+
+    assert args.tags == ["#fiction", "#space-opera"]
+
+
 @pytest.mark.parametrize(
     "mutate",
     [
@@ -100,6 +117,19 @@ def test_process_is_idempotent_and_preserves_other_records(tmp_path: Path) -> No
     result = aggregate.read_text(encoding="utf-8")
     assert result.count("*source:*\tAccelerando") == 2
     assert other.rstrip() in result
+
+
+def test_process_uses_custom_tags(tmp_path: Path) -> None:
+    source = tmp_path / "input.json"
+    standalone = tmp_path / "Accelerando.md"
+    aggregate = tmp_path / "QuotesProcessed.md"
+    source.write_text(json.dumps(kindle_data()), encoding="utf-8")
+
+    process_kindle_file(source, standalone, aggregate, ["#novel", "#ai"])
+
+    assert standalone.read_text(encoding="utf-8").count(
+        "*tags:*\t#novel #ai"
+    ) == 2
 
 
 def test_validation_failure_does_not_change_outputs(tmp_path: Path) -> None:

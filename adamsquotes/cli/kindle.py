@@ -5,7 +5,12 @@ from __future__ import annotations
 import argparse
 from pathlib import Path
 
-from adamsquotes.pipeline.kindle import KindleImportError, parse_kindle_json, process_kindle_file
+from adamsquotes.pipeline.kindle import (
+    KINDLE_TAGS,
+    KindleImportError,
+    parse_kindle_json,
+    process_kindle_file,
+)
 
 
 def _build_parser() -> argparse.ArgumentParser:
@@ -20,6 +25,13 @@ def _build_parser() -> argparse.ArgumentParser:
         "--processed-output",
         default="markdown_quotes/QuotesProcessed.md",
         help="Aggregate Markdown output (default: markdown_quotes/QuotesProcessed.md).",
+    )
+    parser.add_argument(
+        "--tags",
+        nargs="+",
+        default=KINDLE_TAGS,
+        metavar="TAG",
+        help="Tags added to every highlight (default: %(default)s).",
     )
     return parser
 
@@ -49,7 +61,9 @@ def main() -> None:
         parser.error("Output file must have a .md suffix")
 
     try:
-        result = process_kindle_file(input_path, output_path, processed_output)
+        result = process_kindle_file(
+            input_path, output_path, processed_output, args.tags
+        )
     except (OSError, KindleImportError) as exc:
         parser.error(str(exc))
     print(
