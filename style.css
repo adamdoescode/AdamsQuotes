@@ -55,6 +55,7 @@ em.p-title {
     min-width: min(24em, 100%);
     padding: 0.2em;
 }
+.quoteSearchSubmit,
 .quoteSearchClear {
     background-color: rgb(226, 132, 189);
     border: solid black 1px;
@@ -105,6 +106,15 @@ em.p-title {
     .hashtagBrowserDiv {
         width: 100%;
         box-sizing: border-box;
+    }
+    .quoteSearchInput {
+        flex: 1 1 100%;
+        min-width: 0;
+    }
+    .quoteSearchSubmit,
+    .quoteSearchClear {
+        flex: 1;
+        text-align: center;
     }
     .column1 {
         display: none;

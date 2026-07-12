@@ -175,9 +175,15 @@ class TestGenerateHtml:
         header = Path("Header.html").read_text(encoding="utf-8")
         html = generate_html(quotes, header)
         assert 'class="quoteSearchInput"' in html
+        assert 'class="quoteSearchSubmit" type="submit">Search</button>' in html
         assert "updateQuoteSearch" in html
         assert "queryMatchesTag" in html
         assert 'searchParams.set("tag"' in html
+        assert 'searchParams.set("search"' in html
+        assert 'searchParams.delete("search")' in html
+        assert 'url.search.replace(/\\+/g, "%20")' in html
+        assert 'form.addEventListener("submit"' in html
+        assert 'input.addEventListener("input", () => updateQuoteSearch())' in html
         assert 'document.querySelectorAll(".quote")' in html
         assert '<details class="hashtag-browser">' in html
         assert '<!-- hashtag browser -->' not in html

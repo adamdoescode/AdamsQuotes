@@ -13,16 +13,15 @@
         <div class="preamble" class="preamble-div">
             <p class="p-title">
                 A collection of quotes from what I have read.
-            </p>
-            <p class="p-title">
-                The order is based entirely on what I've been reading recently (descending order)
-            </p>
-            <p class="p-title">
-                This lacks my older collection of quotes which were stored in a different format. So they require extra work to be added.
-            </p>
-            <p class="p-title">
+                The order is roughly based entirely on what I've been reading recently (descending order).
+                I am adding highlights from my ebook reads so there's a few of those here too!
                 You probably think this looks ugly, but this is <em class="p-title">my</em> project and I can style it how I see fit. 
                 Best viewed with <em class="p-title">Victor Mono</em> font installed.
+            </p>
+            <p class="p-title">
+                Click a tag to show only quotes with that tag. You can also search for any text containined in a quote.
+                Clicking search will add a URL fragment which you can then use to share those quotes with a friend.
+                You can also share a selected tag in the same way.
             </p>
         </div>
     </div>
@@ -37,6 +36,7 @@
                 placeholder="Search quote text or #tags"
                 autocomplete="off"
             >
+            <button class="quoteSearchSubmit" type="submit">Search</button>
             <button class="quoteSearchClear" type="reset">Clear</button>
             <p class="quoteSearchCount" aria-live="polite"></p>
           </form>
@@ -71,22 +71,36 @@
                 return tags.some((tag) => tag.dataset.tag.toLowerCase() === query);
             }
 
-            function updateUrlForQuery(query, pushUrl) {
+            function updateUrl(query, mode, pushUrl) {
                 const url = new URL(window.location.href);
-                if (query.startsWith("#")) {
-                    url.searchParams.set("tag", query.slice(1));
+                if (query && mode === "tag") {
+                    url.searchParams.set("tag", query.replace(/^#/, ""));
+                    url.searchParams.delete("search");
+                } else if (query && mode === "search") {
+                    url.searchParams.set("search", query);
+                    url.searchParams.delete("tag");
                 } else {
                     url.searchParams.delete("tag");
+                    url.searchParams.delete("search");
                 }
 
-                const nextUrl = `${url.pathname}${url.search}${url.hash}`;
+                const encodedSearch = url.search.replace(/\+/g, "%20");
+                const nextUrl = `${url.pathname}${encodedSearch}${url.hash}`;
                 const updateHistory = pushUrl ? window.history.pushState : window.history.replaceState;
                 updateHistory.call(window.history, null, "", nextUrl);
             }
 
-            function applyTagFromUrl(input) {
-                const tag = new URLSearchParams(window.location.search).get("tag");
-                input.value = tag ? normalizeTag(tag) : "";
+            function applyFilterFromUrl(input) {
+                const params = new URLSearchParams(window.location.search);
+                const tag = params.get("tag");
+                const search = params.get("search");
+                if (tag !== null) {
+                    input.value = normalizeTag(tag);
+                    return "tag";
+                }
+
+                input.value = search || "";
+                return search !== null ? "search" : null;
             }
 
             function updateQuoteSearch(options = {}) {
@@ -98,15 +112,11 @@
                 }
 
                 const query = input.value.trim().toLowerCase();
-                if (options.syncUrl) {
-                    updateUrlForQuery(query, options.pushUrl);
-                }
-
-                const isTagQuery = query.startsWith("#");
+                const mode = options.mode || (query.startsWith("#") ? "tag" : "search");
                 let visibleCount = 0;
                 quotes.forEach((quote) => {
                     const isMatch = !query
-                        || (isTagQuery
+                        || (mode === "tag"
                             ? queryMatchesTag(query, quote)
                             : quote.textContent.toLowerCase().includes(query));
                     quote.hidden = !isMatch;
@@ -129,12 +139,23 @@
                     return;
                 }
 
-                applyTagFromUrl(input);
-                updateQuoteSearch();
+                let urlMode = applyFilterFromUrl(input);
+                updateQuoteSearch({ mode: urlMode });
 
-                input.addEventListener("input", () => updateQuoteSearch({ syncUrl: true }));
+                input.addEventListener("input", () => updateQuoteSearch());
+                form.addEventListener("submit", (event) => {
+                    event.preventDefault();
+                    const query = input.value.trim();
+                    urlMode = query ? "search" : null;
+                    updateQuoteSearch({ mode: urlMode });
+                    updateUrl(query, urlMode, true);
+                });
                 form.addEventListener("reset", () => {
-                    window.requestAnimationFrame(() => updateQuoteSearch({ syncUrl: true }));
+                    window.requestAnimationFrame(() => {
+                        urlMode = null;
+                        updateQuoteSearch();
+                        updateUrl("", null, false);
+                    });
                 });
                 document.addEventListener("click", (event) => {
                     const tag = event.target.closest(".quote-tag");
@@ -144,11 +165,13 @@
 
                     event.preventDefault();
                     input.value = normalizeTag(tag.dataset.tag || tag.textContent);
-                    updateQuoteSearch({ syncUrl: true, pushUrl: true });
+                    urlMode = "tag";
+                    updateQuoteSearch({ mode: urlMode });
+                    updateUrl(input.value.trim(), urlMode, true);
                 });
                 window.addEventListener("popstate", () => {
-                    applyTagFromUrl(input);
-                    updateQuoteSearch();
+                    urlMode = applyFilterFromUrl(input);
+                    updateQuoteSearch({ mode: urlMode });
                 });
             });
         }());
