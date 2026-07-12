@@ -3036,284 +3036,3392 @@ To me, this points to a general willingness in the 538 model to just go "who kno
 *author:*	Charles Stross
 *link:*	kindle://book?action=open&asin=B00486U2RS&location=77
 *note:*	
-*tags:*	#sciencefiction #technology #accelerando
+*tags:*	#sciencefiction #technology #Accelerando #CharlesStross
 
 *quote:*	Europe has achieved peaceful political union for the first time ever: They’re using this unprecedented state of affairs to harmonize the curvature of bananas.
 *source:*	Accelerando
 *author:*	Charles Stross
 *link:*	kindle://book?action=open&asin=B00486U2RS&location=144
 *note:*	
-*tags:*	#sciencefiction #technology #accelerando
+*tags:*	#sciencefiction #technology #Accelerando #CharlesStross
 
 *quote:*	The shower tries to strike up a friendly conversation about football, but he isn’t even awake enough to mess with its silly little associative personalization network.
 *source:*	Accelerando
 *author:*	Charles Stross
 *link:*	kindle://book?action=open&asin=B00486U2RS&location=262
 *note:*	
-*tags:*	#sciencefiction #technology #accelerando
+*tags:*	#sciencefiction #technology #Accelerando #CharlesStross
 
 *quote:*	Would you be happy about the future if it was 1901 and you’d just married a buggy-whip mogul?’
 *source:*	Accelerando
 *author:*	Charles Stross
 *link:*	kindle://book?action=open&asin=B00486U2RS&location=326
 *note:*	
-*tags:*	#sciencefiction #technology #accelerando
+*tags:*	#sciencefiction #technology #Accelerando #CharlesStross
 
 *quote:*	Shut up, he glyphs at his unruly herd of agents, I can’t even hear myself think!
 *source:*	Accelerando
 *author:*	Charles Stross
 *link:*	kindle://book?action=open&asin=B00486U2RS&location=624
 *note:*	
-*tags:*	#sciencefiction #technology #accelerando
+*tags:*	#sciencefiction #technology #Accelerando #CharlesStross
 
 *quote:*	The metacortex – a distributed cloud of software agents that surrounds him in netspace, borrowing CPU cycles from convenient processors (such as his robot pet) – is as much a part of Manfred as the society of mind that occupies his skull; his thoughts migrate into it, spawning new agents to research new experiences, and at night, they return to roost and share their knowledge.
 *source:*	Accelerando
 *author:*	Charles Stross
 *link:*	kindle://book?action=open&asin=B00486U2RS&location=669
 *note:*	
-*tags:*	#sciencefiction #technology #accelerando
+*tags:*	#sciencefiction #technology #Accelerando #CharlesStross
 
 *quote:*	‘Then what could be up with him? His voicemail is trying to cover for him. It is good, but it does not lie convincingly.’
 *source:*	Accelerando
 *author:*	Charles Stross
 *link:*	kindle://book?action=open&asin=B00486U2RS&location=1335
 *note:*	
-*tags:*	#sciencefiction #technology #accelerando
+*tags:*	#sciencefiction #technology #Accelerando #CharlesStross
 
 *quote:*	Some of the agents in his glasses are wondering if elocution lessons are the answer, others aren’t so optimistic.
 *source:*	Accelerando
 *author:*	Charles Stross
 *link:*	kindle://book?action=open&asin=B00486U2RS&location=1483
 *note:*	
-*tags:*	#sciencefiction #technology #accelerando
+*tags:*	#sciencefiction #technology #Accelerando #CharlesStross
 
 *quote:*	McMurphy’s is a fake Irish pub, a stone grotto installed beneath a mound of blank-faced offices. It was once a real Irish pub before the developers got their hands on it and mutated it in rapid succession into a punk nightclub, a wine bar, and a fake Dutch coffee shop; after which, as burned-out as any star, it left the main sequence.
 *source:*	Accelerando
 *author:*	Charles Stross
 *link:*	kindle://book?action=open&asin=B00486U2RS&location=1595
 *note:*	
-*tags:*	#sciencefiction #technology #accelerando
+*tags:*	#sciencefiction #technology #Accelerando #CharlesStross
 
 *quote:*	He can’t spin off threads to explore his designs for feasibility and report back to him. It’s like someone has stripped fifty points off his IQ; his brain feels like a surgical scalpel that’s been used to cut down trees. A decaying mind is a terrible thing to be trapped inside. Manfred wants out, and he wants out bad – but he’s too afraid to let on.
 *source:*	Accelerando
 *author:*	Charles Stross
 *link:*	kindle://book?action=open&asin=B00486U2RS&location=1680
 *note:*	
-*tags:*	#sciencefiction #technology #accelerando
+*tags:*	#sciencefiction #technology #Accelerando #CharlesStross
 
 *quote:*	It’s crude moral blackmail, transparent as glass and manipulative as hell, but Amber’s corpus logica flags it with a heavy emotional sprite miming the likelihood of physical discipline if she rises to the bait. Mom is agitated, nostrils slightly flared, ventilation rate up, some vasodilatation visible in her cheeks. Amber – in combination with her skullset and the metacortex of distributed agents it supports – is mature enough at eight years to model, anticipate, and avoid corporal punishment. But her stature and lack of physical maturity conspire to put her at a disadvantage when negotiating with adults who matured in a simpler age. She sighs, then puts on a pout to let Mom know she’s still reluctant, but obedient. ‘O-kay. If you say so.’
 *source:*	Accelerando
 *author:*	Charles Stross
 *link:*	kindle://book?action=open&asin=B00486U2RS&location=2028
 *note:*	
-*tags:*	#sciencefiction #technology #accelerando
+*tags:*	#sciencefiction #technology #Accelerando #CharlesStross
 
 *quote:*	‘Don’t be vile.’ Amber scans the READ ME quickly. Corporate instruments are strong magic, according to Daddy, and this one is exotic by any standards – a limited company established in Yemen, contorted by the intersection between shari’a and the global legislatosaurus. Understanding it isn’t easy, even with a personal net full of subsapient agents that have full access to whole libraries of international trade law – the bottleneck is comprehension. Amber finds the documents highly puzzling.
 *source:*	Accelerando
 *author:*	Charles Stross
 *link:*	kindle://book?action=open&asin=B00486U2RS&location=2173
 *note:*	
-*tags:*	#sciencefiction #technology #accelerando
+*tags:*	#sciencefiction #technology #Accelerando #CharlesStross
 
 *quote:*	Yemen is one of the few countries to implement traditional Sunni shari’a law and a limited liability company scam at the same time. Owning slaves is legal – the fiction is that the owner has an option hedged on the indentured laborer’s future output, with interest payments that grow faster than the unfortunate victim can pay them off – and companies are legal entities.
 *source:*	Accelerando
 *author:*	Charles Stross
 *link:*	kindle://book?action=open&asin=B00486U2RS&location=2187
 *note:*	
-*tags:*	#sciencefiction #technology #accelerando
+*tags:*	#sciencefiction #technology #Accelerando #CharlesStross
 
 *quote:*	They’d cramp your style, kid. You shouldn’t have to put up with parents who have more of a life than you do.’
 *source:*	Accelerando
 *author:*	Charles Stross
 *link:*	kindle://book?action=open&asin=B00486U2RS&location=2206
 *note:*	
-*tags:*	#sciencefiction #technology #accelerando
+*tags:*	#sciencefiction #technology #Accelerando #CharlesStross
 
 *quote:*	‘Sorry.’ She spawns an autonomic thread with full parasympathetic nervous control, tells it to calm her down, then spawns a couple more to go forth and become fuqaha, expert on shari’a law. She realizes she’s buying up way too much of the orphanage’s scarce bandwidth – time that will have to be paid for in chores, later – but it’s necessary. ‘Mom’s gone too far. This time it’s war.’
 *source:*	Accelerando
 *author:*	Charles Stross
 *link:*	kindle://book?action=open&asin=B00486U2RS&location=2268
 *note:*	
-*tags:*	#sciencefiction #technology #accelerando
+*tags:*	#sciencefiction #technology #Accelerando #CharlesStross
 
 *quote:*	The Taming of the Shrew.
 *source:*	Accelerando
 *author:*	Charles Stross
 *link:*	kindle://book?action=open&asin=B00486U2RS&location=2363
 *note:*	
-*tags:*	#sciencefiction #technology #accelerando
+*tags:*	#sciencefiction #technology #Accelerando #CharlesStross
 
 *quote:*	The Tuileries are full of confused lobsters.
 *source:*	Accelerando
 *author:*	Charles Stross
 *link:*	kindle://book?action=open&asin=B00486U2RS&location=3249
 *note:*	
-*tags:*	#sciencefiction #technology #accelerando
+*tags:*	#sciencefiction #technology #Accelerando #CharlesStross
 
 *quote:*	A type-one weakly superhuman entity,
 *source:*	Accelerando
 *author:*	Charles Stross
 *link:*	kindle://book?action=open&asin=B00486U2RS&location=3315
 *note:*	
-*tags:*	#sciencefiction #technology #accelerando
+*tags:*	#sciencefiction #technology #Accelerando #CharlesStross
 
 *quote:*	From outside the Accelerated civilization, it isn’t really possible to know what’s going on inside. The problem is bandwidth: While it’s possible to send data in and get data out, the sheer amount of computation going on in the virtual spaces of the Acceleration dwarfs any external observer.
 *source:*	Accelerando
 *author:*	Charles Stross
 *link:*	kindle://book?action=open&asin=B00486U2RS&location=3628
 *note:*	
-*tags:*	#sciencefiction #technology #accelerando
+*tags:*	#sciencefiction #technology #Accelerando #CharlesStross
 
 *quote:*	‘There is a runaway semiotic excursion under way in the zone.
 *source:*	Accelerando
 *author:*	Charles Stross
 *link:*	kindle://book?action=open&asin=B00486U2RS&location=3789
 *note:*	
-*tags:*	#sciencefiction #technology #accelerando
+*tags:*	#sciencefiction #technology #Accelerando #CharlesStross
 
 *quote:*	She feels blind and unsure, stripped of her ability to spawn threads of herself to pursue complex inferences.
 *source:*	Accelerando
 *author:*	Charles Stross
 *link:*	kindle://book?action=open&asin=B00486U2RS&location=3801
 *note:*	
-*tags:*	#sciencefiction #technology #accelerando
+*tags:*	#sciencefiction #technology #Accelerando #CharlesStross
 
 *quote:*	She glances at Aineko, who sprawls on the flagstones, snoozing or whatever it is that weakly superhuman AIs do when they’re emulating a sleeping cat.
 *source:*	Accelerando
 *author:*	Charles Stross
 *link:*	kindle://book?action=open&asin=B00486U2RS&location=4151
 *note:*	
-*tags:*	#sciencefiction #technology #accelerando
+*tags:*	#sciencefiction #technology #Accelerando #CharlesStross
 
 *quote:*	‘The civilization isn’t for sale,’ Pierre says slowly. The translation interface shimmers, storing up his words and transforming them into a different deep grammar, not merely translating his syntax but mapping equivalent meanings where necessary. ‘But we can give you privileged observer status if that’s what you want. And we know what you are. If you’re interested in finding a new exchange to be traded on, your existing intellectual property assets will be worth rather more there than here.’
 *source:*	Accelerando
 *author:*	Charles Stross
 *link:*	kindle://book?action=open&asin=B00486U2RS&location=4212
 *note:*	
-*tags:*	#sciencefiction #technology #accelerando
+*tags:*	#sciencefiction #technology #Accelerando #CharlesStross
 
 *quote:*	‘Individuality is an unnecessary barrier to information transfer,’ says the ghost, morphing into its original form, a translucent reflection of her own body. ‘It reduces the efficiency of a capitalist economy.
 *source:*	Accelerando
 *author:*	Charles Stross
 *link:*	kindle://book?action=open&asin=B00486U2RS&location=4290
 *note:*	
-*tags:*	#sciencefiction #technology #accelerando
+*tags:*	#sciencefiction #technology #Accelerando #CharlesStross
 
 *quote:*	‘Well.’ She yawns, then sits up and snaps her finger imperiously. Down-stuffed pillows appear behind her back, and a silver salver bearing two full glasses of wine materializes between them. ‘Corporations are life-forms back home, too, aren’t they? And we trade them. We give our AIs corporations to make them legal entities, but the analogy goes deeper. Look at any company headquarters, fitted out with works of art and expensive furniture and staff bowing and scraping everywhere—’ ‘—They’re the new aristocracy. Right?’ ‘Wrong. When they take over, what you get is more like the new biosphere. Hell, the new primordial soup: prokaryotes, bacteria, and algae, mindlessly swarming, trading money for plasmids.’ The Queen passes her consort a wineglass. When he drinks from it, it refills miraculously. ‘Basically, sufficiently complex resource-allocation algorithms reallocate scarce resources … and if you don’t jump to get out of their way, they’ll reallocate you. I think that’s what happened inside the Matrioshka brain we ended up in. Judging by the Slug, it happens elsewhere, too. You’ve got to wonder where the builders of that structure came from. And where they went. And whether they realized that the destiny of intelligent tool-using life was to be a stepping-stone in the evolution of corporate instruments.’
 *source:*	Accelerando
 *author:*	Charles Stross
 *link:*	kindle://book?action=open&asin=B00486U2RS&location=4342
 *note:*	
-*tags:*	#sciencefiction #technology #accelerando
+*tags:*	#sciencefiction #technology #Accelerando #CharlesStross
 
 *quote:*	(The flying city, despite being the product of an advanced technology almost unimaginable two decades before, is full of bugs – software complexity and scaling laws ensured that the preceding decades of change acted as a kind of cosmological inflationary period for design glitches, and an infestation of passenger pigeons is by no means the most inexplicable problem this biosphere harbors.)
 *source:*	Accelerando
 *author:*	Charles Stross
 *link:*	kindle://book?action=open&asin=B00486U2RS&location=4397
 *note:*	
-*tags:*	#sciencefiction #technology #accelerando
+*tags:*	#sciencefiction #technology #Accelerando #CharlesStross
 
 *quote:*	Actually, the Slug is a surgical disguise. Both it and the quasifungal ecosystem have been extinct for millions of years, existing only as cheap stage props in an interstellar medicine show run by rogue financial instruments. The Slug itself is one such self-aware scam, probably a pyramid scheme or even an entire compressed junk bond market in heavy recession, trying to hide from its creditors by masquerading as a life-form.
 *source:*	Accelerando
 *author:*	Charles Stross
 *link:*	kindle://book?action=open&asin=B00486U2RS&location=4774
 *note:*	
-*tags:*	#sciencefiction #technology #accelerando
+*tags:*	#sciencefiction #technology #Accelerando #CharlesStross
 
 *quote:*	‘They’ll eat you alive down there. Your other half left behind substantial debts, and they’ve been bought up by the most predatory—’ ‘Runaway corporate instruments,’ she states, calmly enough. ‘Fully sentient and self-directed.’
 *source:*	Accelerando
 *author:*	Charles Stross
 *link:*	kindle://book?action=open&asin=B00486U2RS&location=5145
 *note:*	
-*tags:*	#sciencefiction #technology #accelerando
+*tags:*	#sciencefiction #technology #Accelerando #CharlesStross
 
 *quote:*	‘You might enjoy the egg mayonnaise, too,’ Sirhan hears himself saying. ‘It goes a long way to explaining why the dodo became extinct first time around.’
 *source:*	Accelerando
 *author:*	Charles Stross
 *link:*	kindle://book?action=open&asin=B00486U2RS&location=5173
 *note:*	
-*tags:*	#sciencefiction #technology #accelerando
+*tags:*	#sciencefiction #technology #Accelerando #CharlesStross
 
 *quote:*	‘Early upload entrepreneurs forked repeatedly, discovered they could scale linearly to occupy processor capacity proportional to the mass of computronium available, and that computationally trivial tasks became tractable. They could also run faster, or slower, than real time. But they were still human, and unable to operate effectively outside human constraints. Take a human being and bolt on extensions that let them take full advantage of Economics 2.0, and you essentially break their narrative chain of consciousness, replacing it with a journal file of bid/request transactions between various agents; it’s incredibly efficient and flexible, but it isn’t a conscious human being in any recognizable sense of the word.’
 *source:*	Accelerando
 *author:*	Charles Stross
 *link:*	kindle://book?action=open&asin=B00486U2RS&location=5187
 *note:*	
-*tags:*	#sciencefiction #technology #accelerando
+*tags:*	#sciencefiction #technology #Accelerando #CharlesStross
 
 *quote:*	“Mind children” the extropians called the posthumans, but they were more like Vile Offspring.
 *source:*	Accelerando
 *author:*	Charles Stross
 *link:*	kindle://book?action=open&asin=B00486U2RS&location=5201
 *note:*	
-*tags:*	#sciencefiction #technology #accelerando
+*tags:*	#sciencefiction #technology #Accelerando #CharlesStross
 
 *quote:*	The end result we found is a howling wilderness of degenerate data, fractally compressed, postconscious processes running slower and slower as they trade storage space for processing power.
 *source:*	Accelerando
 *author:*	Charles Stross
 *link:*	kindle://book?action=open&asin=B00486U2RS&location=5215
 *note:*	
-*tags:*	#sciencefiction #technology #accelerando
+*tags:*	#sciencefiction #technology #Accelerando #CharlesStross
 
 *quote:*	weakly godlike intelligences.
 *source:*	Accelerando
 *author:*	Charles Stross
 *link:*	kindle://book?action=open&asin=B00486U2RS&location=5646
 *note:*	
-*tags:*	#sciencefiction #technology #accelerando
+*tags:*	#sciencefiction #technology #Accelerando #CharlesStross
 
 *quote:*	A weakly godlike intelligence is not a supernatural agency but the product of a highly advanced society that learned how to artificially create souls [late twentieth century: software] and translate human minds into souls and vice versa. [Core concepts: Human beings all have souls. Souls are software objects. Software is not immortal.]
 *source:*	Accelerando
 *author:*	Charles Stross
 *link:*	kindle://book?action=open&asin=B00486U2RS&location=5647
 *note:*	
-*tags:*	#sciencefiction #technology #accelerando
+*tags:*	#sciencefiction #technology #Accelerando #CharlesStross
 
 *quote:*	applied theological engineering [see: God bothering].
 *source:*	Accelerando
 *author:*	Charles Stross
 *link:*	kindle://book?action=open&asin=B00486U2RS&location=5689
 *note:*	
-*tags:*	#sciencefiction #technology #accelerando
+*tags:*	#sciencefiction #technology #Accelerando #CharlesStross
 
 *quote:*	Sirhan’s attention is, however, elsewhere. The various fragments of his mind are conducting three simultaneous interviews with philosophers (‘whereof we cannot speak, thereof we must be silent’ in spades), controlling two bots that are overhauling the museum plumbing and air-recycling system, and he’s busy discussing observations of the alien artifact orbiting the brown dwarf Hyundai with Aineko. What’s left of him exhibits about as much social presence as a pickled cabbage.
 *source:*	Accelerando
 *author:*	Charles Stross
 *link:*	kindle://book?action=open&asin=B00486U2RS&location=5773
 *note:*	
-*tags:*	#sciencefiction #technology #accelerando
+*tags:*	#sciencefiction #technology #Accelerando #CharlesStross
 
 *quote:*	Manfred used to be a flock of pigeons – literally, his exocortex dispersed among a passel of bird brains, pecking at brightly colored facts, shitting semidigested conclusions. Being human again feels inexplicably odd, even without the added distractions of his sex drive, which he has switched off until he gets used to being unitary again. Not only does he get shooting pains in his neck whenever he tries to look over his left shoulder with his right eye, but he’s lost the habit of spawning exocortical agents to go interrogate a database or bush robot or something, then report back to him. Instead he keeps trying to fly off in all directions at once, which usually ends with him falling over.
 *source:*	Accelerando
 *author:*	Charles Stross
 *link:*	kindle://book?action=open&asin=B00486U2RS&location=5968
 *note:*	
-*tags:*	#sciencefiction #technology #accelerando
+*tags:*	#sciencefiction #technology #Accelerando #CharlesStross
 
 *quote:*	But it doesn’t take him long to figure out how to ask the assembler to make him a pair of pants and a plain black vest, and to discover that as long as he keeps his requests simple the results are free – just like back home on Saturn. The spaceborn polities are kind to indigents, for the basic requirements of life are cheap, and to withhold them would be tantamount to homicide.
 *source:*	Accelerando
 *author:*	Charles Stross
 *link:*	kindle://book?action=open&asin=B00486U2RS&location=6618
 *note:*	
-*tags:*	#sciencefiction #technology #accelerando
+*tags:*	#sciencefiction #technology #Accelerando #CharlesStross
 
 *quote:*	Manni’s primary adult ghost lives in some of New Japan’s virtual mindspaces (which are a few billion times more extensive than the physical spaces available to stubborn biologicals, for the computational density of human habitats have long since ceased to make much sense when measured in MIPS per kilogram). They’re modeled on presingularity Earth. Time is forever frozen on the eve of the real twenty-first century, zero eight-forty-six hours on September 11: An onrushing wide-body airliner hangs motionless in the air forty meters below the picture window of Manni’s penthouse apartment on the one hundred and eighth floor of the North Tower. In historical reality, the one hundred and eighth floor was occupied by corporate offices; but the mind-space is a consensual fiction, and it is Manni’s conceit to live at this pivotal point. (Not that it means much to him – he was born well over a century after the War on Terror – but it’s part of his childhood folklore, the fall of the Two Towers that shattered the myth of Western exceptionalism and paved the way for the world he was born into.)
 *source:*	Accelerando
 *author:*	Charles Stross
 *link:*	kindle://book?action=open&asin=B00486U2RS&location=6679
 *note:*	
-*tags:*	#sciencefiction #technology #accelerando
+*tags:*	#sciencefiction #technology #Accelerando #CharlesStross
 
 *quote:*	‘Resynchronize me with my primary,’ he says. A fraction of a second later, the floor of the penthouse bucks and quakes wildly and fire alarms begin to shriek as time comes to an end and the frozen airliner completes its journey. But Manni isn’t there anymore. And if a skyscraper falls in a simulation with nobody to see it, has anything actually happened?
 *source:*	Accelerando
 *author:*	Charles Stross
 *link:*	kindle://book?action=open&asin=B00486U2RS&location=6724
 *note:*	
-*tags:*	#sciencefiction #technology #accelerando
+*tags:*	#sciencefiction #technology #Accelerando #CharlesStross
 
 *quote:*	Sirhan waves a hand vaguely at the cat. ‘Please wait.’ He’s trying to integrate his false memories – the output from the ghosts, their thinking finished – and his eyes narrow suspiciously.
 *source:*	Accelerando
 *author:*	Charles Stross
 *link:*	kindle://book?action=open&asin=B00486U2RS&location=6761
 *note:*	
-*tags:*	#sciencefiction #technology #accelerando
+*tags:*	#sciencefiction #technology #Accelerando #CharlesStross
+
+*quote:*	The goal of studying breastfeeding is to see if children who are breastfed are different later in life—​healthier, smarter—​than those who are not. The basic problem is that most people do not choose to breastfeed at random. In fact, people think carefully about this choice, and the kind of people who choose to do it are different from those who do not. When we look at recent data from the US, breastfeeding is more common among women with more education and higher income.
+*source:*	Cribsheet: A Data-Driven Guide to Better, More Relaxed Parenting, from Birth to Preschool (The ParentData Series)
+*author:*	Emily Oster
+*link:*	kindle://book?action=open&asin=B07RT6YFWK&location=166
+*note:*	
+*tags:*	#sciencefiction #technology #CribsheetADataDrivenGuidetoBetterMoreRelaxedParentingfromBirthtoPreschoolTheParentDataSeries #EmilyOster
+
+*quote:*	Figuring out the range of normal newborn weight loss requires data that, until recently, hasn’t been that easy to come by. In 2015, however, a set of authors published a really nice paper in the journal Pediatrics that used data from hospital records on 160,000 births to graph out the weight loss among breastfed infants in the hours after birth.
+*source:*	Cribsheet: A Data-Driven Guide to Better, More Relaxed Parenting, from Birth to Preschool (The ParentData Series)
+*author:*	Emily Oster
+*link:*	kindle://book?action=open&asin=B07RT6YFWK&location=465
+*note:*	
+*tags:*	#sciencefiction #technology #CribsheetADataDrivenGuidetoBetterMoreRelaxedParentingfromBirthtoPreschoolTheParentDataSeries #EmilyOster
+
+*quote:*	The primary sign of jaundice is that your baby’s skin will turn yellow (this might also look more orange). The fact that your baby is yellow, however, doesn’t necessarily mean they need treatment, and color on its own is not diagnostic. At Penelope’s four-day visit, our pediatrician, Dr. Li, told us, “People will tell you she is yellow. Just ignore them.”
+*source:*	Cribsheet: A Data-Driven Guide to Better, More Relaxed Parenting, from Birth to Preschool (The ParentData Series)
+*author:*	Emily Oster
+*link:*	kindle://book?action=open&asin=B07RT6YFWK&location=520
+*note:*	
+*tags:*	#sciencefiction #technology #CribsheetADataDrivenGuidetoBetterMoreRelaxedParentingfromBirthtoPreschoolTheParentDataSeries #EmilyOster
+
+*quote:*	When the nurses take your baby away at the hospital, it will invariably be returned tightly packed in a little blanket, swaddled up like a burrito. The hospital-grade swaddle is a baby straitjacket. No baby can escape it.
+*source:*	Cribsheet: A Data-Driven Guide to Better, More Relaxed Parenting, from Birth to Preschool (The ParentData Series)
+*author:*	Emily Oster
+*link:*	kindle://book?action=open&asin=B07RT6YFWK&location=606
+*note:*	
+*tags:*	#sciencefiction #technology #CribsheetADataDrivenGuidetoBetterMoreRelaxedParentingfromBirthtoPreschoolTheParentDataSeries #EmilyOster
+
+*quote:*	Infantile colic isn’t a biological diagnosis like strep throat, but a label we give to babies who cry a lot for no identifiable reason. A common definition of colic (although not the only one) is the rule of three: unexplained crying for more than three hours a day for more than three days a week for more than three weeks.
+*source:*	Cribsheet: A Data-Driven Guide to Better, More Relaxed Parenting, from Birth to Preschool (The ParentData Series)
+*author:*	Emily Oster
+*link:*	kindle://book?action=open&asin=B07RT6YFWK&location=662
+*note:*	
+*tags:*	#sciencefiction #technology #CribsheetADataDrivenGuidetoBetterMoreRelaxedParentingfromBirthtoPreschoolTheParentDataSeries #EmilyOster
+
+*quote:*	In contrast, if your two-week-old has even a low fever, you’ll need to take them to the hospital, where they’ll be subjected to lab tests—​likely including a lumbar puncture (spinal tap)—​given antibiotics, and admitted as an inpatient. With very young babies, doctors have a harder time distinguishing between high- and low-risk fevers.
+*source:*	Cribsheet: A Data-Driven Guide to Better, More Relaxed Parenting, from Birth to Preschool (The ParentData Series)
+*author:*	Emily Oster
+*link:*	kindle://book?action=open&asin=B07RT6YFWK&location=753
+*note:*	
+*tags:*	#sciencefiction #technology #CribsheetADataDrivenGuidetoBetterMoreRelaxedParentingfromBirthtoPreschoolTheParentDataSeries #EmilyOster
+
+*quote:*	The big downside of being exposed to germs—​or specifically, to sick kids—​during these early weeks is the possibility of setting off this chain of interventions. If your infant does get sick, these procedures make sense, but if they just caught a cold from being pawed by a germy two-year-old, you’ll be doing a lot of interventions for no reason. It’s therefore better to keep the germy two-year-old away from the newborn, if at all possible.
+*source:*	Cribsheet: A Data-Driven Guide to Better, More Relaxed Parenting, from Birth to Preschool (The ParentData Series)
+*author:*	Emily Oster
+*link:*	kindle://book?action=open&asin=B07RT6YFWK&location=766
+*note:*	
+*tags:*	#sciencefiction #technology #CribsheetADataDrivenGuidetoBetterMoreRelaxedParentingfromBirthtoPreschoolTheParentDataSeries #EmilyOster
+
+*quote:*	After the baby, you’re a lactation-oriented baby accessory.
+*source:*	Cribsheet: A Data-Driven Guide to Better, More Relaxed Parenting, from Birth to Preschool (The ParentData Series)
+*author:*	Emily Oster
+*link:*	kindle://book?action=open&asin=B07RT6YFWK&location=789
+*note:*	
+*tags:*	#sciencefiction #technology #CribsheetADataDrivenGuidetoBetterMoreRelaxedParentingfromBirthtoPreschoolTheParentDataSeries #EmilyOster
+
+*quote:*	There is some evidence that warm compresses on the perineum during the pushing stage of labor can prevent very severe tears.
+*source:*	Cribsheet: A Data-Driven Guide to Better, More Relaxed Parenting, from Birth to Preschool (The ParentData Series)
+*author:*	Emily Oster
+*link:*	kindle://book?action=open&asin=B07RT6YFWK&location=809
+*note:*	
+*tags:*	#sciencefiction #technology #CribsheetADataDrivenGuidetoBetterMoreRelaxedParentingfromBirthtoPreschoolTheParentDataSeries #EmilyOster
+
+*quote:*	In fact, this is completely fabricated. There is no set waiting period for resuming sex after giving birth. The six-week rule appears to have been invented by doctors so husbands wouldn’t ask for sex. This somewhat odd tradition persists. When I had my first postpartum checkup around six weeks after having Finn, the doctor (not my midwife, but the doctor who happened to be available that day) told me I was fine, and then asked if I wanted him to write me a note to tell my husband I was not. I found this very uncomfortable.
+*source:*	Cribsheet: A Data-Driven Guide to Better, More Relaxed Parenting, from Birth to Preschool (The ParentData Series)
+*author:*	Emily Oster
+*link:*	kindle://book?action=open&asin=B07RT6YFWK&location=907
+*note:*	
+*tags:*	#sciencefiction #technology #CribsheetADataDrivenGuidetoBetterMoreRelaxedParentingfromBirthtoPreschoolTheParentDataSeries #EmilyOster
+
+*quote:*	“encouragement design”:
+*source:*	Cribsheet: A Data-Driven Guide to Better, More Relaxed Parenting, from Birth to Preschool (The ParentData Series)
+*author:*	Emily Oster
+*link:*	kindle://book?action=open&asin=B07RT6YFWK&location=1180
+*note:*	
+*tags:*	#sciencefiction #technology #CribsheetADataDrivenGuidetoBetterMoreRelaxedParentingfromBirthtoPreschoolTheParentDataSeries #EmilyOster
+
+*quote:*	Despite the warnings, there is simply no evidence that the use of pacifiers impacts breastfeeding success.
+*source:*	Cribsheet: A Data-Driven Guide to Better, More Relaxed Parenting, from Birth to Preschool (The ParentData Series)
+*author:*	Emily Oster
+*link:*	kindle://book?action=open&asin=B07RT6YFWK&location=1569
+*note:*	
+*tags:*	#sciencefiction #technology #CribsheetADataDrivenGuidetoBetterMoreRelaxedParentingfromBirthtoPreschoolTheParentDataSeries #EmilyOster
+
+*quote:*	The authors then do something clever, which is to compare breastfeeding rates at three months for moms who chose to use a pacifier versus not, without using the randomization. Basically, they treat the data as if they didn’t have a randomized trial at all, and just saw breastfeeding and pacifier-use rates for mothers. The results from this analysis are in the second set of bars in the graph below. Here we see that moms who use a pacifier are less likely to be breastfeeding at three months. The researchers’ conclusion—​comparing the two sets of results—​is that some other factor causes both the pacifier use and the early cessation of breastfeeding. For example, given the rhetoric around pacifiers, it is easy to believe that women who choose to use pacifiers may have a less intense desire to breastfeed.
+*source:*	Cribsheet: A Data-Driven Guide to Better, More Relaxed Parenting, from Birth to Preschool (The ParentData Series)
+*author:*	Emily Oster
+*link:*	kindle://book?action=open&asin=B07RT6YFWK&location=1576
+*note:*	
+*tags:*	#sciencefiction #technology #CribsheetADataDrivenGuidetoBetterMoreRelaxedParentingfromBirthtoPreschoolTheParentDataSeries #EmilyOster
+
+*quote:*	Even better, it’s in alphabetical order, so you get a discussion of caesarean section followed immediately by a section on competitive sports.
+*source:*	Cribsheet: A Data-Driven Guide to Better, More Relaxed Parenting, from Birth to Preschool (The ParentData Series)
+*author:*	Emily Oster
+*link:*	kindle://book?action=open&asin=B07RT6YFWK&location=1596
+*note:*	
+*tags:*	#sciencefiction #technology #CribsheetADataDrivenGuidetoBetterMoreRelaxedParentingfromBirthtoPreschoolTheParentDataSeries #EmilyOster
+
+*quote:*	A biological mechanism links the frequency of feeding to milk supply. The system is designed to have a feedback loop where you produce more milk when the baby needs more. The existence of this loop is why, for example, people who are looking to increase their supply will sometimes pump after feedings to trick the body into thinking demand is greater than it is.
+*source:*	Cribsheet: A Data-Driven Guide to Better, More Relaxed Parenting, from Birth to Preschool (The ParentData Series)
+*author:*	Emily Oster
+*link:*	kindle://book?action=open&asin=B07RT6YFWK&location=1603
+*note:*	
+*tags:*	#sciencefiction #technology #CribsheetADataDrivenGuidetoBetterMoreRelaxedParentingfromBirthtoPreschoolTheParentDataSeries #EmilyOster
+
+*quote:*	Almost a quarter of women have milk production delayed beyond three days. This is even higher—​about 35 percent—​for first-time mothers.
+*source:*	Cribsheet: A Data-Driven Guide to Better, More Relaxed Parenting, from Birth to Preschool (The ParentData Series)
+*author:*	Emily Oster
+*link:*	kindle://book?action=open&asin=B07RT6YFWK&location=1613
+*note:*	
+*tags:*	#sciencefiction #technology #CribsheetADataDrivenGuidetoBetterMoreRelaxedParentingfromBirthtoPreschoolTheParentDataSeries #EmilyOster
+
+*quote:*	Let’s start with the food part. The only food women are medically advised to avoid during breastfeeding is high-mercury fish.
+*source:*	Cribsheet: A Data-Driven Guide to Better, More Relaxed Parenting, from Birth to Preschool (The ParentData Series)
+*author:*	Emily Oster
+*link:*	kindle://book?action=open&asin=B07RT6YFWK&location=1662
+*note:*	
+*tags:*	#sciencefiction #technology #CribsheetADataDrivenGuidetoBetterMoreRelaxedParentingfromBirthtoPreschoolTheParentDataSeries #EmilyOster
+
+*quote:*	This changed in the early 1990s with the release of a series of studies showing more directly that stomach sleeping was associated with a dramatically elevated risk of SIDS.
+*source:*	Cribsheet: A Data-Driven Guide to Better, More Relaxed Parenting, from Birth to Preschool (The ParentData Series)
+*author:*	Emily Oster
+*link:*	kindle://book?action=open&asin=B07RT6YFWK&location=1825
+*note:*	
+*tags:*	#sciencefiction #technology #CribsheetADataDrivenGuidetoBetterMoreRelaxedParentingfromBirthtoPreschoolTheParentDataSeries #EmilyOster
+
+*quote:*	The trouble is, they do not agree. Ferber, for instance, says that at six months, a baby should sleep a total of about 13 hours: 9.25 hours at night, and two 1- to 2-hour naps. Weissbluth suggests this same six-month-old should sleep a total of about 14 hours, but with more of those hours falling at night: 12 hours at night, and two 1‑hour naps. This is a 3‑hour difference in the suggested nighttime sleep.
+*source:*	Cribsheet: A Data-Driven Guide to Better, More Relaxed Parenting, from Birth to Preschool (The ParentData Series)
+*author:*	Emily Oster
+*link:*	kindle://book?action=open&asin=B07RT6YFWK&location=2034
+*note:*	
+*tags:*	#sciencefiction #technology #CribsheetADataDrivenGuidetoBetterMoreRelaxedParentingfromBirthtoPreschoolTheParentDataSeries #EmilyOster
+
+*quote:*	This particular study found that, in fact, infant security and attachment seemed to increase after the “cry it out” intervention.
+*source:*	Cribsheet: A Data-Driven Guide to Better, More Relaxed Parenting, from Birth to Preschool (The ParentData Series)
+*author:*	Emily Oster
+*link:*	kindle://book?action=open&asin=B07RT6YFWK&location=2719
+*note:*	
+*tags:*	#sciencefiction #technology #CribsheetADataDrivenGuidetoBetterMoreRelaxedParentingfromBirthtoPreschoolTheParentDataSeries #EmilyOster
+
+*quote:*	This study is not alone. A 2006 review of sleep-training studies, which included thirteen different interventions, noted the following: “Adverse secondary effects as the result of participating in behaviorally based sleep programs were not identified in any of the studies. On the contrary, infants who participated in sleep interventions were found to be more secure, predictable, less irritable, and to cry and fuss less following treatment.”
+*source:*	Cribsheet: A Data-Driven Guide to Better, More Relaxed Parenting, from Birth to Preschool (The ParentData Series)
+*author:*	Emily Oster
+*link:*	kindle://book?action=open&asin=B07RT6YFWK&location=2722
+*note:*	
+*tags:*	#sciencefiction #technology #CribsheetADataDrivenGuidetoBetterMoreRelaxedParentingfromBirthtoPreschoolTheParentDataSeries #EmilyOster
+
+*quote:*	It is not an exaggeration to say this advice has made things worse and, indeed, may be largely responsible for the increase in peanut allergies over the past twenty years. The fact that your kid has to bring SunButter to school? That may well be the fault of bad public health advice.
+*source:*	Cribsheet: A Data-Driven Guide to Better, More Relaxed Parenting, from Birth to Preschool (The ParentData Series)
+*author:*	Emily Oster
+*link:*	kindle://book?action=open&asin=B07RT6YFWK&location=2889
+*note:*	
+*tags:*	#sciencefiction #technology #CribsheetADataDrivenGuidetoBetterMoreRelaxedParentingfromBirthtoPreschoolTheParentDataSeries #EmilyOster
+
+*quote:*	Peanut timing is not the only recommendation that you’ll hear about food. The American Academy of Pediatrics (among other sources) has whole websites devoted to transitioning your child to eating solid foods. For the most part, there is little real evidence behind these recommendations.
+*source:*	Cribsheet: A Data-Driven Guide to Better, More Relaxed Parenting, from Birth to Preschool (The ParentData Series)
+*author:*	Emily Oster
+*link:*	kindle://book?action=open&asin=B07RT6YFWK&location=2894
+*note:*	
+*tags:*	#sciencefiction #technology #CribsheetADataDrivenGuidetoBetterMoreRelaxedParentingfromBirthtoPreschoolTheParentDataSeries #EmilyOster
+
+*quote:*	And there is some reasoning behind this approach. Before four months, your baby is unlikely to be able to eat solid food—​the skill is fundamentally different from nursing or drinking from a bottle—​and there is no reason to give them anything other than breast milk. There is also a concern about filling their stomach with foods that, unlike breast milk and formula, do not give them the appropriate nutrients for their age. This gives you part of the timing recommendation.
+*source:*	Cribsheet: A Data-Driven Guide to Better, More Relaxed Parenting, from Birth to Preschool (The ParentData Series)
+*author:*	Emily Oster
+*link:*	kindle://book?action=open&asin=B07RT6YFWK&location=2906
+*note:*	
+*tags:*	#sciencefiction #technology #CribsheetADataDrivenGuidetoBetterMoreRelaxedParentingfromBirthtoPreschoolTheParentDataSeries #EmilyOster
+
+*quote:*	Baby-led weaning involves just giving your child the food you are eating. This seemed great! I was already producing that food. I was all for signing up for an easier approach that preserved my closet space.
+*source:*	Cribsheet: A Data-Driven Guide to Better, More Relaxed Parenting, from Birth to Preschool (The ParentData Series)
+*author:*	Emily Oster
+*link:*	kindle://book?action=open&asin=B07RT6YFWK&location=2928
+*note:*	
+*tags:*	#sciencefiction #technology #CribsheetADataDrivenGuidetoBetterMoreRelaxedParentingfromBirthtoPreschoolTheParentDataSeries #EmilyOster
+
+*quote:*	most kids become more picky around two and then slowly grow out of it in their elementary school years.
+*source:*	Cribsheet: A Data-Driven Guide to Better, More Relaxed Parenting, from Birth to Preschool (The ParentData Series)
+*author:*	Emily Oster
+*link:*	kindle://book?action=open&asin=B07RT6YFWK&location=2990
+*note:*	
+*tags:*	#sciencefiction #technology #CribsheetADataDrivenGuidetoBetterMoreRelaxedParentingfromBirthtoPreschoolTheParentDataSeries #EmilyOster
+
+*quote:*	none of us is especially good at reporting our actual behavior. The primary finding relates to how parents talk about the new food. Kids are more likely to try to eat it with what researchers call “autonomy-supportive prompts”—​things like “Try your hot dog” or “Prunes are like big raisins, so you might like them.” In contrast, they are less likely to try things if parents use “coercive-controlling prompts”—​things like “If you finish your pasta, you can have ice cream” or “If you won’t eat, I’m taking away your iPad!!”
+*source:*	Cribsheet: A Data-Driven Guide to Better, More Relaxed Parenting, from Birth to Preschool (The ParentData Series)
+*author:*	Emily Oster
+*link:*	kindle://book?action=open&asin=B07RT6YFWK&location=3002
+*note:*	
+*tags:*	#sciencefiction #technology #CribsheetADataDrivenGuidetoBetterMoreRelaxedParentingfromBirthtoPreschoolTheParentDataSeries #EmilyOster
+
+*quote:*	These studies also show that food refusals are more common in families where parents offer an alternative. That is, if your kid doesn’t eat broccoli and then you offer him chicken nuggets instead, he may learn that this is always the reward for not eating new foods.
+*source:*	Cribsheet: A Data-Driven Guide to Better, More Relaxed Parenting, from Birth to Preschool (The ParentData Series)
+*author:*	Emily Oster
+*link:*	kindle://book?action=open&asin=B07RT6YFWK&location=3007
+*note:*	
+*tags:*	#sciencefiction #technology #CribsheetADataDrivenGuidetoBetterMoreRelaxedParentingfromBirthtoPreschoolTheParentDataSeries #EmilyOster
+
+*quote:*	And don’t use threats or rewards to coerce them to eat.
+*source:*	Cribsheet: A Data-Driven Guide to Better, More Relaxed Parenting, from Birth to Preschool (The ParentData Series)
+*author:*	Emily Oster
+*link:*	kindle://book?action=open&asin=B07RT6YFWK&location=3012
+*note:*	
+*tags:*	#sciencefiction #technology #CribsheetADataDrivenGuidetoBetterMoreRelaxedParentingfromBirthtoPreschoolTheParentDataSeries #EmilyOster
+
+*quote:*	The vast majority of allergies result from eight food types: milk, peanuts, eggs, soy, wheat, tree nuts, fish, and shellfish.
+*source:*	Cribsheet: A Data-Driven Guide to Better, More Relaxed Parenting, from Birth to Preschool (The ParentData Series)
+*author:*	Emily Oster
+*link:*	kindle://book?action=open&asin=B07RT6YFWK&location=3022
+*note:*	
+*tags:*	#sciencefiction #technology #CribsheetADataDrivenGuidetoBetterMoreRelaxedParentingfromBirthtoPreschoolTheParentDataSeries #EmilyOster
+
+*quote:*	you cannot force someone to poop.
+*source:*	Cribsheet: A Data-Driven Guide to Better, More Relaxed Parenting, from Birth to Preschool (The ParentData Series)
+*author:*	Emily Oster
+*link:*	kindle://book?action=open&asin=B07RT6YFWK&location=3107
+*note:*	
+*tags:*	#sciencefiction #technology #CribsheetADataDrivenGuidetoBetterMoreRelaxedParentingfromBirthtoPreschoolTheParentDataSeries #EmilyOster
+
+*quote:*	If you ask, “Does early walking predict walking?” the answer will be, “No, everyone walks.”
+*source:*	Cribsheet: A Data-Driven Guide to Better, More Relaxed Parenting, from Birth to Preschool (The ParentData Series)
+*author:*	Emily Oster
+*link:*	kindle://book?action=open&asin=B07RT6YFWK&location=3199
+*note:*	
+*tags:*	#sciencefiction #technology #CribsheetADataDrivenGuidetoBetterMoreRelaxedParentingfromBirthtoPreschoolTheParentDataSeries #EmilyOster
+
+*quote:*	The Portable Pediatrician for Parents
+*source:*	Cribsheet: A Data-Driven Guide to Better, More Relaxed Parenting, from Birth to Preschool (The ParentData Series)
+*author:*	Emily Oster
+*link:*	kindle://book?action=open&asin=B07RT6YFWK&location=3221
+*note:*	
+*tags:*	#sciencefiction #technology #CribsheetADataDrivenGuidetoBetterMoreRelaxedParentingfromBirthtoPreschoolTheParentDataSeries #EmilyOster
+
+*quote:*	in the current parenting climate, screen time has expanded. Your kid can now watch TV on your phone or iPad, but also play games and apps and do all manner of other things. Is this type of screen time like TV? Should it be limited? We basically have no idea.
+*source:*	Cribsheet: A Data-Driven Guide to Better, More Relaxed Parenting, from Birth to Preschool (The ParentData Series)
+*author:*	Emily Oster
+*link:*	kindle://book?action=open&asin=B07RT6YFWK&location=3341
+*note:*	
+*tags:*	#sciencefiction #technology #CribsheetADataDrivenGuidetoBetterMoreRelaxedParentingfromBirthtoPreschoolTheParentDataSeries #EmilyOster
+
+*quote:*	Early additional food and fluids for healthy breastfed full-term infants.
+*source:*	Cribsheet: A Data-Driven Guide to Better, More Relaxed Parenting, from Birth to Preschool (The ParentData Series)
+*author:*	Emily Oster
+*link:*	kindle://book?action=open&asin=B07RT6YFWK&location=4266
+*note:*	
+*tags:*	#sciencefiction #technology #CribsheetADataDrivenGuidetoBetterMoreRelaxedParentingfromBirthtoPreschoolTheParentDataSeries #EmilyOster
+
+*quote:*	Loyalty is dumb. Data is valuable. The real genius of these programs is making people forget both of those things.
+*source:*	How They Get You: Sneaky Everyday Economics and Smart Ways to Hold on to Your Money
+*author:*	Chris Kohler
+*link:*	kindle://book?action=open&asin=B0FNNGFD8Q&location=442
+*note:*	
+*tags:*	#sciencefiction #technology #HowTheyGetYouSneakyEverydayEconomicsandSmartWaystoHoldontoYourMoney #ChrisKohler
+
+*quote:*	I still say the best loyalty programs are the ones where a coffee shop stamps your card and gives you your 10th coffee free. It’s an incentive to return without requiring the customer to hand over personal information.
+*source:*	How They Get You: Sneaky Everyday Economics and Smart Ways to Hold on to Your Money
+*author:*	Chris Kohler
+*link:*	kindle://book?action=open&asin=B0FNNGFD8Q&location=517
+*note:*	
+*tags:*	#sciencefiction #technology #HowTheyGetYouSneakyEverydayEconomicsandSmartWaystoHoldontoYourMoney #ChrisKohler
+
+*quote:*	Making a decision on your retirement savings based on an ad campaign is like marrying someone who once wore an interesting hat. You’ve been bamboozled by a dork.
+*source:*	How They Get You: Sneaky Everyday Economics and Smart Ways to Hold on to Your Money
+*author:*	Chris Kohler
+*link:*	kindle://book?action=open&asin=B0FNNGFD8Q&location=691
+*note:*	
+*tags:*	#sciencefiction #technology #HowTheyGetYouSneakyEverydayEconomicsandSmartWaystoHoldontoYourMoney #ChrisKohler
+
+*quote:*	the government runs a superannuation comparison service called YourSuper Comparison
+*source:*	How They Get You: Sneaky Everyday Economics and Smart Ways to Hold on to Your Money
+*author:*	Chris Kohler
+*link:*	kindle://book?action=open&asin=B0FNNGFD8Q&location=718
+*note:*	
+*tags:*	#sciencefiction #technology #HowTheyGetYouSneakyEverydayEconomicsandSmartWaystoHoldontoYourMoney #ChrisKohler
+
+*quote:*	In Australia, the US and Canada you’re likely paying anywhere from $1 to $5 per gigabyte of data per month, but let’s have a look at an interesting case study in data: India. In India, you’re paying about $0.10 per gigabyte of data. Why? The reason is as simple as it is fascinating – a telecommunications company named Jio entered in 2016 and destroyed the marketplace. Jio offered data for free for six months to anyone who signed up. Completely unheard of. Within six months the company had 100 million users signed up and, instead of proceeding to charge the same as the competition once the six-month free period ended, it undercut them significantly on ongoing price.
+*source:*	How They Get You: Sneaky Everyday Economics and Smart Ways to Hold on to Your Money
+*author:*	Chris Kohler
+*link:*	kindle://book?action=open&asin=B0FNNGFD8Q&location=1025
+*note:*	
+*tags:*	#sciencefiction #technology #HowTheyGetYouSneakyEverydayEconomicsandSmartWaystoHoldontoYourMoney #ChrisKohler
+
+*quote:*	Behavioural psychologists call this the ‘mere exposure effect’ or ‘familiarity principle’. It basically holds that people develop an acceptance, and even fondness, for something they’re shown over and over again.
+*source:*	How They Get You: Sneaky Everyday Economics and Smart Ways to Hold on to Your Money
+*author:*	Chris Kohler
+*link:*	kindle://book?action=open&asin=B0FNNGFD8Q&location=1199
+*note:*	
+*tags:*	#sciencefiction #technology #HowTheyGetYouSneakyEverydayEconomicsandSmartWaystoHoldontoYourMoney #ChrisKohler
+
+*quote:*	Words like ‘gambling’ or ‘betting’ are deliberately removed from the language. What you end up with is a ‘three-leg, same-game multi’ being spoken about as if it’s a risk-managed investment strategy.
+*source:*	How They Get You: Sneaky Everyday Economics and Smart Ways to Hold on to Your Money
+*author:*	Chris Kohler
+*link:*	kindle://book?action=open&asin=B0FNNGFD8Q&location=1202
+*note:*	
+*tags:*	#sciencefiction #technology #HowTheyGetYouSneakyEverydayEconomicsandSmartWaystoHoldontoYourMoney #ChrisKohler
+
+*quote:*	Everybody has to buy food, so if the price of groceries goes up while leaving behind wages, it acts like a flat tax. Wealthy people might not notice much, because they have bigger discretionary budgets, but people with less spare cash will be floored by it.
+*source:*	How They Get You: Sneaky Everyday Economics and Smart Ways to Hold on to Your Money
+*author:*	Chris Kohler
+*link:*	kindle://book?action=open&asin=B0FNNGFD8Q&location=1449
+*note:*	
+*tags:*	#sciencefiction #technology #HowTheyGetYouSneakyEverydayEconomicsandSmartWaystoHoldontoYourMoney #ChrisKohler
+
+*quote:*	Aldi Australia CEO Anna McGrath sat down in front of the senators, and journalists like me listening via web stream, and said this: ‘We offer such low prices by being a significantly less complex business than our competitors. Everything from our smaller stores, our limited product range and even the way that we serve our customers means our business is simpler to operate. These efficiencies lead to reducing our operating costs and this affords us the ability to maintain our low price position.’
+*source:*	How They Get You: Sneaky Everyday Economics and Smart Ways to Hold on to Your Money
+*author:*	Chris Kohler
+*link:*	kindle://book?action=open&asin=B0FNNGFD8Q&location=1547
+*note:*	
+*tags:*	#sciencefiction #technology #HowTheyGetYouSneakyEverydayEconomicsandSmartWaystoHoldontoYourMoney #ChrisKohler
+
+*quote:*	Supermodel Heidi Klum once took out a policy for her legs. They were ‘inspected’ – whatever that means – and deemed to be worth £1.5 million as a pair. Weirdly, one of the legs was worth slightly less than the other due to a small scar.
+*source:*	How They Get You: Sneaky Everyday Economics and Smart Ways to Hold on to Your Money
+*author:*	Chris Kohler
+*link:*	kindle://book?action=open&asin=B0FNNGFD8Q&location=1850
+*note:*	
+*tags:*	#sciencefiction #technology #HowTheyGetYouSneakyEverydayEconomicsandSmartWaystoHoldontoYourMoney #ChrisKohler
+
+*quote:*	‘contents reduction strategies’ or ‘downweighting’,
+*source:*	How They Get You: Sneaky Everyday Economics and Smart Ways to Hold on to Your Money
+*author:*	Chris Kohler
+*link:*	kindle://book?action=open&asin=B0FNNGFD8Q&location=2213
+*note:*	
+*tags:*	#sciencefiction #technology #HowTheyGetYouSneakyEverydayEconomicsandSmartWaystoHoldontoYourMoney #ChrisKohler
+
+*quote:*	I actually had a friend whose parents bought him the game he wanted and then placed it on top of the fridge. Like a motivational hostage. We thought this was cruel and unusual. Now I’m a parent, I consider it a masterstroke in delayed gratification and goal visualisation.
+*source:*	How They Get You: Sneaky Everyday Economics and Smart Ways to Hold on to Your Money
+*author:*	Chris Kohler
+*link:*	kindle://book?action=open&asin=B0FNNGFD8Q&location=2808
+*note:*	
+*tags:*	#sciencefiction #technology #HowTheyGetYouSneakyEverydayEconomicsandSmartWaystoHoldontoYourMoney #ChrisKohler
+
+*quote:*	Clearing land, while it allowed grass to grow, did not always create better pasture. An anecdote from the other side of the continent might be helpful here. An early twentieth-century dairy farmer in the Hunter River district kept a farm diary, which his grandson found and inspected. His grandfather had kept meticulous records of his milk yield from the well-treed and shady pasture that his cows grazed. Later, his son, keen to have more pasture, felled the trees to gain more room for grass. His records revealed a decline in milk quantity. The grandson, in turn, when he inherited the farm, replanted shade-giving trees and his milk yield went back up to a level close to his grandfather’s records. He had understood what his grandfather had noticed, that where trees shaded pasture, there was more morning dew and hence more moist grass.
+*source:*	Invisible Country: Southwest Australia: Understanding a Landscape
+*author:*	Bill Bunbury
+*link:*	kindle://book?action=open&asin=B0CBX3Z7K5&location=556
+*note:*	
+*tags:*	#sciencefiction #technology #InvisibleCountrySouthwestAustraliaUnderstandingaLandscape #BillBunbury
+
+*quote:*	Discussing the flora, the wildflowers, of the region, botanist Neville Marchant, makes this point. One thing we have to remember is that if the Aboriginal people have been here for forty, fifty, sixty or even seventy thousand years, that is nothing really in the long-term time-frame. WA and the south-west have been isolated from eastern Australia for 50 million years; a long time in isolation and you are looking at five, six or seven million years for the evolution of lots of our species. So the species evolved without that controlled burning effect of the Aboriginal people.
+*source:*	Invisible Country: Southwest Australia: Understanding a Landscape
+*author:*	Bill Bunbury
+*link:*	kindle://book?action=open&asin=B0CBX3Z7K5&location=1105
+*note:*	
+*tags:*	#sciencefiction #technology #InvisibleCountrySouthwestAustraliaUnderstandingaLandscape #BillBunbury
+
+*quote:*	the top five centimetres of soil contains 90 per cent of the seed of plants and all the associated helpful fungi and micro fauna that keep the flora community ticking over. And if you go down another five centimetres you’ve got all of 95 per cent of all that action.
+*source:*	Invisible Country: Southwest Australia: Understanding a Landscape
+*author:*	Bill Bunbury
+*link:*	kindle://book?action=open&asin=B0CBX3Z7K5&location=1337
+*note:*	
+*tags:*	#sciencefiction #technology #InvisibleCountrySouthwestAustraliaUnderstandingaLandscape #BillBunbury
+
+*quote:*	Salinity was the quiet sleeper in the early years of the ‘new land’ clearing. However, as David Pannell, Professor of Agriculture at the University of Western Australia,
+*source:*	Invisible Country: Southwest Australia: Understanding a Landscape
+*author:*	Bill Bunbury
+*link:*	kindle://book?action=open&asin=B0CBX3Z7K5&location=1389
+*note:*	
+*tags:*	#sciencefiction #technology #InvisibleCountrySouthwestAustraliaUnderstandingaLandscape #BillBunbury
+
+*quote:*	WA’s newly established (1971) Environmental Protection Authority, through its Environment Protection Council, examined an application to mine low-grade coal in the central Fitzgerald Valley. A report after a 1972 inspection described the vegetation of the Fitzgerald River valley as: ‘Not visually impressive. It appears chiefly to consist of mallee eucalypts similar to those found in many places in WA’.
+*source:*	Invisible Country: Southwest Australia: Understanding a Landscape
+*author:*	Bill Bunbury
+*link:*	kindle://book?action=open&asin=B0CBX3Z7K5&location=1535
+*note:*	
+*tags:*	#sciencefiction #technology #InvisibleCountrySouthwestAustraliaUnderstandingaLandscape #BillBunbury
+
+*quote:*	UNESCO is currently reviewing the status of biospheres worldwide and has raised questions about the effectiveness of the Fitzgerald Biosphere Reserve.
+*source:*	Invisible Country: Southwest Australia: Understanding a Landscape
+*author:*	Bill Bunbury
+*link:*	kindle://book?action=open&asin=B0CBX3Z7K5&location=1574
+*note:*	
+*tags:*	#sciencefiction #technology #InvisibleCountrySouthwestAustraliaUnderstandingaLandscape #BillBunbury
+
+*quote:*	early on we used to grumble that the conservation movement only cared about what we called the four W’s: whales, wilderness, waterfalls and w(r)ainforest.
+*source:*	Invisible Country: Southwest Australia: Understanding a Landscape
+*author:*	Bill Bunbury
+*link:*	kindle://book?action=open&asin=B0CBX3Z7K5&location=1625
+*note:*	
+*tags:*	#sciencefiction #technology #InvisibleCountrySouthwestAustraliaUnderstandingaLandscape #BillBunbury
+
+*quote:*	Dad bought another farm on the Carlecatup Road around 1930 in the Cherry Tree Pool area…When we first had this farm the river had lots of marron and perch and the wild ducks were plentiful. The wildflowers were a delight to see in the springtime with a profusion of kangaroo and cat paws, orchids, everlastings, smoke-bush and bottlebrush. We gave this farm the name of ‘Birdwood’ because of all the native birds and habitat. The river was fresh in those days but now has turned salt and all the beauty has gone. Much of the water is too salty for the stock.
+*source:*	Invisible Country: Southwest Australia: Understanding a Landscape
+*author:*	Bill Bunbury
+*link:*	kindle://book?action=open&asin=B0CBX3Z7K5&location=1909
+*note:*	
+*tags:*	#sciencefiction #technology #InvisibleCountrySouthwestAustraliaUnderstandingaLandscape #BillBunbury
+
+*quote:*	The Anglo-Saxon settlers who populated Australia brought with them no traditions of forestry as a rural industry, and for 100 years or more the forests were looked upon as an enemy to be slaughtered.
+*source:*	Invisible Country: Southwest Australia: Understanding a Landscape
+*author:*	Bill Bunbury
+*link:*	kindle://book?action=open&asin=B0CBX3Z7K5&location=2555
+*note:*	
+*tags:*	#sciencefiction #technology #InvisibleCountrySouthwestAustraliaUnderstandingaLandscape #BillBunbury
+
+*quote:*	There has to be a habitat for every creature in the landscape. That concept was enforced through totems that connected people to creatures in the natural environment. An emu totem, for example, meant that you would be responsible not only for emus but also their habitat. In other words, the law is ecologically based and recognises the interconnectedness of life. It says that you must create these habitats and, if you don’t, your own soul is at risk because you are linked by your soul to your totem.
+*source:*	Invisible Country: Southwest Australia: Understanding a Landscape
+*author:*	Bill Bunbury
+*link:*	kindle://book?action=open&asin=B0CBX3Z7K5&location=2605
+*note:*	
+*tags:*	#sciencefiction #technology #InvisibleCountrySouthwestAustraliaUnderstandingaLandscape #BillBunbury
+
+*quote:*	Roger Underwood, however, is quick to point out that foresters are not loggers. Forestry is a profession, a calling, like engineer, historian or architect. It is not an industry. The role of foresters, practising forestry, is to manage forests and thus management need not have anything to do with cutting timber.
+*source:*	Invisible Country: Southwest Australia: Understanding a Landscape
+*author:*	Bill Bunbury
+*link:*	kindle://book?action=open&asin=B0CBX3Z7K5&location=2838
+*note:*	
+*tags:*	#sciencefiction #technology #InvisibleCountrySouthwestAustraliaUnderstandingaLandscape #BillBunbury
+
+*quote:*	A suggested solution in sites like this with too many small trees is to ‘thin’ the forest. Drastic though this practice might appear, Neil Burrows thinks that it would benefit our brooks and streams because, with too many trees in a given area: …the less water there is for the catchment. The higher the area of the tree stems or the leaf area of tree canopies, the more water they use. So there is less water available for creeks, streams and catchments.
+*source:*	Invisible Country: Southwest Australia: Understanding a Landscape
+*author:*	Bill Bunbury
+*link:*	kindle://book?action=open&asin=B0CBX3Z7K5&location=2966
+*note:*	
+*tags:*	#sciencefiction #technology #InvisibleCountrySouthwestAustraliaUnderstandingaLandscape #BillBunbury
+
+*quote:*	We lived in a street with about fifteen houses and by the time I grew up all the houses had manicured lawns, and edging around the flower-beds. But there was one couple in the street, two doctors, who had left the native bush as their front yard. Banksias and things like that. I remember as a kid thinking it was ugly, partly because of what all the adults around me said about it. They all complained about this one house. They said, ‘This street would look so nice if it wasn’t for the doctors’ garden. Why don’t they sort it out? They are so lazy’. Then someone else bought the house, cleared out all the banksias and planted palm trees. And everyone loved it. I look back now and I just think that is really tragic that this ‘neatness’ is our perception of what a garden should be.
+*source:*	Invisible Country: Southwest Australia: Understanding a Landscape
+*author:*	Bill Bunbury
+*link:*	kindle://book?action=open&asin=B0CBX3Z7K5&location=3184
+*note:*	
+*tags:*	#sciencefiction #technology #InvisibleCountrySouthwestAustraliaUnderstandingaLandscape #BillBunbury
+
+*quote:*	What surprised him was what the students took away, as the primary message from that film, was the arrogance of the scientists, how dismissive they were of other people, of alternative views and how cocksure they were. The scientists came across very badly. So this, rather than the dishonesty of some of the creationist advocates, was the primary message. And the film had made it clear how dishonest some of the creationists had been in pursuit of their aims.
+*source:*	Invisible Country: Southwest Australia: Understanding a Landscape
+*author:*	Bill Bunbury
+*link:*	kindle://book?action=open&asin=B0CBX3Z7K5&location=3523
+*note:*	
+*tags:*	#sciencefiction #technology #InvisibleCountrySouthwestAustraliaUnderstandingaLandscape #BillBunbury
+
+*quote:*	I’ve long believed that good food, good eating is all about risk. Whether we’re talking about unpasteurized Stilton, raw oysters or working for organized crime ‘associates’, food, for me, has always been an adventure.
+*source:*	Kitchen Confidential: 25th Anniversary Edition
+*author:*	Anthony Bourdain
+*link:*	kindle://book?action=open&asin=B004U9J9GS&location=118
+*note:*	
+*tags:*	#sciencefiction #technology #KitchenConfidential25thAnniversaryEdition #AnthonyBourdain
+
+*quote:*	‘Vichyssoise,’
+*source:*	Kitchen Confidential: 25th Anniversary Edition
+*author:*	Anthony Bourdain
+*link:*	kindle://book?action=open&asin=B004U9J9GS&location=133
+*note:*	
+*tags:*	#sciencefiction #technology #KitchenConfidential25thAnniversaryEdition #AnthonyBourdain
+
+*quote:*	Television was a Big Event. At seven o’clock, when the two national stations would come on the air, my Oncle Gustav would solemnly emerge from his room with a key chained to his hip and ceremoniously unlock the cabinet doors that covered the screen.
+*source:*	Kitchen Confidential: 25th Anniversary Edition
+*author:*	Anthony Bourdain
+*link:*	kindle://book?action=open&asin=B004U9J9GS&location=206
+*note:*	
+*tags:*	#sciencefiction #technology #KitchenConfidential25thAnniversaryEdition #AnthonyBourdain
+
+*quote:*	On payday everyone in the kitchen handed money back and forth in a Byzantine rondelay of transactions as the cooks settled up the previous week’s drug debts, loans and wagers.
+*source:*	Kitchen Confidential: 25th Anniversary Edition
+*author:*	Anthony Bourdain
+*link:*	kindle://book?action=open&asin=B004U9J9GS&location=312
+*note:*	
+*tags:*	#sciencefiction #technology #KitchenConfidential25thAnniversaryEdition #AnthonyBourdain
+
+*quote:*	The Provincetown Seafood Cookbook
+*source:*	Kitchen Confidential: 25th Anniversary Edition
+*author:*	Anthony Bourdain
+*link:*	kindle://book?action=open&asin=B004U9J9GS&location=389
+*note:*	
+*tags:*	#sciencefiction #technology #KitchenConfidential25thAnniversaryEdition #AnthonyBourdain
+
+*quote:*	Creole, Gumbo and All That Jazz
+*source:*	Kitchen Confidential: 25th Anniversary Edition
+*author:*	Anthony Bourdain
+*link:*	kindle://book?action=open&asin=B004U9J9GS&location=390
+*note:*	
+*tags:*	#sciencefiction #technology #KitchenConfidential25thAnniversaryEdition #AnthonyBourdain
+
+*quote:*	It was a protein rush to the cortex, a clean, three-ingredient high, eaten with the hands. Could anything be better than that?
+*source:*	Kitchen Confidential: 25th Anniversary Edition
+*author:*	Anthony Bourdain
+*link:*	kindle://book?action=open&asin=B004U9J9GS&location=426
+*note:*	
+*tags:*	#sciencefiction #technology #KitchenConfidential25thAnniversaryEdition #AnthonyBourdain
+
+*quote:*	Of course, my stocks in class always tasted far better than my classmates’. No one could figure out how I coaxed such hearty flavor out of a few chicken bones, or made such wonderful fish fumet with fish racks and shrimp shells, all in the limited time available. Had my instructors given me a pat-down before class they might have learned my secret: two glassine envelopes of Minor’s chicken and lobster base inside my chef’s coat, for that little extra kick. They never figured it out.
+*source:*	Kitchen Confidential: 25th Anniversary Edition
+*author:*	Anthony Bourdain
+*link:*	kindle://book?action=open&asin=B004U9J9GS&location=533
+*note:*	
+*tags:*	#sciencefiction #technology #KitchenConfidential25thAnniversaryEdition #AnthonyBourdain
+
+*quote:*	Another class, Oriental Cookery, as I believe it was then called, was pretty funny. The instructor, a capable Chinese guy, was responsible for teaching us the fundamentals of both Chinese and Japanese cooking. The Chinese portion of the class was terrific. When it came time to fill us in on the tastes of Japan, however, our teacher was more interested in giving us an extended lecture on the Rape of Nanking. His loathing of the Japanese was consuming. In between describing the bayoneting of women, children and babies in World War II, he’d point at a poster of a sushi/sashimi presentation on the wall, and say in his broken, heavily accented English, ‘That a raw a fish. You wanna eat that? Hah! Japanese shit!’ Then he’d go back into his dissertation on forced labor, mass executions, enslavement, hinting darkly that Japan would pay, sooner or later, for what it had done to his country.
+*source:*	Kitchen Confidential: 25th Anniversary Edition
+*author:*	Anthony Bourdain
+*link:*	kindle://book?action=open&asin=B004U9J9GS&location=564
+*note:*	
+*tags:*	#sciencefiction #technology #KitchenConfidential25thAnniversaryEdition #AnthonyBourdain
+
+*quote:*	I won’t eat in a restaurant with filthy bathrooms. This isn’t a hard call. They let you see the bathrooms. If the restaurant can’t be bothered to replace the puck in the urinal or keep the toilets and floors clean, then just imagine what their refrigeration and work spaces look like.
+*source:*	Kitchen Confidential: 25th Anniversary Edition
+*author:*	Anthony Bourdain
+*link:*	kindle://book?action=open&asin=B004U9J9GS&location=952
+*note:*	
+*tags:*	#sciencefiction #technology #KitchenConfidential25thAnniversaryEdition #AnthonyBourdain
+
+*quote:*	Vegetarians, and their Hezbollah-like splinter-faction, the vegans, are a persistent irritant to any chef worth a damn. To me, life without veal stock, pork fat, sausage, organ meat, demi-glace, or even stinky cheese is a life not worth living. Vegetarians are the enemy of everything good and decent in the human spirit, an affront to all I stand for, the pure enjoyment of food. The body, these waterheads imagine, is a temple that should not be polluted by animal protein. It’s healthier, they insist, though every vegetarian waiter I’ve worked with is brought down by any rumor of a cold. Oh, I’ll accommodate them, I’ll rummage around for something to feed them, for a ‘vegetarian plate’, if called on to do so. Fourteen dollars for a few slices of grilled eggplant and zucchini suits my food cost fine.
+*source:*	Kitchen Confidential: 25th Anniversary Edition
+*author:*	Anthony Bourdain
+*link:*	kindle://book?action=open&asin=B004U9J9GS&location=974
+*note:*	
+*tags:*	#sciencefiction #technology #KitchenConfidential25thAnniversaryEdition #AnthonyBourdain
+
+*quote:*	A few years back, at a swinging singles joint on Columbus Avenue, we had the misfortune to employ a sensitive young man as a waiter who, in addition to a wide and varied social life involving numerous unsafe sexual practices, was something of a jailhouse lawyer. After he was fired for incompetence, he took it on himself to sue the restaurant, claiming that a gastrointestinal problem, caused apparently by amoebas, was a result of his work there. Management took this litigation seriously enough to engage the services of an epidemiologist, who obtained stool samples from every employee. The results – which I was privy to – were enlightening to say the least. The waiter’s strain of amoebas, it was concluded, was common to persons of his lifestyle, and to many others. What was interesting were the results of our Mexican and South American prep cooks. These guys were teeming with numerous varieties of critters, none of which, in their cases, caused illness or discomfort. It was explained that the results in our restaurant were no different from results at any other restaurant and that, particularly amongst my recently arrived Latino brethren, this sort of thing is normal – that their systems are used to it, and it causes them no difficulties at all. Amoebas, however, are transferred most easily through the handling of raw, uncooked vegetables, particularly during the washing of salad greens and leafy produce. So think about that next time you want to exchange deep tongue kisses with a vegetarian.
+*source:*	Kitchen Confidential: 25th Anniversary Edition
+*author:*	Anthony Bourdain
+*link:*	kindle://book?action=open&asin=B004U9J9GS&location=980
+*note:*	
+*tags:*	#sciencefiction #technology #KitchenConfidential25thAnniversaryEdition #AnthonyBourdain
+
+*quote:*	And chicken is boring. Chefs see it as a menu item for people who don’t know what they want to eat.
+*source:*	Kitchen Confidential: 25th Anniversary Edition
+*author:*	Anthony Bourdain
+*link:*	kindle://book?action=open&asin=B004U9J9GS&location=995
+*note:*	
+*tags:*	#sciencefiction #technology #KitchenConfidential25thAnniversaryEdition #AnthonyBourdain
+
+*quote:*	your body is not a temple, it’s an amusement park.
+*source:*	Kitchen Confidential: 25th Anniversary Edition
+*author:*	Anthony Bourdain
+*link:*	kindle://book?action=open&asin=B004U9J9GS&location=1025
+*note:*	
+*tags:*	#sciencefiction #technology #KitchenConfidential25thAnniversaryEdition #AnthonyBourdain
+
+*quote:*	We are, after all, citizens of the world – a world filled with bacteria, some friendly, some not so friendly. Do we really want to travel in hermetically sealed popemobiles through the rural provinces of France, Mexico and the Far East, eating only in Hard Rock Cafés and McDonald’s? Or do we want to eat without fear, tearing into the local stew, the humble taqueria’s mystery meat, the sincerely offered gift of a lightly grilled fish head?
+*source:*	Kitchen Confidential: 25th Anniversary Edition
+*author:*	Anthony Bourdain
+*link:*	kindle://book?action=open&asin=B004U9J9GS&location=1036
+*note:*	
+*tags:*	#sciencefiction #technology #KitchenConfidential25thAnniversaryEdition #AnthonyBourdain
+
+*quote:*	vanadium steel Global knives, a very good Japanese product which has – in addition to its many other fine qualities – the added attraction of looking really cool.
+*source:*	Kitchen Confidential: 25th Anniversary Edition
+*author:*	Anthony Bourdain
+*link:*	kindle://book?action=open&asin=B004U9J9GS&location=1074
+*note:*	
+*tags:*	#sciencefiction #technology #KitchenConfidential25thAnniversaryEdition #AnthonyBourdain
+
+*quote:*	Margarine? That’s not food. I Can’t Believe It’s Not Butter? I can. If you’re planning on using margarine in anything, you can stop reading now, because I won’t be able to help you.
+*source:*	Kitchen Confidential: 25th Anniversary Edition
+*author:*	Anthony Bourdain
+*link:*	kindle://book?action=open&asin=B004U9J9GS&location=1144
+*note:*	
+*tags:*	#sciencefiction #technology #KitchenConfidential25thAnniversaryEdition #AnthonyBourdain
+
+*quote:*	Example: here’s a very popular dish I used to serve at a highly regarded two-star joint in New York. I got thirty-two bucks an order for it and could barely keep enough in stock, people liked it so much. Take one fish – a red snapper, striped bass, or dorade – have your fish guy remove gills, guts and scales and wash in cold water. Rub inside and out with kosher salt and crushed black pepper. Jam a clove of garlic, a slice of lemon and a few sprigs of fresh herb – say, rosemary and thyme – into the cavity where the guts used to be. Place on a lightly oiled pan or foil and throw the fish into a very hot oven. Roast till crispy and cooked through. Drizzle a little basil oil over the plate – you know, the stuff you made with your blender and then put in your new squeeze bottle? – sprinkle with chiffonaded parsley, garnish with basil top … See?
+*source:*	Kitchen Confidential: 25th Anniversary Edition
+*author:*	Anthony Bourdain
+*link:*	kindle://book?action=open&asin=B004U9J9GS&location=1178
+*note:*	
+*tags:*	#sciencefiction #technology #KitchenConfidential25thAnniversaryEdition #AnthonyBourdain
+
+*quote:*	‘An ounce of sauce covers a multitude of sins,’
+*source:*	Kitchen Confidential: 25th Anniversary Edition
+*author:*	Anthony Bourdain
+*link:*	kindle://book?action=open&asin=B004U9J9GS&location=1639
+*note:*	
+*tags:*	#sciencefiction #technology #KitchenConfidential25thAnniversaryEdition #AnthonyBourdain
+
+*quote:*	The food was not bad. God knows we had enough cooks, plenty of equipment, and room to put it. Somehow, things got done, though I have no idea how; the place had its own momentum, like some rudderless ocean liner, captain and crew long gone – it just kept going, plowing through ice fields.
+*source:*	Kitchen Confidential: 25th Anniversary Edition
+*author:*	Anthony Bourdain
+*link:*	kindle://book?action=open&asin=B004U9J9GS&location=1984
+*note:*	
+*tags:*	#sciencefiction #technology #KitchenConfidential25thAnniversaryEdition #AnthonyBourdain
+
+*quote:*	The place was owned by a very aggressive rat population,
+*source:*	Kitchen Confidential: 25th Anniversary Edition
+*author:*	Anthony Bourdain
+*link:*	kindle://book?action=open&asin=B004U9J9GS&location=2116
+*note:*	
+*tags:*	#sciencefiction #technology #KitchenConfidential25thAnniversaryEdition #AnthonyBourdain
+
+*quote:*	I cleverly volunteered that my personal approach to cuisine was appreciation of fine ingredients, that too much frou-frou on the plates, food too sculpted, excessively garnished like that of many of my peers, was a distraction. Owners usually like this rap. And by saying it, I had inoculated myself against the ‘I’m too good for this place’ issue.
+*source:*	Kitchen Confidential: 25th Anniversary Edition
+*author:*	Anthony Bourdain
+*link:*	kindle://book?action=open&asin=B004U9J9GS&location=2254
+*note:*	
+*tags:*	#sciencefiction #technology #KitchenConfidential25thAnniversaryEdition #AnthonyBourdain
+
+*quote:*	To see his bread coming out of the oven, to smell it, that deeply satisfying, spiritually comforting waft of yeasty goodness, to tear into it, breaking apart that floury, dusty crust and into the ethereally textured interior … to taste it is to experience real genius. His peasant-style boules are the perfect objects, an arrangement of atoms unimprovable by God or man, pleasing to all the senses at once. Cézanne would have wanted to paint them – but might not have considered himself up to the job.
+*source:*	Kitchen Confidential: 25th Anniversary Edition
+*author:*	Anthony Bourdain
+*link:*	kindle://book?action=open&asin=B004U9J9GS&location=3384
+*note:*	
+*tags:*	#sciencefiction #technology #KitchenConfidential25thAnniversaryEdition #AnthonyBourdain
+
+*quote:*	If I had a well-disposed Eric Ripert and Grey Kunz in my background, I’d be endorsing blenders, committing unnatural acts in the pool near the Vegas outpost of my not-very-good-anymore restaurant chain, and pickling my liver in Louis Treize. At that point in my career, I wouldn’t be shutting down the whole gravy train so I could learn pastry! I’d be mugging it up on the Food Network, schmoozing at the Beard Awards dinner, and contemplating a future where I’d never have to get out of my pajamas!
+*source:*	Kitchen Confidential: 25th Anniversary Edition
+*author:*	Anthony Bourdain
+*link:*	kindle://book?action=open&asin=B004U9J9GS&location=3680
+*note:*	
+*tags:*	#sciencefiction #technology #KitchenConfidential25thAnniversaryEdition #AnthonyBourdain
+
+*quote:*	When you know what it’s like to squat on a blanket on upper Broadway in the snow, selling off a lifetime’s accumulation of rare books, records and comic books for drugs, the idea of spending next week’s paycheck on a bottle of red seems like, well, something that I probably shouldn’t be doing.
+*source:*	Kitchen Confidential: 25th Anniversary Edition
+*author:*	Anthony Bourdain
+*link:*	kindle://book?action=open&asin=B004U9J9GS&location=3808
+*note:*	
+*tags:*	#sciencefiction #technology #KitchenConfidential25thAnniversaryEdition #AnthonyBourdain
+
+*quote:*	Les Halles Tokyo, located in the shadow of the Eiffel-like Tokyo Tower, and across the street from a pachinko parlor, looked much like its older brother in New York, though spanking new and impeccably, surgically clean. Les Halles New York is loved for its smoke-stained walls, creaky chairs, weathered wooden bar – the fact that it resembles what it is: a familiar, worn, old-school brasserie of the Parisian model. Les Halles Tokyo, on the other hand, though accurate to the model down to the tiniest design detail, was shiny and undamaged, and apparently kept that way.
+*source:*	Kitchen Confidential: 25th Anniversary Edition
+*author:*	Anthony Bourdain
+*link:*	kindle://book?action=open&asin=B004U9J9GS&location=3900
+*note:*	
+*tags:*	#sciencefiction #technology #KitchenConfidential25thAnniversaryEdition #AnthonyBourdain
+
+*quote:*	Orwell’s Down and Out in Paris and London is invaluable.
+*source:*	Kitchen Confidential: 25th Anniversary Edition
+*author:*	Anthony Bourdain
+*link:*	kindle://book?action=open&asin=B004U9J9GS&location=4252
+*note:*	
+*tags:*	#sciencefiction #technology #KitchenConfidential25thAnniversaryEdition #AnthonyBourdain
+
+*quote:*	When you thought about it, this made a lot of sense. For example, the American moon shot was one of the most innovative programs ever seen in the United States. Thousands of scientists, engineers and designers came together and worked 18-hours-a-day to make the moon shot happen. Did they do it for the money? No. None of them became millionaires. They did it because they loved it and believed in the idea. Einstein did not create the theory of relativity for the money. The Wright Brothers did not create the airplane for the money. Creative people create for the joy of it.
+*source:*	Manna: Two Visions of Humanity's Future
+*author:*	Marshall Brain
+*link:*	kindle://book?action=open&asin=B007HQH67U&location=800
+*note:*	
+*tags:*	#sciencefiction #technology #MannaTwoVisionsofHumanitysFuture #MarshallBrain
+
+*quote:*	Nor did I wish to shy away from reporting on the obsessiveness, competitiveness, dishonesty and downright nastiness of contemporary Night Parrot politics – no wonder the bird hid from view for so long.
+*source:*	Night Parrot: Australia's Most Elusive Bird
+*author:*	Penny Olsen
+*link:*	kindle://book?action=open&asin=B07H9N28JM&location=315
+*note:*	
+*tags:*	#sciencefiction #technology #NightParrotAustraliasMostElusiveBird #PennyOlsen
+
+*quote:*	By the end of the month, all three men were suffering from the effects of arsenic soap, used to clean and insect-proof the specimen skins, which White mixed double strength. Eventually the soap worked under the nails, separating them from the flesh, which caused the fingertips to fester and left them severely sensitive to touch.
+*source:*	Night Parrot: Australia's Most Elusive Bird
+*author:*	Penny Olsen
+*link:*	kindle://book?action=open&asin=B07H9N28JM&location=1319
+*note:*	
+*tags:*	#sciencefiction #technology #NightParrotAustraliasMostElusiveBird #PennyOlsen
+
+*quote:*	From 1879 to the early 1880s, however, were generally dry years.153 In 1883, rain fell but there were few birds about of any description.154 By then, overstocking had taken its toll, feral goats roamed, the soil was blowing away, and waterholes were depleted and muddied.155 The Land Regulations required pastoralists to stock their runs with 50 sheep per square mile (19 per km2).156 However, when the wet years of the 1870s ended, it soon became obvious that the harsh, arid conditions and unreliable water supply made that level of stocking unsustainable. During the 1890s, too late for the parrot, many of the station leases in the Gawler Ranges (including Yardea) were abandoned
+*source:*	Night Parrot: Australia's Most Elusive Bird
+*author:*	Penny Olsen
+*link:*	kindle://book?action=open&asin=B07H9N28JM&location=1485
+*note:*	
+*tags:*	#sciencefiction #technology #NightParrotAustraliasMostElusiveBird #PennyOlsen
+
+*quote:*	Andrews’ apparent failure to collect Night Parrots after 1873 may also have been related to the fact that the local Aboriginal people were leaving their country and could not assist, or were uninterested in assisting, Andrews, as it seems they once did. It seems likely that Andrews used Indigenous help more often than is apparent, both as guides and collectors.
+*source:*	Night Parrot: Australia's Most Elusive Bird
+*author:*	Penny Olsen
+*link:*	kindle://book?action=open&asin=B07H9N28JM&location=1494
+*note:*	
+*tags:*	#sciencefiction #technology #NightParrotAustraliasMostElusiveBird #PennyOlsen
+
+*quote:*	Andrews’ unusual demise seemed to capture the public imagination, for reports of his ‘drowning’ and the subsequent inquest were republished widely in various broadsheets.
+*source:*	Night Parrot: Australia's Most Elusive Bird
+*author:*	Penny Olsen
+*link:*	kindle://book?action=open&asin=B07H9N28JM&location=1568
+*note:*	
+*tags:*	#sciencefiction #technology #NightParrotAustraliasMostElusiveBird #PennyOlsen
+
+*quote:*	Weetunga, at the Reedbeds,
+*source:*	Night Parrot: Australia's Most Elusive Bird
+*author:*	Penny Olsen
+*link:*	kindle://book?action=open&asin=B07H9N28JM&location=1832
+*note:*	
+*tags:*	#sciencefiction #technology #NightParrotAustraliasMostElusiveBird #PennyOlsen
+
+*quote:*	Bourgoin’s diary entry for 8 August 1927 has him searching for Dingo pups around the breakaways at the head of Ned’s Creek, 6 miles (9.5 km) south-east of Bolger’s Soak, when he happened upon eight Night Parrots on the ground at the mouth of a cave. Approaching within 15 feet (5 m), he sat quietly watching for 20 minutes. The two birds, presumably the adult pair, were brightly marked, but the other six were ‘a dull green and very plain’.52 Every now and then, the young clustered around the adults and squawked as though begging for food. Bourgoin returned 3 days later, intending to trap or shoot a bird, but was unable to locate the family. This was truly new information, suggesting an association of the parrot with rocky outcrops and giving an indication of brood size.
+*source:*	Night Parrot: Australia's Most Elusive Bird
+*author:*	Penny Olsen
+*link:*	kindle://book?action=open&asin=B07H9N28JM&location=2905
+*note:*	
+*tags:*	#sciencefiction #technology #NightParrotAustraliasMostElusiveBird #PennyOlsen
+
+*quote:*	Mr. Bourgoin has never been able to find a nest, but Mr. Jim Crogan, a pioneer of the North-West, told him that at one time they were fairly plentiful in the Hammersley Ranges and Upper Ashburton country, and that he and the natives had found their nests and young in the spinifex, Mr. Bourgoin questioned Bullocky and another old native named Masters and they told him that they had found the nests in tunnels under the spinifex and also in limestone caves. Masters maintained that the bird went away to Central Australia during dry seasons and came back after rain when the spinifex is in seed. Bullocky said that they bred after big rains when there was plenty of feed and that the clutch was two to four white eggs.
+*source:*	Night Parrot: Australia's Most Elusive Bird
+*author:*	Penny Olsen
+*link:*	kindle://book?action=open&asin=B07H9N28JM&location=2964
+*note:*	
+*tags:*	#sciencefiction #technology #NightParrotAustraliasMostElusiveBird #PennyOlsen
+
+*quote:*	In 2004, consultants from Biota Environment Sciences group made a possible sighting during a survey for the Fortescue Metals Group’s (FMG) Cloud Break Mine in the eastern Pilbara.91 The next year, not far from the Biota sighting, Rob Davis and Brenden Metcalf, biologists from Bamford Consulting Ecologists, were making a routine fauna survey for the mining company when, staked out at Minga Well around dusk, they spotted two or three birds on the opposite bank of the permanent pool. The birds flew when Davis stood up to get a spotlight. It was yet another unauthenticated sighting, but the biologists were confident enough in their identification to publish their sighting in Emu.
+*source:*	Night Parrot: Australia's Most Elusive Bird
+*author:*	Penny Olsen
+*link:*	kindle://book?action=open&asin=B07H9N28JM&location=3118
+*note:*	
+*tags:*	#sciencefiction #technology #NightParrotAustraliasMostElusiveBird #PennyOlsen
+
+*quote:*	Kalli land system
+*source:*	Night Parrot: Australia's Most Elusive Bird
+*author:*	Penny Olsen
+*link:*	kindle://book?action=open&asin=B07H9N28JM&location=3259
+*note:*	
+*tags:*	#sciencefiction #technology #NightParrotAustraliasMostElusiveBird #PennyOlsen
+
+*quote:*	In 2011, Charlie Nicholson and I revisited one of these breakaways and its survey site on chenopod footslope plains, which were in near-pristine condition in 1986. We walked into a landscape greatly changed over 25 intervening years. The soil crust and topsoil was lost from over 90% of the site, and the footslope plain was extensively scalded, micro-terraced, rilled and gullied. There was also an increased cover of annuals and unpalatable invasive shrubs, mainly silver poverty-bush Eremophila pterocarpa, Black Bluebush Maireana triptera and Acacia spp.
+*source:*	Night Parrot: Australia's Most Elusive Bird
+*author:*	Penny Olsen
+*link:*	kindle://book?action=open&asin=B07H9N28JM&location=3330
+*note:*	
+*tags:*	#sciencefiction #technology #NightParrotAustraliasMostElusiveBird #PennyOlsen
+
+*quote:*	Lesser Stick-nest Rats
+*source:*	Night Parrot: Australia's Most Elusive Bird
+*author:*	Penny Olsen
+*link:*	kindle://book?action=open&asin=B07H9N28JM&location=3439
+*note:*	
+*tags:*	#sciencefiction #technology #NightParrotAustraliasMostElusiveBird #PennyOlsen
+
+*quote:*	One of the most interesting of the birds that haunts the spinifex tracts in Sunset country is the now rare night parrot, whose plaintive whistling note heard in the still of the night makes one in a sense [aware] of his solitude. They are unfortunately becoming extinct. Some years ago hundreds of domestic cats were turned loose in the Mallee, in the hope that they would kill off the rabbits. They evidently preferred a bird diet and the night parrots, occupying in day time old rabbit burrows, fell easy prey to them. The ever-increasing fox is another enemy, and when I find feathers or remains of the night parrot there are generally fox or cat traces in the loose soil.
+*source:*	Night Parrot: Australia's Most Elusive Bird
+*author:*	Penny Olsen
+*link:*	kindle://book?action=open&asin=B07H9N28JM&location=4147
+*note:*	
+*tags:*	#sciencefiction #technology #NightParrotAustraliasMostElusiveBird #PennyOlsen
+
+*quote:*	Pine Plains.
+*source:*	Night Parrot: Australia's Most Elusive Bird
+*author:*	Penny Olsen
+*link:*	kindle://book?action=open&asin=B07H9N28JM&location=4300
+*note:*	
+*tags:*	#sciencefiction #technology #NightParrotAustraliasMostElusiveBird #PennyOlsen
+
+*quote:*	North Geelong
+*source:*	Night Parrot: Australia's Most Elusive Bird
+*author:*	Penny Olsen
+*link:*	kindle://book?action=open&asin=B07H9N28JM&location=4354
+*note:*	
+*tags:*	#sciencefiction #technology #NightParrotAustraliasMostElusiveBird #PennyOlsen
+
+*quote:*	Hermannsburg Mission,
+*source:*	Night Parrot: Australia's Most Elusive Bird
+*author:*	Penny Olsen
+*link:*	kindle://book?action=open&asin=B07H9N28JM&location=4367
+*note:*	
+*tags:*	#sciencefiction #technology #NightParrotAustraliasMostElusiveBird #PennyOlsen
+
+*quote:*	Bourke’s Parrot.
+*source:*	Night Parrot: Australia's Most Elusive Bird
+*author:*	Penny Olsen
+*link:*	kindle://book?action=open&asin=B07H9N28JM&location=4685
+*note:*	
+*tags:*	#sciencefiction #technology #NightParrotAustraliasMostElusiveBird #PennyOlsen
+
+*quote:*	While teaching, he began to paint in watercolour all the birds of Australia, using as guides specimens brought in by the children and, after retirement, from the Australian Museum in Sydney, where in 1928 he painted the Night Parrot.
+*source:*	Night Parrot: Australia's Most Elusive Bird
+*author:*	Penny Olsen
+*link:*	kindle://book?action=open&asin=B07H9N28JM&location=4701
+*note:*	
+*tags:*	#sciencefiction #technology #NightParrotAustraliasMostElusiveBird #PennyOlsen
+
+*quote:*	Keartland must have been excited to discover that ‘in the operators’ rooms several picture frames were covered with wings and tails of the porcupine parrot (Geopsittacus occidentalis) which had been caught by a cat last summer’.
+*source:*	Night Parrot: Australia's Most Elusive Bird
+*author:*	Penny Olsen
+*link:*	kindle://book?action=open&asin=B07H9N28JM&location=4790
+*note:*	
+*tags:*	#sciencefiction #technology #NightParrotAustraliasMostElusiveBird #PennyOlsen
+
+*quote:*	Lake Amadeus,
+*source:*	Night Parrot: Australia's Most Elusive Bird
+*author:*	Penny Olsen
+*link:*	kindle://book?action=open&asin=B07H9N28JM&location=4807
+*note:*	
+*tags:*	#sciencefiction #technology #NightParrotAustraliasMostElusiveBird #PennyOlsen
+
+*quote:*	Grey-headed Honeyeater,
+*source:*	Night Parrot: Australia's Most Elusive Bird
+*author:*	Penny Olsen
+*link:*	kindle://book?action=open&asin=B07H9N28JM&location=4814
+*note:*	
+*tags:*	#sciencefiction #technology #NightParrotAustraliasMostElusiveBird #PennyOlsen
+
+*quote:*	At the mission, Whitlock happened upon the local name of the parrot pencilled in the margins of the Reverend Carl Strehlow’s account on his life at the mission, the last volume of which was published in 1920, 2 years before a gravely ill Strehlow died on his way to Adelaide.22 Beside ‘Nacht-lichter papagei’, listed among the totemic birds of the Aranda people, Strehlow had written ‘Tnokkapaltara’. Using that name, Whitlock was able to question the older Aboriginal men, who clearly knew the bird and told him of its habits of tunnelling and taking shelter in Triodia and its reluctance to fly in daylight such that it could be run down.
+*source:*	Night Parrot: Australia's Most Elusive Bird
+*author:*	Penny Olsen
+*link:*	kindle://book?action=open&asin=B07H9N28JM&location=4877
+*note:*	
+*tags:*	#sciencefiction #technology #NightParrotAustraliasMostElusiveBird #PennyOlsen
+
+*quote:*	When doing field-work in the backblocks I have often met with the remark, ‘What is the good of the work you are doing? Wouldn’t you be better employed prospecting for gold?’ Of course, from a pounds, shillings and pence point of view I might if successful. But there are higher things in life than money-making.
+*source:*	Night Parrot: Australia's Most Elusive Bird
+*author:*	Penny Olsen
+*link:*	kindle://book?action=open&asin=B07H9N28JM&location=4985
+*note:*	
+*tags:*	#sciencefiction #technology #NightParrotAustraliasMostElusiveBird #PennyOlsen
+
+*quote:*	On the birdman’s 91st birthday, again celebrated in the press, his date of arrival in Australia was given as 1901.53 It seems that Whitlock had managed to successfully erase his bank-robbing past and time as a fugitive in the goldfields. Among the subspecies that celebrate his name, and which still stand, are the Crested Pigeon Ocyphaps lophotes whitlocki and the Shy Heathwren Hylacola cauta whitlocki. He was also the first to collect many rarities, including the eggs of the Grey Honeyeater, and he is the only person ever to find (and photograph) a clutch of the Western Ground Parrot in the wild.
+*source:*	Night Parrot: Australia's Most Elusive Bird
+*author:*	Penny Olsen
+*link:*	kindle://book?action=open&asin=B07H9N28JM&location=5019
+*note:*	
+*tags:*	#sciencefiction #technology #NightParrotAustraliasMostElusiveBird #PennyOlsen
+
+*quote:*	soda lake,
+*source:*	Night Parrot: Australia's Most Elusive Bird
+*author:*	Penny Olsen
+*link:*	kindle://book?action=open&asin=B07H9N28JM&location=5055
+*note:*	
+*tags:*	#sciencefiction #technology #NightParrotAustraliasMostElusiveBird #PennyOlsen
+
+*quote:*	Stirling Station,
+*source:*	Night Parrot: Australia's Most Elusive Bird
+*author:*	Penny Olsen
+*link:*	kindle://book?action=open&asin=B07H9N28JM&location=5173
+*note:*	
+*tags:*	#sciencefiction #technology #NightParrotAustraliasMostElusiveBird #PennyOlsen
+
+*quote:*	Bourke’s Parrots,
+*source:*	Night Parrot: Australia's Most Elusive Bird
+*author:*	Penny Olsen
+*link:*	kindle://book?action=open&asin=B07H9N28JM&location=5186
+*note:*	
+*tags:*	#sciencefiction #technology #NightParrotAustraliasMostElusiveBird #PennyOlsen
+
+*quote:*	Keep River National Park,
+*source:*	Night Parrot: Australia's Most Elusive Bird
+*author:*	Penny Olsen
+*link:*	kindle://book?action=open&asin=B07H9N28JM&location=5193
+*note:*	
+*tags:*	#sciencefiction #technology #NightParrotAustraliasMostElusiveBird #PennyOlsen
+
+*quote:*	During the important Horn Scientific Expedition to Central Australia in 1894, it was reported to me by Mr. Richard Helms, who was a naturalist of the party, that in one of the rooms used by the operators at the far inland and isolated telegraph office at Alice Springs, several picture frames were covered and ornamented with the beautiful wings and tails of these exceedingly rare birds, which were from birds that had been caught there by domestic cats the previous summer. I have shown [the feathers] natural size in this article.
+*source:*	Night Parrot: Australia's Most Elusive Bird
+*author:*	Penny Olsen
+*link:*	kindle://book?action=open&asin=B07H9N28JM&location=5290
+*note:*	
+*tags:*	#sciencefiction #technology #NightParrotAustraliasMostElusiveBird #PennyOlsen
+
+*quote:*	Potentially, the first record of a Queensland Night Parrot came from Alice Monkton Duncan, who lived on Mooraberree, her parents’ vast cattle station west of Windorah in the Channel Country of south-west Queensland, until early 1918, when she was 16.6 Duncan’s older brother and her father died, leaving her mother to manage the 888 km2 station, breeding shorthorns and raising ‘baby beef’ with the considerable help of the local Aboriginal people, paid with food. Mary Ann, a local Mithaka woman, cared for Duncan and her two sisters. The sisters grew up among Indigenous friends and were sent to school in Toowoomba and Brisbane. Duncan developed a great respect for the local people and learned bushcraft and bushlore from an elder named Moses Yoolpee, who had been educated at Scotch College in Melbourne, and Bogie, another Mithaka man. Later in life, under her married name Duncan-Kemp, she wrote several popular books about her experiences during that time, set within lyrical descriptions of landscape, fauna and flora.
+*source:*	Night Parrot: Australia's Most Elusive Bird
+*author:*	Penny Olsen
+*link:*	kindle://book?action=open&asin=B07H9N28JM&location=5689
+*note:*	
+*tags:*	#sciencefiction #technology #NightParrotAustraliasMostElusiveBird #PennyOlsen
+
+*quote:*	Where Strange Paths Go Down (1952),
+*source:*	Night Parrot: Australia's Most Elusive Bird
+*author:*	Penny Olsen
+*link:*	kindle://book?action=open&asin=B07H9N28JM&location=5699
+*note:*	
+*tags:*	#sciencefiction #technology #NightParrotAustraliasMostElusiveBird #PennyOlsen
+
+*quote:*	The desiccated body of the Night Parrot found beside the Diamantina Development Road (Highway 83) in October 1990, in situ showing the right-hand side. Photo by Max Thompson.
+*source:*	Night Parrot: Australia's Most Elusive Bird
+*author:*	Penny Olsen
+*link:*	kindle://book?action=open&asin=B07H9N28JM&location=5849
+*note:*	
+*tags:*	#sciencefiction #technology #NightParrotAustraliasMostElusiveBird #PennyOlsen
+
+*quote:*	The Boulia specimen was studied and deposited in the Queensland Museum, its home State. Further investigation unearthed some interesting details.43 On discovery, the bird’s head was detached, but X-rays showed that the skeleton was complete, making it the only entire skeleton of the species. There was minor damage to some ribs, consistent with impact from a vehicle. Sun-faded plumage, and the amount of soft tissue removal by ants and desiccation of the remainder, indicated that the bird had been dead at least 3 months. Its physical dimensions indicated that it was a male, which average slightly larger than females and, based on details of plumage, including some moulting feathers, it was judged to be an adult, which are brighter than juveniles. Muscle samples were removed for future molecular analysis that, more than a decade and a half later, revealed that the bird was in fact a female. A tissue sample yielded a DNA profile that was lodged with a genetic database available to all researchers. One further fragment of information was that among its feathers were seeds of Sclerolaena, now suspected to be an important food plant.
+*source:*	Night Parrot: Australia's Most Elusive Bird
+*author:*	Penny Olsen
+*link:*	kindle://book?action=open&asin=B07H9N28JM&location=5880
+*note:*	
+*tags:*	#sciencefiction #technology #NightParrotAustraliasMostElusiveBird #PennyOlsen
+
+*quote:*	It is a salutary exercise to acknowledge that Night Parrots have been recorded reliably in every decade since their scientific description. Curiously, this fact is overlooked ad nauseum. In the late 1980s, I viewed a Night Parrot specimen in Ballina, New South Wales, which had died in transit from the Marble Bar district, Western Australia. I believe the body was then destroyed by the aviculturist responsible, to hide any evidence of illegal activity. He stated that Aborigines of the source location could collect four to five birds per day by excavating spinifex and that the parrot usually avoided waterholes if dew was available.
+*source:*	Night Parrot: Australia's Most Elusive Bird
+*author:*	Penny Olsen
+*link:*	kindle://book?action=open&asin=B07H9N28JM&location=5925
+*note:*	
+*tags:*	#sciencefiction #technology #NightParrotAustraliasMostElusiveBird #PennyOlsen
+
+*quote:*	A map of ∼200 Night Parrot records
+*source:*	Night Parrot: Australia's Most Elusive Bird
+*author:*	Penny Olsen
+*link:*	kindle://book?action=open&asin=B07H9N28JM&location=7279
+*note:*	
+*tags:*	#sciencefiction #technology #NightParrotAustraliasMostElusiveBird #PennyOlsen
+
+*quote:*	This kindly, ancient Cambridge professor, hollowed out by cancer, speaking in the cadences of the King James Bible about the new world in the heavens that would be populated by the children of the dead, venerating their ancestors’ JPEGs and GIFs, was the closest thing to an uplifting message that anyone was going to see today.
+*source:*	Seveneves: Astounding apocalyptic fiction from the New York Times Bestseller
+*author:*	Neal Stephenson
+*link:*	kindle://book?action=open&asin=B00R0RGSLG&location=879
+*note:*	
+*tags:*	#sciencefiction #technology #SevenevesAstoundingapocalypticfictionfromtheNewYorkTimesBestseller #NealStephenson
+
+*quote:*	Most of the people on the Cloud Ark were going to have to be women. There were other reasons for it besides just making more babies. Research on the long-term effects of spaceflight suggested that women were less susceptible to radiation damage than men. They were smaller on average, requiring less space, less food, less air. And sociological studies pointed to the idea that they did better when crammed together in tight spaces for long periods of time. This was controversial, as it got into fraught topics of nature vs. nurture and whether gender identity was a social construct or a genetic program. But if you bought into the idea that boys had been programmed by Darwinian selection to run around in the open chucking spears at wild animals—something that every parent who had ever raised a boy had to take seriously—then it was difficult to envision a lot of them spending their lives in tin cans.
+*source:*	Seveneves: Astounding apocalyptic fiction from the New York Times Bestseller
+*author:*	Neal Stephenson
+*link:*	kindle://book?action=open&asin=B00R0RGSLG&location=895
+*note:*	
+*tags:*	#sciencefiction #technology #SevenevesAstoundingapocalypticfictionfromtheNewYorkTimesBestseller #NealStephenson
+
+*quote:*	“We don’t believe in anything as simple as metempsychosis—the movement of an individual soul from one body to another. That’s not what we mean by reincarnation at all.” “What do you believe in, then?” Doob asked. Tav had lost interest and was belaboring his phone with his thumbs. “A better analogy might be to a burned-down stump being used to ignite a new candle. But I won’t be able to give you a satisfactory answer, Dr. Harris. The teachings are esoteric—deliberately hidden from the uninitiated, specifically to prevent false interpretations. How an enlightened lama would think about the question of the seven billion is as far beyond my comprehension as are the quantum gravity theories that you study in your work.”
+*source:*	Seveneves: Astounding apocalyptic fiction from the New York Times Bestseller
+*author:*	Neal Stephenson
+*link:*	kindle://book?action=open&asin=B00R0RGSLG&location=2816
+*note:*	
+*tags:*	#sciencefiction #technology #SevenevesAstoundingapocalypticfictionfromtheNewYorkTimesBestseller #NealStephenson
+
+*quote:*	Luisa chuckled. “I hear you, sugar. I’m not gonna say you’re wrong. But I have to warn you that this is the word—‘politics’—that nerds use whenever they feel impatient about the human realities of an organization.”
+*source:*	Seveneves: Astounding apocalyptic fiction from the New York Times Bestseller
+*author:*	Neal Stephenson
+*link:*	kindle://book?action=open&asin=B00R0RGSLG&location=3423
+*note:*	
+*tags:*	#sciencefiction #technology #SevenevesAstoundingapocalypticfictionfromtheNewYorkTimesBestseller #NealStephenson
+
+*quote:*	“Problem is solved,” Tekla said. She was fluent in English and was perfectly capable of saying “The problem is solved,” but sometimes dropped the article for effect. Anglophones found this mysterious and impressive.
+*source:*	Seveneves: Astounding apocalyptic fiction from the New York Times Bestseller
+*author:*	Neal Stephenson
+*link:*	kindle://book?action=open&asin=B00R0RGSLG&location=6653
+*note:*	
+*tags:*	#sciencefiction #technology #SevenevesAstoundingapocalypticfictionfromtheNewYorkTimesBestseller #NealStephenson
+
+*quote:*	Which didn’t mean she couldn’t hear anything. She could hear the wind. A phrase that didn’t really do justice to the soundscape now being rendered by the array of miniature speakers. “The canid smelled the forest” was a completely different sentence from “The man smelled the forest,” not because the words had different meanings, but because the canid’s olfactory apparatus was infinitely superior to that of the man.
+*source:*	Seveneves: Astounding apocalyptic fiction from the New York Times Bestseller
+*author:*	Neal Stephenson
+*link:*	kindle://book?action=open&asin=B00R0RGSLG&location=8445
+*note:*	
+*tags:*	#sciencefiction #technology #SevenevesAstoundingapocalypticfictionfromtheNewYorkTimesBestseller #NealStephenson
+
+*quote:*	When it comes suppertime at sea, why not say, Meat-pie! and the meat-pie appears, and you eat it?” “Well, we could do so. But we don’t much wish to eat our words, as they say. Meat-pie! is only a word, after all . . . We can make it odorous, and savorous, and even filling, but it remains a word. It fools the stomach and gives no strength to the hungry man.”
+*source:*	The Books of Earthsea: The Complete Illustrated Edition
+*author:*	Ursula K. Le Guin
+*link:*	kindle://book?action=open&asin=B07CRN8NNG&location=2320
+*note:*	
+*tags:*	#sciencefiction #technology #TheBooksofEarthseaTheCompleteIllustratedEdition #UrsulaKLeGuin
+
+*quote:*	“What for?” said Arha, chewing a bitter stem of milkweed she had picked from the wall. The barren land was just past its flowering. All the small desert blossoms, yellow and rose and white, low-growing and quick-flowering, were going to seed, scattering tiny plumes and parasols of ash white on the wind, dropping their hooked, ingenious burrs. The ground under the apple trees of the orchard was a drift of bruised white and pink. The branches were green, the only green trees within miles of the Place. Everything else, from horizon to horizon, was a dull, tawny, desert color, except that the mountains had a silvery bluish tinge from the first buds of the flowering sage.
+*source:*	The Books of Earthsea: The Complete Illustrated Edition
+*author:*	Ursula K. Le Guin
+*link:*	kindle://book?action=open&asin=B07CRN8NNG&location=2904
+*note:*	
+*tags:*	#sciencefiction #technology #TheBooksofEarthseaTheCompleteIllustratedEdition #UrsulaKLeGuin
+
+*quote:*	“What are you then—a god? a king?” She looked him up and down, as he sat chained, dirty, exhausted. “You are nothing but a thief!”
+*source:*	The Books of Earthsea: The Complete Illustrated Edition
+*author:*	Ursula K. Le Guin
+*link:*	kindle://book?action=open&asin=B07CRN8NNG&location=3746
+*note:*	
+*tags:*	#sciencefiction #technology #TheBooksofEarthseaTheCompleteIllustratedEdition #UrsulaKLeGuin
+
+*quote:*	She turned and went on, with her massive, deliberate steps, crushing the frost-starred weeds under her heavy, sandaled feet, going to the white-pillared house of the Godking. The girl stood, slight and dark, as if frozen to earth, in the front courtyard of the Big House. Nobody moved, nothing moved, only Kossil, in all the vast landscape of court and temple, hill and desert plain and mountain.
+*source:*	The Books of Earthsea: The Complete Illustrated Edition
+*author:*	Ursula K. Le Guin
+*link:*	kindle://book?action=open&asin=B07CRN8NNG&location=4005
+*note:*	
+*tags:*	#sciencefiction #technology #TheBooksofEarthseaTheCompleteIllustratedEdition #UrsulaKLeGuin
+
+*quote:*	As she stumbled forward she cried out in her mind, which was as dark, as shaken as the subterranean vault, “Forgive me. O my Masters, O unnamed ones, most ancient ones, forgive me, forgive me!” There was no answer. There had never been an answer.
+*source:*	The Books of Earthsea: The Complete Illustrated Edition
+*author:*	Ursula K. Le Guin
+*link:*	kindle://book?action=open&asin=B07CRN8NNG&location=4306
+*note:*	
+*tags:*	#sciencefiction #technology #TheBooksofEarthseaTheCompleteIllustratedEdition #UrsulaKLeGuin
+
+*quote:*	“Summon up a supper,” he said. “Oh, I could. On golden plates, if you like. But that’s illusion, and when you eat illusions you end up hungrier than before. It’s about as nourishing as eating your own words.”
+*source:*	The Books of Earthsea: The Complete Illustrated Edition
+*author:*	Ursula K. Le Guin
+*link:*	kindle://book?action=open&asin=B07CRN8NNG&location=4399
+*note:*	
+*tags:*	#sciencefiction #technology #TheBooksofEarthseaTheCompleteIllustratedEdition #UrsulaKLeGuin
+
+*quote:*	And Tenar listened to the sea, a few yards below the cave mouth, crashing and sucking and booming on the rocks, and the thunder of it down the beach eastward for miles. Over and over and over it made the same sounds, yet never quite the same. It never rested. On all the shores of all the lands in all the world, it heaved itself in these unresting waves, and never ceased, and never was still. The desert, the mountains: they stood still. They did not cry out forever in a great, dull voice. The sea spoke forever, but its language was foreign to her. She did not understand.
+*source:*	The Books of Earthsea: The Complete Illustrated Edition
+*author:*	Ursula K. Le Guin
+*link:*	kindle://book?action=open&asin=B07CRN8NNG&location=4522
+*note:*	
+*tags:*	#sciencefiction #technology #TheBooksofEarthseaTheCompleteIllustratedEdition #UrsulaKLeGuin
+
+*quote:*	What she had begun to learn was the weight of liberty. Freedom is a heavy load, a great and strange burden for the spirit to undertake. It is not easy. It is not a gift given, but a choice made, and the choice may be a hard one. The road goes upward toward the light; but the laden traveler may never reach the end of it.
+*source:*	The Books of Earthsea: The Complete Illustrated Edition
+*author:*	Ursula K. Le Guin
+*link:*	kindle://book?action=open&asin=B07CRN8NNG&location=4575
+*note:*	
+*tags:*	#sciencefiction #technology #TheBooksofEarthseaTheCompleteIllustratedEdition #UrsulaKLeGuin
+
+*quote:*	Now came the great, improbable impetus to the book: a road trip to southeastern Oregon, our first visit to Harney County, a high and lonesome land of mountains and great sagebrush plains, of pure skies, far distances, and silence. Coming back from there, after a two-day, weary, dusty drive with our three kids, I knew my novel would be set in that desert. In the car, when we weren’t playing Signs Alphabet or singing “Forty-Nine Bottles,” I began to dream my story. That land had given it to me. I am forever grateful.
+*source:*	The Books of Earthsea: The Complete Illustrated Edition
+*author:*	Ursula K. Le Guin
+*link:*	kindle://book?action=open&asin=B07CRN8NNG&location=4678
+*note:*	
+*tags:*	#sciencefiction #technology #TheBooksofEarthseaTheCompleteIllustratedEdition #UrsulaKLeGuin
+
+*quote:*	In The Tombs of Atuan, the Old Powers, the Nameless Ones, appear as mysterious, ominous, and yet inactive. Arha/Tenar is their priestess, the greatest of all priestesses, whom the Godking himself is supposed to obey: But what is her realm? A prison in the desert. Women guarded by eunuchs. Ancient tombstones, a half-ruined temple, an empty throne. A fearful underground labyrinth where prisoners are left to die of starvation and thirst, where only she can walk the maze, where light must never come. She rules a dark, empty, useless realm. Her power imprisons her.
+*source:*	The Books of Earthsea: The Complete Illustrated Edition
+*author:*	Ursula K. Le Guin
+*link:*	kindle://book?action=open&asin=B07CRN8NNG&location=4711
+*note:*	
+*tags:*	#sciencefiction #technology #TheBooksofEarthseaTheCompleteIllustratedEdition #UrsulaKLeGuin
+
+*quote:*	SCIENCE FICTION IS OFTEN DESCRIBED, AND EVEN DEFINED, AS extrapolative. The science fiction writer is supposed to take a trend or phenomenon of the here-and-now, purify it and intensify it for dramatic effect, and extend it into the future. ‘If this goes on, this is what will happen.’ A prediction is made. Method and results much resemble those of a scientist who feeds large doses of a purified and concentrated food additive to mice, in order to predict what may happen to people who eat it in small quantities for a long time. The outcome seems almost inevitably to be cancer. So does the outcome of extrapolation.
+*source:*	The Left Hand of Darkness: A groundbreaking feminist literary masterpiece (S.F. MASTERWORKS Book 172)
+*author:*	Ursula K. Le Guin
+*link:*	kindle://book?action=open&asin=B01NCU4VNT&location=185
+*note:*	
+*tags:*	#sciencefiction #technology #TheLeftHandofDarknessAgroundbreakingfeministliterarymasterpieceSFMASTERWORKSBook172 #UrsulaKLeGuin
+
+*quote:*	I talk about the gods; I am an atheist. But I am an artist too, and therefore a liar. Distrust everything I say. I am telling the truth. The only truth I can understand or express is, logically defined, a lie. Psychologically defined, a symbol. Aesthetically defined, a metaphor.
+*source:*	The Left Hand of Darkness: A groundbreaking feminist literary masterpiece (S.F. MASTERWORKS Book 172)
+*author:*	Ursula K. Le Guin
+*link:*	kindle://book?action=open&asin=B01NCU4VNT&location=232
+*note:*	
+*tags:*	#sciencefiction #technology #TheLeftHandofDarknessAgroundbreakingfeministliterarymasterpieceSFMASTERWORKSBook172 #UrsulaKLeGuin
+
+*quote:*	Therem Harth rem ir Estraven.
+*source:*	The Left Hand of Darkness: A groundbreaking feminist literary masterpiece (S.F. MASTERWORKS Book 172)
+*author:*	Ursula K. Le Guin
+*link:*	kindle://book?action=open&asin=B01NCU4VNT&location=315
+*note:*	
+*tags:*	#sciencefiction #technology #TheLeftHandofDarknessAgroundbreakingfeministliterarymasterpieceSFMASTERWORKSBook172 #UrsulaKLeGuin
+
+*quote:*	He smiled again, and every tooth seemed to have a meaning, double, multiple, thirty-two different meanings.
+*source:*	The Left Hand of Darkness: A groundbreaking feminist literary masterpiece (S.F. MASTERWORKS Book 172)
+*author:*	Ursula K. Le Guin
+*link:*	kindle://book?action=open&asin=B01NCU4VNT&location=355
+*note:*	
+*tags:*	#sciencefiction #technology #TheLeftHandofDarknessAgroundbreakingfeministliterarymasterpieceSFMASTERWORKSBook172 #UrsulaKLeGuin
+
+*quote:*	when action grows unprofitable, gather information; when information grows unprofitable, sleep.
+*source:*	The Left Hand of Darkness: A groundbreaking feminist literary masterpiece (S.F. MASTERWORKS Book 172)
+*author:*	Ursula K. Le Guin
+*link:*	kindle://book?action=open&asin=B01NCU4VNT&location=759
+*note:*	
+*tags:*	#sciencefiction #technology #TheLeftHandofDarknessAgroundbreakingfeministliterarymasterpieceSFMASTERWORKSBook172 #UrsulaKLeGuin
+
+*quote:*	MY LANDLADY, A VOLUBLE MAN, ARRANGED MY JOURney into the East.
+*source:*	The Left Hand of Darkness: A groundbreaking feminist literary masterpiece (S.F. MASTERWORKS Book 172)
+*author:*	Ursula K. Le Guin
+*link:*	kindle://book?action=open&asin=B01NCU4VNT&location=811
+*note:*	
+*tags:*	#sciencefiction #technology #TheLeftHandofDarknessAgroundbreakingfeministliterarymasterpieceSFMASTERWORKSBook172 #UrsulaKLeGuin
+
+*quote:*	constant radio touch with checkpoints along the way. It all moves along, however crowded, quite steadily at the rate of 25 miles per hour (Terran). Gethenians could make their vehicles go faster, but they do not. If asked why not, they answer “Why?” Like asking Terrans why all our vehicles must go so fast; we answer “Why not?” No disputing tastes.
+*source:*	The Left Hand of Darkness: A groundbreaking feminist literary masterpiece (S.F. MASTERWORKS Book 172)
+*author:*	Ursula K. Le Guin
+*link:*	kindle://book?action=open&asin=B01NCU4VNT&location=846
+*note:*	
+*tags:*	#sciencefiction #technology #TheLeftHandofDarknessAgroundbreakingfeministliterarymasterpieceSFMASTERWORKSBook172 #UrsulaKLeGuin
+
+*quote:*	“Yes. There’s really only one question that can be answered, Genry, and we already know the answer.... The only thing that makes life possible is permanent, intolerable uncertainty: not knowing what comes next.”
+*source:*	The Left Hand of Darkness: A groundbreaking feminist literary masterpiece (S.F. MASTERWORKS Book 172)
+*author:*	Ursula K. Le Guin
+*link:*	kindle://book?action=open&asin=B01NCU4VNT&location=1111
+*note:*	
+*tags:*	#sciencefiction #technology #TheLeftHandofDarknessAgroundbreakingfeministliterarymasterpieceSFMASTERWORKSBook172 #UrsulaKLeGuin
+
+*quote:*	“Is he a threat to us, this Envoy?” “I think not. He brings from his people offers of communication, trade, treaty, and alliance, nothing else. He came alone, without arms or defense, with nothing but a communicating device, and his ship, which he allowed us to examine completely. He is not to be feared, I think. Yet he brings the end of Kingdom and Commensalities with him in his empty hands.”
+*source:*	The Left Hand of Darkness: A groundbreaking feminist literary masterpiece (S.F. MASTERWORKS Book 172)
+*author:*	Ursula K. Le Guin
+*link:*	kindle://book?action=open&asin=B01NCU4VNT&location=1293
+*note:*	
+*tags:*	#sciencefiction #technology #TheLeftHandofDarknessAgroundbreakingfeministliterarymasterpieceSFMASTERWORKSBook172 #UrsulaKLeGuin
+
+*quote:*	Consider: Anyone can turn his hand to anything. This sounds very simple, but its psychological effects are incalculable. The fact that everyone between seventeen and thirty-five or so is liable to be (as Nim put it) “tied down to childbearing,” implies that no one is quite so thoroughly “tied down” here as women, elsewhere, are likely to be—psychologically or physically. Burden and privilege are shared out pretty equally; everybody has the same risk to run or choice to make. Therefore nobody here is quite so free as a free male anywhere else. Consider: A child has no psycho-sexual relationship to his mother and father. There is no myth of Oedipus on Winter. Consider: There is no unconsenting sex, no rape. As with most mammals other than man, coitus can be performed only by mutual invitation and consent; otherwise it is not possible. Seduction certainly is possible, but it must have to be awfully well timed. Consider: There is no division of humanity into strong and weak halves, protective/protected, dominant/submissive, owner/chattel, active/passive. In fact the whole tendency to dualism that pervades human thinking may be found to be lessened, or changed, on Winter.
+*source:*	The Left Hand of Darkness: A groundbreaking feminist literary masterpiece (S.F. MASTERWORKS Book 172)
+*author:*	Ursula K. Le Guin
+*link:*	kindle://book?action=open&asin=B01NCU4VNT&location=1377
+*note:*	
+*tags:*	#sciencefiction #technology #TheLeftHandofDarknessAgroundbreakingfeministliterarymasterpieceSFMASTERWORKSBook172 #UrsulaKLeGuin
+
+*quote:*	They do not see one another as men or women. This is almost impossible for our imagination to accept. What is the first question we ask about a newborn baby?
+*source:*	The Left Hand of Darkness: A groundbreaking feminist literary masterpiece (S.F. MASTERWORKS Book 172)
+*author:*	Ursula K. Le Guin
+*link:*	kindle://book?action=open&asin=B01NCU4VNT&location=1389
+*note:*	
+*tags:*	#sciencefiction #technology #TheLeftHandofDarknessAgroundbreakingfeministliterarymasterpieceSFMASTERWORKSBook172 #UrsulaKLeGuin
+
+*quote:*	To learn which questions are unanswerable, and not to answer them: this skill is most needful in times of stress and darkness.
+*source:*	The Left Hand of Darkness: A groundbreaking feminist literary masterpiece (S.F. MASTERWORKS Book 172)
+*author:*	Ursula K. Le Guin
+*link:*	kindle://book?action=open&asin=B01NCU4VNT&location=2083
+*note:*	
+*tags:*	#sciencefiction #technology #TheLeftHandofDarknessAgroundbreakingfeministliterarymasterpieceSFMASTERWORKSBook172 #UrsulaKLeGuin
+
+*quote:*	“Stole it,” said the one-time prime minister of Karhide,
+*source:*	The Left Hand of Darkness: A groundbreaking feminist literary masterpiece (S.F. MASTERWORKS Book 172)
+*author:*	Ursula K. Le Guin
+*link:*	kindle://book?action=open&asin=B01NCU4VNT&location=2708
+*note:*	
+*tags:*	#sciencefiction #technology #TheLeftHandofDarknessAgroundbreakingfeministliterarymasterpieceSFMASTERWORKSBook172 #UrsulaKLeGuin
+
+*quote:*	Eskichwe rem ir Her hypothesized that the volcanic activity in N.W. Orgoreyn and the Archipelago has been increasing during the last ten or twenty millennia, and presages the end of the Ice, or at least a recession of it and an interglacial period. CO2 released by the volcanoes into the atmosphere will in time serve as an insulator, holding in the long-wave heat-energy reflected from the earth, while permitting direct solar heat to enter undiminished. The average world temperature, he says, would in the end be raised some thirty degrees, till it attains 72°. I am glad I shall not be present. Ai says that similar theories have been propounded by Terran scholars to explain the still incomplete recession of their last Age of Ice. All such theories remain largely irrefutable and unprovable; no one knows certainly why the ice comes, why it goes. The Snow of Ignorance remains untrodden.
+*source:*	The Left Hand of Darkness: A groundbreaking feminist literary masterpiece (S.F. MASTERWORKS Book 172)
+*author:*	Ursula K. Le Guin
+*link:*	kindle://book?action=open&asin=B01NCU4VNT&location=2952
+*note:*	
+*tags:*	#sciencefiction #technology #TheLeftHandofDarknessAgroundbreakingfeministliterarymasterpieceSFMASTERWORKSBook172 #UrsulaKLeGuin
+
+*quote:*	Some who have read the book, or at any rate have reviewed it, have found it boring, absurd, or contemptible; and I have no cause to complain, since I have similar opinions of their works, or of the kinds of writing that they evidently prefer.
+*source:*	The Lord of the Rings: The Classic Bestselling Fantasy Novel
+*author:*	J. R. R. Tolkien
+*link:*	kindle://book?action=open&asin=B093KH5GSS&location=191
+*note:*	
+*tags:*	#sciencefiction #technology #TheLordoftheRingsTheClassicBestsellingFantasyNovel #JRRTolkien
+
+*quote:*	But I cordially dislike allegory in all its manifestations, and always have done so since I grew old and wary enough to detect its presence. I much prefer history, true or feigned, with its varied applicability to the thought and experience of readers. I think that many confuse ‘applicability’ with ‘allegory’; but the one resides in the freedom of the reader, and the other in the purposed domination of the author.
+*source:*	The Lord of the Rings: The Classic Bestselling Fantasy Novel
+*author:*	J. R. R. Tolkien
+*link:*	kindle://book?action=open&asin=B093KH5GSS&location=209
+*note:*	
+*tags:*	#sciencefiction #technology #TheLordoftheRingsTheClassicBestsellingFantasyNovel #JRRTolkien
+
+*quote:*	Bombur was now so fat that he could not move himself from his couch to his chair at table, and it took six young dwarves to lift him.
+*source:*	The Lord of the Rings: The Classic Bestselling Fantasy Novel
+*author:*	J. R. R. Tolkien
+*link:*	kindle://book?action=open&asin=B093KH5GSS&location=4422
+*note:*	
+*tags:*	#sciencefiction #technology #TheLordoftheRingsTheClassicBestsellingFantasyNovel #JRRTolkien
+
+*quote:*	They entered the circle of white trees. As they did so the South Wind blew upon Cerin Amroth and sighed among the branches. Frodo stood still, hearing far off great seas upon beaches that had long ago been washed away, and sea-birds crying whose race had perished from the earth.
+*source:*	The Lord of the Rings: The Classic Bestselling Fantasy Novel
+*author:*	J. R. R. Tolkien
+*link:*	kindle://book?action=open&asin=B093KH5GSS&location=6713
+*note:*	
+*tags:*	#sciencefiction #technology #TheLordoftheRingsTheClassicBestsellingFantasyNovel #JRRTolkien
+
+*quote:*	At last they reached the crest of the grey hill, and a sudden breeze blew in their hair and stirred their cloaks: the chill wind of dawn.
+*source:*	The Lord of the Rings: The Classic Bestselling Fantasy Novel
+*author:*	J. R. R. Tolkien
+*link:*	kindle://book?action=open&asin=B093KH5GSS&location=7944
+*note:*	
+*tags:*	#sciencefiction #technology #TheLordoftheRingsTheClassicBestsellingFantasyNovel #JRRTolkien
+
+*quote:*	A queer half-knowing, half-humorous look came with a green flicker into his eyes. ‘For one thing it would take a long while: my name is growing all the time, and I’ve lived a very long, long time; so my name is like a story. Real names tell you the story of the things they belong to in my language, in the Old Entish as you might say. It is a lovely language, but it takes a very long time to say anything in it, because we do not say anything in it, unless it is worth taking a long time to say, and to listen to.
+*source:*	The Lord of the Rings: The Classic Bestselling Fantasy Novel
+*author:*	J. R. R. Tolkien
+*link:*	kindle://book?action=open&asin=B093KH5GSS&location=8750
+*note:*	
+*tags:*	#sciencefiction #technology #TheLordoftheRingsTheClassicBestsellingFantasyNovel #JRRTolkien
+
+*quote:*	I am not altogether on anybody’s side, because nobody is altogether on my side, if you understand me: nobody cares for the woods as I care for them, not even Elves nowadays.
+*source:*	The Lord of the Rings: The Classic Bestselling Fantasy Novel
+*author:*	J. R. R. Tolkien
+*link:*	kindle://book?action=open&asin=B093KH5GSS&location=8890
+*note:*	
+*tags:*	#sciencefiction #technology #TheLordoftheRingsTheClassicBestsellingFantasyNovel #JRRTolkien
+
+*quote:*	They were come to the feet of the Misty Mountains, and the long arms of Nan Curunír stretched down to meet them.
+*source:*	The Lord of the Rings: The Classic Bestselling Fantasy Novel
+*author:*	J. R. R. Tolkien
+*link:*	kindle://book?action=open&asin=B093KH5GSS&location=10374
+*note:*	
+*tags:*	#sciencefiction #technology #TheLordoftheRingsTheClassicBestsellingFantasyNovel #JRRTolkien
+
+*quote:*	‘You do not know your danger, Théoden,’ interrupted Gandalf. ‘These hobbits will sit on the edge of ruin and discuss the pleasures of the table, or the small doings of their fathers, grandfathers, and great-grandfathers, and remoter cousins to the ninth degree, if you encourage them with undue patience. Some other time would be more fitting for the history of smoking. Where is Treebeard, Merry?’
+*source:*	The Lord of the Rings: The Classic Bestselling Fantasy Novel
+*author:*	J. R. R. Tolkien
+*link:*	kindle://book?action=open&asin=B093KH5GSS&location=10488
+*note:*	
+*tags:*	#sciencefiction #technology #TheLordoftheRingsTheClassicBestsellingFantasyNovel #JRRTolkien
+
+*quote:*	Personal Narrative of Travels to the Equinoctial Regions of the New Continent
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=389
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	In terms of useful connections to be made in Britain before going out to Singapore, Sir James Brooke (1803–68) ranked high. Brooke, known colloquially as the ‘White Rajah of Sarawak’, had parlayed an enterprising form of private gunboat diplomacy into his own fiefdom, Sarawak, north Borneo. Brooke promised Wallace whatever assistance he might need in Sarawak and proved a pillar of support during the first phase of Wallace’s travels.
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=493
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	Of all the eventful days of my life my first in Alexandria was the most striking. Imagine my feelings when, coming out of the hotel (whither I have been conveyed in an omnibus) for the purpose of taking a quiet stroll through the city, I found myself in the midst of a vast crowd of donkeys and their drivers, all thoroughly determined to appropriate my person to their own use and interest, without in the least consulting my inclinations. In vain with rapid strides and waving arms I endeavoured to clear a way and move forward; arms and legs were seized upon, and even the Christian coat-tails were not sacred from the profane Mahometans. One would hold together two donkeys by their tails while I was struggling between them, and another, forcing together their heads, would thus hope to compel me to mount upon one or both of them; and one fellow more impudent than the rest I laid flat upon the ground, and sending the donkey staggering after him, I escaped a moment midst hideous yells and most unearthly cries. I now beckoned to a fellow more sensible-looking than the rest, and told him that I wished to walk, and would take him for a guide, and hoped now to be at rest; but vain thought! I was in the hands of the Philistines, and getting us up against a wall, they formed an impenetrable phalanx of men and brutes thoroughly determined that I should only get away from the spot on the legs of a donkey. Bethinking myself now that donkey-riding was a national institution, and seeing a fat Yankee … mounted, being like myself hopeless of any other means of escape, I seized upon a bridle in hopes that I should then be left in peace. But this was the signal for a more furious onset, for, seeing that I would at length ride, each one was determined that he alone should profit by the transaction, and a dozen animals were forced suddenly upon me and a dozen hands tried to lift me upon their respective beasts. But now my patience was exhausted, so, keeping firm hold of the bridle I had first taken with one hand, I hit right and left with the other, and calling, upon my guide to do the same, we succeeded in clearing a little space around us. Now then behold your friend mounted upon a jackass in the streets of Alexandria, a boy behind holding by his tail and whipping him up, Charles (who had been lost sight of in the crowd) upon another, and my guide upon a third, and off we go among a crowd of Jews and Greeks, Turks and Arabs, and veiled women and yelling donkey-boys to see the city. We saw the bazaars and the slave market, where I was again nearly pulled to pieces for ‘backsheesh’ (money), the mosques with their elegant minarets, and then the Pasha’s new palace, the interior of which is most gorgeous … You may think this account is exaggerated, but it is not; the pertinacity, vigour and screams of the Alexandrian donkey-drivers no description can do justice to.
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=546
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	The great contrast between the two divisions of the Archipelago is nowhere so abruptly exhibited as on passing from the island of Bali to that of Lombock, where the two regions are in closest proximity. In Bali we have barbets, fruit-thrushes, and woodpeckers; on passing over to Lombock these are seen no more, but we have abundance of cockatoos, honeysuckers, and brush-turkeys, which are equally unknown in Bali, or any island further west. The strait is here fifteen miles wide, so that we may pass in two hours from one great division of the earth to another, differing as essentially in their animal life as Europe does from America.
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=594
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	The standard ‘natural theological’ argument of the day, which saw evidence of divine design in nature, suggested that regions with matching climates should be inhabited by matching sets of plants and animals. ‘Design’ alone, then, could not account for what Wallace saw. Historical factors – both biological (evolutionary) and geological ones – must therefore play central rôles. Wallace’s conclusions have been resoundingly endorsed by modern geology: the Australasian and Asian regions are on different tectonic plates, which, previously widely separated, have converged. The proximity of Bali and Lombok is a geologically recent event; the biological discontinuity between them is thus the legacy of the ancient geological past.
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=622
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	Bonaparte’s ‘Conspectus,’
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=639
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	Wallace had recognized that change occurs in nature from generation to generation; what he still lacked was a mechanism that would entrain that change to produce adaptation – the fit of an organism to its environment.
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=655
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	Wallace hoped that his short and strongly worded paper would stir up controversy in London. His heretical ideas would, he dreamt, elevate him in the eyes of his colleagues from mere collector to scientist. But he was to be disappointed. Even Darwin, who had already been working on his theory for more than fifteen years and was therefore perfectly positioned to appreciate the significance of Wallace’s paper, was initially unmoved. In fact, the first feedback Wallace received was from Stevens. ‘Soon after this article appeared, Mr. Stevens wrote me that he had heard several naturalists express regret that I was “theorizing,” when what we had to do was to collect more facts.’
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=657
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	Now, the new idea or principle which Darwin had arrived at twenty years before, and which occurred to me at this time, answers all these questions and solves all these
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=700
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	The table showing the numbers of moths caught in Borneo on nights of differing weather conditions illustrates this well. Wallace’s conclusion, ‘that on twenty-six nights I collected 1,386 moths, but that more than 800 of them were collected on four very wet and dark nights’, is unlikely to prompt a career change in the general reader.
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=772
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	Collecting mores differed from our day. That a species was rare – in today’s language, endangered – was more of an inducement to collect it than the opposite. It is difficult, with our modern sensibilities, to read Wallace’s account of the brutal killing of a particularly resilient orang-utan.
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=820
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	But insects were not the only problem.
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=853
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	That Wallace and his assistants succeeded in making any significant collections at all under the conditions is remarkable;
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=860
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	he was a weak swimmer.
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=877
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	The first edition of Wallace’s Amazon book included an appendix of common words rendered phonetically in a dozen or so Amerindian languages
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=916
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	David Livingstone
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=1002
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	At early morn, before the sun has risen, we hear a loud cry of ‘Wawk—wawk—wawk, wŏk—wŏk—wŏk,’ which resounds through the forest, changing its direction continually. This is the Great Bird of Paradise going to seek his breakfast. Others soon follow his example; lories and parroquets cry shrilly, cockatoos scream, king-hunters croak and bark, and the various smaller birds chirp and whistle their morning song. As I lie listening to these interesting sounds, I realize my position as the first European who has ever lived for months together in the Aru islands, a place which I had hoped rather than expected ever to visit.
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=1034
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	Wallace, by contrast, wrote from Sarawak in 1855 that ‘The more I see of uncivilized people, the better I think of human nature on the whole, and the essential differences between civilized and savage man seem to disappear.’
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=1128
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	lines of Horace,
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=1134
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	green-winged Ornithoptera
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=1229
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	One of the chief volcanic belts upon the globe passes through the Archipelago, and produces a striking contrast in the scenery of the volcanic and non-volcanic islands.
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=1265
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	It is certainly a wonderful and unexpected fact, that an accurate knowledge of the distribution of birds and insects should enable us to map out lands and continents which disappeared beneath the ocean long before the earliest traditions of the human race. Wherever the geologist can explore the earth’s surface, he can read much of its past history, and can determine approximately its latest movements above and below the sea-level; but wherever oceans and seas now extend, he can do nothing but speculate on the very limited data afforded by the depth of the waters. Here the naturalist steps in, and enables him to fill up this great gap in the past history of the earth.
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=1480
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	Few places are more interesting to a traveller from Europe than the town and island of Singapore,
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=1514
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	The government, the garrison, and the chief merchants are English; but the great mass of the population is Chinese, including some of the wealthiest merchants, the agriculturists of the interior, and most of the mechanics and labourers.
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=1515
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	The native Malays are usually fishermen and boatmen, and they form the main body of the police. The Portuguese of Malacca supply a large number of the clerks and smaller merchants. The Klings of Western India are a numerous body of Mahometans, and, with many Arabs, are petty merchants and shopkeepers. The grooms and washermen are all Bengalees, and there is a small but highly respectable class of Parsee merchants. Besides these, there are numbers of Javanese sailors and domestic servants, as well as traders from Celebes, Bali, and many other islands of the Archipelago.
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=1517
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	The barbers have plenty to do, shaving heads and cleaning ears; for which latter operation they have a great array of little tweezers, picks, and brushes.
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=1537
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	All about the streets are sellers of water, vegetables, fruit, soup, and agar-agar (a jelly made of seaweed),
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=1541
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	In the interior of the island the Chinese cut down forest trees in the jungle, and saw them up into planks; they cultivate vegetables, which they bring to market; and they grow pepper and gambir, which form important articles of export.
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=1544
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	I lived for several weeks at a time with the missionary at Bukit-tima, about the centre of the island, where a pretty church has been built and there are about 300 converts.
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=1546
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	Here and there, too, were tiger pits, carefully covered over with sticks and leaves, and so well concealed, that in several cases I had a narrow escape from falling into them.
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=1567
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	There are always a few tigers roaming about Singapore, and they kill on an average a Chinaman every day, principally those who work in the gambir plantations, which are always made in newly-cleared jungle. We heard a tiger roar once or twice in the evening, and it was rather nervous work hunting for insects among the fallen trunks and old sawpits, when one of these savage animals might be lurking close by, waiting an opportunity to spring upon us.
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=1570
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	The vegetation was most luxuriant, comprising enormous forest trees, as well as a variety of ferns, caladiums, and other undergrowth, and abundance of climbing rattan palms. Insects were exceedingly abundant and very interesting, and every day furnished scores of new and curious forms.
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=1575
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	This exceeding productiveness was due in part no doubt to some favourable conditions in the soil, climate, and vegetation, and to the season being very bright and sunny, with sufficient showers to keep everything fresh. But it was also in a great measure dependent, I feel sure, on the labours of the Chinese wood-cutters. They had been at work here for several years, and during all that time had furnished a continual supply of dry and dead and decaying leaves and bark, together with abundance of wood and sawdust, for the nourishment of insects and their larvæ. This had led to the assemblage of a great variety of species in a limited space, and I was the first naturalist who had come to reap the harvest they had prepared.
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=1580
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	Birds and most other kinds of animals being scarce at Singapore,
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=1589
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	There would be in this place a much greater number of Portuguese if it were not for the inconvenience, and unhealthiness of the air, which is hurtful not only to strangers, but also to natives of the country. Thence it is that all who live in the country pay tribute of their health, suffering from a certain disease, which makes them lose either their skin or their hair.
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=1600
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	(Cymbirhynchus macrorhynchus),
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=1632
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	(Megalæma versicolor)—fruit-eating
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=1636
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	(Calyptomena viridis),
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=1638
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	rhododendrons
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=1695
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	The tiger and rhinoceros are still found here, and a few years ago elephants abounded, but they have lately all disappeared. We found some heaps of dung, which seemed to be that of elephants, and some tracks of the rhinoceros, but saw none of the animals.
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=1710
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	Sir James Brooke,*
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=1725
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	Along these the bare-footed natives walk and carry heavy burdens with the greatest ease, but to a booted European it is very slippery work, and when one’s attention is constantly attracted by the various objects of interest around, a few tumbles into the bog are almost inevitable.
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=1736
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	was at first kindly accommodated in Mr. Coulson’s house, but finding the spot very suitable for me and offering great facilities for collecting, I had a small house of two rooms and a verandah built for myself. Here I remained nearly nine months,
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=1741
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	On one day I collected 76 different kinds, of which 34 were new to me. By the end of April I had more than a thousand species, and they then went on increasing at a slower rate; so that I obtained altogether in Borneo about two thousand distinct kinds, of which all but about a hundred were collected at this place,
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=1761
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	Flying frog
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=1789
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	Gymnurus Rafflesii,
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=1792
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	all these objects I succeeded beyond my expectations, and will now give some account of my experience in hunting the Orang-utan, or ‘Mias,’ as it is called by the natives; and as this name is short, and easily pronounced, I shall generally use it in preference to Simia satyrus, or Orang-utan.
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=1795
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	time, so I called them to accompany me, and started off, telling Charley to bring all the ammunition after me as soon as possible.
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=1897
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	Mias did not wait for him to get near, moving off to another tree, where he got on to a dense mass of branches and creepers which almost completely hid him from our view.
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=1924
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	long-nosed monkey
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=1993
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	It is a singular and very interesting sight to watch a Mias making his way leisurely through the forest.
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=2085
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	The first of whom I inquired said: ‘No animal is strong enough to hurt the Mias, and the only creature he ever fights with is the crocodile. When there is no fruit in the jungle, he goes to seek food on the banks of the river, where there are plenty of young shoots that he likes, and fruits that grow close to the water. Then the crocodile sometimes tries to seize him, but the Mias gets upon him, and beats him with his hands and feet, and tears him and kills him.’ He added that he had once seen such a fight, and that he believes that the Mias is always the victor.
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=2116
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	‘The Mias has no enemies; no animals dare attack it but the crocodile and the python. He always kills the crocodile by main strength, standing upon it, pulling open its jaws, and ripping up its throat. If a python attacks a Mias, he seizes it with his hands, and then bites it, and soon kills it. The Mias is very strong; there is no animal in the jungle so strong as he.’
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=2121
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	Sádong River,
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=2174
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	Sádong Dyaks, with whom he had traded. We left
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=2175
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	He lived in a large and well-built house, very dirty outside and in, and was very inquisitive about my business, and particularly about the coal mines. These puzzle the natives exceedingly, as they cannot understand the extensive and costly preparations for working coal, and cannot believe it is to be used only as fuel when wood is so abundant and so easily obtained.
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=2177
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	the ‘head-house,’—a circular building attached to most Dyak villages, and serving as a lodging for strangers, the place for trade, the sleeping-room of the unmarried youths, and the general council-chamber.
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=2194
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	the Dyaks with a great deal of their food. The Mangosteen, Lansat, Rambutan, Jack, Jambou, and Blimbing, are all abundant; but most abundant and most esteemed is the Durian, a fruit about which very little is known in England, but which both by natives and Europeans in the Malay Archipelago is reckoned superior to all others.
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=2320
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	The Durian grows on a large and lofty forest tree, somewhat resembling an elm in its general character, but with a more smooth and scaly bark. The fruit is round or slightly oval, about the size of a large cocoanut, of a green colour, and covered all over with short stout spines the bases of which touch each other, and are consequently somewhat hexagonal, while the points are very strong and sharp. It is so completely armed, that if the stalk is broken off it is a difficult matter to lift one from the ground. The outer rind is so thick and tough, that from whatever height it may fall it is never broken. From the base to the apex five very faint lines may be traced, over which the spines arch a little; these are the sutures of the carpels, and show where the fruit may be divided with a heavy knife and a strong hand. The five cells are satiny white within, and are each filled with an oval mass of cream-coloured pulp, imbedded in which are two or three seeds about the size of chestnuts. This pulp is the eatable part, and its consistence and flavour are indescribable. A rich butter-like custard highly flavoured with almonds gives the best general idea of it, but intermingled with it come wafts of flavour that call to mind cream-cheese, onion-sauce, brown sherry, and other incongruities. Then there is a rich glutinous smoothness in the pulp which nothing else possesses, but which adds to its delicacy. It is neither acid, nor sweet, nor juicy, yet one feels the want of none of these qualities, for it is perfect as it is. It produces no nausea or other bad effect, and the more you eat of it the less you feel inclined to stop. In fact to eat Durians is a new sensation, worth a voyage to the East to experience.
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=2328
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	If I had to fix on two only, as representing the perfection of the two classes, I should certainly choose the Durian and the Orange as the king and queen of fruits.
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=2347
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	Poets and moralists, judging from our English trees and fruits, have thought that small fruits always grew on lofty trees, so that their fall should be harmless to man, while the large ones trailed on the ground. Two of the largest and heaviest fruits known, however, the Brazil-nut fruit (Bertholletia) and Durian, grow on lofty forest trees, from which they fall as soon as they are ripe, and often wound or kill the native inhabitants. From this we may learn two things: first, not to draw general conclusions from a very partial view of nature; and secondly, that trees and fruits, no less than the varied productions of the animal kingdom, do not appear to be organized with exclusive reference to the use and convenience of man.
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=2353
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	This method is constantly used in order to obtain wax, which is one of the most valuable products of the country.
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=2397
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	Nepenthes rajah,
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=2421
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	Sir James Brooke’s
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=2453
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	even in civilized countries half the population die before the age of twenty-five,
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=2587
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	Northern Celebes,
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=2639
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	Chandi Kali Bening,
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=2792
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	trachytic rock,
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=2811
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	The common jungle-cock (Gallus bankiva) was also obtained here. It is almost exactly like a common game-cock, but the voice is different, being much shorter and more abrupt; whence its native name is Bekéko.
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=2847
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	Loriculus pusillus,
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=2849
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	A few days afterwards I went by steamer to Batavia, where I stayed about a week at the chief hotel, while I made arrangements for a trip into the interior. The business part of the city is near the harbour, but the hotels and all the residences of the officials and European merchants are in a suburb two miles off, laid out in wide streets and squares so as to cover a great extent of ground. This is very inconvenient for visitors, as the only public conveyances are handsome two-horse carriages, whose lowest charge is five guilders (8s. 4d.) for half a day, so that an hour’s business in the morning and a visit in the evening costs 16s. 8d. a day for carriage hire alone. Batavia agrees very well with Mr. Money’s graphic account of it, except that his ‘clear canals’ were all muddy, and his ‘smooth gravel drives’ up to the houses were one and all formed of coarse pebbles, very painful to walk upon, and hardly explained by the fact that in Batavia everybody drives, as it can hardly be supposed that people never walk in their gardens.
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=2863
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	minivet flycatcher
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=2910
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	black and crimson oriole
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=2911
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	Royal Cowslip
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=2966
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	(Turdus fumidus).
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=3019
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	long-tailed parroquet
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=3062
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	The road is divided into regular stages, of ten or twelve miles each, and, without sending on in advance to have coolies ready, only this distance can be travelled in a day. At each station there are houses for the accommodation of passengers, with cooking-house and stables, and six or eight men always on guard. There is an established system for coolies at fixed rates, the inhabitants of the surrounding villages all taking their turn to be subject to coolie service, as well as that of guards at the station for five days at a time.
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=3066
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	Lobo Raman
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=3107
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	To illustrate these phenomena, let us suppose a roaming Englishman in some remote island to have two wives—one a black-haired red-skinned Indian, the other a woolly-headed sooty-skinned negress; and that instead of the children being mulattoes of brown or dusky tints, mingling the characteristics of each parent in varying degrees, all the boys should be as fair-skinned and blue-eyed as their father, while the girls should altogether resemble their mothers.
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=3137
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	I purchased a small one, which had been caught by the natives and tied up so tightly as to hurt it. It was rather savage at first, and tried to bite; but when we had released it and given it two poles under the verandah to hang upon, securing it by a short cord, running along the pole with a ring, so that it could move easily, it became more contented, and would swing itself about with great rapidity. It ate almost any kind of fruit and rice, and I was in hopes to have brought it to England, but it died just before I started. It took a dislike to me at first, which I tried to get over by feeding it constantly myself. One day, however, it bit me so sharply while giving it food, that I lost patience and gave it rather a severe beating, which I regretted afterwards, as from that time it disliked me more than ever. It would allow my Malay boys to play with it, and for hours together would swing by its arms from pole to pole and on to the rafters of the verandah, with so much ease and rapidity, that it was a constant source of amusement to us.
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=3190
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	Buceros bicornis,
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=3224
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	Gymnurus rafflesii.
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=3289
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	Although on the map Banca appears so close to Sumatra, this does not arise from its having been recently separated from it; for the adjacent district of Palembang is new land, being a great alluvial swamp formed by torrents from the mountains a hundred miles distant. Banca, on the other hand, agrees with Malacca, Singapore, and the intervening island of Lingen, in being formed of granite and laterite; and these have all most likely once formed an extension of the Malay peninsula.
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=3338
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	Argus pheasant,
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=3369
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	crested partridge
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=3370
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	(Psittinus incertus),
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=3370
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	great gaper
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=3371
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	(Corydon sumatranus),
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=3371
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	Crypsirhina varians,
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=3399
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	It was on the 13th of June, 1856, after a twenty days’ passage from Singapore in the ‘Kembang Djepoon’ (Rose of Japan), a schooner belonging to a Chinese merchant, manned by a Javanese crew, and commanded by an English captain, that we cast anchor in the dangerous roadstead of Bileling on the north side of the island of Bali.
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=3418
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	superb orioles
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=3480
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	(Oriolus broderpii)
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=3480
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	Tropidorhynchus timoriensis,
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=3481
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	Labuan Tring
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=3490
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	(Megapodius gouldii),
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=3502
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	Halcyon fulgidus.
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=3520
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	The most characteristic feature of the jungle was its thorniness. The shrubs were thorny; the creepers were thorny; the bamboos even were thorny. Everything grew zigzag and jagged, and in an inextricable tangle, so that to get through the bush with gun or net or even spectacles, was generally not to be done, and insect-catching in such localities was out of the question.
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=3539
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	My principal piece of furniture was a box, which served me as a dining-table, a seat while skinning birds, and as the receptacle of the birds when skinned and dried. To keep them free from ants we borrowed, with some difficulty, an old bench, the four legs of which being placed in cocoa-nut shells filled with water kept us tolerably free from these pests.
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=3561
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	At length, about an hour after noon, we reached our destination—the village of Coupang,
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=3655
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	Halcyon fulgidus,
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=3754
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	Zoothera andromeda.
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=3754
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	The aborigines of Lombock are termed Sassaks. They are a Malay race hardly differing in appearance from the people of Malacca or Borneo. They are Mahometans and form the bulk of the population. The ruling classes, on the other hand, are natives of the adjacent island of Bali, and are of the Brahminical religion.
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=3758
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	The only money the natives will take for their rice is Chinese copper cash, twelve hundred of which go to a dollar.
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=3803
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	Oeassa,
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=3958
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	Tropidorhynchus timorensis
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=3985
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	Cyornis hyacinthina;
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=3987
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	thus we went up and down, over bare hills whose surface was covered with small pebbles and scattered over with Eucalypti, reminding me of what I had read of parts of the interior of Australia rather than of the Malay Archipelago.
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=4023
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	The Portuguese government in Timor is a most miserable one. Nobody seems to care the least about the improvement of the country, and at this time, after three hundred years of occupation, there has not been a mile of road made beyond the town, and there is not a solitary European resident anywhere in the interior. All the Government officials oppress and rob the natives as much as they can, and yet there is no care taken to render the town defensible should the Timorese attempt to attack it.
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=4109
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	Gloriosa superba,
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=4140
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	(Apis dorsata),
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=4150
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	yellow-headed weaver
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=4199
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	(Ploceus hypoxantha),
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=4199
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	(Copsychus amœnus),
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=4200
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	(Sturnopastor jalla),
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=4200
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	Javanese three-toed woodpecker
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=4201
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	I do not think that Timor was ever actually connected with Australia, because such a large number of very abundant and characteristic groups of Australian birds are quite absent, and not a single Australian mammal has entered Timor; which would certainly not have been the case had the lands been actually united. Such groups as the bower birds (Ptilonorhynchus), the black and red cockatoos (Calyptorhynchus), the blue wrens (Malurus), the crowshrikes (Cracticus), the Australian shrikes (Falcunculus and Colluricincla), and many others, which abound all over Australia, would certainly have spread into Timor if it had been united to that country, or even if for any long time it had approached nearer to it than twenty miles. Neither do any of the most characteristic groups of Australian insects occur in Timor; so that everything combines to indicate that a strait of the sea has always separated it from Australia, but that at one period this strait was reduced to a width of about twenty miles.
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=4257
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	Some wine was then brought us, and afterwards some detestable coffee and wretched sweetmeats, for it is a fact that I have never tasted good coffee where people grow it themselves.
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=4371
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	Thousands of crows, rather smaller than our rook, keep up a constant cawing in these plantations; the curious wood-swallows (Artami), which closely resemble swallows in their habits and flight but differ much in form and structure, twitter from the tree-tops; while a lyre-tailed drongo-shrike, with brilliant black plumage and milk-white eyes, continually deceives the naturalist by the variety of its unmelodious notes.
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=4391
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	Not a single person in the village could speak more than a few words of Malay, and hardly any of the people appeared to have seen a European before. One most disagreeable result of this was, that I excited terror alike in man and beast. Wherever I went, dogs barked, children screamed, women ran away, and men stared as though I were some strange and terrible cannibal monster. Even the pack-horses on the roads and paths would start aside when I appeared and rush into the jungle; and as to those horrid, ugly brutes, the buffaloes, they could never be approached by me; not for fear of my own but of others’ safety. They would first stick out their necks and stare at me, and then on a nearer view break loose from their halters or tethers, and rush away helter-skelter as if a demon were after them, without any regard for what might be in their way. Whenever I met buffaloes carrying packs along a pathway, or being driven home to the village, I had to turn aside into the jungle and hide myself till they had passed, to avoid a catastrophe which would increase the dislike with which I was already regarded.
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=4503
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	The reader who is familiar with tropical nature only through the medium of books and botanical gardens, will picture to himself in such a spot many other natural beauties. He will think that I have unaccountably forgotten to mention the brilliant flowers, which, in gorgeous masses of crimson gold or azure, must spangle these verdant precipices, hang over the cascade, and adorn the margin of the mountain stream. But what is the reality? In vain did I gaze over these vast walls of verdure, among the pendant creepers and bushy shrubs, all around the cascade, on the river’s bank, or in the deep caverns and gloomy fissures,—not one single spot of bright colour could be seen, not one single tree or bush or creeper bore a flower sufficiently conspicuous to form an object in the landscape. In every direction the eye rested on green foliage and mottled rock.
+*source:*	The Malay Archipelago (Pocket Penguins)
+*author:*	Alfred Russel Wallace and Dr Andrew Berry
+*link:*	kindle://book?action=open&asin=B00OR0SYHK&location=4704
+*note:*	
+*tags:*	#sciencefiction #technology #TheMalayArchipelagoPocketPenguins #AlfredRusselWallaceandDrAndrewBerry
+
+*quote:*	The environments we create are often rich in resources for those that can exploit them. It might seem heretical to say this, but cities and farms provide some species with better habitat than anything natural, which they show by living in high densities. Like humans, brushtail possums, rainbow lorikeets and bluetongue lizards reach their peak densities in cities.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=70
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	One reason it is beneficial to focus on this is that many Australians are dismissive of any environmental crisis because they see parrots and other bold native birds thriving in cities around them. When the conservation message sounds too much like ‘nature is suffering’, it is easily shrugged off as exaggeration. To bring more Australians on board, the environment movement needs to talk more about winners – to ensure that its messages about losers are considered credible.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=73
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	In the Australian Alps, kookaburras reaching higher altitudes are preying on alpine lizards that fail to regard them as dangerous.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=87
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	The problems of climate change will very often come in the form of native species causing harm. The evidence for this is compelling: in Australia very few species have yet moved in response to warming but several are already problematic.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=93
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	white-chested white-eye
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=121
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	We hear so much these days about wildlife dying out, as if nature en masse were sliding down the drain. The truth is more interesting. Many native things are thriving by riding on our coat-tails. Seagulls, ravens, magpies, red-back spiders and bulrushes have never known better times. Their futures brightened when people came to the great south land.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=195
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	Losers as well as winners are moving in with us. Sydney has an endangered frog that supposedly benefits from heavy metals. Our toilet flushings sustain great hosts of birds and fish. We have engineered the earth to meet our needs, and many other species find their needs met too.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=206
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	Nature is sold to us as something separate that lives far away from us in wild places, when really it’s all around us, engaging with us more than we guess. The wilderness begins right here where we live. The ‘new nature’ is really the story of animals and plants responding to the latest environmental challenge – us.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=214
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	Swallows keep on pushing the boundaries. They have bred inside Rockhampton’s railway station, operating the doors by hovering before the sensors. This is a true story, properly documented.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=231
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	How else do we explain the remarkable night roosts of rainbow lorikeets? I know of one busy Brisbane intersection where hundreds of lorikeets sleep in a few scrawny trees, unfazed by roaring traffic, glaring supermarket lights, and blaring music from a nearby bar.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=246
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	What are these examples showing? That nature is more opportunistic than we think; that animals aren’t always fixed in their ways; that they will exploit the opportunities we provide. This certainly holds true for the birds that use the things we make.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=282
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	David Collins, an officer with the First Fleet, learned of a trick deployed by Sydney Aborigines: ‘A native stretched himself on a rock, as if asleep in the sun, holding a piece of fish in his hand. The bird – hawk or crow – seeing the prey, and not observing any motion in the native, pounced on the fish; and in the instant of seizing it was caught by the savage, who cooked it quickly on the fire, making a meal that for enjoyment might be envied by an epicure.’
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=353
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	greater honeyguide,
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=369
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	(Melomys rubicola),
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=400
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	Nature is not a separate domain hiding away in the wilderness. Animals and plants live all around us and exploit us when they can.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=422
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	Graham Pyke of the Australian Museum calls this animal an ‘endangered weed’. Once abundant in New South Wales, it is now an endangered species that is found mainly in unnatural settings.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=432
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	He calls the frog a weed because it behaves like one, appearing in large numbers where earth has been excavated.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=437
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	We left the paddock that day pondering its future. No-one has told the farmer that he owns one of the best remnants of grassland in southern Queensland. Probably no-one will. This is rural Australia. We don’t want him firing up his tractor and ploughing the past to dust.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=543
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	Hamilton’s remaining bandicoots are faring poorly. John Seebeek expects them to vanish soon. He blames certain urban trends – more cars and more houses on vacant land. ‘At Hamilton they’re also very heavily into tidy town-ness,’ he said. ‘So there’s not the ready availability of easy cover that there was.’ Gardens are becoming neater and the fringes of town less weedy.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=566
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	These days they depend upon incendiary devices spat out of planes.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=621
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	Explorer Dirk Hartog summed matters up in 1616. ‘This land is cursed,’ he wrote, ‘the animals hop, not run, the birds run, not fly, and the swans are black, not white.’
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=659
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	Nor did Bernard O’Reilly, much later in the 1940s, invoke the romantic idea of wilderness to describe his beloved Lamington rainforest, though wilderness it surely
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=663
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	The wilderness push of the seventies really grew out of the New Left movement of the sixties, when university students rebelled against the materialism, conformity and technological optimism of the times.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=687
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	Tasmania’s south-west, the great wilderness mecca, is by some criteria a biodiversity desert. Diversity of mammals, birds, reptiles, frogs, fish and plants is low. More reptile species (twelve) roam through my backyard than occupy south-west Tasmania, and my local creek, thick with weeds, supports many more kinds of rainforest tree, including an endangered myrtle.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=704
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	In two major wilderness areas – the Wet Tropics and Cape York Peninsula – endangered animals are losing out to vegetation change. Expanding rainforests in the Wet Tropics have swallowed up half the wet sclerophyll, killing off thousands of ancient eucalypts, and displacing the endangered tropical bettong.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=729
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	We are imprisoned by a paradox. Wilderness is supposed to be the one environment we let alone and don’t manipulate. But manipulate we must.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=735
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	This grim conclusion shows how restrictive it is to define nature or wilderness in opposition to culture.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=773
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	The brown snake in my garden means more to me than any reptile in a wilderness. We are neighbours, neither distance nor definition separating us.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=780
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	buffalo bream
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=846
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	but many elders volunteered priceless ecological data. Burbidge and colleagues recalled one meeting: ‘When all the different skins had been spread out on a hessian bag, a Ngaanyatjarra man said, “But you haven’t got the Kuluwarri there.” The Kuluwarri? This was our first clue that the enigmatic Central Hare-Wallaby, known to science from only a single skull collected by the explorer Michael Terry near Lake Mackay [in the Northern Territory] in 1931, had once actually lived in W.A.’ Kuluwarri was recalled as a soft furry being who dozed by day under spinifex and nibbled grass and seeds at night. He lasted in the deserts until the 1960s. All we know of him comes from elders at more than thirty remote stations.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=891
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	There’s even a big lizard in the spinifex deserts that likes mosaic burning. The great desert skink (Egernia kintorei) is rare and declining, and survives mainly where Aborigines still burn the land. It’s another example, like the orange-bellied parrot, of a rare species in a remote place that depends on people. Nature is seldom as natural as we think.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=918
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	Australia has been shaped by a succession of large engineers. Dinosaurs were followed by large mammals, then by people – first Aborigines, then Europeans and their livestock. Tim Flannery says, ‘We (Homo sapiens) are the last of Australia’s megafauna. We are the ecological equivalent of Diprotodon, Thylacaleo and all the rest.’ Some of our impacts have been comparable.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=921
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	Because birds have good colour vision but usually no sense of smell, one can assume that big sombre fruits with alluring aromas evolved to attract large mammals.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=931
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	Watching where our wastes go is one way of discovering how important we are to wildlife; of seeing how other species exploit the opportunities we create.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=949
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	Today’s silver gulls (the common species) dine in our malls, parks, ports, tips, schools, abattoirs – wherever food is free. Like blowflies in bins, they multiply on our wastes. Our cities and towns are now seagull factories pumping out garbage-guzzling birds. Seagulls flourish on the effluents of affluence.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=1046
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	Sydney’s main airport had 158 gull strikes in eight years. Problem gulls are sometimes fed hallucinogens to persuade them to leave.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=1089
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	Gulls all over the world are proving bothersome to people and wildlife. They highlight the major theme of this book: that animals who benefit from us (winners) may go on to trouble other species. Stilts in the desert face no threat at all from humans, but we harm them indirectly by feeding their enemies.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=1090
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	The ibises feed mainly on mainland farms, the gulls in Melbourne and Geelong, so if I toss a chip to a seagull in Fitzroy Gardens I may be fertilising a rare shrub growing 55 kilometres away.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=1099
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	One kite was seen dropping bread into a river to lure fish and prawns to the surface; another was seen using potato chips.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=1107
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	(Lyngbya majuscula),
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=1135
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	camphor laurel
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=1142
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	Many of the French fries doled out to tatty pigeons end up by fattening these fierce birds of prey.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=1187
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	Landscapes today are shaped by people. We do more than weather and tectonics to mould the land. Our structures – buildings, dams, roads, quarries – and the clearings we make exert a major influence on wildlife. They complicate the landscape, bringing resources together in useful combinations: land and water, food and shelter, clearing and thicket. Buildings and communication structures add height, which is important for birds. In every landscape time lowers and we raise. Animals are often adept at assessing our structures and using them for their own needs.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=1196
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	If you’re after snakes, don’t focus on logs, look for junk instead. Old roofing iron, fibro, slabs of concrete – snakes and lizards love this stuff. As reptile enthusiast Raymond Hoser pointed out in an article called ‘Australian Reptile Habitats – A Load of Rubbish!’ (1996): ‘Have you ever taken a good look at the habitat photos in a reptile book? Rarely is there any sign of human habitation or influence on the sites . . . And yet if you ask any Australian reptile person about good spots to find snakes and lizards, you’ll inevitably find out that many such spots are those littered with sheets of tin or other human rubbish.’
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=1266
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	The most profound change we make to the landscape may well be the capture of water. So thirsty are we for water that Australia is now a land of dams. Huge amounts of liquid are brought to the surface, shunted around and captured in dams. Viewed from above in the late afternoon when every pool captures the setting sun, Australia can look as cratered as the face of the moon. The plains sparkle as though splattered by spots of silver. Flying over an area north of Melbourne, I counted a hundred farm dams in 10 per cent of my field of vision. Dams installed for cows and sheep, and reservoirs for our own water supplies, have incidentally created tremendous opportunities for many bird species.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=1294
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	Foodwebs change as new fish arrive. At Peak Downs in 1994 Wayne netted four or five kinds of small fish. Three years later the pool was commandeered by much larger spangled perch, all emaciated and listless. They had eaten the smaller fish and were attacking each other. All the fish in a pit can sometimes die, succession beginning again when birds courier in more eggs.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=1320
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	‘Before European settlement,’ Jill noted, ‘most of the interior of Australia was waterless for much of the time, except for the rare good seasons. There were the big river systems and then there were waterholes, but they were few and far between. Most of the land was dry. What this means is that grazing by kangaroos must have been restricted to places where water was available or just those seasons when water was widespread. Large parts of inland Australia were not grazed by large mammals for a large part of the time. Now almost everywhere is easily within reach of water for livestock, kangaroos and feral animals, goats in particular.’
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=1340
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	Ducks paddle in the paddies and also eat the rice, so farmers in New South Wales can get unrestricted licences to cull shelducks, wood ducks, black ducks, pink-eared ducks, whistling ducks, hardheads and teal. That’s a lot of ducks.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=1367
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	(Emex australis),
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=1427
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	orchard swallowtail
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=1431
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	In Victoria’s grain belt long-billed corellas rely on foreign plants for 90 per cent of their diet. After the summer oat harvest they feed on the stubble, switching over to onion-grasses (Romulea) in autumn when they consume millions of the weedy bulbs brought up where soil is tilled. This is all harmless, but when farmers sow their grain the corellas dig it up.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=1486
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	Norfolk Island green parrot
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=1491
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	In Western Australia little eagles moved into the south-west when rabbits arrived, then retreated after myxomatosis struck.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=1514
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	I later saw masked weavers stringing nests from wattle stems. I must say that few images compare with a weaver on a wattle, the green and gold of one harmonising with the same hues on the other, creating a picture that is all the more striking because it was never meant to be.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=1579
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	the ‘canine zone’, the epiphytic community of algae, mosses and lichens that colours trees where dogs cock their legs.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=1605
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	Sydney’s owls are known to take cats.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=1660
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	Fuscous honeyeaters,
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=1668
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	In Britain, notes urban ecologist O.L. Gilbert, ‘suburban gardens are believed to support the highest density of breeding birds of any habitat’. The blackbird population in Oxford reaches twenty times the density of woodland blackbirds. Garden birds, says Gilbert, are ‘mostly woodland birds which find the mosaic of habitats resemble the richest of wood margin ecotones’. That may be true here too.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=1680
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	There are cliff-dwelling peregrines, seashore seagulls, swamp frogs, rainforest insects, woodland birds and cave moths, all coming together in new combinations.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=1709
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	Rufous-banded honeyeaters in Darwin breed almost year round (compared to a four-month season in woodland), and achieve an exceptionally high nest success by eating garden insects and seed arils of earpod wattles (Acacia auriculiformes, a common urban weed).
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=1741
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	Another key trait is curiosity. Behaviourists speak of ‘neophilia’ to describe animals that readily approach new things, and ‘neophobia’ for the opposite.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=1750
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	Seagulls are masters of innovation. They pluck food from air, water and land. They follow boats, dolphins, and ploughs in fields. They take fish from nets, sit on pelicans, and feed under lights at night. They thrust their heads inside seal vaginas to gobble umbilical cords after birth.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=1757
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	Birds that do best on forest edges, surveys show, include magpies, crows and singing honeyeaters. Edge-dwelling birds are often black and white, a scheme that offers easy recognition in open country.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=1777
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	One key point to make is that many species are both winners and losers, depending on where they live. Bush stone-curlews in Victoria are endangered, but further north they are common, found breeding in parks in Brisbane and strutting about on footpaths in Townsville.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=1783
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	Other examples of birds doing well in one city but not in others include bellbirds (Melbourne), choughs (Canberra), singing honeyeaters (Perth) and peaceful doves (Townsville). These examples suggest to me that localised learning can play a role in success.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=1785
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	In 1971, before these problems emerged, Taronga Zoo obtained fourteen Healesville ibises to create its own wild flock. When the first wild-born chick was fledged in 1973 the zoo felt triumphant, issuing a self-congratulatory press release. ‘This successful hatching is regarded as a triumph for Taronga Zoo Bird keeping Staff: it is probably the only ibis hatched in Sydney environs for many, many years, and it confirms the success of an experiment to create a liberty flock.’ This ‘liberty flock’ roamed around Mosman each day after breakfasting with the flamingoes. ‘The experiment works wonderfully’, the press release crowed. But over the years the ibises multiplied and spread across Sydney. Now there are ibises patrolling parks and slinking down back alleys in Kings Cross. They raid bins and scare children. At a breeding colony in the Botany wetland rare Japanese snipe were displaced. Ronald Strahan, former zoo director, openly admits his zoo spawned Sydney’s ibis problem. ‘I can’t prove it, but I do have it on my conscience,’ he told me. The zoo-keeper (now retired) who freed the flock is also convinced.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=1793
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	On Christmas Eve 1995 the inevitable happened: a Qantas airbus hit an ibis. An engine was ruined and a plane grounded at the busiest time of year, costing Qantas millions. An Ibis Management Coordination Group (IMCG) was then set up. The Gold Coast Council brought in ibis-proof bins, and birds at tips were harried with stock whips, slingshots, car horns, kites, balloons, ibis warning calls and taste deterrents, none of which worked.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=1807
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	The barriers between people and wildlife are weakening as animals learn new tricks.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=1827
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	Gilbert made no mention of ibises or spoonbills around Perth, although five species occur there today. He saw no moorhens, galahs, darters, little egrets or crested grebes, all birds that live there now. Fourteen or more new birds have invaded the region since Gilbert’s day.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=1851
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	These kinds of changes distort our image of Australia. In The Fatal Shore Robert Hughes glories in the ‘exuberance of bird life’ that greeted colonists in Sydney in 1788, but – oops! – the galahs, corellas, and pink cockatoos he mentions weren’t there back then. Not until the 1940s could anyone around Sydney see galahs ‘passing against the opaline horizon’.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=1865
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	In another example, little egrets are currently listed in Victoria as critically endangered, when a hundred years ago they weren’t found at all south of Grafton. Melbourne biologists worry about rainbow lorikeets stealing nest holes from red-rumped parrots but the latter are also invaders, though less recent ones.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=1868
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	The crested pigeon has done more than any other to spread its wings. It was once an Outback bird, not found east of Gunnedah or Goondiwindi and not within hundreds of kilometres of Perth. ‘The chasteness of its colouring,’ Gould wrote in 1865, ‘the extreme elegance of its form, and the graceful crest which flows from its occiput, all tend to render this Pigeon one of the most lovely members of its family, and it is therefore to be regretted that, owing to its being exclusively an inhabitant of the plains of the interior, it can never become an object of general observation’. Today crested pigeons are objects of general observation in Sydney parks,
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=1892
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	In 1903 Lawson Whitlock spent several weeks around Mogumber, a township north of Perth, and his list caught the eye of Dom Serventy and W. Loaring, who went there almost fifty years later, in 1950, to compare. I went there myself almost fifty years later still, in 1998. In Whitlock’s day there were no galahs, singing honeyeaters, white-fronted chats, crested bellbirds or regent parrots, all of which were seen in 1950. On my quick trip I didn’t see the last two birds but I did spot three newcomers: crested pigeons, straw-necked ibises and yellow-billed spoonbills. Whitlock saw no galahs in three weeks, Loaring and Serventy saw several in one week, and I saw many in a few hours.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=1913
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	Swamp harriers are today New Zealand’s most common bird of prey. They float over fields and perch on posts as if farms were made to serve them.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=2002
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	The status of pukekos and harriers as New Zealand birds goes unquestioned by birdwatchers.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=2016
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	so too the hardhead, a duck that lived there during the nineteenth century until it was wiped out by a volcano.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=2028
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	We have weakened the barriers that separate Australia from other lands. Birds are leaking in and out.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=2046
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	Cattle egrets are handsome white birds that now feed around cows, grabbing grasshoppers flushed by their feet. A hundred years ago they were only found within Africa and South-East Asia; now they occupy Europe, the Americas, India, and many far-flung islands. Their ancestors probably fed around elephants and buffalo, but cow paddocks are now their main habitat. They entered Australia during the 1940s and now range right down to Tasmania, thousands crossing over to New Zealand each year but returning here to breed.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=2059
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	New Zealand pied oystercatcher,
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=2067
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	Another new Australian butterfly, the painted lady (Vanessa cardui), has performed a feat that defies belief. Well known in England and also found in Africa and Asia, it turned up many years ago around Perth. How did it get there? Experts suspect it crossed the Indian Ocean from Africa, a journey of about 9000 kilometres. The little black caterpillars like to munch on thistles and nettles, and weeds in Perth probably abetted the invasion. Australia’s other long-haul, four-winged immigrant, the North American monarch (Danaus plexippus), eats foreign weeds and nothing else, and we made its conquest possible by importing African and American cottonbushes. Sighted first in 1871 after island-hopping right across the Pacific, it’s now one of our best-known insects, called the ‘wanderer’ here. We brought the leaves and the butterflies came.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=2089
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	(Pandanus tectorius),
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=2179
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	(Pterostylis dilatata)
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=2237
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	If you take just five examples – Ross River virus, redbacks, fruit-flies, Mucor fungus and pandanus planthoppers – hitchhiking adds up to a serious phenomenon; one that will create many new problems in future. In the ‘new nature’ of the future we’ll see many more animals, plants and diseases turning up somewhere new.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=2242
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	In 1900 thirty swans were imported. This sounds implausible, inasmuch as black swans are emblems of Western Australia, but the slaughter of local swans was proving so relentless that extinction of a symbol was feared.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=2287
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	Baron Ferdinand von Mueller.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=2293
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	Rottnest Island, off Perth, was lucky to escape an extreme fate. A bird society in 1960 wanted koalas and ‘dozens of rare and colourful birds’ freed to create a ‘naturalist’s paradise’. The government scotched this plan, but even so, budgerigars, cockatiels and rainbow lorikeets were soon to be seen winging around the island, although they did not survive for long.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=2344
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	Perth’s loudest birds, to be heard screeching from date palms in the city centre, are feral rainbow lorikeets. Their numbers have grown since they were first noted in 1968. In his 1997 article ‘Rainbow lorikeets: an avian weed in the west’ David Lamont posited a population of one or two thousand spread across 30 kilometres. They squabble over the nectar of street trees, preferring eucalypts from interstate. Native birds are robbed of food and nest holes. ‘On several occasions they were observed dragging Australian ringneck nestlings from nest hollows and savaging them before dropping them to the ground,’ David noted.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=2369
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	Freshwater turtles kept as pets in open ponds readily escape, and owners often free them deliberately. Ponds in Sydney’s Centennial Parklands are crowded with ex-pets from Queensland and the Outback. There are northern snapping turtles (Elseya dentata), broad-shelled turtles (Chelodina expansa) and vulnerable Mary River turtles (Elusor macrurus), although whether they are breeding remains a moot point. Streams around Sydney also carry Brisbane River short-necked turtles (Emydura signata) and sawshell turtles (Elseya latisternum), and the Hacking River boasts a recently discovered subspecies of Murray turtle (Emydura macquarii) – which some experts suggest is an import.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=2381
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	The core problem, one biologist said, is that ‘every recreational fisher thinks he has a God-given right to catch a catchable fish in every body of water in Australia – and that’s just fundamentally ludicrous.’
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=2668
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	golden wreath wattle
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=2723
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	(Agonis flexuosa)
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=2733
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	(Cyathea cooperi)
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=2743
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	(Schefflera actinophylla)
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=2762
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	If explorer Nicolas Baudin had claimed Western Australia for France, Geraldton wax in Sydney would count as an exotic (foreign) species. ‘Native’ as a biological category shouldn’t be defined by political boundaries. The World Conservation Union (IUCN) defines an alien (or exotic) species as one that is ‘introduced outside its normal past or present distribution’. This means that all the plants mentioned here are exotic in their new homes.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=2849
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	American landscape architect Joachim Wolschke-Bulmahn is a fierce critic of native gardening, which he links to racism. The Nazis wanted foreign garden plants banned. One of his articles shows Adolf Hitler greeting a leading landscape architect.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=2859
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	Yet only one of Australia’s twenty-seven exotic birds counts as a threat: the starling.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=2927
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	Venerable grasstrees (Xanthorrhoea) are dying in south-western Australia, and birds are again to blame. Ornithologist Harry Recher showed me old grasstree crowns in Dryandra Woodland stripped back by ringneck parrots sharpening their beaks. Old grasstrees on farms are dying because ringnecks are thriving within the agricultural landscape. They also deform blue gums in plantations by nipping shoots and stripping bark – a growing problem. The galah is another tree-killer. They chew away bands of bark around their nest holes in Western Australia, sometimes ringbarking trees. ‘In some areas in the wheatbelt, the galah is a significant cause of tree death,’ wrote Denis Saunders and John Ingram in 1995. The wheatbelt a century ago was a galah-free zone.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=2944
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	No-one could have predicted that seagulls would attack stilts on Lake Eyre, or lyrebirds erode the Tasmanian wilderness.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=2949
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	Magpie-larks (peewees) are one example, implicated in bizarre attacks. Several were culled recently on the Cairns Esplanade for pecking at people’s eyes.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=2952
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	On the TV show Burke’s Backyard homeowners were asked to place fake willie-wagtail nests (half a tennis ball baited with clay eggs) in their gardens. Nearly two-thirds of the 1803 nests were attacked, mainly by birds.2 Of the many attackers seen at work, half proved to be currawongs. Other egg-jabbers were magpies (13 per cent), noisy miners (10 per cent), wattlebirds (3 per cent), butcherbirds (2 per cent), and a few ravens, kookaburras, magpie-larks (peewees) and even silvereyes (1 per cent each).
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=2965
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	The currawongs were feeding rare petrel flesh to their young.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=2983
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	Gardeners around Port Stephens, merely by growing berry-laden plants, were bringing doom to a bird that lives out at sea.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=2987
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	development, others have ventured deeper into the metropolis. In the 1990s bellbirds claimed the Royal Botanic Gardens. One colony is centred on the gardens’ cafeteria, another on the planted eucalypts by the nearby Shrine of Remembrance. The gardens’ bird list – published in 1991 and sold in the shop – doesn’t mention bell miners.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=3052
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	Bell miners appear to be multiplying in eastern Victoria. They do well in farming belts where stressed trees attract lerps. By keeping birds away by day they probably benefit nocturnal lerp-eating animals. I spotlighted within a colony once and saw two sugar gliders and a tiny feathertail.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=3058
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	The brown-headed cowbird is the chief culprit. Once upon a time it fed upon prairie seeds and snatched up insects stirred by the hoofs of bison and deer. Now it feeds around cows and loiters at grain depots. Numbers have exploded. Cowbirds, like cuckoos, are brood parasites. Females sneak their eggs into other birds’ nests to be hatched and reared in absentia. By skipping the work of rearing, they have energy to lay prolifically – sometimes more than twenty eggs a season. And unlike cuckoos, they lay indiscriminately, their eggs appearing in the nests of more than 220 bird species, 140 of which have reared brown-headed cowbirds. These parasites are multiplying faster than any other American bird and their hosts are declining. Two birds of the host species have been pushed to endangered status.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=3138
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	‘To eat is to appropriate by destruction.’
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=3160
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	Conservation is one of those modern concerns that dates back to early convict days. Climate change emerged as a worry as far back as 1795, when magistrate Richard Atkins feared the weather was changing ‘in consequence of the country opening so fast’.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=3162
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	see ‘balance of nature’ as the overarching theological doctrine here, the one implying that native species must live together harmoniously.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=3204
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	‘Animal Liberation was the main opposition,’ Mr Anonymous said. ‘They were cutting the fences and coming in and vandalising places and taking off signs.’ The kangaroos are now under control, and the bandicoots have been reintroduced.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=3234
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	In 1993 seventy kangaroos were culled – and buried – in the grounds of Government House. In ever-growing numbers they were devouring ornamental shrubs, defacing ceremonial lawns and intimidating gardens staff.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=3237
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	Koalas. Are they endangered treasures or tree-killing pests? Should we be cuddling them, or culling them? In Australia today these are hard questions that need careful answers.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=3302
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	But Environment Minister David Wotton was outraged. ‘Is South Australia going to be recognised as the state that permits the repeated shooting of koalas? That would be an international incident.’ Tour operators and the federal government agreed. Australia would lose face in America and Japan. But most South Australians accepted the idea; a poll found two-thirds of them in favour of culling. Statements of support came from the Conservation Council of South Australia, the Australian Academy of Science, the Marsupial Society of Australia, the Australian Institute of Biology, and Eco-Action Kangaroo Island.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=3355
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	That cull provoked no emotion, but times have changed. Plenty of culling still goes on, but it’s done surreptitiously by farmers to save their trees.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=3375
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	When Aborigines lost their lands, koalas were free to increase. In 1844 both koalas and lyrebirds were said to be multiplying where tribes were declining. Harry Parris had the same idea in a later era. Growing up along Victoria’s Goulburn River in the 1880s, he remembered crying koalas stirring his childhood sleep. Then Parris learned of an earlier settler, in the 1850s, who went for three years before seeing a koala. Intrigued, he pored over old accounts of the district, beginning with explorer Major Mitchell. ‘I carefully read over twenty books and not one of those men saw a bear in the Goulburn country,’ he found.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=3388
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	Sometimes a foreign disease is culpable (Phytophthora and Mundulla yellows), or rising salt, but often the culprit is native.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=3426
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	If you take eucalypt forest, add fertiliser and water and take out fire, you have the recipe for rainforest. The pittosporum invasion is really takeover by rainforest. Botanists call it ‘mesic shift’ – a switch to a wetter community.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=3512
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	Vegetation change poses conundrums for Australia. It’s very difficult to manage, and it injects some uncertainty into our conservation goals. Do we preserve the landscapes created by Aboriginal fire, or do we help ‘nature’ revert to its ‘original’ state? Do we let coast tea-trees sweep inland, on the assumption that they were forced out by previous firestick farming, or do we imprison them in the landscape they occupied in 1788? Do we even know what Australia looked like in 1788? Are the shifts underway really due to fire and grazing, or are drought cycles and global warming (natural and human-induced) important too?
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=3607
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	An endangered plant can be found sprouting in the rainforest gloom along a few streams in south-west Tasmania. Kings holly (Lomatia tasmanica) is a spindly shrub whose reddish blooms never proceed into seed. Genetic work suggests that the three stands, found close together, grew from a single sterile founder. This holly is effectively a single plant, a clone that has spread slowly through the rainforest by sprouting hundreds of woody stems. Some of its fossilised leaves date back 43600 years. Given that Kings holly is evidently a non-reproducing triploid, the fossils imply great antiquity for this plant. Indeed, botanist A. Lynch has suggested to the scientific community that Kings holly may be the world’s oldest plant. Buttongrass plains have divided the clone into three separate stands. Past Aboriginal fires have destroyed perhaps half the colony. Fire suppression will help this plant survive.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=3670
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	Vegetation shift intrigues me. I can see it going on out my window. The lush shrubs and trees growing in city gardens turn them into rainforest glades. Ringtails and rainforest butterflies feel at home. Added nutrients and freedom from fire allow wild rainforest plants to sprout. Birds in my garden keep dropping seeds of figs and white cedars, and gardens are now prime habitat for these enterprising trees. A brush-turkey comes by to scratch through my beds, never guessing that this slope once carried grassy woodland where bushfires crackled and kangaroos grazed. For urban turkeys vegetation shift is a boon, but for managers of reserves it’s a conundrum. It impresses me as one of the trickiest issues thrown up by the new nature.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=3686
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	A similar fate befell the grey-headed blackbird (Turdus poliocephalus poliocephalus) of Norfolk Island, a unique form of the widespread island thrush. It vanished in the 1970s. The English blackbirds that skip about on lawns there today don’t look quite right. They are sometimes pale where English blackbirds should not be pale. The young have pale heads. Hybrids? Experts think so. The native blackbirds were dying out (blame black rats again) and the last of their line must have paired up with English invaders. Grey-headed blackbirds aren’t entirely extinct, they are just hiding inside English blackbirds.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=3720
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	Underdominance and hybrid vigour may be affecting many plants. Geraldton wax (Chamelaucium uncinatum) is now rare around Perth, and cultivated forms are stealing away from gardens and probably pollinating the last wild plants, which may either be setting less seed or begetting hybrids. With so many native plants grown in gardens and forestry plots the prospects for genetic rearrangement are endless. Darwin’s nurseries sell plenty of ‘local’ native plants but nearly all of their stock – of more than fifty species – comes from Queensland. The mat-rushes (Lomandra longifolia) grown along Victoria’s highways are also sourced largely from interstate.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=3776
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	Most of Perth’s galahs have red eye-rings marking them out as escapees from the east (western birds are grey-ringed).
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=3812
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	The problems with kangaroos, koalas and mesic shift discussed earlier emerged in part because Aborigines were thrown off their lands.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=3828
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	She told me about one woman who, angered by a neighbour’s loud dog, installed a frog pond against the fence for revenge. Brisbane City Council can’t act against frogs because they count as natural noise.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=3912
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	Some years ago he studied dying red wattlebirds in Melbourne gardens, and the symptoms of head retraction, convulsions and anorexia suggested thiamine deficiency, a conclusion supported by blood tests. David believes wattlebirds traditionally migrated north in winter to feed on vitamin-rich insects, but now stay behind, seduced by sugary garden flowers to adopt a vitamin-poor and sometimes fatal diet. He published his findings back in 1983 but I’ve yet to see them mentioned in any wildlife gardening book. No-one wants to admit that maybe flowers can kill.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=3953
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	Carla Catterall is another conservation biologist who doubts the value of gardening for birds. She surveyed gardens around Toohey Forest, the reserve we visited in the noisy miner chapter. Although plenty of native shrubs and trees have been grown, Carla found that gardens more than 50 metres from the forest carried only the usual garden regulars (magpies, butcherbirds and suchlike), not forest birds. Noisy miners, cats, dogs, roads, fences and noise conspire to keep them away. ‘You could make a bird garden on an average suburban block, with a wonderful vegetation structure with all the right heights, and with flowers and fruit, but the forest birds you would hope to see there would not come,’
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=3957
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	Seed-fed cockatoos regularly vandalise homes. Freed from the need to seek seed, they loaf on patios, sharpening their mandibles on timber fittings. Western red cedar is favoured for its soft (and pricey) wood. Ian Temby, Victorian government pest whiz, told me of $25000 worth of damage that was done to one house. One flock, pampered by an old lady, wrought thousands of dollars worth of damage to each of ten houses. The old lady refused to stop feeding her ‘pets’.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=3979
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	In Melbourne possums fed in parks are multiplying and stripping treasured elms. In Curtain Square, North Carlton, two dying trees had to be removed, and others were dressed in metal collars to keep possums away. A few possums were separated from their holes in the trees, outraging Animal Liberation, which dropped a road-killed possum on the doorstep of Yarra’s mayor.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=3995
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	bird-bludgers,
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=4026
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	Housing estates are very destructive, and no amount of tinkering in the garden can alter that. Most garden birds belong to species that thrive on destruction. People feed magpies, currawongs, noisy miners and crows. The losers from clearing – robins, whistlers, fantails, weebills – seldom come far into cities and never use food trays or bird boxes. We can’t really create genuine rainforests and wetlands up by the barbie – this is naïve. The real value of nature gardening is the contact it gives us with nature. We want birds and butterflies because they brighten up our lives. We don’t want grasshoppers and moths, not because they need conserving less, but because they don’t offer as much pleasure. Wildlife gardening, for most people, is more about personal gratification and flight from guilt than true conservation. We should not pretend that good deeds done in gardens atone for crimes committed elsewhere.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=4027
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	But it’s when a native animal needs controlling that complaints really fly. Kangaroo culls arouse controversy, and koala culls remain politically unacceptable. Yet many animals are already killed for conservation. I’ve mentioned kangaroos, wallabies, bellbirds (at Yellingbo), yellow-throated miners (in the mallee), currawongs (on Cabbage Tree Island), Australian ravens (on the same island), corellas (on Kangaroo Island), owls (on Lord Howe Island), silver gulls (at Lake Eyre), rosellas (on Norfolk Island), and crown-of-thorns starfish. Without culls, Gould’s petrel, and perhaps the helmeted honeyeater, would not exist. There is also illegal culling of koalas by farmers defending trees. Culling is the harsh reality of conservation management, but public awareness and acceptance lag well behind.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=4175
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	In another example of creative thinking, Owen Foley checked the route of a new cable Telstra was laying on the Darling Downs. Telstra’s plan – eminently sensible – was to bury the new line right by the old in the same bulldozed ground. But two rare plants, native hops (Dodonaea macrossanii) and a wattle (Acacia chinchillensis), had claimed the upturned earth, and neither grew in nearby bushland. To save these plants and extend their habitat, Owen had the cable repositioned to disturb more soil.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=4248
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	That’s what conservation management will be like in future – laced with irony. Old mines will be saved for bats, and pine plantations kept for endangered cockatoos. Experts will argue about the ecological value of weeds. There will be less clarity of purpose (do we recreate the past, preserve the present, or usher in the future?) and more potential for misguided actions. Intervention, after all, is more difficult than a hands-off approach. Expect to see plenty of blunders made, as reserves are burned when they should not be, and cows are let in for the wrong reasons. Conservation is intervention, and intervention isn’t easy.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=4252
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	In Sydney’s gardens I once sat by the giant red gum watching two cockatoos when a wood duck whirred up and dropped into the hollow trunk. It had a nest inside. One cocky went berserk, circling about, screeching, before dropping to the rim of the bole, leaning inside and screaming out its rage at ear-piercing volumes. Inner Sydney’s oldest real estate is still worth fighting over, still plays an ecological role.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=4288
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	In Melbourne a mistletoe (Muellerina eucalyptoides) hangs from a plane tree in Collins Street, between the Town Hall and City Square; another from a plane tree outside the Concert Hall.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=4298
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	finally saw meerkats on my third trip to Africa after rangers told me to go outside their national park to adjoining farmland. A cow walked right behind the meerkats while I was watching. Their burrow complex was strewn with cow dung.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=4306
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	Animals and plants respond to us in no consistent way. We can’t say ‘forest destruction threatens nature’, because something benefits no matter what we do. Nature’s many constituents react to us in millions of different ways.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=4319
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	The national park, cornerstone of conservation, is all too often portrayed as a timeless place where Australia remains in its original state. If only that were true! National parks matter enormously, but what they really conserve is not the past as such, but continuity with the past.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=4331
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	‘Change is what we should be conserving,’ says geneticist Neil Murray. ‘We should be managing the process of change.’ The ancient trees in our cities matter because they offer this continuity, serving as windows onto landscapes we will never see.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=4333
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	Andrew Bolt began an article with the statement ‘Bats have always seemed evil.’
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=4384
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	Bat camps arouse fears because they challenge the assumption that in cities and towns, people are firmly in control. Bats can be remarkably difficult to evict unless trees are removed, and those that refuse to leave an urban park can be seen as an affront to human supremacy.
+*source:*	The New Nature
+*author:*	Tim Low
+*link:*	kindle://book?action=open&asin=B01N8XBW3L&location=4402
+*note:*	
+*tags:*	#sciencefiction #technology #TheNewNature #TimLow
+
+*quote:*	He remembered taking a class in information theory as a third-year student in college. The professor had put up two pictures: One was the famous Song Dynasty painting Along the River During the Qingming Festival, full of fine, rich details; the other was a photograph of the sky on a sunny day, the deep blue expanse broken only by a wisp of cloud that one couldn’t even be sure was there. The professor asked the class which picture contained more information. The answer was that the photograph’s information content—its entropy—exceeded the painting’s by one or two orders of magnitude.
+*source:*	The Three-Body Problem: Now a major Netflix series
+*author:*	Cixin Liu and Ken Liu
+*link:*	kindle://book?action=open&asin=B0BPCM5BL1&location=1569
+*note:*	
+*tags:*	#sciencefiction #technology #TheThreeBodyProblemNowamajorNetflixseries #CixinLiuandKenLiu
+
+*quote:*	This was the theory of “contact as symbol” proposed by sociologist Bill Mathers of RAND Corporation in his book, The 100,000-Light-Year Iron Curtain: SETI Sociology. Mathers believed that contact with an alien civilization is only a symbol or a switch. Regardless of the content of the encounter, the results would be the same.
+*source:*	The Three-Body Problem: Now a major Netflix series
+*author:*	Cixin Liu and Ken Liu
+*link:*	kindle://book?action=open&asin=B0BPCM5BL1&location=2446
+*note:*	
+*tags:*	#sciencefiction #technology #TheThreeBodyProblemNowamajorNetflixseries #CixinLiuandKenLiu
+
+*quote:*	Back then, I thought of one thing: Have you heard of the Monte Carlo method? Ah, it’s a computer algorithm often used for calculating the area of irregular shapes. Specifically, the software puts the figure of interest in a figure of known area, such as a circle, and randomly strikes it with many tiny balls, never targeting the same spot twice. After a large number of balls, the proportion of balls that fall within the irregular shape compared to the total number of balls used to hit the circle will yield the area of the shape. Of course, the smaller the balls used, the more accurate the result.
+*source:*	The Three-Body Problem: Now a major Netflix series
+*author:*	Cixin Liu and Ken Liu
+*link:*	kindle://book?action=open&asin=B0BPCM5BL1&location=2729
+*note:*	
+*tags:*	#sciencefiction #technology #TheThreeBodyProblemNowamajorNetflixseries #CixinLiuandKenLiu
+
+*quote:*	can you tell whether the commander sides with the Adventists or the Redemptionists? Does the commander want humanity eliminated or saved?’
+*source:*	The Three-Body Problem: Now a major Netflix series
+*author:*	Cixin Liu and Ken Liu
+*link:*	kindle://book?action=open&asin=B0BPCM5BL1&location=2884
+*note:*	
+*tags:*	#sciencefiction #technology #TheThreeBodyProblemNowamajorNetflixseries #CixinLiuandKenLiu
+
+*quote:*	Von Neumann stared at Wang with wide-open eyes, as though his question made no sense. “Using people, of course. Other than people, what else in the world is capable of performing calculations?”
+*source:*	The Three-Body Problem: Now a major Netflix series
+*author:*	Cixin Liu and Ken Liu
+*link:*	kindle://book?action=open&asin=B0BPCM5BL1&location=2934
+*note:*	
+*tags:*	#sciencefiction #technology #TheThreeBodyProblemNowamajorNetflixseries #CixinLiuandKenLiu
+
+*quote:*	The one-armed woman said, “There was a movie called Maple recently. I don’t know if you’ve seen it. At the end, an adult and a child stand in front of the grave of a Red Guard who had died during the faction civil wars. The child asks the adult, ‘Are they heroes?’ The adult says no. The child asks, ‘Are they enemies?’ The adult again says no. The child asks, ‘Then who are they?’ The adult says, ‘History.’”
+*source:*	The Three-Body Problem: Now a major Netflix series
+*author:*	Cixin Liu and Ken Liu
+*link:*	kindle://book?action=open&asin=B0BPCM5BL1&location=4257
+*note:*	
+*tags:*	#sciencefiction #technology #TheThreeBodyProblemNowamajorNetflixseries #CixinLiuandKenLiu
+
+*quote:*	There’s a strange contradiction revealed by the naïveté and kindness demonstrated by humanity when faced with the universe: On Earth, humankind can step onto another continent, and without a thought, destroy the kindred civilizations found there through warfare and disease. But when they gaze up at the stars, they turn sentimental and believe that if extraterrestrial intelligences exist, they must be civilizations bound by universal, noble, moral constraints, as if cherishing and loving different forms of life are parts of a self-evident universal code of conduct.
+*source:*	The Three-Body Problem: Now a major Netflix series
+*author:*	Cixin Liu and Ken Liu
+*link:*	kindle://book?action=open&asin=B0BPCM5BL1&location=5580
+*note:*	
+*tags:*	#sciencefiction #technology #TheThreeBodyProblemNowamajorNetflixseries #CixinLiuandKenLiu
+
+*quote:*	I just run. I run in a void. Or maybe I should put it the other way: I run in order to acquire a void. But as you might expect, an occasional thought will slip into this void. People’s minds can’t be a complete blank. Human beings’ emotions are not strong or consistent enough to sustain a vacuum. What I mean is, the kinds of thoughts and ideas that invade my emotions as I run remain subordinate to that void. Lacking content, they are just random thoughts that gather around that central void. The thoughts that occur to me while I’m running are like clouds in the sky. Clouds of all different sizes. They come and they go, while the sky remains the same sky as always. The clouds are mere guests in the sky that pass away and vanish, leaving behind the sky. The sky both exists and doesn’t exist. It has substance and at the same time doesn’t. And we merely accept that vast expanse and drink it in.
+*source:*	What I Talk About When I Talk About Running: The book that made Harry Styles believe he could run a marathon
+*author:*	Haruki Murakami and Philip Gabriel
+*link:*	kindle://book?action=open&asin=B005TKD8ZK&location=206
+*note:*	
+*tags:*	#sciencefiction #technology #WhatITalkAboutWhenITalkAboutRunningThebookthatmadeHarryStylesbelievehecouldrunamarathon #HarukiMurakamiandPhilipGabriel
+
+*quote:*	Looking back now, I think the most fortunate thing is that I was born with a strong, healthy body. This has made it possible for me to run on a daily basis for almost a quarter century, competing in a number of races along the way. I’ve never had a time when my legs hurt so much I couldn’t run. I don’t really stretch much before running, but I’ve never been injured, never been hurt, and haven’t been sick once. I’m no great runner, but I’m definitely a strong runner. That’s one of the very few gifts I can be proud of.
+*source:*	What I Talk About When I Talk About Running: The book that made Harry Styles believe he could run a marathon
+*author:*	Haruki Murakami and Philip Gabriel
+*link:*	kindle://book?action=open&asin=B005TKD8ZK&location=441
+*note:*	
+*tags:*	#sciencefiction #technology #WhatITalkAboutWhenITalkAboutRunningThebookthatmadeHarryStylesbelievehecouldrunamarathon #HarukiMurakamiandPhilipGabriel
+
+*quote:*	Whenever I see students in gym class all made to run a long distance, I feel sorry for them. Forcing people who have no desire to run, or who aren’t physically fit enough, is a kind of pointless torture.
+*source:*	What I Talk About When I Talk About Running: The book that made Harry Styles believe he could run a marathon
+*author:*	Haruki Murakami and Philip Gabriel
+*link:*	kindle://book?action=open&asin=B005TKD8ZK&location=498
+*note:*	
+*tags:*	#sciencefiction #technology #WhatITalkAboutWhenITalkAboutRunningThebookthatmadeHarryStylesbelievehecouldrunamarathon #HarukiMurakamiandPhilipGabriel
+
+*quote:*	The most important thing we ever learn at school is the fact that the most important things can’t be learned at school.
+*source:*	What I Talk About When I Talk About Running: The book that made Harry Styles believe he could run a marathon
+*author:*	Haruki Murakami and Philip Gabriel
+*link:*	kindle://book?action=open&asin=B005TKD8ZK&location=500
+*note:*	
+*tags:*	#sciencefiction #technology #WhatITalkAboutWhenITalkAboutRunningThebookthatmadeHarryStylesbelievehecouldrunamarathon #HarukiMurakamiandPhilipGabriel
+
+*quote:*	At any rate, that’s how I started running. Thirty-three—that’s how old I was then. Still young enough, though no longer a young man. The age that Jesus Christ died. The age that Scott Fitzgerald started to go downhill. That age may be a kind of crossroads in life. That was the age when I began my life as a runner, and it was my belated, but real, starting point as a novelist.
+*source:*	What I Talk About When I Talk About Running: The book that made Harry Styles believe he could run a marathon
+*author:*	Haruki Murakami and Philip Gabriel
+*link:*	kindle://book?action=open&asin=B005TKD8ZK&location=516
+*note:*	
+*tags:*	#sciencefiction #technology #WhatITalkAboutWhenITalkAboutRunningThebookthatmadeHarryStylesbelievehecouldrunamarathon #HarukiMurakamiandPhilipGabriel
+
+*quote:*	When I say letting it know in no uncertain terms I’m speaking figuratively, of course. No matter how much you might command your body to perform, don’t count on it to immediately obey. The body is an extremely practical system. You have to let it experience intermittent pain over time, and then the body will get the point. As a result, it will willingly accept (or maybe not) the increased amount of exercise it’s made to do. After this, you very gradually increase the upper limit of the amount of exercise you do. Doing it gradually is important so you don’t burn out.
+*source:*	What I Talk About When I Talk About Running: The book that made Harry Styles believe he could run a marathon
+*author:*	Haruki Murakami and Philip Gabriel
+*link:*	kindle://book?action=open&asin=B005TKD8ZK&location=550
+*note:*	
+*tags:*	#sciencefiction #technology #WhatITalkAboutWhenITalkAboutRunningThebookthatmadeHarryStylesbelievehecouldrunamarathon #HarukiMurakamiandPhilipGabriel
+
+*quote:*	Sometimes people will ask me this: “You live such a healthy life every day, Mr. Murakami, so don’t you think you’ll one day find yourself unable to write novels anymore?” People don’t say this much when I’m abroad, but a lot of people in Japan seem to hold the view that writing novels is an unhealthy activity, that novelists are somewhat degenerate and have to live hazardous lives in order to write. There’s a widely held view that by living an unhealthy lifestyle a writer can remove himself from the profane world and attain a kind of purity that has artistic value. This idea has taken shape over a long period of time. Movies and TV dramas perpetuate this stereotypical—or, to put a positive spin on it, legendary—figure of the artist.
+*source:*	What I Talk About When I Talk About Running: The book that made Harry Styles believe he could run a marathon
+*author:*	Haruki Murakami and Philip Gabriel
+*link:*	kindle://book?action=open&asin=B005TKD8ZK&location=1007
+*note:*	
+*tags:*	#sciencefiction #technology #WhatITalkAboutWhenITalkAboutRunningThebookthatmadeHarryStylesbelievehecouldrunamarathon #HarukiMurakamiandPhilipGabriel
+
+*quote:*	With my mind elsewhere I’m able to run for a long while, keeping up a natural speed that doesn’t tire me out. Sometimes when I’m practicing a speech in my head, I catch myself making all kinds of gestures and facial expressions, and the people passing me from the opposite direction give me a weird look.
+*source:*	What I Talk About When I Talk About Running: The book that made Harry Styles believe he could run a marathon
+*author:*	Haruki Murakami and Philip Gabriel
+*link:*	kindle://book?action=open&asin=B005TKD8ZK&location=1069
+*note:*	
+*tags:*	#sciencefiction #technology #WhatITalkAboutWhenITalkAboutRunningThebookthatmadeHarryStylesbelievehecouldrunamarathon #HarukiMurakamiandPhilipGabriel
+
+*quote:*	Like Danton or Robespierre eloquently attempting to persuade the dissatisfied and rebellious Revolutionary Tribunal, I tried to talk each body part into showing a little cooperation. Encouraged them, clung to them, flattered them, scolded them, tried to buck them up. It’s just a little farther, guys. You can’t give up on me now. But if you think about it—and I did think about it—Danton and Robespierre wound up with their heads cut off.
+*source:*	What I Talk About When I Talk About Running: The book that made Harry Styles believe he could run a marathon
+*author:*	Haruki Murakami and Philip Gabriel
+*link:*	kindle://book?action=open&asin=B005TKD8ZK&location=1147
+*note:*	
+*tags:*	#sciencefiction #technology #WhatITalkAboutWhenITalkAboutRunningThebookthatmadeHarryStylesbelievehecouldrunamarathon #HarukiMurakamiandPhilipGabriel
+
+*quote:*	for a marathon to mean anything, it should be fun. Otherwise, why would thousands of people run 26.2 miles?
+*source:*	What I Talk About When I Talk About Running: The book that made Harry Styles believe he could run a marathon
+*author:*	Haruki Murakami and Philip Gabriel
+*link:*	kindle://book?action=open&asin=B005TKD8ZK&location=1392
+*note:*	
+*tags:*	#sciencefiction #technology #WhatITalkAboutWhenITalkAboutRunningThebookthatmadeHarryStylesbelievehecouldrunamarathon #HarukiMurakamiandPhilipGabriel
+
+*quote:*	The other factor is fear. To get to a decent bike path I have to ride through town, and the fear I feel when I weave in and out of traffic on my sports bike with its skinny tires and my bike shoes strapped tight in the straps is something you can’t understand unless you’ve gone through it. As I’ve gotten more experienced I’ve gotten used to it, or at least learned how to survive, but there have been many moments startling enough to put me in a cold sweat.
+*source:*	What I Talk About When I Talk About Running: The book that made Harry Styles believe he could run a marathon
+*author:*	Haruki Murakami and Philip Gabriel
+*link:*	kindle://book?action=open&asin=B005TKD8ZK&location=1419
+*note:*	
+*tags:*	#sciencefiction #technology #WhatITalkAboutWhenITalkAboutRunningThebookthatmadeHarryStylesbelievehecouldrunamarathon #HarukiMurakamiandPhilipGabriel
+
+*quote:*	The weather’s been strange in Japan this summer. The rainy season, which usually winds down in the beginning of July, continued until the end of the month. It rained so much I got sick of it. There were torrential rains in parts of the country, and a lot of people died. They say it’s all because of global warming. Maybe it is, and maybe it isn’t. Some experts claim it is, some claim it isn’t. There’s some proof that it is, some that it isn’t. But still people say that most of the problems the earth is facing are, more or less, due to global warming. When sales of apparel go down, when tons of driftwood wash up on the shore, when there are floods and droughts, when consumer prices go up, most of the fault is ascribed to global warming. What the world needs is a set villain that people can point at and say, “It’s all your fault!”
+*source:*	What I Talk About When I Talk About Running: The book that made Harry Styles believe he could run a marathon
+*author:*	Haruki Murakami and Philip Gabriel
+*link:*	kindle://book?action=open&asin=B005TKD8ZK&location=1435
+*note:*	
+*tags:*	#sciencefiction #technology #WhatITalkAboutWhenITalkAboutRunningThebookthatmadeHarryStylesbelievehecouldrunamarathon #HarukiMurakamiandPhilipGabriel
+
+*quote:*	What I mean is, I didn’t start running because somebody asked me to become a runner. Just like I didn’t become a novelist because someone asked me to. One day, out of the blue, I wanted to write a novel. And one day, out of the blue, I started to run—simply because I wanted to. I’ve always done whatever I felt like doing in life. People may try to stop me, and convince me I’m wrong, but I won’t change.
+*source:*	What I Talk About When I Talk About Running: The book that made Harry Styles believe he could run a marathon
+*author:*	Haruki Murakami and Philip Gabriel
+*link:*	kindle://book?action=open&asin=B005TKD8ZK&location=1551
+*note:*	
+*tags:*	#sciencefiction #technology #WhatITalkAboutWhenITalkAboutRunningThebookthatmadeHarryStylesbelievehecouldrunamarathon #HarukiMurakamiandPhilipGabriel

@@ -1,0 +1,83 @@
+*quote:*	Loyalty is dumb. Data is valuable. The real genius of these programs is making people forget both of those things.
+*source:*	How They Get You: Sneaky Everyday Economics and Smart Ways to Hold on to Your Money
+*author:*	Chris Kohler
+*link:*	kindle://book?action=open&asin=B0FNNGFD8Q&location=442
+*note:*	
+*tags:*	#sciencefiction #technology #HowTheyGetYouSneakyEverydayEconomicsandSmartWaystoHoldontoYourMoney #ChrisKohler
+
+*quote:*	I still say the best loyalty programs are the ones where a coffee shop stamps your card and gives you your 10th coffee free. It’s an incentive to return without requiring the customer to hand over personal information.
+*source:*	How They Get You: Sneaky Everyday Economics and Smart Ways to Hold on to Your Money
+*author:*	Chris Kohler
+*link:*	kindle://book?action=open&asin=B0FNNGFD8Q&location=517
+*note:*	
+*tags:*	#sciencefiction #technology #HowTheyGetYouSneakyEverydayEconomicsandSmartWaystoHoldontoYourMoney #ChrisKohler
+
+*quote:*	Making a decision on your retirement savings based on an ad campaign is like marrying someone who once wore an interesting hat. You’ve been bamboozled by a dork.
+*source:*	How They Get You: Sneaky Everyday Economics and Smart Ways to Hold on to Your Money
+*author:*	Chris Kohler
+*link:*	kindle://book?action=open&asin=B0FNNGFD8Q&location=691
+*note:*	
+*tags:*	#sciencefiction #technology #HowTheyGetYouSneakyEverydayEconomicsandSmartWaystoHoldontoYourMoney #ChrisKohler
+
+*quote:*	the government runs a superannuation comparison service called YourSuper Comparison
+*source:*	How They Get You: Sneaky Everyday Economics and Smart Ways to Hold on to Your Money
+*author:*	Chris Kohler
+*link:*	kindle://book?action=open&asin=B0FNNGFD8Q&location=718
+*note:*	
+*tags:*	#sciencefiction #technology #HowTheyGetYouSneakyEverydayEconomicsandSmartWaystoHoldontoYourMoney #ChrisKohler
+
+*quote:*	In Australia, the US and Canada you’re likely paying anywhere from $1 to $5 per gigabyte of data per month, but let’s have a look at an interesting case study in data: India. In India, you’re paying about $0.10 per gigabyte of data. Why? The reason is as simple as it is fascinating – a telecommunications company named Jio entered in 2016 and destroyed the marketplace. Jio offered data for free for six months to anyone who signed up. Completely unheard of. Within six months the company had 100 million users signed up and, instead of proceeding to charge the same as the competition once the six-month free period ended, it undercut them significantly on ongoing price.
+*source:*	How They Get You: Sneaky Everyday Economics and Smart Ways to Hold on to Your Money
+*author:*	Chris Kohler
+*link:*	kindle://book?action=open&asin=B0FNNGFD8Q&location=1025
+*note:*	
+*tags:*	#sciencefiction #technology #HowTheyGetYouSneakyEverydayEconomicsandSmartWaystoHoldontoYourMoney #ChrisKohler
+
+*quote:*	Behavioural psychologists call this the ‘mere exposure effect’ or ‘familiarity principle’. It basically holds that people develop an acceptance, and even fondness, for something they’re shown over and over again.
+*source:*	How They Get You: Sneaky Everyday Economics and Smart Ways to Hold on to Your Money
+*author:*	Chris Kohler
+*link:*	kindle://book?action=open&asin=B0FNNGFD8Q&location=1199
+*note:*	
+*tags:*	#sciencefiction #technology #HowTheyGetYouSneakyEverydayEconomicsandSmartWaystoHoldontoYourMoney #ChrisKohler
+
+*quote:*	Words like ‘gambling’ or ‘betting’ are deliberately removed from the language. What you end up with is a ‘three-leg, same-game multi’ being spoken about as if it’s a risk-managed investment strategy.
+*source:*	How They Get You: Sneaky Everyday Economics and Smart Ways to Hold on to Your Money
+*author:*	Chris Kohler
+*link:*	kindle://book?action=open&asin=B0FNNGFD8Q&location=1202
+*note:*	
+*tags:*	#sciencefiction #technology #HowTheyGetYouSneakyEverydayEconomicsandSmartWaystoHoldontoYourMoney #ChrisKohler
+
+*quote:*	Everybody has to buy food, so if the price of groceries goes up while leaving behind wages, it acts like a flat tax. Wealthy people might not notice much, because they have bigger discretionary budgets, but people with less spare cash will be floored by it.
+*source:*	How They Get You: Sneaky Everyday Economics and Smart Ways to Hold on to Your Money
+*author:*	Chris Kohler
+*link:*	kindle://book?action=open&asin=B0FNNGFD8Q&location=1449
+*note:*	
+*tags:*	#sciencefiction #technology #HowTheyGetYouSneakyEverydayEconomicsandSmartWaystoHoldontoYourMoney #ChrisKohler
+
+*quote:*	Aldi Australia CEO Anna McGrath sat down in front of the senators, and journalists like me listening via web stream, and said this: ‘We offer such low prices by being a significantly less complex business than our competitors. Everything from our smaller stores, our limited product range and even the way that we serve our customers means our business is simpler to operate. These efficiencies lead to reducing our operating costs and this affords us the ability to maintain our low price position.’
+*source:*	How They Get You: Sneaky Everyday Economics and Smart Ways to Hold on to Your Money
+*author:*	Chris Kohler
+*link:*	kindle://book?action=open&asin=B0FNNGFD8Q&location=1547
+*note:*	
+*tags:*	#sciencefiction #technology #HowTheyGetYouSneakyEverydayEconomicsandSmartWaystoHoldontoYourMoney #ChrisKohler
+
+*quote:*	Supermodel Heidi Klum once took out a policy for her legs. They were ‘inspected’ – whatever that means – and deemed to be worth £1.5 million as a pair. Weirdly, one of the legs was worth slightly less than the other due to a small scar.
+*source:*	How They Get You: Sneaky Everyday Economics and Smart Ways to Hold on to Your Money
+*author:*	Chris Kohler
+*link:*	kindle://book?action=open&asin=B0FNNGFD8Q&location=1850
+*note:*	
+*tags:*	#sciencefiction #technology #HowTheyGetYouSneakyEverydayEconomicsandSmartWaystoHoldontoYourMoney #ChrisKohler
+
+*quote:*	‘contents reduction strategies’ or ‘downweighting’,
+*source:*	How They Get You: Sneaky Everyday Economics and Smart Ways to Hold on to Your Money
+*author:*	Chris Kohler
+*link:*	kindle://book?action=open&asin=B0FNNGFD8Q&location=2213
+*note:*	
+*tags:*	#sciencefiction #technology #HowTheyGetYouSneakyEverydayEconomicsandSmartWaystoHoldontoYourMoney #ChrisKohler
+
+*quote:*	I actually had a friend whose parents bought him the game he wanted and then placed it on top of the fridge. Like a motivational hostage. We thought this was cruel and unusual. Now I’m a parent, I consider it a masterstroke in delayed gratification and goal visualisation.
+*source:*	How They Get You: Sneaky Everyday Economics and Smart Ways to Hold on to Your Money
+*author:*	Chris Kohler
+*link:*	kindle://book?action=open&asin=B0FNNGFD8Q&location=2808
+*note:*	
+*tags:*	#sciencefiction #technology #HowTheyGetYouSneakyEverydayEconomicsandSmartWaystoHoldontoYourMoney #ChrisKohler

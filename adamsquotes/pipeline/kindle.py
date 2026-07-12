@@ -55,6 +55,14 @@ def _required_string(data: dict[str, Any], field: str, context: str) -> str:
     return value
 
 
+def metadata_hashtag(value: str) -> str:
+    """Turn book metadata into one compact hashtag."""
+    words = re.findall(r"[^\W_]+", value, flags=re.UNICODE)
+    if not words:
+        raise KindleImportError("Book metadata must contain letters or numbers")
+    return "#" + "".join(words)
+
+
 def parse_kindle_data(
     data: Any, tags: Sequence[str] = KINDLE_TAGS
 ) -> KindleBook:
@@ -68,7 +76,9 @@ def parse_kindle_data(
     if not isinstance(raw_highlights, list):
         raise KindleImportError("Top-level field 'highlights' must be a list")
 
-    highlight_tags = " ".join(tags)
+    highlight_tags = " ".join(
+        (*tags, metadata_hashtag(title), metadata_hashtag(authors))
+    )
     highlights: list[KindleHighlight] = []
     skipped = 0
     for index, raw in enumerate(raw_highlights):

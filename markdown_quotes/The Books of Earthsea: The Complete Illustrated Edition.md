@@ -1,0 +1,69 @@
+*quote:*	When it comes suppertime at sea, why not say, Meat-pie! and the meat-pie appears, and you eat it?” “Well, we could do so. But we don’t much wish to eat our words, as they say. Meat-pie! is only a word, after all . . . We can make it odorous, and savorous, and even filling, but it remains a word. It fools the stomach and gives no strength to the hungry man.”
+*source:*	The Books of Earthsea: The Complete Illustrated Edition
+*author:*	Ursula K. Le Guin
+*link:*	kindle://book?action=open&asin=B07CRN8NNG&location=2320
+*note:*	
+*tags:*	#sciencefiction #technology #TheBooksofEarthseaTheCompleteIllustratedEdition #UrsulaKLeGuin
+
+*quote:*	“What for?” said Arha, chewing a bitter stem of milkweed she had picked from the wall. The barren land was just past its flowering. All the small desert blossoms, yellow and rose and white, low-growing and quick-flowering, were going to seed, scattering tiny plumes and parasols of ash white on the wind, dropping their hooked, ingenious burrs. The ground under the apple trees of the orchard was a drift of bruised white and pink. The branches were green, the only green trees within miles of the Place. Everything else, from horizon to horizon, was a dull, tawny, desert color, except that the mountains had a silvery bluish tinge from the first buds of the flowering sage.
+*source:*	The Books of Earthsea: The Complete Illustrated Edition
+*author:*	Ursula K. Le Guin
+*link:*	kindle://book?action=open&asin=B07CRN8NNG&location=2904
+*note:*	
+*tags:*	#sciencefiction #technology #TheBooksofEarthseaTheCompleteIllustratedEdition #UrsulaKLeGuin
+
+*quote:*	“What are you then—a god? a king?” She looked him up and down, as he sat chained, dirty, exhausted. “You are nothing but a thief!”
+*source:*	The Books of Earthsea: The Complete Illustrated Edition
+*author:*	Ursula K. Le Guin
+*link:*	kindle://book?action=open&asin=B07CRN8NNG&location=3746
+*note:*	
+*tags:*	#sciencefiction #technology #TheBooksofEarthseaTheCompleteIllustratedEdition #UrsulaKLeGuin
+
+*quote:*	She turned and went on, with her massive, deliberate steps, crushing the frost-starred weeds under her heavy, sandaled feet, going to the white-pillared house of the Godking. The girl stood, slight and dark, as if frozen to earth, in the front courtyard of the Big House. Nobody moved, nothing moved, only Kossil, in all the vast landscape of court and temple, hill and desert plain and mountain.
+*source:*	The Books of Earthsea: The Complete Illustrated Edition
+*author:*	Ursula K. Le Guin
+*link:*	kindle://book?action=open&asin=B07CRN8NNG&location=4005
+*note:*	
+*tags:*	#sciencefiction #technology #TheBooksofEarthseaTheCompleteIllustratedEdition #UrsulaKLeGuin
+
+*quote:*	As she stumbled forward she cried out in her mind, which was as dark, as shaken as the subterranean vault, “Forgive me. O my Masters, O unnamed ones, most ancient ones, forgive me, forgive me!” There was no answer. There had never been an answer.
+*source:*	The Books of Earthsea: The Complete Illustrated Edition
+*author:*	Ursula K. Le Guin
+*link:*	kindle://book?action=open&asin=B07CRN8NNG&location=4306
+*note:*	
+*tags:*	#sciencefiction #technology #TheBooksofEarthseaTheCompleteIllustratedEdition #UrsulaKLeGuin
+
+*quote:*	“Summon up a supper,” he said. “Oh, I could. On golden plates, if you like. But that’s illusion, and when you eat illusions you end up hungrier than before. It’s about as nourishing as eating your own words.”
+*source:*	The Books of Earthsea: The Complete Illustrated Edition
+*author:*	Ursula K. Le Guin
+*link:*	kindle://book?action=open&asin=B07CRN8NNG&location=4399
+*note:*	
+*tags:*	#sciencefiction #technology #TheBooksofEarthseaTheCompleteIllustratedEdition #UrsulaKLeGuin
+
+*quote:*	And Tenar listened to the sea, a few yards below the cave mouth, crashing and sucking and booming on the rocks, and the thunder of it down the beach eastward for miles. Over and over and over it made the same sounds, yet never quite the same. It never rested. On all the shores of all the lands in all the world, it heaved itself in these unresting waves, and never ceased, and never was still. The desert, the mountains: they stood still. They did not cry out forever in a great, dull voice. The sea spoke forever, but its language was foreign to her. She did not understand.
+*source:*	The Books of Earthsea: The Complete Illustrated Edition
+*author:*	Ursula K. Le Guin
+*link:*	kindle://book?action=open&asin=B07CRN8NNG&location=4522
+*note:*	
+*tags:*	#sciencefiction #technology #TheBooksofEarthseaTheCompleteIllustratedEdition #UrsulaKLeGuin
+
+*quote:*	What she had begun to learn was the weight of liberty. Freedom is a heavy load, a great and strange burden for the spirit to undertake. It is not easy. It is not a gift given, but a choice made, and the choice may be a hard one. The road goes upward toward the light; but the laden traveler may never reach the end of it.
+*source:*	The Books of Earthsea: The Complete Illustrated Edition
+*author:*	Ursula K. Le Guin
+*link:*	kindle://book?action=open&asin=B07CRN8NNG&location=4575
+*note:*	
+*tags:*	#sciencefiction #technology #TheBooksofEarthseaTheCompleteIllustratedEdition #UrsulaKLeGuin
+
+*quote:*	Now came the great, improbable impetus to the book: a road trip to southeastern Oregon, our first visit to Harney County, a high and lonesome land of mountains and great sagebrush plains, of pure skies, far distances, and silence. Coming back from there, after a two-day, weary, dusty drive with our three kids, I knew my novel would be set in that desert. In the car, when we weren’t playing Signs Alphabet or singing “Forty-Nine Bottles,” I began to dream my story. That land had given it to me. I am forever grateful.
+*source:*	The Books of Earthsea: The Complete Illustrated Edition
+*author:*	Ursula K. Le Guin
+*link:*	kindle://book?action=open&asin=B07CRN8NNG&location=4678
+*note:*	
+*tags:*	#sciencefiction #technology #TheBooksofEarthseaTheCompleteIllustratedEdition #UrsulaKLeGuin
+
+*quote:*	In The Tombs of Atuan, the Old Powers, the Nameless Ones, appear as mysterious, ominous, and yet inactive. Arha/Tenar is their priestess, the greatest of all priestesses, whom the Godking himself is supposed to obey: But what is her realm? A prison in the desert. Women guarded by eunuchs. Ancient tombstones, a half-ruined temple, an empty throne. A fearful underground labyrinth where prisoners are left to die of starvation and thirst, where only she can walk the maze, where light must never come. She rules a dark, empty, useless realm. Her power imprisons her.
+*source:*	The Books of Earthsea: The Complete Illustrated Edition
+*author:*	Ursula K. Le Guin
+*link:*	kindle://book?action=open&asin=B07CRN8NNG&location=4711
+*note:*	
+*tags:*	#sciencefiction #technology #TheBooksofEarthseaTheCompleteIllustratedEdition #UrsulaKLeGuin

@@ -10,6 +10,7 @@ import pytest
 from adamsquotes.cli.kindle import _build_parser
 from adamsquotes.pipeline.kindle import (
     KindleImportError,
+    metadata_hashtag,
     parse_kindle_data,
     parse_kindle_json,
     process_kindle_file,
@@ -52,10 +53,11 @@ def test_parse_and_serialize_preserves_order_and_fields() -> None:
         "*quote:*\tFirst — with Unicode ‘punctuation’.\n"
         "*source:*\tAccelerando\n*author:*\tCharles Stross\n"
         "*link:*\tkindle://first\n*note:*\t\n"
-        "*tags:*\t#sciencefiction #technology\n\n"
+        "*tags:*\t#sciencefiction #technology #Accelerando #CharlesStross\n\n"
         "*quote:*\tSecond quote.\n*source:*\tAccelerando\n"
         "*author:*\tCharles Stross\n*link:*\tkindle://second\n"
-        "*note:*\tUseful annotation\n*tags:*\t#sciencefiction #technology\n"
+        "*note:*\tUseful annotation\n"
+        "*tags:*\t#sciencefiction #technology #Accelerando #CharlesStross\n"
     )
 
 
@@ -63,8 +65,21 @@ def test_custom_tags_are_applied_to_every_highlight() -> None:
     book = parse_kindle_data(kindle_data(), ["#fiction", "#space-opera"])
 
     assert {highlight.tags for highlight in book.highlights} == {
-        "#fiction #space-opera"
+        "#fiction #space-opera #Accelerando #CharlesStross"
     }
+
+
+@pytest.mark.parametrize(
+    ("value", "expected"),
+    [
+        ("The Left Hand of Darkness", "#TheLeftHandofDarkness"),
+        ("Ursula K. Le Guin", "#UrsulaKLeGuin"),
+        ("The Three-Body Problem", "#TheThreeBodyProblem"),
+        ("Australia's Most Elusive Bird", "#AustraliasMostElusiveBird"),
+    ],
+)
+def test_metadata_hashtag_compacts_words(value: str, expected: str) -> None:
+    assert metadata_hashtag(value) == expected
 
 
 def test_cli_accepts_tag_list() -> None:
@@ -128,7 +143,7 @@ def test_process_uses_custom_tags(tmp_path: Path) -> None:
     process_kindle_file(source, standalone, aggregate, ["#novel", "#ai"])
 
     assert standalone.read_text(encoding="utf-8").count(
-        "*tags:*\t#novel #ai"
+        "*tags:*\t#novel #ai #Accelerando #CharlesStross"
     ) == 2
 
 
