@@ -14,6 +14,7 @@ adamsquotes-tag = "adamsquotes.cli.tagger:main"
 adamsquotes-convert = "adamsquotes.cli.converter:main"
 adamsquotes-clean = "adamsquotes.cli.llm_cleaner:main"
 adamsquotes-render = "adamsquotes.cli.renderer:main"
+adamsquotes-kindle = "adamsquotes.cli.kindle:main"
 
 [build-system]
 requires = ["setuptools>=64"]
