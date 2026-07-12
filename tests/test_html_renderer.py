@@ -9,6 +9,7 @@ from pathlib import Path
 from adamsquotes.pipeline.html_renderer import (
     parse_quotes,
     render_toc,
+    render_tag_index,
     render_quote_html,
     generate_html,
     write_html,
@@ -124,6 +125,27 @@ class TestRenderToc:
             assert f'href="#{q.id_for_quote}"' in toc
 
 
+class TestRenderTagIndex:
+    def test_deduplicates_sorts_and_counts_tags_case_insensitively(self):
+        quotes = parse_quotes(
+            SAMPLE_MD_WITH_TAGS
+            + SAMPLE_MD_WITH_TAGS.replace(
+                "#science #knowledge", "#Science #science #art"
+            )
+        )
+        html = render_tag_index(quotes)
+        assert html.index("#art (1)") < html.index("#knowledge (1)")
+        assert html.index("#knowledge (1)") < html.index("#science (2)")
+        assert html.count("#science (2)") == 1
+
+    def test_empty_tags_render_valid_collapsed_panel(self):
+        html = render_tag_index(parse_quotes(SAMPLE_MD))
+        assert html.startswith('<details class="hashtag-browser">')
+        assert " open" not in html.split("\n", 1)[0]
+        assert "No hashtags yet." in html
+        assert "href=" not in html
+
+
 class TestGenerateHtml:
     def test_injects_table_of_contents(self):
         quotes = parse_quotes(SAMPLE_MD)
@@ -149,7 +171,7 @@ class TestGenerateHtml:
         assert html.startswith("<!DOCTYPE html>")
 
     def test_real_header_includes_search_markup_and_script(self):
-        quotes = parse_quotes(SAMPLE_MD)
+        quotes = parse_quotes(SAMPLE_MD_WITH_TAGS)
         header = Path("Header.html").read_text(encoding="utf-8")
         html = generate_html(quotes, header)
         assert 'class="quoteSearchInput"' in html
@@ -157,6 +179,12 @@ class TestGenerateHtml:
         assert "queryMatchesTag" in html
         assert 'searchParams.set("tag"' in html
         assert 'document.querySelectorAll(".quote")' in html
+        assert '<details class="hashtag-browser">' in html
+        assert '<!-- hashtag browser -->' not in html
+        assert 'href="?tag=' in html
+        assert 'class="tableOfContentsDiv" id="tableOfContents" hidden' in html
+        assert 'aria-expanded="false"' in html
+        assert "Show Table of Contents" in html
 
 
 class TestWriteHtml:

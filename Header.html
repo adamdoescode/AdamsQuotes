@@ -26,8 +26,9 @@
             </p>
         </div>
     </div>
-    <div class="quoteSearchDiv">
-        <form class="quoteSearchForm" role="search">
+    <div class="quoteBrowseDiv">
+        <div class="quoteSearchDiv">
+          <form class="quoteSearchForm" role="search">
             <label class="quoteSearchLabel" for="quoteSearchInput">Search quotes</label>
             <input
                 class="quoteSearchInput"
@@ -38,12 +39,21 @@
             >
             <button class="quoteSearchClear" type="reset">Clear</button>
             <p class="quoteSearchCount" aria-live="polite"></p>
-        </form>
+          </form>
+        </div>
+        <div class="hashtagBrowserDiv">
+            <!-- hashtag browser -->
+        </div>
     </div>
     <div class="buttonDiv">
-        <button class="hideTableOfContents">Hide Table of Contents</button>
+        <button
+            class="hideTableOfContents"
+            type="button"
+            aria-controls="tableOfContents"
+            aria-expanded="false"
+        >Show Table of Contents</button>
     </div>
-    <div class="tableOfContentsDiv">
+    <div class="tableOfContentsDiv" id="tableOfContents" hidden>
         <!-- table of contents -->
     </div>
     <div class="quotesDiv">

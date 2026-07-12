@@ -28,10 +28,15 @@ em.p-title {
     padding: 0.1em;
     margin: 0.5em;
 }
-.quoteSearchDiv {
+.quoteBrowseDiv {
     display: flex;
     justify-content: center;
+    align-items: flex-start;
+    gap: 0.5em;
     margin: 0.5em;
+}
+.quoteSearchDiv {
+    display: flex;
 }
 .quoteSearchForm {
     background-color: rgb(255, 101, 160);
@@ -58,6 +63,27 @@ em.p-title {
     margin: 0;
     width: 100%;
 }
+.hashtagBrowserDiv {
+    max-width: 38em;
+}
+.hashtag-browser {
+    background-color: rgb(255, 71, 126);
+    border: solid rgb(179, 28, 78) 0.2em;
+    padding: 0.5em;
+}
+.hashtag-browser summary {
+    cursor: pointer;
+    font-weight: 900;
+}
+.hashtag-browser-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4em;
+    margin-top: 0.5em;
+}
+.hashtag-browser-empty {
+    margin: 0;
+}
 /* Styling for table of contents */
 .buttonDiv {
     display: flex;
@@ -71,6 +97,15 @@ em.p-title {
 }
 
 @media (max-width: 600px) {
+    .quoteBrowseDiv {
+        flex-direction: column;
+        align-items: stretch;
+    }
+    .quoteSearchForm,
+    .hashtagBrowserDiv {
+        width: 100%;
+        box-sizing: border-box;
+    }
     .column1 {
         display: none;
     }

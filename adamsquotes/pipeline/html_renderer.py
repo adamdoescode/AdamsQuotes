@@ -7,6 +7,7 @@ module-level functions.
 
 from __future__ import annotations
 
+from html import escape
 from pathlib import Path
 from typing import List
 from urllib.parse import quote as url_quote
@@ -103,6 +104,41 @@ def render_toc(quotes: List[Quote]) -> str:
     return result + "</div>\n"
 
 
+def render_tag_index(quotes: List[Quote]) -> str:
+    """Build a collapsed browser of unique tags and their quote counts.
+
+    Tags are deduplicated and sorted case-insensitively. A tag repeated within
+    one quote contributes only once to that tag's quote count.
+    """
+    tags: dict[str, tuple[str, int]] = {}
+    for quote in quotes:
+        quote_tags: dict[str, str] = {}
+        for raw_tag in quote.tags:
+            display_tag = raw_tag if raw_tag.startswith("#") else f"#{raw_tag}"
+            quote_tags.setdefault(display_tag.casefold(), display_tag)
+        for normalized, display_tag in quote_tags.items():
+            first_display, count = tags.get(normalized, (display_tag, 0))
+            tags[normalized] = (first_display, count + 1)
+
+    result = '<details class="hashtag-browser">\n'
+    result += '  <summary>Browse hashtags</summary>\n'
+    result += '  <div class="hashtag-browser-tags">\n'
+    if tags:
+        for normalized in sorted(tags):
+            display_tag, count = tags[normalized]
+            tag_query = display_tag.removeprefix("#")
+            safe_display = escape(display_tag)
+            result += (
+                f'    <a class="quote-tag hashtag-browser-tag"'
+                f' href="?tag={url_quote(tag_query)}"'
+                f' data-tag="{safe_display}">{safe_display} ({count})</a>\n'
+            )
+    else:
+        result += '    <p class="hashtag-browser-empty">No hashtags yet.</p>\n'
+    result += "  </div>\n</details>\n"
+    return result
+
+
 def render_quote_html(quote: Quote) -> str:
     """Render a single ``Quote`` as an HTML ``<div>`` block.
 
@@ -158,7 +194,10 @@ def generate_html(quotes: List[Quote], header_template: str) -> str:
     Returns:
         The complete HTML page as a string.
     """
-    result = header_template.replace("<!-- table of contents -->", render_toc(quotes))
+    result = header_template.replace(
+        "<!-- hashtag browser -->", render_tag_index(quotes)
+    )
+    result = result.replace("<!-- table of contents -->", render_toc(quotes))
     quotes_html = "".join(render_quote_html(q) for q in quotes)
     result = result.replace("<!--quotes-->", quotes_html)
     return result

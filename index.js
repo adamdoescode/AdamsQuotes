@@ -1,14 +1,14 @@
 
-// click button hides the div of class tableOfContentsDiv
+// Toggle the table of contents, which starts hidden in Header.html.
 function handleClick() {
-    if (document.querySelector('.tableOfContentsDiv').style.display === 'none') {
-        document.querySelector('.tableOfContentsDiv').style.display = '';
-        document.querySelector('.hideTableOfContents').innerHTML = 'Hide table of Contents';
-    } else {
-        document.querySelector('.tableOfContentsDiv').style.display = 'none';
-        document.querySelector('.hideTableOfContents').innerHTML = 'Show table of Contents';
-    }
-    }
+    const tableOfContents = document.querySelector('.tableOfContentsDiv');
+    const button = document.querySelector('.hideTableOfContents');
+    tableOfContents.hidden = !tableOfContents.hidden;
+    button.setAttribute('aria-expanded', String(!tableOfContents.hidden));
+    button.textContent = tableOfContents.hidden
+        ? 'Show Table of Contents'
+        : 'Hide Table of Contents';
+}
 
-// add handleClick function to button with class hideTableOfContents
+// Add handleClick function to button with class hideTableOfContents.
 document.querySelector('.hideTableOfContents').addEventListener('click', handleClick);

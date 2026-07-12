@@ -155,6 +155,7 @@ The script generates a standalone HTML page with:
 - A **table of contents** listing every quote title linked to its section on the page.
 - Each quote rendered in its own `<div class="quote">` with unique `id`, plus classes for the quote text, source, author, link, any notes, and semantic tag chips.
 - A static search box that filters quote cards by visible quote text, metadata, notes, or hashtags.
+- A collapsible hashtag browser listing every unique hashtag and its quote count; selecting one applies the same shareable `?tag=` filter used by quote tag chips.
 - The HTML scaffold is provided by `Header.html` — edit that file to customise the page header/footer and styling.
 
 ## Workflow
