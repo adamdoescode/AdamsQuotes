@@ -147,6 +147,27 @@ def test_process_uses_custom_tags(tmp_path: Path) -> None:
     ) == 2
 
 
+def test_process_accepts_title_with_colon(tmp_path: Path) -> None:
+    data = kindle_data()
+    data["title"] = "All Systems Red: The Murderbot Diaries"
+    data["authors"] = "Martha Wells"
+    source = tmp_path / "input.json"
+    standalone = tmp_path / "All Systems Red: The Murderbot Diaries.md"
+    aggregate = tmp_path / "QuotesProcessed.md"
+    source.write_text(json.dumps(data), encoding="utf-8")
+
+    result = process_kindle_file(source, standalone, aggregate)
+
+    assert result.written == 2
+    assert standalone.exists()
+    assert "*source:*\tAll Systems Red: The Murderbot Diaries" in (
+        standalone.read_text(encoding="utf-8")
+    )
+    assert "*source:*\tAll Systems Red: The Murderbot Diaries" in (
+        aggregate.read_text(encoding="utf-8")
+    )
+
+
 def test_validation_failure_does_not_change_outputs(tmp_path: Path) -> None:
     source = tmp_path / "bad.json"
     standalone = tmp_path / "book.md"
