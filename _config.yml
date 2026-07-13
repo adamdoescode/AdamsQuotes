@@ -1,0 +1,20 @@
+title: Adam's Quotes
+
+exclude:
+  - AGENTS.md
+  - Gemfile
+  - Gemfile.lock
+  - Header.html
+  - README.md
+  - .ruby-version
+  - __pycache__/
+  - adamsquotes/
+  - adamsquotes.egg-info/
+  - data/
+  - docs/
+  - markdown_quotes/
+  - pyproject.toml
+  - scripts/
+  - tests/
+  - uv.lock
+  - vendor/

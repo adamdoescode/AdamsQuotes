@@ -80,6 +80,28 @@ Quotes initially come in unprocessed, e.g in `markdown_quotes/sampleQuotesUnproc
 
 The user exposed part of the website is `index.html` which is styled by `style.css` and has some table of contents handling in `index.js`.
 
+## Validating GitHub Pages
+
+GitHub Pages runs this repository through Jekyll before publishing. Use Ruby
+3.3, matching `.ruby-version` and CI. The local validation command uses the
+same pinned `github-pages` gem stack as CI:
+
+```sh
+bundle install
+make validate
+```
+
+The Jekyll config excludes quote source files and project source directories
+from the published site. The intended published files are the root static
+assets: `index.html`, `style.css`, and `index.js`.
+
+`make validate` runs both checks used by CI:
+
+```sh
+bundle exec jekyll build --safe --trace
+uv run pytest
+```
+
 ## CLI reference for adamsquotes-tag
 
 ```
