@@ -21,5 +21,8 @@ venv/
 # Dependencies
 uv.lock
 
+# Jekyll
+_site/
+
 # Local environment secrets
 .env
