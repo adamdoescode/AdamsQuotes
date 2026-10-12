@@ -151,11 +151,13 @@ def render_quote_html(quote: Quote) -> str:
     html = f'<div class="quote" id="{quote.id_for_quote}">\n'
     if quote.title:
         html += f'  <p class="quote-title">{quote.title}</p>\n'
+    html += '  <blockquote class="quote-text">\n'
+    for quote_line in quote.quote.splitlines():
+        html += f"    <p>{quote_line}</p>\n"
+    html += "  </blockquote>\n"
     if quote.note:
         for note in quote.note.splitlines():
             html += f'  <p class="note">{note}</p>\n'
-    for quote_line in quote.quote.splitlines():
-        html += f'  <p class="quote-text">{quote_line}</p>\n'
     if quote.source:
         html += (
             f'  <p class="source"><span class="source-source">Source:</span>'
@@ -169,7 +171,7 @@ def render_quote_html(quote: Quote) -> str:
     if quote.link:
         html += (
             f'  <p class="link"><span class="tag-link">Link:</span>'
-            f' <a class="tag-link-href" href="{quote.link}">{quote.link}<a></p>\n'
+            f' <a class="tag-link-href" href="{quote.link}">{quote.link}</a></p>\n'
         )
     if quote.tags:
         html += '  <div class="quote-tags">\n'

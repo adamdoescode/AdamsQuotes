@@ -1,0 +1,98 @@
+/*
+ * theme.css — single source of truth for colour on adamdoescode.github.io
+ *
+ * Palette: https://colorhunt.co/palette/f599c6ffea887dccad4d6787
+ *   #f599c6 pink   — primary
+ *   #ffea88 yellow — secondary
+ *   #7dccad mint   — accent
+ *   #4d6787 slate  — ink, and the ground in dark mode
+ *
+ * All four source colours are used as-is for fills. Text needs more contrast
+ * than a pastel can provide, so the *-ink tokens are hue-matched darkenings of
+ * those same four colours rather than new hues.
+ *
+ * Light is the default; dark is applied automatically via prefers-color-scheme.
+ * There is deliberately no toggle and no JavaScript.
+ *
+ * Naming is semantic, not literal: --colour-primary is a pink FILL,
+ * --colour-primary-ink is pink TEXT. Do not put an *-ink colour on a surface
+ * token that flips lightness between schemes — see --colour-surface-alt, which
+ * is pastel yellow in light but dark slate in dark, and so always pairs with
+ * --colour-ink.
+ *
+ * Every pair below was checked against WCAG 2.1: all exceed AA (4.5:1 body
+ * text, 3:1 large text and UI edges). Worst case is 4.5:1.
+ *
+ * Token names are a public contract: adamdoescode.github.io/AdamsQuotes/ loads
+ * this file live (with a vendored fallback copy). Renaming or removing a token
+ * needs a matching change in the AdamsQuotes repo.
+ */
+
+:root {
+  color-scheme: light dark;
+
+  /* --- surfaces --- */
+  --colour-bg: #fbf7f2;          /* page background, warm off-white */
+  --colour-surface: #ffffff;     /* cards, project tiles */
+  --colour-surface-alt: #ffea88; /* code, callouts — palette yellow */
+
+  /* --- text --- */
+  --colour-ink: #243345;         /* slate darkened; 12.1:1 on bg */
+  --colour-muted: #49678b;       /* palette slate; captions, dates, 5.5:1 */
+
+  /* --- pink primary --- */
+  --colour-primary: #f599c6;     /* fills, title block, decorative bars */
+  --colour-primary-ink: #da066e;  /* links, 4.7:1 on bg */
+
+  /* --- yellow secondary --- */
+  --colour-secondary: #ffea88;   /* fills, tile hover, highlights */
+  --colour-secondary-ink: #887000; /* yellow-family text, 4.5:1 on bg */
+
+  /* --- mint accent --- */
+  --colour-accent: #7dccad;      /* project divider bars */
+  --colour-accent-ink: #2b805f;   /* 4.5:1 on bg */
+
+  /* Text placed ON a pastel pink, yellow or mint fill. Those fills stay
+   * pastel in both schemes, so this stays dark in both schemes too
+   * (6.3:1 worst case, on pink). */
+  --colour-on-primary: #243345;
+  --colour-on-secondary: #243345;
+
+  /* --- structure --- */
+  --colour-border: #243345;      /* the neobrutalist outline */
+  --colour-shadow: #243345;      /* hard offset shadow, no blur */
+
+  /* --- neobrutalist geometry (shared so both stylesheets stay in step) --- */
+  --border-width: 3px;
+  --shadow-offset: 5px;
+  --shadow-offset-small: 3px;
+  --shadow-hard: var(--shadow-offset) var(--shadow-offset) 0 var(--colour-shadow);
+  --shadow-hard-small: var(--shadow-offset-small) var(--shadow-offset-small) 0 var(--colour-shadow);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    /* The ground is palette slate, darkened until it can carry body text. */
+    --colour-bg: #1f2b3b;
+    --colour-surface: #2a3a4f;
+    --colour-surface-alt: #334661;
+
+    --colour-ink: #eef3f7;         /* 13.0:1 on bg */
+    --colour-muted: #a9c0d4;       /* 7.8:1 on bg */
+
+    /* The pastels are bright enough to serve as text on slate, so fill and
+     * ink converge here and the palette stays literal in dark mode. */
+    --colour-primary: #f599c6;
+    --colour-primary-ink: #f599c6;  /* 7.0:1 on bg */
+
+    --colour-secondary: #ffea88;
+    --colour-secondary-ink: #ffea88; /* 11.9:1 on bg */
+
+    --colour-accent: #7dccad;
+    --colour-accent-ink: #7dccad;   /* 7.6:1 on bg */
+
+    /* inverted outline: light ink on dark keeps the brutalist edge visible */
+    --colour-border: #eef3f7;
+    --colour-shadow: #eef3f7;
+  }
+}
