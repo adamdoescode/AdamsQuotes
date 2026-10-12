@@ -246,6 +246,9 @@ h1 {
     font-size: 0.85em;
     font-weight: 700;
     padding: 0.05em 0.4em;
+    /* Kindle imports turn whole book titles into tags; wrap them in the card. */
+    min-width: 0;
+    overflow-wrap: anywhere;
 }
 .quote-tag:hover,
 .quote-tag:focus-visible {
