@@ -96,6 +96,13 @@ class TestRenderQuoteHtml:
         html = render_quote_html(quotes[0])
         assert '<span class="tag-link">Link:</span>' in html
 
+    def test_header_has_collapse_toggle(self):
+        quotes = parse_quotes(SAMPLE_MD)
+        html = render_quote_html(quotes[0])
+        header = html.split('<div class="quote-header">', 1)[1].split("</div>", 1)[0]
+        assert '<p class="quote-title">' in header
+        assert 'class="quote-toggle" type="button" aria-expanded="true"' in header
+
     def test_link_anchor_is_closed(self):
         quotes = parse_quotes(SAMPLE_MD)
         html = render_quote_html(quotes[0])

@@ -190,12 +190,58 @@ h1 {
     margin-bottom: 1.5em;
 }
 
+/* Clicking the header row (title + chevron) collapses the card to its title. */
+.quote-header {
+    display: flex;
+    align-items: center;
+    gap: 0.75em;
+    margin-bottom: 0.6em;
+    cursor: pointer;
+}
 .quote-title {
     color: var(--colour-muted);
     font-size: 0.75em;
     text-transform: uppercase;
     letter-spacing: 0.05em;
-    margin: 0 0 0.6em;
+    margin: 0;
+    flex: 1;
+}
+.quote-toggle {
+    flex: none;
+    margin-left: auto;
+    width: 1.8em;
+    height: 1.8em;
+    padding: 0;
+    background-color: var(--colour-surface);
+    color: var(--colour-ink);
+    border: 2px solid var(--colour-border);
+    box-shadow: var(--shadow-hard-small);
+    cursor: pointer;
+    font-weight: 700;
+    line-height: 1;
+}
+.quote-toggle::before {
+    content: "▾";
+}
+.quote-toggle:hover,
+.quote-toggle:focus-visible {
+    background-color: var(--colour-secondary);
+    color: var(--colour-on-secondary);
+}
+.quote.is-collapsed {
+    padding-block: 0.5em;
+}
+.quote.is-collapsed .quote-header {
+    margin-bottom: 0;
+}
+.quote.is-collapsed .quote-title {
+    color: var(--colour-ink);
+}
+.quote.is-collapsed .quote-toggle::before {
+    content: "▸";
+}
+.quote.is-collapsed > :not(.quote-header) {
+    display: none;
 }
 
 .quote-text {

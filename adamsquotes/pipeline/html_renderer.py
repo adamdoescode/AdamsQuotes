@@ -149,8 +149,14 @@ def render_quote_html(quote: Quote) -> str:
         An HTML string for one quote ``<div>``.
     """
     html = f'<div class="quote" id="{quote.id_for_quote}">\n'
+    html += '  <div class="quote-header">\n'
     if quote.title:
-        html += f'  <p class="quote-title">{quote.title}</p>\n'
+        html += f'    <p class="quote-title">{quote.title}</p>\n'
+    html += (
+        '    <button class="quote-toggle" type="button" aria-expanded="true"'
+        ' aria-label="Collapse quote"></button>\n'
+    )
+    html += "  </div>\n"
     html += '  <blockquote class="quote-text">\n'
     for quote_line in quote.quote.splitlines():
         html += f"    <p>{quote_line}</p>\n"
