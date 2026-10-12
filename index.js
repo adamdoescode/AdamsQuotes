@@ -12,3 +12,16 @@ function handleClick() {
 
 // Add handleClick function to button with class hideTableOfContents.
 document.querySelector('.hideTableOfContents').addEventListener('click', handleClick);
+
+// Collapse a quote to its title when its header row (title or chevron) is clicked.
+document.addEventListener('click', (event) => {
+    const header = event.target.closest('.quote-header');
+    if (!header) {
+        return;
+    }
+    const quote = header.closest('.quote');
+    const button = header.querySelector('.quote-toggle');
+    const collapsed = quote.classList.toggle('is-collapsed');
+    button.setAttribute('aria-expanded', String(!collapsed));
+    button.setAttribute('aria-label', collapsed ? 'Expand quote' : 'Collapse quote');
+});

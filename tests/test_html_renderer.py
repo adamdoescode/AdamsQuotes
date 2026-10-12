@@ -96,6 +96,29 @@ class TestRenderQuoteHtml:
         html = render_quote_html(quotes[0])
         assert '<span class="tag-link">Link:</span>' in html
 
+    def test_header_has_collapse_toggle(self):
+        quotes = parse_quotes(SAMPLE_MD)
+        html = render_quote_html(quotes[0])
+        header = html.split('<div class="quote-header">', 1)[1].split("</div>", 1)[0]
+        assert '<p class="quote-title">' in header
+        assert 'class="quote-toggle" type="button" aria-expanded="true"' in header
+
+    def test_link_anchor_is_closed(self):
+        quotes = parse_quotes(SAMPLE_MD)
+        html = render_quote_html(quotes[0])
+        assert html.count("<a ") == html.count("</a>")
+
+    def test_quote_lines_share_one_blockquote(self):
+        quote = parse_quotes("*quote:*\tfirst line\nsecond line\n*source:*\n*author:*\n*link:*\n*note:*\n")[0]
+        html = render_quote_html(quote)
+        assert html.count('<blockquote class="quote-text">') == 1
+        assert "    <p>first line</p>\n    <p>second line</p>\n" in html
+
+    def test_note_follows_quote_text(self):
+        quotes = parse_quotes(SAMPLE_MD)
+        html = render_quote_html(quotes[1])
+        assert html.index("</blockquote>") < html.index('<p class="note">')
+
     def test_contains_note_tagged(self):
         quotes = parse_quotes(SAMPLE_MD)
         html = render_quote_html(quotes[1])

@@ -1,100 +1,160 @@
+/* Quote page styles.
+ * Colours come exclusively from theme.css tokens — do not hardcode hex here.
+ * theme.css is the homepage's shared palette: a vendored copy loads first as
+ * a fallback, then the live copy from adamdoescode.github.io overrides it.
+ * tests/test_theme_tokens.py checks every var(--…) below is defined there.
+ *
+ * Pairing note: --colour-surface-alt flips from yellow to slate in dark mode,
+ * so keep *-ink text (links) off it; use --colour-surface for link-heavy areas.
+ */
 
-* {
-    font-family: 'Victor Mono', 'Courier New', Courier, monospace;
-    text-align: left;
-}
 body {
-    background-color: blueviolet;
-    display: flex;
-    flex-direction: column;
+    font-family: 'Victor Mono', 'Courier New', Courier, monospace;
+    background-color: var(--colour-bg);
+    color: var(--colour-ink);
+    max-width: 48rem;
+    margin: 0 auto;
+    padding: 1rem;
+    line-height: 1.4;
 }
+button,
+input {
+    font: inherit;
+}
+
+a {
+    color: var(--colour-primary-ink);
+    text-decoration: none;
+}
+a:hover,
+a:focus-visible {
+    text-decoration: underline;
+    text-decoration-thickness: 0.16em;
+    text-underline-offset: 0.18em;
+}
+
+/* Header */
+
 h1 {
+    display: table;
+    margin: 0.5em auto 0.75em;
+    padding: 0.15em 0.4em;
+    font-size: 2.2em;
     text-align: center;
-    color: bisque;
-    font-size: 4em;
-}
-em.p-title {
-    padding: 0em;
-    margin: 0em;
+    background-color: var(--colour-primary);
+    color: var(--colour-on-primary);
+    border: var(--border-width) solid var(--colour-border);
+    box-shadow: var(--shadow-hard);
 }
 .preamble {
-    background-color: rgb(226, 132, 189);
-    border: solid rgb(58, 33, 48) 0.2em;
-    padding: 0.5em;
-    margin: 0.5em;
+    background-color: var(--colour-surface);
+    border: var(--border-width) solid var(--colour-border);
+    box-shadow: var(--shadow-hard);
+    padding: 0.25em 1em;
 }
 .p-title {
-    background-color: rgb(226, 132, 189);
-    padding: 0.1em;
-    margin: 0.5em;
+    margin: 0.6em 0;
 }
+
+/* Search, hashtag browser and table-of-contents toggle */
+
 .quoteBrowseDiv {
     display: flex;
-    justify-content: center;
     align-items: flex-start;
-    gap: 0.5em;
-    margin: 0.5em;
+    gap: 1em;
+    margin: 1.5em 0 1em;
 }
 .quoteSearchDiv {
     display: flex;
 }
 .quoteSearchForm {
-    background-color: rgb(255, 101, 160);
-    border: solid rgb(226, 90, 135) 0.2em;
+    background-color: var(--colour-surface-alt);
+    color: var(--colour-ink);
+    border: var(--border-width) solid var(--colour-border);
+    box-shadow: var(--shadow-hard-small);
     display: flex;
     flex-wrap: wrap;
     gap: 0.5em;
-    padding: 0.5em;
+    padding: 0.6em;
 }
 .quoteSearchLabel {
-    font-weight: 900;
+    font-weight: 700;
+    width: 100%;
 }
 .quoteSearchInput {
-    background-color: bisque;
-    border: solid black 1px;
-    min-width: min(24em, 100%);
-    padding: 0.2em;
+    background-color: var(--colour-surface);
+    color: var(--colour-ink);
+    border: 2px solid var(--colour-border);
+    min-width: min(16em, 100%);
+    padding: 0.2em 0.4em;
 }
 .quoteSearchSubmit,
-.quoteSearchClear {
-    background-color: rgb(226, 132, 189);
-    border: solid black 1px;
+.quoteSearchClear,
+.hideTableOfContents {
+    background-color: var(--colour-primary);
+    color: var(--colour-on-primary);
+    border: 2px solid var(--colour-border);
+    box-shadow: var(--shadow-hard-small);
+    cursor: pointer;
+    font-weight: 700;
+    padding: 0.2em 0.6em;
+}
+.quoteSearchSubmit:hover,
+.quoteSearchClear:hover,
+.hideTableOfContents:hover {
+    background-color: var(--colour-secondary);
+    color: var(--colour-on-secondary);
 }
 .quoteSearchCount {
     margin: 0;
     width: 100%;
 }
+.quoteSearchCount:empty {
+    display: none;
+}
 .hashtagBrowserDiv {
-    max-width: 38em;
+    flex: 1;
 }
 .hashtag-browser {
-    background-color: rgb(255, 71, 126);
-    border: solid rgb(179, 28, 78) 0.2em;
-    padding: 0.5em;
+    background-color: var(--colour-surface-alt);
+    color: var(--colour-ink);
+    border: var(--border-width) solid var(--colour-border);
+    box-shadow: var(--shadow-hard-small);
+    padding: 0.6em;
 }
 .hashtag-browser summary {
     cursor: pointer;
-    font-weight: 900;
+    font-weight: 700;
 }
 .hashtag-browser-tags {
     display: flex;
     flex-wrap: wrap;
     gap: 0.4em;
-    margin-top: 0.5em;
+    margin-top: 0.6em;
 }
 .hashtag-browser-empty {
     margin: 0;
 }
-/* Styling for table of contents */
 .buttonDiv {
     display: flex;
-    flex-direction: row;
     justify-content: center;
+    margin-bottom: 1.5em;
 }
-.hideTableOfContents {
-    align-items: center;
-    background-color: rgb(226, 132, 189);
-    border: solid black 1px;
+
+.table-of-contents {
+    background-color: var(--colour-surface);
+    border: var(--border-width) solid var(--colour-border);
+    box-shadow: var(--shadow-hard);
+    padding: 0.75em 1em;
+    margin-bottom: 1.5em;
+}
+.table-of-contents th {
+    color: var(--colour-muted);
+    text-align: left;
+}
+.table-of-contents td {
+    padding: 0.1em 0.5em 0.1em 0;
+    vertical-align: top;
 }
 
 @media (max-width: 600px) {
@@ -114,132 +174,131 @@ em.p-title {
     .quoteSearchSubmit,
     .quoteSearchClear {
         flex: 1;
-        text-align: center;
     }
     .column1 {
         display: none;
     }
 }
-@media (min-width: 600px) {
-    .column1 {
-        display: inline;
-    }
-}
 
-.dataframe {
-    border: solid red 0.1em;
-    width: 100%;
-    border-style: dotted;
-    border-color: red;
-}
-.tableOfContents {
-    padding: 0.01em;
-    margin: 0.1em;
-    text-align: left;
-}
-.table-of-contents {
-    background-color: rgb(255, 101, 160);
-    border: solid rgb(226, 90, 135) 0.2em;
-    padding: 0.5em;
-    margin: 0.5em;
-}
-
-/* Styling for each quote */
-
-.quote-title {
-    background-color: rgb(228, 77, 127);
-    border: solid rgb(179, 28, 78) 0.2em;
-    padding: 0.1em;
-    margin: 0.5em;
-    font-size: 1.4em;
-    text-align: center;
-}
-
-.quote .quote-text {
-    background-color: rgb(226, 132, 189);
-    border: solid rgb(226, 90, 135) 0.2em;
-    padding: 0.5em;
-    margin: 0.5em;
-}
+/* Each quote: one brutalist card, with the quote text as the focal point */
 
 .quote {
-    background-color: rgb(221, 110, 147);
-    border: solid rgb(202, 56, 105) 0.2em;
-    padding: 0.1em;
-    margin: 0.5em;
+    background-color: var(--colour-surface);
+    border: var(--border-width) solid var(--colour-border);
+    box-shadow: var(--shadow-hard);
+    padding: 0.9em 1.2em;
+    margin-bottom: 1.5em;
 }
 
-.source {
-    background-color: bisque;
-    border: solid rgb(225, 178, 120) 0.2em;
-    font-style: italic;
-    padding: 0.1em;
-    margin: 0.5em;
+/* Clicking the header row (title + chevron) collapses the card to its title. */
+.quote-header {
+    display: flex;
+    align-items: center;
+    gap: 0.75em;
+    margin-bottom: 0.6em;
+    cursor: pointer;
 }
-.source-source {
-    background-color: bisque;
-    font-style: normal;
-    font-weight: 900;
-    padding: 0.1em;
-    margin: 0.1em;
+.quote-title {
+    color: var(--colour-muted);
+    font-size: 0.75em;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin: 0;
+    flex: 1;
 }
-.author {
-    background-color: rgb(225, 247, 126);
-    border: solid rgb(199, 156, 104) 0.2em;
-    font-style: italic;
-    padding: 0.1em;
-    margin: 0.5em;
+.quote-toggle {
+    flex: none;
+    margin-left: auto;
+    width: 1.8em;
+    height: 1.8em;
+    padding: 0;
+    background-color: var(--colour-surface);
+    color: var(--colour-ink);
+    border: 2px solid var(--colour-border);
+    box-shadow: var(--shadow-hard-small);
+    cursor: pointer;
+    font-weight: 700;
+    line-height: 1;
+}
+.quote-toggle::before {
+    content: "▾";
+}
+.quote-toggle:hover,
+.quote-toggle:focus-visible {
+    background-color: var(--colour-secondary);
+    color: var(--colour-on-secondary);
+}
+.quote.is-collapsed {
+    padding-block: 0.5em;
+}
+.quote.is-collapsed .quote-header {
+    margin-bottom: 0;
+}
+.quote.is-collapsed .quote-title {
+    color: var(--colour-ink);
+}
+.quote.is-collapsed .quote-toggle::before {
+    content: "▸";
+}
+.quote.is-collapsed > :not(.quote-header) {
+    display: none;
 }
 
-.tag-author {
-    background-color: rgb(225, 247, 126);
-    font-style: normal;
-    font-weight: 900;
-    padding: 0.1em;
-    margin: 0.1em;
+.quote-text {
+    font-size: 1.1em;
+    line-height: 1.1;
+    text-align: justify;
+    hyphens: auto;
+    margin: 0 0 0.75em;
+    padding-left: 0.8em;
+    border-left: var(--border-width) solid var(--colour-primary);
 }
+.quote-text p {
+    margin: 0.3em 0;
+}
+
+.note {
+    font-style: italic;
+    border-left: var(--border-width) solid var(--colour-accent);
+    padding-left: 0.8em;
+    margin: 0.5em 0;
+}
+
+.source,
+.author,
 .link {
-    background-color: rgb(126, 247, 176);
-    border: solid rgb(199, 156, 104) 0.2em;
-    font-style: italic;
-    padding: 0.1em;
-    margin: 0.5em;
+    color: var(--colour-muted);
+    font-size: 0.85em;
+    margin: 0.15em 0;
+    overflow-wrap: anywhere;
 }
+.source-source,
+.tag-author,
 .tag-link {
-    background-color: rgb(126, 247, 176);
-    font-style: normal;
-    font-weight: 900;
-    padding: 0.1em;
-    margin: 0.1em;
+    color: var(--colour-ink);
+    font-weight: 700;
 }
-.tag-link-href {
-    background-color: rgb(126, 247, 176);
-    font-weight: 900;
-    padding: 0.1em;
-    margin: 0.1em;
-}
+
 .quote-tags {
     display: flex;
     flex-wrap: wrap;
     gap: 0.4em;
-    margin: 0.5em;
+    margin-top: 0.75em;
 }
 .quote-tag {
-    background-color: rgb(126, 210, 247);
-    border: solid rgb(72, 137, 166) 0.2em;
-    color: inherit;
-    cursor: pointer;
-    font-weight: 900;
-    padding: 0.1em 0.4em;
+    background-color: var(--colour-secondary);
+    color: var(--colour-on-secondary);
+    border: 2px solid var(--colour-border);
+    font-size: 0.85em;
+    font-weight: 700;
+    padding: 0.05em 0.4em;
+    /* Kindle imports turn whole book titles into tags; wrap them in the card. */
+    min-width: 0;
+    overflow-wrap: anywhere;
+}
+.quote-tag:hover,
+.quote-tag:focus-visible {
+    background-color: var(--colour-primary);
+    color: var(--colour-on-primary);
     text-decoration: none;
-}
-.quote-tag:focus,
-.quote-tag:hover {
-    text-decoration: underline;
-}
-.note {
-    background-color: rgb(199, 103, 135);
-    font-style: italic;
-    padding: 0.1em;
-    margin: 0.5em;
 }
