@@ -1,0 +1,116 @@
+name: Ingest Kindle highlights
+
+# Upload Kindle JSON exports to data/kindle/ on GitHub ("Add file → Upload
+# files" → "Create a new branch and start a pull request"). Put hashtags in the
+# commit message / PR title, e.g. "Add Foundation #sciencefiction #asimov".
+# This workflow imports the uploads, re-renders index.html, runs the tests and
+# commits the result back to the PR branch.
+
+on:
+  pull_request:
+    types: [opened, reopened, synchronize, edited]
+    paths:
+      - "data/kindle/**.json"
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: ingest-kindle-${{ github.event.pull_request.number }}
+  cancel-in-progress: false
+
+jobs:
+  ingest:
+    name: Import and render
+    # Same-repo branches only (fork tokens can't push). For "edited", only
+    # re-run when the title (i.e. the tags) changed.
+    if: >-
+      github.event.pull_request.head.repo.full_name == github.repository &&
+      (github.event.action != 'edited' || github.event.changes.title)
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out PR branch
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.head.ref }}
+          fetch-depth: 0
+
+      - name: Find exports to import
+        id: exports
+        env:
+          ACTION: ${{ github.event.action }}
+          BEFORE: ${{ github.event.before }}
+          AFTER: ${{ github.event.after }}
+          BASE: ${{ github.event.pull_request.base.sha }}
+          HEAD: ${{ github.event.pull_request.head.sha }}
+        run: |
+          # On a later push, only re-import JSON touched by that push, so manual
+          # edits to the generated markdown aren't overwritten. Otherwise (new PR,
+          # title change, force-push) import every JSON the PR adds or changes.
+          if [ "$ACTION" = synchronize ] && git cat-file -e "${BEFORE}^{commit}" 2>/dev/null; then
+            range="$BEFORE..$AFTER"
+          else
+            range="$BASE...$HEAD"
+          fi
+          git diff --name-only --diff-filter=AM -z "$range" -- 'data/kindle/*.json' > "$RUNNER_TEMP/exports"
+          echo "Range: $range"
+          tr '\0' '\n' < "$RUNNER_TEMP/exports"
+          if [ -s "$RUNNER_TEMP/exports" ]; then
+            echo "found=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "No Kindle exports changed in $range; nothing to do."
+          fi
+
+      - name: Set up uv
+        if: steps.exports.outputs.found
+        uses: astral-sh/setup-uv@v5
+
+      - name: Install
+        if: steps.exports.outputs.found
+        run: |
+          uv python install
+          uv sync
+
+      - name: Import highlights and render
+        if: steps.exports.outputs.found
+        env:
+          PR_TITLE: ${{ github.event.pull_request.title }}
+        run: |
+          mapfile -d '' exports < "$RUNNER_TEMP/exports"
+          uv run adamsquotes-ingest "${exports[@]}" \
+            --tags-from-text "$PR_TITLE" \
+            --summary "$RUNNER_TEMP/summary.md"
+          cat "$RUNNER_TEMP/summary.md" >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Run tests
+        if: steps.exports.outputs.found
+        run: uv run pytest
+
+      - name: Commit results to PR branch
+        if: steps.exports.outputs.found
+        env:
+          HEAD_REF: ${{ github.event.pull_request.head.ref }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+        run: |
+          git add markdown_quotes index.html
+          if git diff --cached --quiet; then
+            echo "Import produced no changes." | tee -a "$RUNNER_TEMP/summary.md"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Import Kindle highlights for #${PR_NUMBER} [automated]"
+          git push origin "HEAD:${HEAD_REF}"
+          echo "" >> "$RUNNER_TEMP/summary.md"
+          echo "Committed \`$(git rev-parse --short HEAD)\`. Review tags in the markdown diff before merging." >> "$RUNNER_TEMP/summary.md"
+
+      - name: Comment on PR
+        if: steps.exports.outputs.found
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+        run: |
+          gh pr comment "$PR_NUMBER" --body-file "$RUNNER_TEMP/summary.md" --edit-last --create-if-none \
+            || gh pr comment "$PR_NUMBER" --body-file "$RUNNER_TEMP/summary.md"
