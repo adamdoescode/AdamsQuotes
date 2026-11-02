@@ -12,7 +12,7 @@ from pathlib import Path
 from typing import List
 from urllib.parse import quote as url_quote
 
-from adamsquotes.models import Quote
+from adamsquotes.models import Quote, assign_stable_ids
 
 
 def parse_quotes(text: str) -> List[Quote]:
@@ -31,7 +31,7 @@ def parse_quotes(text: str) -> List[Quote]:
         text: The raw tagged markdown text.
 
     Returns:
-        A list of ``Quote`` objects with titles generated.
+        A list of ``Quote`` objects with titles and stable anchor IDs.
     """
     quotes: List[Quote] = []
     for raw_quote in text.split("*quote:*")[1:]:
@@ -52,6 +52,7 @@ def parse_quotes(text: str) -> List[Quote]:
             q.note = after_note.strip()
         q.generate_title()
         quotes.append(q)
+    assign_stable_ids(quotes)
     return quotes
 
 

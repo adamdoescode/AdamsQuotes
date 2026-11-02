@@ -79,10 +79,10 @@ class TestQuote:
         q.generate_title()
         assert q.title == "one two three four five six seven eight..."
 
-    def test_quote_has_random_id(self):
-        q1 = Quote()
-        q2 = Quote()
-        assert q1.id_for_quote != q2.id_for_quote
+    def test_parsed_quotes_have_unique_ids(self):
+        pq = ProcessQuotes(SAMPLE_MD).parse_quotes()
+        ids = [q.id_for_quote for q in pq.quotes]
+        assert all(ids) and len(set(ids)) == len(ids)
 
 
 # ── ProcessQuotes parsing tests ──────────────────────────────────────────────

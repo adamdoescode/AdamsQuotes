@@ -4,7 +4,7 @@ Tests for the Quote dataclass in adamsquotes.models.
 
 from __future__ import annotations
 
-from adamsquotes.models import Quote
+from adamsquotes.models import Quote, assign_stable_ids
 
 
 class TestQuoteDataclass:
@@ -37,10 +37,19 @@ class TestQuoteDataclass:
         q.generate_title()
         assert q.title == "one two three four five six seven eight..."
 
-    def test_quote_has_random_id(self):
-        q1 = Quote()
-        q2 = Quote()
-        assert q1.id_for_quote != q2.id_for_quote
+    def test_content_id_is_deterministic(self):
+        q1 = Quote(quote="Same", source="Book", author="Writer")
+        q2 = Quote(quote="Same", source="Book", author="Writer")
+        assert q1.content_id() == q2.content_id()
+
+    def test_content_id_depends_on_source_and_author(self):
+        base = Quote(quote="Same", source="Book", author="Writer")
+        assert base.content_id() != Quote(quote="Same", source="Other", author="Writer").content_id()
+        assert base.content_id() != Quote(quote="Same", source="Book", author="Other").content_id()
+
+    def test_content_id_is_valid_html_anchor(self):
+        anchor = Quote(quote="x").content_id()
+        assert anchor.startswith("q") and anchor[1:].isalnum()
 
     def test_default_fields_are_empty_strings(self):
         q = Quote()
@@ -52,6 +61,18 @@ class TestQuoteDataclass:
         assert q.tags == []
         assert q.title == ""
 
-    def test_id_is_five_digit_integer(self):
-        q = Quote()
-        assert 10000 <= q.id_for_quote <= 99999
+
+class TestAssignStableIds:
+    def test_duplicate_quotes_get_unique_suffixed_ids(self):
+        quotes = [Quote(quote="dup"), Quote(quote="other"), Quote(quote="dup")]
+        assign_stable_ids(quotes)
+        ids = [q.id_for_quote for q in quotes]
+        assert len(set(ids)) == 3
+        assert ids[2] == f"{ids[0]}-2"
+
+    def test_ids_do_not_depend_on_neighbours(self):
+        first = [Quote(quote="a"), Quote(quote="b")]
+        second = [Quote(quote="b")]
+        assign_stable_ids(first)
+        assign_stable_ids(second)
+        assert first[1].id_for_quote == second[0].id_for_quote
