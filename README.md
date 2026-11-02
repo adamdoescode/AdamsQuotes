@@ -31,6 +31,7 @@ All dependencies are defined in `pyproject.toml` and are installed automatically
 | 1. Tag | `uv run adamsquotes-tag` | Raw quotes → semi-processed tagged markdown |
 | 1 (alt). Convert | `uv run adamsquotes-convert` | New-format raw quotes → tagged markdown |
 | 1 (alt). Kindle import | `uv run adamsquotes-kindle <export.json>` | Kindle JSON → tagged per-book and aggregate markdown |
+| 1+2. Kindle ingest | `uv run adamsquotes-ingest <export.json>...` | Kindle import for several exports, then render (used by CI) |
 | 1.5. LLM Clean | `uv run adamsquotes-clean` | LLM cleanup of tagged markdown |
 | 2. Render | `uv run adamsquotes-render` | Tagged markdown → styled HTML page |
 
@@ -42,6 +43,25 @@ uv run python -m adamsquotes.cli.converter
 uv run python -m adamsquotes.cli.llm_cleaner
 uv run python -m adamsquotes.cli.renderer
 uv run python -m adamsquotes.cli.kindle data/kindle/Kindle.Highlights_Accelerando_1783512733914.json
+```
+
+## Adding Kindle highlights from GitHub (no local setup)
+
+1. Export the book's highlights from Kindle as JSON.
+2. On GitHub, open `data/kindle/`, then **Add file → Upload files** and drop in one or more exports.
+3. Write the commit message with hashtags for the books, e.g. `Add Foundation #sciencefiction #asimov`. Choose **Create a new branch for this commit and start a pull request**, then **Propose changes** and **Create pull request**.
+4. The **Ingest Kindle highlights** workflow (`.github/workflows/ingest-kindle.yml`) runs `uv run adamsquotes-ingest` on the uploaded files, re-renders `index.html`, runs the tests, commits the result to the PR branch, and posts a summary comment.
+5. Review the markdown diff, edit tags by hand on the branch if you like, then merge.
+
+Notes:
+- The hashtags in the PR title are applied to every highlight, along with the `#Title` and `#Author` tags that are always generated. Changing the PR title re-runs the import with the new tags.
+- Later pushes only re-import JSON changed by that push, so hand edits to the generated markdown are kept. Re-uploading a newer export of the same book replaces its records in place.
+- The ingest job runs `pytest` after rendering. GitHub holds workflow runs triggered by the bot's commit as "awaiting approval". Approving them is optional: **Validate** then runs on the final commit, and the ingest job sees no new JSON and does nothing.
+
+The same pipeline locally:
+
+```sh
+uv run adamsquotes-ingest data/kindle/Kindle.Highlights_*.json --tags '#sciencefiction' '#asimov'
 ```
 
 ## Importing Kindle highlights

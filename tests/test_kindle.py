@@ -183,6 +183,36 @@ def test_validation_failure_does_not_change_outputs(tmp_path: Path) -> None:
     assert aggregate.read_text(encoding="utf-8") == "aggregate"
 
 
+def test_replacement_keeps_book_position() -> None:
+    def block(text: str, source: str) -> str:
+        return (
+            f"*quote:*\t{text}\n*source:*\t{source}\n*author:*\tA\n"
+            "*link:*\t\n*note:*\t\n*tags:*\t#x\n\n"
+        )
+
+    existing = block("first", "Before") + block("old", "Book") + block("last", "After")
+    new = serialize_highlights(parse_kindle_data(
+        {
+            "title": "Book",
+            "authors": "A",
+            "highlights": [
+                {"text": t, "isNoteOnly": False, "location": {"url": "k://"}, "note": None}
+                for t in ("new one", "new two")
+            ],
+        }
+    ).highlights)
+    result, replaced = replace_book_records(existing, new, "Book", "A")
+    assert replaced == 1
+    order = [line for line in result.splitlines() if line.startswith("*quote:*")]
+    assert order == [
+        "*quote:*\tfirst",
+        "*quote:*\tnew one",
+        "*quote:*\tnew two",
+        "*quote:*\tlast",
+    ]
+    assert "\n\n\n" not in result
+
+
 def test_replacement_requires_exact_source_and_author() -> None:
     existing = (
         "*quote:*\tKeep\n*source:*\tAccelerando\n*author:*\tAnother author\n"

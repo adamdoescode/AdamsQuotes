@@ -170,6 +170,11 @@ class TestRenderTagIndex:
 
 
 class TestGenerateHtml:
+    def test_rendering_is_deterministic(self):
+        first = generate_html(parse_quotes(SAMPLE_MD), SAMPLE_HEADER)
+        second = generate_html(parse_quotes(SAMPLE_MD), SAMPLE_HEADER)
+        assert first == second
+
     def test_injects_table_of_contents(self):
         quotes = parse_quotes(SAMPLE_MD)
         html = generate_html(quotes, SAMPLE_HEADER)

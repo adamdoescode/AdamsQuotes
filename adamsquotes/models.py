@@ -8,7 +8,7 @@ clean ``dataclass``.
 from __future__ import annotations
 
 from dataclasses import dataclass, field
-from random import randint
+import hashlib
 
 
 @dataclass
@@ -22,7 +22,7 @@ class Quote:
         link: A URL for further reference (optional).
         author: The person who said or wrote the quote (optional).
         tags: Semantic hashtags for searching and browsing.
-        id_for_quote: A random 5-digit numeric ID used as the HTML anchor.
+        id_for_quote: HTML anchor; ``assign_stable_ids`` derives it from content.
         title: A shortened version of the quote, used in the table of contents.
     """
 
@@ -32,7 +32,7 @@ class Quote:
     link: str = ""
     author: str = ""
     tags: list[str] = field(default_factory=list)
-    id_for_quote: int = field(default_factory=lambda: randint(10000, 99999))
+    id_for_quote: str = ""
     title: str = ""
 
     def generate_title(self) -> None:
@@ -50,3 +50,22 @@ class Quote:
             self.title = self.quote
         else:
             self.title = " ".join(words[:8]) + "..."
+
+    def content_id(self) -> str:
+        """Return an anchor ID derived from the quote text, source and author."""
+        key = "\x1f".join((self.quote, self.source, self.author))
+        return "q" + hashlib.sha1(key.encode("utf-8")).hexdigest()[:10]
+
+
+def assign_stable_ids(quotes: list[Quote]) -> None:
+    """Give each quote a deterministic, page-unique anchor ID.
+
+    IDs depend only on quote content, so re-rendering unchanged input produces
+    identical HTML. Exact duplicate quotes get ``-2``, ``-3``... suffixes in
+    document order.
+    """
+    seen: dict[str, int] = {}
+    for quote in quotes:
+        base = quote.content_id()
+        seen[base] = seen.get(base, 0) + 1
+        quote.id_for_quote = base if seen[base] == 1 else f"{base}-{seen[base]}"
