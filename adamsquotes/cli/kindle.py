@@ -8,6 +8,7 @@ from pathlib import Path
 from adamsquotes.pipeline.kindle import (
     KINDLE_TAGS,
     KindleImportError,
+    book_markdown_path,
     parse_kindle_json,
     process_kindle_file,
 )
@@ -52,11 +53,9 @@ def main() -> None:
     else:
         try:
             book = parse_kindle_json(input_path.read_text(encoding="utf-8"))
+            output_path = book_markdown_path(book.title)
         except (OSError, KindleImportError) as exc:
             parser.error(str(exc))
-        if Path(book.title).name != book.title:
-            parser.error("Book title cannot contain path separators")
-        output_path = Path("markdown_quotes") / f"{book.title}.md"
     if output_path.suffix.lower() != ".md":
         parser.error("Output file must have a .md suffix")
 

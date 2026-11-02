@@ -15,6 +15,7 @@ adamsquotes-convert = "adamsquotes.cli.converter:main"
 adamsquotes-clean = "adamsquotes.cli.llm_cleaner:main"
 adamsquotes-render = "adamsquotes.cli.renderer:main"
 adamsquotes-kindle = "adamsquotes.cli.kindle:main"
+adamsquotes-ingest = "adamsquotes.cli.ingest:main"
 
 [build-system]
 requires = ["setuptools>=64"]

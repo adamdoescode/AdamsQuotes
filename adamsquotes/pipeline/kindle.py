@@ -150,14 +150,16 @@ def _field(block: str, name: str, next_name: str) -> str | None:
 def replace_book_records(
     existing: str, markdown: str, title: str, authors: str
 ) -> tuple[str, int]:
-    """Replace matching source/author blocks while preserving unrelated text."""
+    """Replace matching source/author blocks while preserving unrelated text.
+
+    The new records take the position of the book's first existing record, so
+    re-importing an updated export does not reorder the aggregate file. New
+    books are appended.
+    """
     starts = list(_BLOCK_START.finditer(existing))
-    if not starts:
-        prefix = existing
-        retained: list[str] = []
-    else:
-        prefix = existing[: starts[0].start()]
-        retained = []
+    prefix = existing[: starts[0].start()] if starts else existing
+    retained: list[str] = []
+    insert_at: int | None = None
 
     replaced = 0
     for index, start in enumerate(starts):
@@ -167,8 +169,16 @@ def replace_book_records(
             block, "author", "link"
         ) == authors:
             replaced += 1
+            if insert_at is None:
+                insert_at = len(retained)
         else:
             retained.append(block)
+
+    if insert_at is not None and insert_at < len(retained):
+        new_block = markdown.rstrip("\n") + "\n\n" if markdown else ""
+        before = "".join(retained[:insert_at])
+        after = "".join(retained[insert_at:])
+        return prefix + before + new_block + after, replaced
 
     result = prefix + "".join(retained)
     if markdown:
@@ -176,6 +186,13 @@ def replace_book_records(
             result = result.rstrip("\n") + "\n\n"
         result += markdown
     return result, replaced
+
+
+def book_markdown_path(title: str, markdown_dir: str | Path = "markdown_quotes") -> Path:
+    """Return the per-book Markdown path derived from a book title."""
+    if Path(title).name != title:
+        raise KindleImportError("Book title cannot contain path separators")
+    return Path(markdown_dir) / f"{title}.md"
 
 
 def process_kindle_file(
