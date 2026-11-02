@@ -3,7 +3,7 @@
 *author:*	Test Author
 *link:*	kindle://test/1
 *note:*	
-*tags:*	#retagged #WorkflowTestBook #TestAuthor
+*tags:*	#handedit #WorkflowTestBook #TestAuthor
 
 *quote:*	Second synthetic highlight.
 *source:*	Workflow Test Book
