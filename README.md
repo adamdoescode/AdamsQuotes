@@ -56,7 +56,7 @@ uv run python -m adamsquotes.cli.kindle data/kindle/Kindle.Highlights_Accelerand
 Notes:
 - The hashtags in the PR title are applied to every highlight, along with the `#Title` and `#Author` tags that are always generated. Changing the PR title re-runs the import with the new tags.
 - Later pushes only re-import JSON changed by that push, so hand edits to the generated markdown are kept. Re-uploading a newer export of the same book replaces its records in place.
-- The bot's commit uses the workflow token, which does not trigger other workflows. The **Validate** checks you see are for your upload commit; the ingest job runs `pytest` itself after rendering.
+- The ingest job runs `pytest` after rendering. GitHub holds workflow runs triggered by the bot's commit as "awaiting approval". Approving them is optional: **Validate** then runs on the final commit, and the ingest job sees no new JSON and does nothing.
 
 The same pipeline locally:
 
